@@ -3,15 +3,20 @@
 
 <head>
     <title>JavaScript RSA Encryption</title>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-    <script src="bin/jsencrypt.min.js"></script>
-    <link rel="stylesheet" href="font-awesome-4.7.0/css/font-awesome.min.css">
     <!--  -->
-    <style type="text/css">
-    body {
-        font: sans-serif;
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/semantic-ui/2.2.6/semantic.min.css">
+    <script src="https://cdn.jsdelivr.net/semantic-ui/2.2.6/semantic.min.js"></script>
+    <!--  -->
+        <style type="text/css">
+    textarea {
+        font-family: monospace;
+        font-size: 75%;
     }
     </style>
+    <!--   -->
+    <script src="bin/jsencrypt.min.js"></script>
     <!--  -->
     <script type="text/javascript">
     // Call this code when the page is done loading.
@@ -86,8 +91,32 @@
 </head>
 
 <body>
-    <h2>RSA Encryption and Decryption with JavaScript </h2>
-    <p>Using <a href="http://www.travistidwell.com/jsencrypt">JSEncrypt</a>(<a href="https://github.com/travist/jsencrypt">https://github.com/travist/jsencrypt</a>)
+
+    <div class="ui container">
+
+        <!-- breadcrumb -->
+        <div class="ui breadcrumb">
+          <a class="section" href="/">Home</a>
+          <div class="divider"> / </div>
+          <a class="section" href="/crypto/">Crypto</a>
+          <div class="divider"> / </div>
+          <a class="section" href="/crypto/rsa/">RSA with JavaScript</a>
+          <div class="divider"> / </div>
+          <div class="active section">JSEncrypt</div>
+        </div>
+        <!--  -->
+        <h1>RSA</h1>
+        <hr>
+        <!-- <div class="ui segment"> -->
+        <div>
+          <p>Code: <i class="fa fa-github" aria-hidden="true"></i>
+          <a href="https://github.com/ageyev/ageyev.github.io/tree/master/crypto/rsa/index.html">https://github.com/ageyev/ageyev.github.io/tree/master/crypto/rsa/index.html</a>
+          </p>
+        </div>
+
+    <h4>RSA Encryption and Decryption with JavaScript </h4>
+    <p>Using <a href="http://www.travistidwell.com/jsencrypt">JSEncrypt</a>
+        (<i class="fa fa-github" aria-hidden="true"></i>&nbsp;<a href="https://github.com/travist/jsencrypt">https://github.com/travist/jsencrypt</a>)
     </p>
     <button id="generateKeyPair">
         <i class="fa fa-key"></i> Generate New Keys
@@ -95,11 +124,32 @@
     <br>
     <label for="privkey"><b>Private Key:</b></label>
     <br/>
-    <textarea id="privkey" rows="15" cols="65">-----BEGIN RSA PRIVATE KEY----- MIICXgIBAAKBgQDnYA7Cl1jIuLa7QcJFTqBEWIgIvJtm8iek+RvAV4lSQPUiS7k6 ebq9wRpZCiEwQihbmLg23HBXnbyct8q+4NmkSZg0avc23TKQrNmnlIGXg24ULN0s XdHokFMibaR3N8vP6q+K0yHvd4yTilG+DYrkAqz/bVRTjwDxAT6mQol/LQIDAQAB AoGBAJ2U65iWcY6LV1Dj8Yc4jKjfzw58Pi74AA445zCxrcIKoanQ/v+XhprUGLjJ 0F7IwCnaMqSSsCTMNnhaKMil5TPWmoIjM1/3n/jQnDoOKsk7pJynqelJn5t/jpIu 1A0RREy479t5bFewPEHlj0F9MqY0kyQw53W1/CM62Jx6FXFVAkEA+WM7FaAOTO/l eEZUVdh4DaV39mnWuhVLW5zLjDeHpBzkV/eMxOQFr9UwCP3ohl3n7UlsBirYE0zh Nijljss2dwJBAO2CkGZlBpTKr+2SJUXwlXPEAjoSclBGlCMk8Uf/Ck7MhU29yd4W oXh0DGn+tXhgqI64NXZixRPTEmLDt6LdTHsCQQD15e4gSI1RN0nf6hjF/IeDjSBY C8v5930ye8wIGcjY/NP6GNDoYp1o3qBafWGE+5rv0XF+M0iS3z9BE9oljiHJAkBy I8fPXYePI+TuD8jX1qmMC8tiKxFCoNh6FzvY9Kj4e3MojCeiElAg+ewpWB3Pruvy QnZ24TqCr3HrgtESdLVXAkEAxCpOGVwJ3dCYn8yj7mazcIRic2EAqx/8UkwldA8e glAXx/kGX/uK+vxHlXHER+tLh281rIeEf/LkqJpuIWjfVA== -----END RSA PRIVATE KEY-----</textarea>
+    <textarea id="privkey" rows="15" cols="71">-----BEGIN RSA PRIVATE KEY-----
+MIICXgIBAAKBgQDnYA7Cl1jIuLa7QcJFTqBEWIgIvJtm8iek+RvAV4lSQPUiS7k6
+ebq9wRpZCiEwQihbmLg23HBXnbyct8q+4NmkSZg0avc23TKQrNmnlIGXg24ULN0s
+XdHokFMibaR3N8vP6q+K0yHvd4yTilG+DYrkAqz/bVRTjwDxAT6mQol/LQIDAQAB
+AoGBAJ2U65iWcY6LV1Dj8Yc4jKjfzw58Pi74AA445zCxrcIKoanQ/v+XhprUGLjJ
+0F7IwCnaMqSSsCTMNnhaKMil5TPWmoIjM1/3n/jQnDoOKsk7pJynqelJn5t/jpIu
+1A0RREy479t5bFewPEHlj0F9MqY0kyQw53W1/CM62Jx6FXFVAkEA+WM7FaAOTO/l
+eEZUVdh4DaV39mnWuhVLW5zLjDeHpBzkV/eMxOQFr9UwCP3ohl3n7UlsBirYE0zh
+Nijljss2dwJBAO2CkGZlBpTKr+2SJUXwlXPEAjoSclBGlCMk8Uf/Ck7MhU29yd4W
+oXh0DGn+tXhgqI64NXZixRPTEmLDt6LdTHsCQQD15e4gSI1RN0nf6hjF/IeDjSBY
+C8v5930ye8wIGcjY/NP6GNDoYp1o3qBafWGE+5rv0XF+M0iS3z9BE9oljiHJAkBy
+I8fPXYePI+TuD8jX1qmMC8tiKxFCoNh6FzvY9Kj4e3MojCeiElAg+ewpWB3Pruvy
+QnZ24TqCr3HrgtESdLVXAkEAxCpOGVwJ3dCYn8yj7mazcIRic2EAqx/8UkwldA8e
+glAXx/kGX/uK+vxHlXHER+tLh281rIeEf/LkqJpuIWjfVA==
+-----END RSA PRIVATE KEY-----
+</textarea>
     <br/>
     <label for="pubkey"><b>Public Key:</b></label>
     <br/>
-    <textarea id="pubkey" rows="5" cols="65">-----BEGIN PUBLIC KEY----- MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDnYA7Cl1jIuLa7QcJFTqBEWIgI vJtm8iek+RvAV4lSQPUiS7k6ebq9wRpZCiEwQihbmLg23HBXnbyct8q+4NmkSZg0 avc23TKQrNmnlIGXg24ULN0sXdHokFMibaR3N8vP6q+K0yHvd4yTilG+DYrkAqz/ bVRTjwDxAT6mQol/LQIDAQAB -----END PUBLIC KEY-----</textarea>
+    <textarea id="pubkey" rows="5" cols="71">-----BEGIN PUBLIC KEY-----
+MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDnYA7Cl1jIuLa7QcJFTqBEWIgI
+vJtm8iek+RvAV4lSQPUiS7k6ebq9wRpZCiEwQihbmLg23HBXnbyct8q+4NmkSZg0
+avc23TKQrNmnlIGXg24ULN0sXdHokFMibaR3N8vP6q+K0yHvd4yTilG+DYrkAqz/
+bVRTjwDxAT6mQol/LQIDAQAB
+-----END PUBLIC KEY-----
+</textarea>
     <br>
     <!--  -->
     <div>
@@ -110,21 +160,22 @@
             Test
         </button><b>:</b>
         <br>
-        <textarea id="input" name="input" type="text" rows=4 cols=65>This is a test!</textarea>
+        <textarea id="input" name="input" type="text" rows=4 cols=71>This is a test!</textarea>
     </div>
     <!--  -->
     <button id="encrypt" type="button">
         <i class="fa fa-lock"></i>&nbsp;Encrypt
     </button>
     <br>
-    <textarea id="encryptedTextVal" rows="5" cols="65"></textarea>
+    <textarea id="encryptedTextVal" rows="5" cols="71"></textarea>
     <br>
     <button id="decrypt">
         <i class="fa fa-unlock"></i>&nbsp;Decrypt
     </button>
     <br>
-    <textarea id="decryptedTextVal" rows="5" cols="65"></textarea>
+    <textarea id="decryptedTextVal" rows="5" cols="71"></textarea>
     <hr>
+    </div>
 </body>
 
 </html>

@@ -3,7 +3,18 @@
 
 <head>
     <title>OpenPGP</title>
+    <!--   -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/semantic-ui/2.2.6/semantic.min.css">
+    <script src="https://cdn.jsdelivr.net/semantic-ui/2.2.6/semantic.min.js"></script>
+    <style type="text/css">
+    textarea {
+        font-family: monospace;
+        font-size: 75%;
+    }
+    </style>
+    <!--   -->
     <script src="bower_components/openpgp/dist/openpgp.js"></script>
     <!--   -->
     <script type="text/javascript">
@@ -119,11 +130,32 @@
 </head>
 
 <body>
-    <button id="generateKeys">Generate keys</button>
-    <br>
-    <h3>Public Key:</h3>
-    <textarea id="pubkeyShow" rows="15" cols="65">
------BEGIN PGP PUBLIC KEY BLOCK-----
+    <div class="ui container">
+        <!-- breadcrumb -->
+        <div class="ui breadcrumb">
+            <a class="section" href="/">Home</a>
+            <div class="divider"> / </div>
+            <a class="section" href="/crypto/">Crypto</a>
+            <div class="divider"> / </div>
+            <a class="section" href="/crypto/openpgp/">OpenPGP with JavaScript</a>
+            <div class="divider"> / </div>
+            <div class="active section">OpenPGP.js</div>
+        </div>
+        <!--  -->
+        <h1>OpenPGP</h1>
+        <hr>
+        <!-- <div class="ui segment"> -->
+        <div>
+            <p>Code: <i class="fa fa-github" aria-hidden="true"></i>
+                <a href="https://github.com/ageyev/ageyev.github.io/blob/master/crypto/openpgp/index.html">https://github.com/ageyev/ageyev.github.io/blob/master/crypto/openpgp/index.html</a>
+            </p>
+        </div>
+        <br>
+        <button id="generateKeys">
+            <i class="fa fa-key"></i> Generate New Keys
+        </button>
+        <h3>Public Key:</h3>
+<textarea id="pubkeyShow" rows="15" cols="71">-----BEGIN PGP PUBLIC KEY BLOCK-----
 Version: GnuPG v2.0.22 (GNU/Linux)
 
 mQINBFZpf0wBEADo7NZ4Oymw2pVJMfrNEhGwYOT4CGMOTZHQo3rYFrN3yxCsd/xX
@@ -152,21 +184,21 @@ WdjVmnsDGS4l5BWH/a8BYPbSnm7YrlYkYCXjTjK1/EeWA/tggApISFptc8YQw0Wp
 Qw0IwhJVPWDVW8nDrv/1IPhTJgYfIfdmxr32RLhNePEZGZ02zfCP9BrlNKut9/Hn
 x1yKWjVaWZO8VtU=
 =XyhJ
------END PGP PUBLIC KEY BLOCK-----
-    </textarea>
-    <h3>Private Key:</h3>
-    <textarea id="privkeyShow" rows="15" cols="65"></textarea>
-    <hr>
-    <textarea id="messageText" rows="3" cols="65">
-    </textarea>
+-----END PGP PUBLIC KEY BLOCK-----</textarea>
+        <h3>Private Key:</h3>
+        <textarea id="privkeyShow" rows="15" cols="71"></textarea>
+        <h3><i class="fa fa-file-text-o"></i>&nbsp;Text to encrypt:</h3>
+        <textarea id="messageText" rows="3" cols="71">Test message</textarea>
+        <br>
+        <button id="encrypt"><i class="fa fa-lock"></i>&nbsp;Encrypt</button>
+        <br>
+        <textarea id="encryptedText" rows="10" cols="71"></textarea>
+        <br>
+        <button id="decryptButton"><i class="fa fa-unlock"></i>&nbsp;Decrypt (Private Key required)</button>
+        <br>
+        <textarea id="decryptedText" rows="10" cols="71"></textarea>
+    </div>
     <br>
-    <button id="encrypt">Encrypt</button>
-    <br>
-    <textarea id="encryptedText" rows="10" cols="65"></textarea>
-    <br>
-    <button id="decryptButton">Decrypt (Private Key required)</button>
-    <br>
-    <textarea id="decryptedText" rows="10" cols="65"></textarea>
 </body>
 
 </html>

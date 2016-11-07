@@ -82,7 +82,7 @@
             var options = {
                 message: openpgp.message.readArmored(armoredMessage), // parse armored message
                 publicKeys: openpgp.key.readArmored(armoredPubKey).keys, // for verification (optional)
-                privateKey: privateKeyEncrypted
+                privateKey: privateKeyDecrypted // after privateKeyEncrypted.decrypt(passphrase)
             };
 
             openpgp.decrypt(options).then(function(plaintext) {

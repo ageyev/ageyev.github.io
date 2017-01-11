@@ -1,132 +1,24 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 <head>
+    <meta charset="UTF-8">
     <title>OpenPGP</title>
     <!--   -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/semantic-ui/2.2.6/semantic.min.css">
     <script src="https://cdn.jsdelivr.net/semantic-ui/2.2.6/semantic.min.js"></script>
-    <style type="text/css">
-    textarea {
-        font-family: monospace;
-        font-size: 75%;
-    }
-    </style>
-    <!--   -->
-    <script src="bower_components/openpgp/dist/openpgp.js"></script>
-    <!--   -->
-    <script type="text/javascript">
-    // Call this code when the page is done loading.
-
-    var myPublicKey;
-    var myPrivateKey;
-
-    $(function() {
-
-        console.log("page is loaded");
-
-        if (!window.crypto.getRandomValues) {
-            window.alert("This browser isn't supported!");
-        }
-
-        // Encrypt
-        $("#encrypt").click(function(event) {
-
-            console.log("button clicked");
-            var armoredKey = $('#pubkeyShow').val();
-            console.log("armoredKey: " + armoredKey);
-            var publicKey = openpgp.key.readArmored(armoredKey);
-
-            var message = $("#messageText").val();
-            console.log("message: " + message);
-
-            var options, encryptedRaw, encryptedASCIIarmored;
-
-            options = {
-                data: message, // input as Uint8Array (or String)
-                // passwords: ['secret stuff'],// multiple passwords possible
-                publicKeys: publicKey.keys, // <-- !!!!
-                // armor: false // don't ASCII armor (for Uint8Array output)
-            };
-
-            openpgp.encrypt(options).then(function(ciphertext) {
-                console.log(ciphertext)
-                console.log(JSON.stringify(ciphertext))
-                encryptedASCIIarmored = ciphertext.data; // '-----BEGIN PGP MESSAGE ... END PGP MESSAGE-----'
-                console.log("ciphertext.data: " + ciphertext.data)
-                $("#encryptedText").val(ciphertext.data);
-            });
-        });
-
-        // Decrypt
-        $("#decryptButton").click(function(event) {
-
-            var armoredMessage = $("#encryptedText").val();
-            var armoredPubKey = $("#pubkeyShow").val();
-            var armoredPrivKey = $("#privkeyShow").val();
-            console.log("armoredPrivKey: ");
-            console.log(armoredPrivKey);
-
-            // var privateKeyEncrypted = openpgp.key.readArmored(armoredPrivKey).keys[0];
-            var privateKeyEncrypted = openpgp.key.readArmored(armoredPrivKey).keys[0];
-            console.log("privateKeyEncrypted: ");
-            console.log(privateKeyEncrypted);
-
-            var passphrase = "mypassword";
-            var decrypted = privateKeyEncrypted.decrypt(passphrase); // boolean
-            var privateKeyDecrypted = privateKeyEncrypted;
-
-
-            var options = {
-                message: openpgp.message.readArmored(armoredMessage), // parse armored message
-                publicKeys: openpgp.key.readArmored(armoredPubKey).keys, // for verification (optional)
-                privateKey: privateKeyDecrypted // after privateKeyEncrypted.decrypt(passphrase)
-            };
-
-            openpgp.decrypt(options).then(function(plaintext) {
-
-                console.log("plaintext.data: " + plaintext.data);
-
-                $("#decryptedText").val(plaintext.data);
-
-            });
-
-        });
-
-        $("#generateKeys").click(function(event) {
-
-            var options = {
-                userIds: [{
-                    name: 'Jon Smith',
-                    email: 'jon@example.com'
-                }], // multiple user IDs
-                numBits: 1024, // RSA key size
-                passphrase: 'mypassword' // protects the private key
-            };
-
-            openpgp.generateKey(options).then(function(key) {
-
-                var privkey = key.privateKeyArmored; // '-----BEGIN PGP PRIVATE KEY BLOCK ... '
-                console.log("privkey:");
-                console.log(privkey);
-                myPrivateKey = privkey;
-                $("#privkeyShow").val(myPrivateKey);
-
-                var pubkey = key.publicKeyArmored; // '-----BEGIN PGP PUBLIC KEY BLOCK ... '
-
-                myPublicKey = pubkey;
-                $('#pubkeyShow').val(myPublicKey);
-                console.log("myPublicKey:");
-                console.log(myPublicKey);
-            });
-
-        });
-
-    });
-    </script>
-    <!--   -->
+    <!-- OpenPGP.js-->
+    <!--<script src="vendors/openpgpjs-2.3.5/dist/openpgp.min.js"></script>-->
+    <script src="vendors/openpgpjs-2.3.5/dist/openpgp.js"></script>
+    <!-- kbpgp - Keybase's PGP for JavaScript -->
+    <!-- https://github.com/keybase/kbpgp -->
+    <!--<script src="vendors/kbpgp/kbpgp-2.0.8-min.js"></script>-->
+    <script src="vendors/kbpgp/kbpgp-2.0.8.js"></script>
+    <!-- Main JS  -->
+    <script src="app.js"></script>
+    <link rel="stylesheet" href="css.css">
 </head>
 
 <body>
@@ -134,71 +26,105 @@
         <!-- breadcrumb -->
         <div class="ui breadcrumb">
             <a class="section" href="/">Home</a>
-            <div class="divider"> / </div>
+            <div class="divider"> /</div>
             <a class="section" href="/crypto/">Crypto</a>
-            <div class="divider"> / </div>
+            <div class="divider"> /</div>
             <a class="section" href="/crypto/openpgp/">OpenPGP with JavaScript</a>
-            <div class="divider"> / </div>
+            <div class="divider"> /</div>
             <div class="active section">OpenPGP.js</div>
         </div>
         <!--  -->
+        <div class="divider"></div>
         <h1>OpenPGP</h1>
-        <hr>
-        <!-- <div class="ui segment"> -->
+        <div class="divider"></div>
         <div>
             <p>Code: <i class="fa fa-github" aria-hidden="true"></i>
                 <a href="https://github.com/ageyev/ageyev.github.io/blob/master/crypto/openpgp/index.html">https://github.com/ageyev/ageyev.github.io/blob/master/crypto/openpgp/index.html</a>
             </p>
         </div>
+        <div class="divider"></div>
         <br>
-        <button id="generateKeys">
-            <i class="fa fa-key"></i> Generate New Keys
+        <!--  -->
+        <button id="generateKeysKbpgp">
+            Generate New Keys (Kbpgp)
         </button>
+        <button id="generateKeysOpenPGPjs">
+            Generate New Keys (OpenPGP.js)
+        </button>
+        <button id="useMockupData">
+            Use mockup data
+        </button>
+        <!-- -->
+        <h5>Password for private key:</h5>
+        <textarea id="passphrase" rows="1" cols="71" placeholder="this is a very secret password"></textarea>
+        <h5>First name:</h5>
+        <textarea id="firstName" rows="1" cols="71" placeholder="John"></textarea>
+        <h5>Last name:</h5>
+        <textarea id="lastName" rows="1" cols="71" placeholder="Doe"></textarea>
+        <h5>User email:</h5>
+        <textarea id="userEmail" rows="1" cols="71" placeholder="john.doe@gmail.com"></textarea>
+        <h5>Valid for (years):</h5>
+        <input id="expire_in" type="number" min="1" max="2" placeholder="1">
+        <div class="divider"></div>
+        <!-- PUBLIC KEY -->
         <h3>Public Key:</h3>
-<textarea id="pubkeyShow" rows="15" cols="71">-----BEGIN PGP PUBLIC KEY BLOCK-----
-Version: GnuPG v2.0.22 (GNU/Linux)
-
-mQINBFZpf0wBEADo7NZ4Oymw2pVJMfrNEhGwYOT4CGMOTZHQo3rYFrN3yxCsd/xX
-r8kWLvkKvEFSD0XfQlq6slA9fnOtsRZl4JlmabKC33ZkB1zhV2c78AhhVMrfFi2a
-114xHhOHkR4LOv8mAyyRKd5mpuyYpPKcF2670jXxANeqNQCoKKM/dPS1uxGapE9Z
-GG0GFKvIUqKWJUAv7JqOAxtXbAS7JFMwiH16jL/TeuvKy+0JKvlBM4qxB9S18hi4
-GYg1SEATqmeu9E+6alz0L25REYYZZOMja1quF8HywsRY0fSZqCbD+9diP0keAg6z
-PSDSlgDF4WBUi+c8PoXcRRZq7+XYgky4l8wfGoGnOZKA4GH2SMlNAX8jCIrC7Cpf
-KPCu6NMY533X735Md6fnWOeuyxz4owPRb6OTt4rYiA3/9vCu/waZ1zZx/wATYORS
-1wmOx8ZjogeAPOz6a2PW8hrK0tWbT3ILucC7dxjYfdKHZX2+v3eMGvXFRKss8J5i
-E5rlJiDnAMoERmIJunh/EJHz4te+RdMy2jWeDQWGzaFyZC92SUo9tAUJk7xez0KX
-5sYzhXjFJX/17DwFBTXIOYpFjWUyPaQaP7ByWOjZzhCmQxYRBUJSoxOty1ngkZ+B
-7zAZSTXh2mukHukRERG1//2FsiBZeapRhAaFWdWnPDN95bg7L7/qQ5szjQARAQAB
-tDdWaWt0b3IgQWdleWV2IDxhZ2V5ZXZAaW50ZXJuYXRpb25hbC1hcmJpdHJhdGlv
-bi5vcmcudWs+iQI/BBMBAgApBQJWaX9MAhsvBQkB4lLUBwsJCAcDAgEGFQgCCQoL
-BBYCAwECHgECF4AACgkQzjaf2edxc+UywQ/+MfYX5BRzl7iSndhr/vVOEycxZntu
-9efMhwQYO87EXT/cNpRMX/u2Wzhx70brzFIenvaYTPpVkYKinKv3iEAauJ1wr5/a
-PrUxRcfVnBrV8ecWTO6SbNRDePqayst8bBq9rdqnKnpDEv911zk2hjJtCeFDlUkO
-eiTLgYCVOQ7n0fbN4pjrBGAqDGs2SFjJXAKYJpZqY77P0crHxXCMyukrdj2WxnB7
-JyMdmBqViJSo/MCi7SFXqVQFTvJZVBhTQEUO5KNJA6oAYztYKXBE3AybE528m571
-p+HhJ2mOnlNaRu5y12RRQJ7qmKvN9uzHz0+mt8rRk3oYWCYImTMwxDpc1mT39QKs
-0WS/zp5NTIaa+Hvt7V8GH5hmq67YL+JcxEINZGZ+MZmiSKuvGVuqC8ZJpswumVw5
-PHtMEL+0zBxZXN41YyfTudssXbvMrNiGIdlQA7CW/7yMviVR4nyQtFQJwYSL4mva
-uTQSnihm4Bj6FeYpgGpk1TyIzgtIyaQNSvnlDYFezmN/JsAs+25EP/oxyFLaK+ij
-WdjVmnsDGS4l5BWH/a8BYPbSnm7YrlYkYCXjTjK1/EeWA/tggApISFptc8YQw0Wp
-Qw0IwhJVPWDVW8nDrv/1IPhTJgYfIfdmxr32RLhNePEZGZ02zfCP9BrlNKut9/Hn
-x1yKWjVaWZO8VtU=
-=XyhJ
------END PGP PUBLIC KEY BLOCK-----</textarea>
+        <textarea id="pubkeyShow" rows="15" cols="71"></textarea>
+        <br>
+        <button id="readPublicKeyDataOpenPGPjs">Read Public Key Data with OpenPGP.js</button>&nbsp;
+        <button id="readPublicKeyDataKbpgp">Read Public Key Data with Kbpgp</button>&nbsp;
+        <table>
+            <tr>
+                <td>Fingerprint: &nbsp;</td>
+                <td id="fingerprint"></td>
+            </tr>
+            <tr>
+                <td>User ID:</td>
+                <td id="userId"></td>
+            </tr>
+            <tr>
+                <td>Created:</td>
+                <td id="created"></td>
+            </tr>
+            <!-- buggy in both libraries: -->
+            <!--
+        <tr>
+            <td>Valid until:</td>
+            <td id="exp"></td>
+        </tr>
+        -->
+        </table>
+        <!-- PRIVATE KEY -->
         <h3>Private Key:</h3>
         <textarea id="privkeyShow" rows="15" cols="71"></textarea>
-        <h3><i class="fa fa-file-text-o"></i>&nbsp;Text to encrypt:</h3>
-        <textarea id="messageText" rows="3" cols="71">Test message</textarea>
         <br>
-        <button id="encrypt"><i class="fa fa-lock"></i>&nbsp;Encrypt</button>
+        <!--   -->
+        <!--  -->
+        <div class="divider"></div>
+        <h4>Use your keys:</h4>
+        <h3>
+        Text to encrypt:</h3>
+        <textarea id="messageText" rows="3" cols="71" placeholder="this is a test message we want to encrypt or sign"></textarea>
         <br>
+        <button id="encrypt">
+            Encrypt
+        </button>
+        <button id="signMessage">Sign</button>
+        <div class="divider"></div>
+        <h5>encrypted text:</h5>
         <textarea id="encryptedText" rows="10" cols="71"></textarea>
         <br>
-        <button id="decryptButton"><i class="fa fa-unlock"></i>&nbsp;Decrypt (Private Key required)</button>
+        <h5>signed text:</h5>
+        <textarea id="signedMessage" rows="10" cols="71"></textarea>
+        <br>
+        <!--   -->
+        <br>
+        <button id="decryptButton">
+            Decrypt (Private Key and its password required)
+        </button>
         <br>
         <textarea id="decryptedText" rows="10" cols="71"></textarea>
+        <div class="divider"></div>
     </div>
-    <br>
 </body>
 
 </html>

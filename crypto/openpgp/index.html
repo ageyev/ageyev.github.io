@@ -22,109 +22,120 @@
 </head>
 
 <body>
-    <div class="ui container">
-        <!-- breadcrumb -->
-        <div class="ui breadcrumb">
-            <a class="section" href="/">Home</a>
-            <div class="divider"> /</div>
-            <a class="section" href="/crypto/">Crypto</a>
-            <div class="divider"> /</div>
-            <a class="section" href="/crypto/openpgp/">OpenPGP with JavaScript</a>
-            <div class="divider"> /</div>
-            <div class="active section">OpenPGP.js</div>
-        </div>
-        <!--  -->
-        <div class="divider"></div>
-        <h1>OpenPGP</h1>
-        <div class="divider"></div>
-        <div>
-            <p>Code: <i class="fa fa-github" aria-hidden="true"></i>
-                <a href="https://github.com/ageyev/ageyev.github.io/blob/master/crypto/openpgp/index.html">https://github.com/ageyev/ageyev.github.io/blob/master/crypto/openpgp/index.html</a>
-            </p>
-        </div>
-        <div class="divider"></div>
-        <br>
-        <!--  -->
-        <button id="generateKeysKbpgp">
-            Generate New Keys (Kbpgp)
-        </button>
-        <button id="generateKeysOpenPGPjs">
-            Generate New Keys (OpenPGP.js)
-        </button>
-        <button id="useMockupData">
-            Use mockup data
-        </button>
-        <!-- -->
-        <h5>Password for private key:</h5>
-        <textarea id="passphrase" rows="1" cols="71" placeholder="this is a very secret password"></textarea>
-        <h5>First name:</h5>
-        <textarea id="firstName" rows="1" cols="71" placeholder="John"></textarea>
-        <h5>Last name:</h5>
-        <textarea id="lastName" rows="1" cols="71" placeholder="Doe"></textarea>
-        <h5>User email:</h5>
-        <textarea id="userEmail" rows="1" cols="71" placeholder="john.doe@gmail.com"></textarea>
-        <h5>Valid for (years):</h5>
-        <input id="expire_in" type="number" min="1" max="2" placeholder="1">
-        <div class="divider"></div>
-        <!-- PUBLIC KEY -->
-        <h3>Public Key:</h3>
-        <textarea id="pubkeyShow" rows="15" cols="71"></textarea>
-        <br>
-        <button id="readPublicKeyDataOpenPGPjs">Read Public Key Data with OpenPGP.js</button>&nbsp;
-        <button id="readPublicKeyDataKbpgp">Read Public Key Data with Kbpgp</button>&nbsp;
-        <table>
-            <tr>
-                <td>Fingerprint: &nbsp;</td>
-                <td id="fingerprint"></td>
-            </tr>
-            <tr>
-                <td>User ID:</td>
-                <td id="userId"></td>
-            </tr>
-            <tr>
-                <td>Created:</td>
-                <td id="created"></td>
-            </tr>
-            <!-- buggy in both libraries: -->
-            <!--
+<div class="ui container">
+    <!-- breadcrumb -->
+    <div class="ui breadcrumb">
+        <a class="section" href="/">Home</a>
+        <div class="divider"> /</div>
+        <a class="section" href="/crypto/">Crypto</a>
+        <div class="divider"> /</div>
+        <div class="active section">OpenPGP with JavaScript</div>
+    </div>
+    <!--  -->
+    <div class="line"></div>
+    <h1>OpenPGP</h1>
+    <div class="line"></div>
+    <div>
+        <p>Code: <i class="fa fa-github" aria-hidden="true"></i>
+            <a href="https://github.com/ageyev/ageyev.github.io/blob/master/crypto/openpgp/index.html">https://github.com/ageyev/ageyev.github.io/blob/master/crypto/openpgp/index.html</a>
+        </p>
+    </div>
+    <div class="line"></div>
+    <br>
+    <!--  -->
+    <button id="useMockupData">
+        <i class="fa fa-arrow-down"></i>&nbsp;
+        Use mockup data
+    </button>
+    <!-- -->
+    <h5>Password for private key:</h5>
+    <textarea id="passphrase" rows="1" cols="71" placeholder="this is a very secret password"></textarea>
+    <h5>First name:</h5>
+    <textarea id="firstName" rows="1" cols="71" placeholder="John"></textarea>
+    <h5>Last name:</h5>
+    <textarea id="lastName" rows="1" cols="71" placeholder="Doe"></textarea>
+    <h5>User email:</h5>
+    <textarea id="userEmail" rows="1" cols="71" placeholder="john.doe@gmail.com"></textarea>
+    <h5>Valid for (years):</h5>
+    <input id="expire_in" type="number" min="1" max="2" placeholder="1">
+    <div class="line"></div>
+    <button id="generateKeysKbpgp">
+        <i class="fa fa-key"></i>&nbsp;Generate New Keys (kbpgp.js)
+    </button>
+    <button id="generateKeysOpenPGPjs">
+        <i class="fa fa-key"></i>&nbsp;Generate New Keys (OpenPGP.js)
+    </button>
+    <div id="statusMessage"></div>
+    <!-- PUBLIC KEY -->
+    <h3>Public Key:</h3>
+    <textarea id="pubkeyShow" rows="15" cols="71"></textarea>
+    <br>
+    <button id="readPublicKeyDataOpenPGPjs">Read Public Key Data with OpenPGP.js</button>
+    &nbsp;
+    <button id="readPublicKeyDataKbpgp">Read Public Key Data with Kbpgp.js (? broken)</button>
+    &nbsp;
+    <table>
+        <tr>
+            <td>Fingerprint: &nbsp;</td>
+            <td id="fingerprint"></td>
+        </tr>
+        <tr>
+            <td>User ID:</td>
+            <td id="userId"></td>
+        </tr>
+        <tr>
+            <td>Created:</td>
+            <td id="created"></td>
+        </tr>
         <tr>
             <td>Valid until:</td>
             <td id="exp"></td>
         </tr>
-        -->
-        </table>
-        <!-- PRIVATE KEY -->
-        <h3>Private Key:</h3>
-        <textarea id="privkeyShow" rows="15" cols="71"></textarea>
-        <br>
-        <!--   -->
-        <!--  -->
-        <div class="divider"></div>
-        <h4>Use your keys:</h4>
-        <h3>
-        Text to encrypt:</h3>
-        <textarea id="messageText" rows="3" cols="71" placeholder="this is a test message we want to encrypt or sign"></textarea>
-        <br>
-        <button id="encrypt">
-            Encrypt
-        </button>
-        <button id="signMessage">Sign</button>
-        <div class="divider"></div>
-        <h5>encrypted text:</h5>
-        <textarea id="encryptedText" rows="10" cols="71"></textarea>
-        <br>
-        <h5>signed text:</h5>
-        <textarea id="signedMessage" rows="10" cols="71"></textarea>
-        <br>
-        <!--   -->
-        <br>
-        <button id="decryptButton">
-            Decrypt (Private Key and its password required)
-        </button>
-        <br>
-        <textarea id="decryptedText" rows="10" cols="71"></textarea>
-        <div class="divider"></div>
-    </div>
+        <tr>
+            <td>bits size:</td>
+            <td id="bitsSize"></td>
+        </tr>
+    </table>
+    <!-- PRIVATE KEY -->
+    <h3>Private Key:</h3>
+    <textarea id="privkeyShow" rows="15" cols="71"></textarea>
+    <br>
+    <!--   -->
+    <!--  -->
+    <div class="line"></div>
+    <h4>Use your keys:</h4>
+    <h3>
+        <i class="fa fa-file-text-o"></i>
+        Text to encrypt:
+    </h3>
+    <textarea id="messageText" rows="3" cols="71"
+              placeholder="this is a test message we want to encrypt or sign"></textarea>
+    <br>
+    <button id="encrypt">
+        <i class="fa fa-lock"></i>&nbsp;
+        Encrypt
+    </button>
+    <button id="signMessage">
+        <i class="fa fa-pencil-square-o"></i>&nbsp;
+        Sign
+    </button>
+    <div class="line"></div>
+    <h5>encrypted text:</h5>
+    <textarea id="encryptedText" rows="10" cols="71"></textarea>
+    <br>
+    <h5>signed text:</h5>
+    <textarea id="signedMessage" rows="10" cols="71"></textarea>
+    <br>
+    <!--   -->
+    <br>
+    <button id="decryptButton">
+        <i class="fa fa-unlock"></i>&nbsp;
+        Decrypt (Private Key and its password required)
+    </button>
+    <br>
+    <textarea id="decryptedText" rows="10" cols="71"></textarea>
+    <div class="line"></div>
+</div>
 </body>
 
 </html>

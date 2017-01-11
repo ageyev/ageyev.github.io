@@ -125,52 +125,13 @@ $(function () {
         return opts;
     }
 
-    function generateKeysKbpgp() {
-        emptyKeyData();
-        var genOpts = makeGenerateKeysOptions();
-        var opts = generateKeysKbpgpOptions();
-        console.log("start generating key pair...");
-        // see: https://keybase.io/kbpgp/docs/generating_a_pair
-        kbpgp.KeyManager.generate(opts, function (err, keyPairKbpgp) {
-            if (err) {
-                console.log(err);
-            }
-            if (!err) {
-                // sign subkeys
-                keyPairKbpgp.sign({}, function (err) {
-
-                    console.log(keyPairKbpgp);
-
-                    // export demo; dump the private with a passphrase
-                    keyPairKbpgp.export_pgp_private({
-                        // passphrase: 'booyeah!'
-                        passphrase: genOpts.passphrase
-                    }, function (err, pgp_private) {
-                        console.log("private key: ", pgp_private);
-                        $("#privkeyShow").val(pgp_private);
-                    });
-                    //
-                    keyPairKbpgp.export_pgp_public({}, function (err, pgp_public) {
-                        console.log("public key: ", pgp_public);
-                        $('#pubkeyShow').val(pgp_public);
-                    });
-                    //
-                });
-            }
-        });
-        /* --end- */
-    }
-
-    function generateKeysOpenPGPjs() {
-        // TODO: create
-    }
-
     function emptyKeyData() {
 
         $("#fingerprint").text("");
         $("#userId").text("");
         $("#created").text("");
         $("#exp").text("");
+        $("#bitsSize").text("");
     }
 
     $("#generateKeysOpenPGPjs").click(function (event) {
@@ -208,12 +169,47 @@ $(function () {
 
     }); // end #generateKeysOpenPGPjs
 
-    $("#generateKeysKbpgp").click(function (event) {
-            generateKeysKbpgp();
+    $("#generateKeysKbpgp").click(function () {
+
+            $("#statusMessage").text("Generating key, please, waite ...");
+            emptyKeyData();
+            var genOpts = makeGenerateKeysOptions();
+            var opts = generateKeysKbpgpOptions();
+            console.log("start generating key pair...");
+            // see: https://keybase.io/kbpgp/docs/generating_a_pair
+            kbpgp.KeyManager.generate(opts, function (err, keyPairKbpgp) {
+                if (err) {
+                    console.log(err);
+                }
+                if (!err) {
+                    // sign subkeys
+                    keyPairKbpgp.sign({}, function (err) {
+
+                        console.log(keyPairKbpgp);
+
+                        // export demo; dump the private with a passphrase
+                        keyPairKbpgp.export_pgp_private({
+                            // passphrase: 'booyeah!'
+                            passphrase: genOpts.passphrase
+                        }, function (err, pgp_private) {
+                            console.log("private key: ", pgp_private);
+                            $("#privkeyShow").val(pgp_private);
+                        });
+                        //
+                        keyPairKbpgp.export_pgp_public({}, function (err, pgp_public) {
+                            console.log("public key: ", pgp_public);
+                            $('#pubkeyShow').val(pgp_public);
+                        });
+                        //
+                    });
+                    $("#statusMessage").text("");
+                }
+            });
+            /* --end- */
         }
     );
 
-    // Read Public key data with OpenPGP.js
+    // ----- READ PUBLIC KEY - OPENPGP.JS:
     $("#readPublicKeyDataOpenPGPjs").click(function () {
 
         var publicKey = openpgp.key.readArmored(
@@ -222,21 +218,61 @@ $(function () {
         var fingerprint = publicKey.keys[0].primaryKey.fingerprint.toUpperCase();
         var userId = publicKey.keys[0].users[0].userId.userid;
         var created = publicKey.keys[0].primaryKey.created;
+
+        console.log("publicKey.keys[0].primaryKey.created :");
+        console.log(publicKey.keys[0].primaryKey.created);
+        // Wed Jan 11 2017 17:53:20 GMT+0200 (IST)
+
+        console.log("publicKey.keys[0].primaryKey.created.getTime() : ");
+        console.log(publicKey.keys[0].primaryKey.created.getTime());
+        // 1484150000000
+        // 1,484,150,000,000 (vs. 1,484,150,000 in Kbpgp)
+
+        console.log("publicKey.keys[0].getExpirationTime() :");
+        console.log(publicKey.keys[0].getExpirationTime());
+
+        /* https://github.com/openpgpjs/openpgpjs/blob/master/src/key.js#L442*/
+        console.log("publicKey.keys[0].primaryKey.expirationTimeV3 : ")
+        console.log(publicKey.keys[0].primaryKey.expirationTimeV3);
+        // 0
+
+        /* https://github.com/openpgpjs/openpgpjs/blob/master/src/key.js#L463 */
+        console.log("publicKey.keys[0].getPrimaryUser().selfCertificate.keyExpirationTime:");
+        console.log(publicKey.keys[0].getPrimaryUser().selfCertificate.keyExpirationTime);
+        // 31536000
+
+        console.log("publicKey.keys[0].getPrimaryUser().selfCertificate.keyNeverExpires :");
+        console.log(publicKey.keys[0].getPrimaryUser().selfCertificate.keyNeverExpires);
+        //
         var exp = new Date(
             publicKey.keys[0].primaryKey.created.getTime()
-            + publicKey.keys[0].primaryKey.expirationTimeV3 * 24 * 3600 * 1000
+            + (publicKey.keys[0].getPrimaryUser().selfCertificate.keyExpirationTime * 1000)
         );
+
+        //
+        /**
+         * see: https://github.com/openpgpjs/openpgpjs/blob/master/src/key.js#L472
+         * .getExpirationTime() returns the expiration time of the primary key or null if key does not expire
+         * @return {Date|null}
+         */
+        exp = publicKey.keys[0].getExpirationTime(); // <<< ---- use this
+        //
+        //
+
+        var bitsSize = publicKey.keys[0].primaryKey.getBitSize();
 
         console.log(fingerprint);
         console.log(publicKey);
         console.log(userId);
-        console.log(created);
-        console.log(exp);
+        console.log("created: " + created);
+        console.log("exp: " + exp);
+        console.log("bits size: " + bitsSize);
 
         $("#fingerprint").text(fingerprint);
         $("#userId").text(userId);
         $("#created").text(created);
         $("#exp").text(exp);
+        $("#bitsSize").text(bitsSize);
 
     });
 
@@ -271,8 +307,18 @@ $(function () {
         var userId = userName + " <" + userEmail + ">";
         //
         var created = new Date(key.primary.lifespan.generated * 1000);
+        //
+        /*
+         // OpenPGP.js:
+         var exp = new Date(
+         publicKey.keys[0].primaryKey.created.getTime()
+         + (publicKey.keys[0].getPrimaryUser().selfCertificate.keyExpirationTime * 1000)
+         );
+         */
+
         var exp = new Date(
-            (key.primary.lifespan.generated + key.primary.lifespan.expire_in) * 1000
+            key.primary.lifespan.generated * 1000
+            + key.primary.lifespan.expire_in * 1000
         ); // possible bug, see: https://github.com/keybase/kbpgp/issues/75
 
 

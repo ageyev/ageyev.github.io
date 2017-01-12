@@ -171,7 +171,7 @@ $(function () {
 
     $("#generateKeysKbpgp").click(function () {
 
-            $("#statusMessage").text("Generating key, please, waite ...");
+            $("#statusMessage").text("Generating key, please wait ...");
             emptyKeyData();
             var genOpts = makeGenerateKeysOptions();
             var opts = generateKeysKbpgpOptions();

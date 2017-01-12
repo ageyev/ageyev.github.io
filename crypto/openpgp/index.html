@@ -47,7 +47,7 @@
         <i class="fa fa-arrow-down"></i>&nbsp;
         Use mockup data
     </button>
-    <!-- -->
+    <!-- Key options BEGIN -->
     <h5>Password for private key:</h5>
     <textarea id="passphrase" rows="1" cols="71" placeholder="this is a very secret password"></textarea>
     <h5>First name:</h5>
@@ -58,7 +58,13 @@
     <textarea id="userEmail" rows="1" cols="71" placeholder="john.doe@gmail.com"></textarea>
     <h5>Valid for (years):</h5>
     <input id="expire_in" type="number" min="1" max="10" placeholder="1">
+    <h5>Key strength (bits):</h5>
+    <input id="numBits" input type="number" min="1024" max="4096" step="1024">
+    <!-- Key options END -->
+
     <div class="line"></div>
+
+    <!-- generate keys buttons-->
     <button id="generateKeysKbpgp">
         <i class="fa fa-key"></i>&nbsp;Generate New Keys (kbpgp.js)
     </button>
@@ -66,6 +72,7 @@
         <i class="fa fa-key"></i>&nbsp;Generate New Keys (OpenPGP.js)
     </button>
     <div id="statusMessage"></div>
+
     <!-- PUBLIC KEY -->
     <h3>Public Key:</h3>
     <textarea id="pubkeyShow" rows="15" cols="71"></textarea>

@@ -19,6 +19,7 @@ $(function () {
         $("#userEmail").val("john.doe@gmail.com");
         $("#expire_in").val(1);
         $("#messageText").val("this is a test message we want to encrypt or sign");
+        $("#numBits").val(1024);
     });
 
     // Encrypt
@@ -90,7 +91,7 @@ $(function () {
         opts.name = opts.firstName + " " + opts.lastName;
         opts.userEmail = document.getElementById("userEmail").value;
         opts.userId = opts.name + " <" + opts.userEmail + ">";
-        opts.numBits = 1024;
+        opts.numBits = document.getElementById("numBits").value;
         var years = document.getElementById("expire_in").value;
         opts.expire_in = 86400 * 365 * years; // expires in ... years
         console.log("makeGenerateKeysOptions() :");
@@ -147,8 +148,9 @@ $(function () {
                     email: genOpts.userEmail
                 }
             ], // multiple user IDs
-            numBits: 1024, // RSA key size
+            numBits: genOpts.numBits, // RSA key size
             passphrase: genOpts.passphrase // protects the private key
+            // --- ? validity / expire in ? a
         };
 
         openpgp.generateKey(options).then(function (key) {

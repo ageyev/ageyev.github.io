@@ -1,5 +1,19 @@
 "use strict";
 
+/*
+* OpenPGP.js
+* http://openpgpjs.org
+* https://github.com/openpgpjs/openpgpjs
+* API: http://openpgpjs.org/openpgpjs/doc/
+* */
+
+/*
+* kbpgp.js
+* https://github.com/keybase/kbpgp
+* https://www.npmjs.com/package/kbpgp
+* https://keybase.io/kbpgp
+* */
+
 $(function () {
 
     var myPublicKey;
@@ -93,7 +107,7 @@ $(function () {
         opts.userId = opts.name + " <" + opts.userEmail + ">";
         opts.numBits = document.getElementById("numBits").value;
         var years = document.getElementById("expire_in").value;
-        opts.expire_in = 86400 * 365 * years; // expires in ... years
+        opts.expire_in = (60 * 60 * 24) * 365 * years; // expires in ... years
         console.log("makeGenerateKeysOptions() :");
         console.log(JSON.stringify(opts));
         return opts;
@@ -141,6 +155,7 @@ $(function () {
 
         var genOpts = makeGenerateKeysOptions();
 
+        //
         var options = {
             userIds: [
                 {
@@ -149,25 +164,30 @@ $(function () {
                 }
             ], // multiple user IDs
             numBits: genOpts.numBits, // RSA key size
-            passphrase: genOpts.passphrase // protects the private key
-            // --- ? validity / expire in ? a
+            // protects the private key
+            passphrase: genOpts.passphrase,
+            // {Number} keyExpirationTime (optional) The number of seconds after the key creation time that the key expires
+            keyExpirationTime: genOpts.expire_in
         };
 
-        openpgp.generateKey(options).then(function (key) {
+        openpgp
+        // (static) generateKey(userIds, passphrase, numBits, unlocked, keyExpirationTime) → {Promise.<Object>}
+            .generateKey(options)
+            .then(function (key) {
 
-            var privkey = key.privateKeyArmored; // '-----BEGIN PGP PRIVATE KEY BLOCK ... '
-            console.log("privkey:");
-            console.log(privkey);
-            myPrivateKey = privkey;
-            $("#privkeyShow").val(myPrivateKey);
+                var privkey = key.privateKeyArmored; // '-----BEGIN PGP PRIVATE KEY BLOCK ... '
+                console.log("privkey:");
+                console.log(privkey);
+                myPrivateKey = privkey;
+                $("#privkeyShow").val(myPrivateKey);
 
-            var pubkey = key.publicKeyArmored; // '-----BEGIN PGP PUBLIC KEY BLOCK ... '
+                var pubkey = key.publicKeyArmored; // '-----BEGIN PGP PUBLIC KEY BLOCK ... '
 
-            myPublicKey = pubkey;
-            $('#pubkeyShow').val(myPublicKey);
-            console.log("myPublicKey:");
-            console.log(myPublicKey);
-        });
+                myPublicKey = pubkey;
+                $('#pubkeyShow').val(myPublicKey);
+                console.log("myPublicKey:");
+                console.log(myPublicKey);
+            });
 
     }); // end #generateKeysOpenPGPjs
 

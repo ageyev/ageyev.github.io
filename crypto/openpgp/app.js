@@ -92,7 +92,57 @@ $(function () {
             console.log("plaintext.data: " + plaintext.data);
 
             $("#decryptedText").val(plaintext.data);
+        });
+    });
 
+    // Check Signature
+    $("#checkSignatureButton").click(function (event) {
+        $('#checkSignatureResult').text("verifying the signature...");
+        var armoredMessage = $("#signedMessage").val();
+        var armoredPubKey = $("#pubkeyShow").val();
+        console.log("armoredPubKey: ");
+        console.log(armoredPubKey);
+
+        var message;
+        var publicKeys;
+        var options = {};
+
+        try {
+            message = openpgp.cleartext.readArmored(armoredMessage);
+            publicKeys = openpgp.key.readArmored(armoredPubKey).keys;
+
+        } catch (error) {
+            console.log(error.message);
+            $('#checkSignatureResult').text("This is not valid OpenPGP signed text").css({'color': 'red'});
+            return;
+        }
+
+        if (message && publicKeys) {
+            options.message = message;
+            options.publicKeys = publicKeys;
+        } else {
+            $('#checkSignatureResult').text("This is not valid OpenPGP signed text").css({'color': 'red'});
+            return;
+        }
+
+        // var publicKey = openpgp.key.readArmored(armoredPubKey).keys[0];
+        // var clearMessage = openpgp.cleartext.readArmored(armoredMessage);
+
+        openpgp.verify(options).then(function (verified) {
+            var validity = verified.signatures[0].valid; // true
+            console.log("verified.signatures:");
+            console.log(verified.signatures);
+            var result;
+            var css = {};
+            if (validity) {
+                result = 'Signed by key id: [' + verified.signatures[0].keyid.toHex().toUpperCase() + ']';
+                css.color = "green";
+            } else {
+                result = "Signature can not be verified";
+                css.color = "red";
+            }
+            console.log(result);
+            $('#checkSignatureResult').text(result).css(css);
         });
 
     });
@@ -150,7 +200,7 @@ $(function () {
     }
 
     $("#generateKeysOpenPGPjs").click(function (event) {
-
+        $("#statusMessage").text("Generating key, please wait ...");
         emptyKeyData();
 
         var genOpts = makeGenerateKeysOptions();
@@ -184,9 +234,11 @@ $(function () {
                 var pubkey = key.publicKeyArmored; // '-----BEGIN PGP PUBLIC KEY BLOCK ... '
 
                 myPublicKey = pubkey;
+                $("#statusMessage").text("");
                 $('#pubkeyShow').val(myPublicKey);
                 console.log("myPublicKey:");
                 console.log(myPublicKey);
+
             });
 
     }); // end #generateKeysOpenPGPjs
@@ -237,6 +289,7 @@ $(function () {
         var publicKey = openpgp.key.readArmored(
             $('#pubkeyShow').val()
         );
+        var keyId = '[' + publicKey.keys[0].primaryKey.keyid.toHex().toUpperCase() + ']';
         var fingerprint = publicKey.keys[0].primaryKey.fingerprint.toUpperCase();
         var userId = publicKey.keys[0].users[0].userId.userid;
         var created = publicKey.keys[0].primaryKey.created;
@@ -284,12 +337,14 @@ $(function () {
         var bitsSize = publicKey.keys[0].primaryKey.getBitSize();
 
         console.log(fingerprint);
+        console.log(keyId);
         console.log(publicKey);
         console.log(userId);
         console.log("created: " + created);
         console.log("exp: " + exp);
         console.log("bits size: " + bitsSize);
 
+        $("#keyId").text(keyId);
         $("#fingerprint").text(fingerprint);
         $("#userId").text(userId);
         $("#created").text(created);

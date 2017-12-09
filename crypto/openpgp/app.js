@@ -56,8 +56,8 @@ $(function () {
         };
 
         openpgp.encrypt(options).then(function (ciphertext) {
-            console.log(ciphertext)
-            console.log(JSON.stringify(ciphertext))
+            console.log(ciphertext);
+            console.log(JSON.stringify(ciphertext));
             encryptedASCIIarmored = ciphertext.data; // '-----BEGIN PGP MESSAGE ... END PGP MESSAGE-----'
             console.log("ciphertext.data: " + ciphertext.data)
             $("#encryptedText").val(ciphertext.data);
@@ -350,7 +350,6 @@ $(function () {
         $("#created").text(created);
         $("#exp").text(exp);
         $("#bitsSize").text(bitsSize);
-
     });
 
     // Read Public key data with Kbpgp
@@ -376,7 +375,6 @@ $(function () {
                 key = keyImported;
             }
         });
-        console.log(key);
 
         var fingerprint = key.get_pgp_fingerprint().toString('hex').toUpperCase();
         var userEmail = key.pgp.userids[0].components.email;
@@ -398,7 +396,6 @@ $(function () {
             + key.primary.lifespan.expire_in * 1000
         ); // possible bug, see: https://github.com/keybase/kbpgp/issues/75
 
-
         console.log(fingerprint);
         console.log(userId);
         console.log(created);
@@ -408,12 +405,9 @@ $(function () {
         $("#userId").text(userId);
         $("#created").text(created);
         $("#exp").text(exp);
-
-
     });
 
     $('#signMessage').click(function (event) {
-
         var messageToSign = $("#messageText").val();
         var privateKeyArmored = $("#privkeyShow").val();
         var passphrase = $("#passphrase").val();
@@ -431,9 +425,9 @@ $(function () {
             signedMessageObj = res;
             console.log(JSON.stringify(signedMessageObj));
             console.log(signedMessageObj.data);
-            document.getElementById("signedMessage").value = signedMessageObj.data;
+            $("#signedMessage").val(signedMessageObj.data);
+            // document.getElementById("signedMessage").value = signedMessageObj.data;
         });
-        // document.getElementById("signedMessage").value = signedMessageObj.data;
-        // $("#signedMessage").val(signedMessageObj.data.toString()); // ? does not work
     });
+
 });

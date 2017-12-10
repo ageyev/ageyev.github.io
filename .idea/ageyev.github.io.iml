@@ -12,5 +12,7 @@
     <orderEntry type="library" name="openpgp" level="application" />
     <orderEntry type="library" name="semantic" level="application" />
     <orderEntry type="library" name="jquery" level="application" />
+    <orderEntry type="library" name="Blob" level="application" />
+    <orderEntry type="library" name="FileSaver" level="application" />
   </component>
 </module>

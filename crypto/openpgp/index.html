@@ -22,6 +22,14 @@
     <!-- https://github.com/keybase/kbpgp -->
     <script src="vendors/kbpgp/kbpgp-2.0.8-min.js"></script>
     <!--<script src="vendors/kbpgp/kbpgp-2.0.8.js"></script>-->
+
+    <!-- File saver -->
+    <!-- https://github.com/eligrey/FileSaver.js -->
+    <!-- https://eligrey.com/blog/saving-generated-files-on-the-client-side/ -->
+    <!-- https://eligrey.com/demos/FileSaver.js/ -->
+    <script src="https://cdn.rawgit.com/eligrey/Blob.js/0cef2746414269b16834878a8abc52eb9d53e6bd/Blob.js"></script>
+    <script src="https://cdn.rawgit.com/eligrey/FileSaver.js/e9d941381475b5df8b7d7691013401e171014e89/FileSaver.min.js"></script>
+
     <!-- Main JS  -->
     <script src="app.js"></script>
     <link rel="stylesheet" href="css.css">
@@ -67,28 +75,38 @@
     <h5>Valid for (years):</h5>
     <input id="expire_in" type="number" min="1" max="10" placeholder="1">
     <h5>Key strength (bits):</h5>
-    <input id="numBits" input type="number" min="1024" max="4096" step="1024" placeholder="1024">
+    <input id="numBits" input type="number" min="1024" max="4096" step="1024" placeholder="2048">
     <!-- Key options END -->
 
     <div class="line"></div>
+    <div id="generateKeyOptionsMessage"></div>
+    <div class="line"></div>
 
     <!-- generate keys buttons-->
+    <!--
     <button id="generateKeysKbpgp">
         <i class="fa fa-key"></i>&nbsp;Generate New Keys (kbpgp.js)
     </button>
+    -->
     <button id="generateKeysOpenPGPjs">
-        <i class="fa fa-key"></i>&nbsp;Generate New Keys (OpenPGP.js)
+        <i class="fa fa-key"></i>&nbsp;Generate New Keys
     </button>
     <div id="statusMessage"></div>
 
     <!-- PUBLIC KEY -->
     <h3>Public Key:</h3>
+    <button id="savePublicKeyToLocalStorageButton">Save to local browser storage</button>
+    <button id="removePublicKeyFromLocalStorageButton">Remove from local browser storage</button>
+    <button id="savePublicKeyAsFile">Save as file</button>
+    <div id="publicKeyLocalStorageMessage"></div>
     <textarea id="pubkeyShow" rows="15" cols="71"></textarea>
     <br>
-    <button id="readPublicKeyDataOpenPGPjs">Read Public Key Data with OpenPGP.js</button>
+    <button id="readPublicKeyDataOpenPGPjs">Read Public Key Data</button>
+    <!--
     &nbsp;
     <button id="readPublicKeyDataKbpgp">Read Public Key Data with Kbpgp.js (? broken)</button>
     &nbsp;
+    -->
     <table>
         <tr>
             <td>Key ID: &nbsp;</td>
@@ -115,8 +133,13 @@
             <td id="bitsSize"></td>
         </tr>
     </table>
+
     <!-- PRIVATE KEY -->
     <h3>Private Key:</h3>
+    <button id="savePrivateKeyToLocalStorageButton">Save to local browser storage</button>
+    <button id="removePrivateKeyFromLocalStorageButton">Remove from local browser storage</button>
+    <button id="savePrivateKeyAsFile">Save as file</button>
+    <div id="privateKeyLocalStorageMessage"></div>
     <textarea id="privkeyShow" rows="15" cols="71"></textarea>
     <br>
     <!--   -->
@@ -125,7 +148,7 @@
     <h4>Use your keys:</h4>
     <h3>
         <i class="fa fa-file-text-o"></i>
-        Text to encrypt:
+        Text to encrypt or sign:
     </h3>
     <textarea id="messageText" rows="3" cols="71"
               placeholder="this is a test message we want to encrypt or sign"></textarea>

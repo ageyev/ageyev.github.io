@@ -16,10 +16,60 @@
 
 $(function () {
 
+    console.log("app.js is loaded");
+
+    /* Web Storage API , https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API/Using_the_Web_Storage_API */
+    var storageType = 'localStorage'; // or 'sessionStorage'
+    var storageAvailable =
+        function () {
+            try {
+                var storage = window[storageType],
+                    x = '__storage_test__';
+                storage.setItem(x, x);
+                storage.removeItem(x);
+                return true;
+            }
+            catch (e) {
+                return e instanceof DOMException && (
+                        // everything except Firefox
+                    e.code === 22 ||
+                    // Firefox
+                    e.code === 1014 ||
+                    // test name field too, because code might not be present
+                    // everything except Firefox
+                    e.name === 'QuotaExceededError' ||
+                    // Firefox
+                    e.name === 'NS_ERROR_DOM_QUOTA_REACHED') &&
+                    // acknowledge QuotaExceededError only if there's something already stored
+                    storage.length !== 0;
+            }
+        }();
+    console.log("storageAvailable: " + storageAvailable);
+
+
     var myPublicKey;
     var myPrivateKey;
 
-    console.log("app.js is loaded");
+    var loadPublicKeyFromLocalStorage = function () {
+        if (storageAvailable) {
+            myPublicKey = localStorage.getItem('myPublicKey');
+            if (myPublicKey) {
+                $('#pubkeyShow').val(myPublicKey);
+                $('#publicKeyLocalStorageMessage').text('Public key loaded from your browser local storage');
+            }
+        }
+    };
+
+    var loadPrivateKeyFromLocalStorage = function () {
+        myPrivateKey = localStorage.getItem('myPrivateKey');
+        if (myPrivateKey) {
+            $("#privkeyShow").val(myPrivateKey);
+            $('#privateKeyLocalStorageMessage').text('Private key loaded from your browser local storage');
+        }
+    };
+
+    loadPrivateKeyFromLocalStorage();
+    loadPublicKeyFromLocalStorage();
 
     if (!window.crypto.getRandomValues) {
         window.alert("This browser isn't supported!");
@@ -59,7 +109,7 @@ $(function () {
             console.log(ciphertext);
             console.log(JSON.stringify(ciphertext));
             encryptedASCIIarmored = ciphertext.data; // '-----BEGIN PGP MESSAGE ... END PGP MESSAGE-----'
-            console.log("ciphertext.data: " + ciphertext.data)
+            console.log("ciphertext.data: " + ciphertext.data);
             $("#encryptedText").val(ciphertext.data);
         });
     });
@@ -163,6 +213,20 @@ $(function () {
         return opts;
     }
 
+    function checkGenerateKeysOptions(opts) {
+        for (var objProperty in opts) {
+            if (opts.hasOwnProperty(objProperty)) {
+                console.log(objProperty + " : " + opts[objProperty]);
+                if (typeof opts[objProperty] === 'undefined' || opts[objProperty] === null || opts[objProperty].toString().length === 0) {
+                    $('#generateKeyOptionsMessage').text(objProperty + " is missing").css('color', 'red');
+                    return false;
+                }
+            }
+        }
+        $('#generateKeyOptionsMessage').text("");
+        return true;
+    }
+
     function generateKeysKbpgpOptions() {
 
         var F = kbpgp["const"].openpgp;
@@ -200,10 +264,16 @@ $(function () {
     }
 
     $("#generateKeysOpenPGPjs").click(function (event) {
-        $("#statusMessage").text("Generating key, please wait ...");
+
+
         emptyKeyData();
 
         var genOpts = makeGenerateKeysOptions();
+        if (!checkGenerateKeysOptions(genOpts)) {
+            return;
+        }
+
+        $("#statusMessage").text("Generating key, please wait ...");
 
         //
         var options = {
@@ -236,6 +306,7 @@ $(function () {
                 myPublicKey = pubkey;
                 $("#statusMessage").text("");
                 $('#pubkeyShow').val(myPublicKey);
+                $('#publicKeyLocalStorageMessage').text("");
                 console.log("myPublicKey:");
                 console.log(myPublicKey);
 
@@ -282,6 +353,61 @@ $(function () {
             /* --end- */
         }
     );
+
+    $("#savePublicKeyAsFile").click(function () {
+        var blob = new Blob([myPublicKey], {type: "text/plain;charset=utf-8"});
+        saveAs(blob, "publicKey.txt");
+    });
+
+    $("#savePrivateKeyAsFile").click(function () {
+        var blob = new Blob([myPrivateKey], {type: "text/plain;charset=utf-8"});
+        saveAs(blob, "privateKey.txt");
+    });
+
+    $("#savePublicKeyToLocalStorageButton").click(function () {
+        var message;
+        if (storageAvailable) {
+            localStorage.setItem('myPublicKey', myPublicKey);
+            message = 'Public key stored to browser local storage';
+        } else {
+            message = 'Browser local storage not available'
+        }
+        $('#publicKeyLocalStorageMessage').text(message);
+    });
+
+    $("#removePublicKeyFromLocalStorageButton").click(function () {
+        var message;
+        if (storageAvailable) {
+            localStorage.removeItem('myPublicKey');
+            message = 'Public key removed from browser local storage';
+        } else {
+            message = 'Browser local storage not available'
+        }
+        $('#publicKeyLocalStorageMessage').text(message);
+    });
+
+
+    $("#savePrivateKeyToLocalStorageButton").click(function () {
+        var message;
+        if (storageAvailable) {
+            localStorage.setItem('myPrivateKey', myPrivateKey);
+            message = 'Private key stored to browser local storage';
+        } else {
+            message = 'Browser local storage not available'
+        }
+        $('#privateKeyLocalStorageMessage').text(message);
+    });
+
+    $("#removePrivateKeyFromLocalStorageButton").click(function () {
+        var message;
+        if (storageAvailable) {
+            localStorage.removeItem('myPrivateKey');
+            message = 'Private key removed from browser local storage';
+        } else {
+            message = 'Browser local storage not available'
+        }
+        $('#privateKeyLocalStorageMessage').text(message);
+    });
 
     // ----- READ PUBLIC KEY - OPENPGP.JS:
     $("#readPublicKeyDataOpenPGPjs").click(function () {
@@ -371,7 +497,8 @@ $(function () {
             armored: publicKeyArmored
         }, function (err, keyImported) {
             if (!err) {
-                console.log("key is loaded");
+                console.log("key is loaded:");
+                console.log(keyImported);
                 key = keyImported;
             }
         });
@@ -382,6 +509,7 @@ $(function () {
         var userId = userName + " <" + userEmail + ">";
         //
         var created = new Date(key.primary.lifespan.generated * 1000);
+
         //
         /*
          // OpenPGP.js:
@@ -391,9 +519,17 @@ $(function () {
          );
          */
 
+        /*
         var exp = new Date(
             key.primary.lifespan.generated * 1000
             + key.primary.lifespan.expire_in * 1000
+        ); // possible bug, see: https://github.com/keybase/kbpgp/issues/75*/
+
+        // TODO:
+        console.log("key.primary.lifespan: ");
+        console.log(key.primary.lifespan);
+        var exp = new Date(
+            (key.primary.lifespan.generated + key.primary.lifespan.expire_in) * 1000
         ); // possible bug, see: https://github.com/keybase/kbpgp/issues/75
 
         console.log(fingerprint);

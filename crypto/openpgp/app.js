@@ -84,7 +84,7 @@ $(function () {
         $("#expire_in").val(1);
         $("#messageText").val("this is a test message we want to encrypt or sign");
         // $("#numBits").val(1024);
-        $("#numBits").val(4096);
+        $("#numBits").val(2048);
     });
 
     // Encrypt

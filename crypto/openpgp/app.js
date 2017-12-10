@@ -83,7 +83,8 @@ $(function () {
         $("#userEmail").val("john.doe@gmail.com");
         $("#expire_in").val(1);
         $("#messageText").val("this is a test message we want to encrypt or sign");
-        $("#numBits").val(1024);
+        // $("#numBits").val(1024);
+        $("#numBits").val(4096);
     });
 
     // Encrypt
@@ -255,7 +256,7 @@ $(function () {
     }
 
     function emptyKeyData() {
-
+        $("#keyId").text("");
         $("#fingerprint").text("");
         $("#userId").text("");
         $("#created").text("");
@@ -265,14 +266,16 @@ $(function () {
 
     $("#generateKeysOpenPGPjs").click(function (event) {
 
-
-        emptyKeyData();
-
         var genOpts = makeGenerateKeysOptions();
         if (!checkGenerateKeysOptions(genOpts)) {
             return;
         }
 
+        emptyKeyData();
+        $('#pubkeyShow').val("");
+        $("#privkeyShow").val("");
+        $('#publicKeyLocalStorageMessage').text("");
+        $('#privateKeyLocalStorageMessage').text("");
         $("#statusMessage").text("Generating key, please wait ...");
 
         //
@@ -306,7 +309,6 @@ $(function () {
                 myPublicKey = pubkey;
                 $("#statusMessage").text("");
                 $('#pubkeyShow').val(myPublicKey);
-                $('#publicKeyLocalStorageMessage').text("");
                 console.log("myPublicKey:");
                 console.log(myPublicKey);
 
@@ -353,6 +355,24 @@ $(function () {
             /* --end- */
         }
     );
+
+    $("#saveSignedMessageAsFile").click(function () {
+        var signedMessage = $("#signedMessage").val();
+        var blob = new Blob([signedMessage], {type: "text/plain;charset=utf-8"});
+        saveAs(blob, "signedMessage.txt");
+    });
+
+    $("#saveEncryptedTextAsFile").click(function () {
+        var encryptedText = $("#encryptedText").val();
+        var blob = new Blob([encryptedText], {type: "text/plain;charset=utf-8"});
+        saveAs(blob, "encryptedText.txt");
+    });
+
+    $("#saveDecryptedTextAsFile").click(function () {
+        var decryptedText = $("#decryptedText").val();
+        var blob = new Blob([decryptedText], {type: "text/plain;charset=utf-8"});
+        saveAs(blob, "decryptedText.txt");
+    });
 
     $("#savePublicKeyAsFile").click(function () {
         var blob = new Blob([myPublicKey], {type: "text/plain;charset=utf-8"});
@@ -407,6 +427,37 @@ $(function () {
             message = 'Browser local storage not available'
         }
         $('#privateKeyLocalStorageMessage').text(message);
+    });
+
+    // ----- READ PRIVATE KEY - OPENPGP.JS
+    $("#readPrivateKeyDataOpenPGPjs").click(function () {
+
+        var privateKey = openpgp.key.readArmored(
+            $('#privkeyShow').val()
+        );
+        console.log(privateKey);
+
+        var keyId = '[' + privateKey.keys[0].primaryKey.keyid.toHex().toUpperCase() + ']';
+        var fingerprint = privateKey.keys[0].primaryKey.fingerprint.toUpperCase();
+        var userId = privateKey.keys[0].users[0].userId.userid;
+        var created = privateKey.keys[0].primaryKey.created;
+        var exp = privateKey.keys[0].getExpirationTime();
+        var bitsSize = privateKey.keys[0].primaryKey.getBitSize();
+
+        console.log(keyId);
+        console.log(fingerprint);
+        console.log(userId);
+        console.log("created: " + created);
+        console.log("exp: " + exp);
+        console.log("bits size: " + bitsSize);
+
+        $("#keyIdPrivate").text(keyId);
+        $("#fingerprintPrivate").text(fingerprint);
+        $("#userIdPrivate").text(userId);
+        $("#createdPrivate").text(created);
+        $("#expPrivate").text(exp);
+        $("#bitsSizePrivate").text(bitsSize);
+
     });
 
     // ----- READ PUBLIC KEY - OPENPGP.JS:
@@ -525,7 +576,6 @@ $(function () {
             + key.primary.lifespan.expire_in * 1000
         ); // possible bug, see: https://github.com/keybase/kbpgp/issues/75*/
 
-        // TODO:
         console.log("key.primary.lifespan: ");
         console.log(key.primary.lifespan);
         var exp = new Date(
@@ -544,12 +594,37 @@ $(function () {
     });
 
     $('#signMessage').click(function (event) {
+
+        $("#signMessageError").text("");
+
         var messageToSign = $("#messageText").val();
         var privateKeyArmored = $("#privkeyShow").val();
         var passphrase = $("#passphrase").val();
-        var privateKeyEncrypted = openpgp.key.readArmored(privateKeyArmored).keys[0];
-        privateKeyEncrypted.decrypt(passphrase); // boolean
+
+        if (messageToSign.toString().length === 0) {
+            $("#signMessageError").text("Message to sign is empty").css('color', 'red');
+        }
+        if (privateKeyArmored.toString().length === 0) {
+            $("#signMessageError").text("Private key is empty").css('color', 'red');
+        }
+        if (passphrase.toString().length === 0) {
+            $("#signMessageError").text("Password for private key is empty").css('color', 'red');
+        }
+        var privateKeyEncrypted;
+        try {
+            privateKeyEncrypted = openpgp.key.readArmored(privateKeyArmored).keys[0];
+            if (typeof privateKeyEncrypted === 'undefined' || privateKeyEncrypted === null) {
+                $("#signMessageError").text("Private key is invalid").css('color', 'red');
+                return;
+            }
+            privateKeyEncrypted.decrypt(passphrase); // boolean
+        } catch (error) {
+            console.log(error);
+            $("#signMessageError").text(error).css('color', 'red');
+        }
+
         var privateKeyDecrypted = privateKeyEncrypted;
+
         var signObj = {
             data: messageToSign, // cleartext input to be signed
             privateKeys: privateKeyDecrypted, // array of keys or single key with decrypted secret key data to sign cleartext

@@ -61,11 +61,12 @@
     <!--  -->
     <button id="useMockupData">
         <i class="fa fa-arrow-down"></i>&nbsp;
-        Use mockup data
+        (for testing only) Use mockup data
     </button>
     <!-- Key options BEGIN -->
     <h5>Password for private key:</h5>
     <textarea id="passphrase" rows="1" cols="71" placeholder="this is a very secret password"></textarea>
+    <div><strong>save the password in a safe place, private key can not be used without password</strong></div>
     <h5>First name:</h5>
     <textarea id="firstName" rows="1" cols="71" placeholder="John"></textarea>
     <h5>Last name:</h5>
@@ -97,11 +98,11 @@
     <h3>Public Key:</h3>
     <button id="savePublicKeyToLocalStorageButton">Save to local browser storage</button>
     <button id="removePublicKeyFromLocalStorageButton">Remove from local browser storage</button>
-    <button id="savePublicKeyAsFile">Save as file</button>
     <div id="publicKeyLocalStorageMessage"></div>
     <textarea id="pubkeyShow" rows="15" cols="71"></textarea>
     <br>
     <button id="readPublicKeyDataOpenPGPjs">Read Public Key Data</button>
+    <button id="savePublicKeyAsFile">Save as file</button>
     <!--
     &nbsp;
     <button id="readPublicKeyDataKbpgp">Read Public Key Data with Kbpgp.js (? broken)</button>
@@ -138,12 +139,40 @@
     <h3>Private Key:</h3>
     <button id="savePrivateKeyToLocalStorageButton">Save to local browser storage</button>
     <button id="removePrivateKeyFromLocalStorageButton">Remove from local browser storage</button>
-    <button id="savePrivateKeyAsFile">Save as file</button>
     <div id="privateKeyLocalStorageMessage"></div>
     <textarea id="privkeyShow" rows="15" cols="71"></textarea>
     <br>
-    <!--   -->
-    <!--  -->
+    <button id="readPrivateKeyDataOpenPGPjs">Read Private Key Data</button>
+    <button id="savePrivateKeyAsFile">Save as file</button>
+    <br>
+    <table>
+        <tr>
+            <td>Key ID: &nbsp;</td>
+            <td id="keyIdPrivate"></td>
+        </tr>
+        <tr>
+            <td>Fingerprint: &nbsp;</td>
+            <td id="fingerprintPrivate"></td>
+        </tr>
+        <tr>
+            <td>User ID:</td>
+            <td id="userIdPrivate"></td>
+        </tr>
+        <tr>
+            <td>Created:</td>
+            <td id="createdPrivate"></td>
+        </tr>
+        <tr>
+            <td>Valid until:</td>
+            <td id="expPrivate"></td>
+        </tr>
+        <tr>
+            <td>bits size:</td>
+            <td id="bitsSizePrivate"></td>
+        </tr>
+    </table>
+
+    <!-- Use your keys -->
     <div class="line"></div>
     <h4>Use your keys:</h4>
     <h3>
@@ -161,10 +190,14 @@
         <i class="fa fa-pencil-square-o"></i>&nbsp;
         Sign
     </button>
+    <div id="signMessageError"></div>
     <div class="line"></div>
     <h5>encrypted text:</h5>
     <textarea id="encryptedText" rows="10" cols="71"></textarea>
     <br>
+    <button id="saveEncryptedTextAsFile">Save as file</button>
+
+    <!-- Signed text -->
     <h5>signed text:</h5>
     <textarea id="signedMessage" rows="10" cols="71"></textarea>
     <br>
@@ -172,9 +205,11 @@
         <!--<i class="fa fa-unlock"></i>&nbsp;-->
         Check signature
     </button>
+    <button id="saveSignedMessageAsFile">Save as file</button>
     <br>
     <div id="checkSignatureResult"></div>
-    <!--   -->
+
+    <!-- Decrypted message   -->
     <br>
     <button id="decryptButton">
         <i class="fa fa-unlock"></i>&nbsp;
@@ -182,7 +217,11 @@
     </button>
     <br>
     <textarea id="decryptedText" rows="10" cols="71"></textarea>
+    <br>
+    <button id="saveDecryptedTextAsFile">Save as file</button>
     <div class="line"></div>
+    <br>
+
 </div>
 </body>
 

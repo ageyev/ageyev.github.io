@@ -631,6 +631,8 @@ $(function () {
             armor: true // (optional) if the return value should be ascii armored or the message object
         };
         var signedMessageObj = {};
+        // see: https://openpgpjs.org/openpgpjs/doc/openpgp.js.html#line285
+        // https://openpgpjs.org/openpgpjs/doc/module-openpgp.html 
         openpgp.sign(signObj).then(function (res) { //
             // @return {Promise<String|CleartextMessage>} ASCII armored message or the message of type CleartextMessage
             signedMessageObj = res;

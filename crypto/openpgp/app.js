@@ -643,4 +643,45 @@ $(function () {
         });
     });
 
+    /* https://codepen.io/shaikmaqsood/pen/XmydxJ/ */
+    function copyToClipboard(element) {
+        // var $temp = $("<input>");
+        var $temp = $("<textarea></textarea>");
+        $("body").append($temp);
+        console.log('copied to clipboard:');
+        console.log($(element).val());
+        $temp.val(
+            // $(element).text()
+            $(element).val()
+        ).select();
+        document.execCommand("copy");
+        $temp.remove();
+    }
+
+    $("#copyPublicKeyToClipboard").click(function () {
+        var element = "#pubkeyShow";
+        copyToClipboard(element);
+    });
+
+    $("#copyPrivateKeyToClipboard").click(function () {
+        var element = "#privkeyShow";
+        copyToClipboard(element);
+    });
+
+    $("#copyEncryptedTextToClipboard").click(function () {
+        var element = "#encryptedText";
+        copyToClipboard(element);
+    });
+
+    $("#copySignedMessageToClipboard").click(function () {
+        var element = "#signedMessage";
+        copyToClipboard(element);
+    });
+
+    $("#copyDecryptedTextToClipboard").click(function () {
+        var element = "#decryptedText";
+        copyToClipboard(element);
+    });
+
 });
+

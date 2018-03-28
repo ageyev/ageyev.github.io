@@ -4,7 +4,8 @@ var app = angular.module('smartContractTools', [
         'ui.router',
         // ---- my:
         'app.ui.router',
-        'app.controllers'
+        'app.controllers',
+        'app.directives'
     ]
 );
 

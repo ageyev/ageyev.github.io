@@ -33,7 +33,7 @@ app.run([
               $location,
               $log) {
 
-        $log.info('app.js started');
+        // $log.debug('app.js started');
 
         /* === Utility functions === */
 
@@ -75,12 +75,12 @@ app.run([
             "3": {
                 "networkName": "Ropsten TestNet",
                 "etherscanLinkPrefix": "https://ropsten.etherscan.io/",
-                "etherscanApiLink": "http://api-ropsten.etherscan.io/"
+                "etherscanApiLink": "https://api-ropsten.etherscan.io/"
             },
             "4": {        //
                 "networkName": "Rinkeby TestNet",
                 "etherscanLinkPrefix": "https://rinkeby.etherscan.io/",
-                "etherscanApiLink": "http://api-rinkeby.etherscan.io/"
+                "etherscanApiLink": "https://api-rinkeby.etherscan.io/"
             },
             "5777": {
                 "networkName": "Ganache",
@@ -88,7 +88,6 @@ app.run([
                 "etherscanApiLink": "https://api.etherscan.io/"
             }
         };
-
 
         /* web3 instantiation */
         // to access web3 instance in browser console:
@@ -157,7 +156,7 @@ app.run([
                 } else {
                     $rootScope.currentNetwork.ethereumProtocolVersion = result;
                     $rootScope.$apply();
-                    $log.debug('[app.run] web3.version.ethereum: ' + $rootScope.currentNetwork.ethereumProtocolVersion);
+                    // $log.debug('[app.run] web3.version.ethereum: ' + $rootScope.currentNetwork.ethereumProtocolVersion);
                     // the Ethereum protocol version
                 }
             });

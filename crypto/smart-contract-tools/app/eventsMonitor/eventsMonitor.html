@@ -15,7 +15,7 @@
         Smart contract needs to have verified code on etherscan.io
     </p>
 
-
+    <!-- errors -->
     <div id="allEventsError" ng-show="allEventsError">
         <br>
         <div class="ui negative message">
@@ -23,6 +23,17 @@
             <div class="header">{{allEventsError}}</div>
         </div>
     </div>
+
+    <div id="etherscanError" ng-show="etherscanError">
+        <br>
+        <div class="ui negative message">
+            <span ng-click="etherscanError=null">
+                <i class="close icon"></i>
+            </span>
+            <div class="header">{{etherscanError}}</div>
+        </div>
+    </div>
+    <!-- -->
 
     <div class="ui fluid action input">
         <input type="text" placeholder="enter address" ng-model="contractAddress">

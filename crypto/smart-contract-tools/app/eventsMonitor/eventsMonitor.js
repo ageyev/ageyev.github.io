@@ -41,6 +41,12 @@
                     $log.debug(data);
                     $log.debug();
                     var contractABI = "";
+
+                    if (data.status === "0") {
+                        $scope.etherscanError = data.result;
+                        return;
+                    }
+
                     contractABI = JSON.parse(data.result);
                     $log.debug("contractABI:");
                     $log.debug(contractABI);

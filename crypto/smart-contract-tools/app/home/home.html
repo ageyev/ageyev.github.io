@@ -1,0 +1,53 @@
+<div class="ui container">
+    <!-- breadcrumb -->
+    <div class="ui breadcrumb">
+        <a class="section" href="/">Home</a>
+        <div class="divider"> /</div>
+        <a class="section" href="/crypto/">Crypto</a>
+        <div class="divider"> /</div>
+        <div class="active section">Smart Contract Tools</div>
+    </div>
+    <div class="line"></div>
+
+
+    <div id="noConnectionToNodeError" ng-show="noConnectionToNodeError">
+        <br>
+        <div class="ui negative message">
+            <!--<i class="close icon"></i>-->
+            <div class="header">ERROR: No connection to Ethereum network</div>
+            <p>
+                You have to use <a href="https://metamask.io">MetaMask</a> plugin for your browser
+                or <a href="https://github.com/ethereum/mist/releases">Mist browser</a>
+                or other software providing connection to Ethereum node
+            </p>
+        </div>
+    </div>
+
+    <div id="mainSection" ng-hide="noConnectionToNodeError">
+        <h1>Smart contract tools</h1>
+        <br>
+        <a ui-sref="eventsMonitor">
+            Smart contract events monitor
+        </a>
+    </div>
+    <br>
+    <br>
+    <div ng-show="web3">
+        <div class="line"></div>
+        You use node:&nbsp {{currentNetwork.node}}<br>
+        Network ID:&nbsp{{currentNetwork.network_id }}&nbsp(<a ng-href="{{currentNetwork.etherscanLinkPrefix}}">{{currentNetwork.networkName}}</a>)<br>
+        Ethereum protocol version:&nbsp {{currentNetwork.ethereumProtocolVersion}}<br>
+        Node connected: {{web3.isConnected()}}<br>
+        <span ng-hide="accountNotDetectedError">
+    User accounts detected:
+        <a ng-href={{currentNetwork.etherscanLinkPrefix}}address/{{web3.eth.defaultAccount}}>
+        {{web3.eth.defaultAccount}}
+        </a>
+    </span>
+        <span ng-show="accountNotDetectedError">
+    No user accounts detected
+    </span>
+        <div class="line"></div>
+    </div>
+
+</div>

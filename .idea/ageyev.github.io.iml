@@ -14,5 +14,14 @@
     <orderEntry type="library" name="jquery" level="application" />
     <orderEntry type="library" name="Blob" level="application" />
     <orderEntry type="library" name="FileSaver" level="application" />
+    <orderEntry type="library" name="jquery" level="application" />
+    <orderEntry type="library" name="semantic" level="application" />
+    <orderEntry type="library" name="openpgp" level="application" />
+    <orderEntry type="library" name="Blob" level="application" />
+    <orderEntry type="library" name="FileSaver" level="application" />
+    <orderEntry type="library" name="angular" level="application" />
+    <orderEntry type="library" name="jquery-3.3.1" level="application" />
+    <orderEntry type="library" name="angular-ui-router" level="application" />
+    <orderEntry type="library" name="web3" level="application" />
   </component>
 </module>

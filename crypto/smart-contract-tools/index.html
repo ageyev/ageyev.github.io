@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="smartContractTools">
+<head>
+    <meta charset="UTF-8">
+    <title>Smart Contract Tools</title>
+
+    <!-- jQuery -->
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+
+    <!-- Semantic UI --->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/semantic-ui@2.3.1/dist/semantic.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/semantic-ui@2.3.1/dist/semantic.min.js"></script>
+    <!-- Font Awesome -->
+    <!--using 4.7.0 not latest (5.0.9)-->
+    <link rel="stylesheet" href="vendors/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <!-- web3.js -->
+    <script src="vendors/bignumber.js/4.0.2/bignumber.min.js"></script>
+    <script src="vendors/web3.js/0.19.0/dist/web3-light.min.js"></script>
+
+
+    <!-- AngularJS -->
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
+    <!-- angular-ui-router -->
+    <!-- https://github.com/angular-ui/ui-router/tree/legacy -->
+    <script src="https://cdn.rawgit.com/angular-ui/ui-router/0.4.3/release/angular-ui-router.min.js"></script>
+
+    <!-- my scripts -->
+    <script src="app/app.js"></script>
+    <script src="app/controllers.js"></script>
+    <script src="app/router.js"></script>
+    <script src="app/home/home.js"></script>
+    <script src="app/eventsMonitor/eventsMonitor.js"></script>
+    <script src="app/test/test.js"></script>
+
+    <!-- my scc -->
+    <link rel="stylesheet" href="app/css.css">
+
+</head>
+
+<body>
+<!-- AngularJS main -->
+<ui-view></ui-view>
+
+</body>
+</html>

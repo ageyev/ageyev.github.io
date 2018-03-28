@@ -1,0 +1,69 @@
+<div class="ui container">
+    <!-- breadcrumb -->
+    <div class="ui breadcrumb">
+        <a class="section" href="/">Home</a>
+        <div class="divider"> /</div>
+        <a class="section" href="/crypto/">Crypto</a>
+        <div class="divider"> /</div>
+        <div class="active section">Smart Contract Tools</div>
+    </div>
+    <div class="line"></div>
+
+    <h1>Smart contract events monitor</h1>
+
+    <p>
+        Smart contract needs to have verified code on etherscan.io
+    </p>
+
+
+    <div id="allEventsError" ng-show="allEventsError">
+        <br>
+        <div class="ui negative message">
+            <!--<i class="close icon"></i>-->
+            <div class="header">{{allEventsError}}</div>
+        </div>
+    </div>
+
+    <div class="ui fluid action input">
+        <input type="text" placeholder="enter address" ng-model="contractAddress">
+        <button class="ui button" ng-click="monitorEvents()">Monitor events</button>
+    </div>
+
+    <div ng-show="listeningToEvents">
+        <br>
+        Monitoring events from
+        <a ng-href={{currentNetwork.etherscanLinkPrefix}}address/{{contractAddress}}">
+            {{contractAddress}}
+        </a>
+        <span title="working...">
+                    <i class="fa fa-refresh fa-spin fa-fw"></i>
+        </span>
+        <button ng-click="stopMonitoringEvents()">stop</button>
+    </div>
+    <table class="ui celled structured table">
+        <thead>
+        <tr>
+            <th>
+                Index
+            </th>
+            <th>
+                Event data
+            </th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr ng-repeat="event in allEvents">
+            <td>
+                {{$index+1}}
+            </td>
+            <td>
+                Event: <span style="font-weight: bold">{{event.event}}</span><br>
+                Event data: {{event.args}}<br>
+                Log index: {{event.logIndex}}<br>
+                Block number: <a ng-href="{{currentNetwork.etherscanLinkPrefix}}block/{{event.blockNumber}}">{{event.blockNumber}}</a><br>
+                TransactionHash: <a ng-href="{{currentNetwork.etherscanLinkPrefix}}tx/{{event.transactionHash}}">{{event.transactionHash}}</a><br>
+            </td>
+        </tr>
+        </tbody>
+    </table>
+</div>

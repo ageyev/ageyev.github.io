@@ -34,7 +34,7 @@ app.run([
               $location,
               $log) {
 
-        // $log.debug('app.js started');
+        $log.debug('app started,  version: ', 0.1);
 
         /* === Utility functions === */
 

@@ -2,8 +2,8 @@
     <div class="line"></div>
     You use node:&nbsp {{currentNetwork.node}}<br>
     Network ID:&nbsp{{currentNetwork.network_id }}&nbsp(<a ng-href="{{currentNetwork.etherscanLinkPrefix}}">{{currentNetwork.networkName}}</a>)<br>
-    Ethereum protocol version:&nbsp {{currentNetwork.ethereumProtocolVersion}}<br>
-    Node connected: {{web3.isConnected()}}<br>
+    <!--Ethereum protocol version:&nbsp {{currentNetwork.ethereumProtocolVersion}}<br>-->
+    <!--Node connected: {{web3.isConnected()}}<br>-->
     <span ng-hide="accountNotDetectedError">
     User accounts detected:
         <a ng-href={{currentNetwork.etherscanLinkPrefix}}address/{{web3.eth.defaultAccount}}>

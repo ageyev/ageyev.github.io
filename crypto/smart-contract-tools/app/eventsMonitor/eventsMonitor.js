@@ -44,6 +44,8 @@
 
                     if (data.status === "0") {
                         $scope.etherscanError = data.result;
+                        $scope.$apply(); // <<< needed
+                        $log.debug("$scope.etherscanError: ", $scope.etherscanError);
                         return;
                     }
 
@@ -51,7 +53,7 @@
                     $log.debug("contractABI:");
                     $log.debug(contractABI);
                     $log.debug();
-                    if (contractABI != '') {
+                    if (contractABI !== '') {
                         var MyContract = $rootScope.web3.eth.contract(contractABI);
                         $scope.myContractInstance = MyContract.at($scope.contractAddress);
                         // $log.debug($scope.myContractInstance);

@@ -9,15 +9,25 @@
     </div>
     <div class="line"></div>
 
-    <h1>Smart contract events monitor</h1>
+    <a class="ui blue ribbon label" ng-href="{{currentNetwork.etherscanLinkPrefix}}">
+            <span style="color: white">
+            <i class="ethereum icon"></i>{{currentNetwork.networkName}}
+            </span>
+    </a>
+    <h1 style="margin-top: 0em">Smart contract events monitor</h1>
 
     <p>
         Smart contract needs to have verified code on etherscan.io
     </p>
 
+
+    <div class="ui fluid action input">
+        <input type="text" placeholder="enter address" ng-model="contractAddress">
+        <button class="ui button" ng-click="monitorEvents()">Monitor events</button>
+    </div>
+
     <!-- errors -->
     <div id="allEventsError" ng-show="allEventsError">
-        <br>
         <div class="ui negative message">
             <!--<i class="close icon"></i>-->
             <div class="header">{{allEventsError}}</div>
@@ -25,20 +35,13 @@
     </div>
 
     <div id="etherscanError" ng-show="etherscanError">
-        <br>
         <div class="ui negative message">
-            <span ng-click="etherscanError=null">
-                <i class="close icon"></i>
-            </span>
-            <div class="header">{{etherscanError}}</div>
+            <i class="close icon" ng-click="etherscanError=null"></i>
+            <p>{{etherscanError}}</p>
+
         </div>
     </div>
     <!-- -->
-
-    <div class="ui fluid action input">
-        <input type="text" placeholder="enter address" ng-model="contractAddress">
-        <button class="ui button" ng-click="monitorEvents()">Monitor events</button>
-    </div>
 
     <div ng-show="listeningToEvents">
         <br>

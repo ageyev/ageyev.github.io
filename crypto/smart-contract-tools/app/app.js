@@ -18,6 +18,12 @@ app.config(function ($sceDelegateProvider) {
     ]);
 });
 
+// // see:
+// // https://stackoverflow.com/questions/41460772/angularjs-how-to-remove-bang-prefix-from-url/41461312
+// app.config(['$locationProvider', function ($locationProvider) {
+//     $locationProvider.hashPrefix('');
+// }]);
+
 app.run([
     '$state',
     '$rootScope',

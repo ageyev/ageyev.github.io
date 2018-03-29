@@ -28,6 +28,11 @@ router
                     controller: 'app.eventsMonitor',
                     templateUrl: 'app/eventsMonitor/eventsMonitor.html'
                 })
+                .state('smartContractEvents', {
+                    url: '/smartContractEvents',
+                    controller: 'app.eventsMonitor',
+                    templateUrl: 'app/eventsMonitor/eventsMonitor.html'
+                })
                 .state('test', {
                     url: '/test',
                     controller: 'app.test',

@@ -20,6 +20,20 @@
         Smart contract needs to have verified code on etherscan.io
     </p>
 
+    <!-- -->
+    <div id="noConnectionToNodeError" ng-show="noConnectionToNodeError">
+        <br>
+        <div class="ui negative message">
+            <!--<i class="close icon"></i>-->
+            <div class="header">ERROR: No connection to Ethereum network</div>
+            <p>
+                You have to use <a href="https://metamask.io">MetaMask</a> plugin for your browser
+                or <a href="https://github.com/ethereum/mist/releases">Mist browser</a>
+                or other software providing connection to Ethereum node
+            </p>
+        </div>
+    </div>
+    <!-- -->
 
     <div class="ui fluid action input">
         <input type="text" placeholder="enter address" ng-model="contractAddress">

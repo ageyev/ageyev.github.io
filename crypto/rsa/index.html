@@ -3,116 +3,129 @@
 
 <head>
     <title>JavaScript RSA Encryption</title>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-116545400-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || []; //
+        function gtag() {
+            dataLayer.push(arguments);
+        } //
+        gtag('js', new Date()); //
+        gtag('config', 'UA-116545400-1'); //
+    </script>
+    <!-- -->
+
     <!--  -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/semantic-ui/2.2.6/semantic.min.css">
     <script src="https://cdn.jsdelivr.net/semantic-ui/2.2.6/semantic.min.js"></script>
     <!--  -->
-        <style type="text/css">
-    textarea {
-        font-family: monospace;
-        font-size: 75%;
-    }
+    <style type="text/css">
+        textarea {
+            font-family: monospace;
+            font-size: 75%;
+        }
     </style>
     <!--   -->
     <script src="bin/jsencrypt.min.js"></script>
     <!--  -->
     <script type="text/javascript">
-    // Call this code when the page is done loading.
-    $(function() {
+        // Call this code when the page is done loading.
+        $(function () {
 
-        /* Generate new key pair
-        see example: http://travistidwell.com/jsencrypt/demo/
-        and code on: https://github.com/travist/jsencrypt/blob/master/demo/index.html
-        */
-        $("#generateKeyPair").click(function(event) {
-            /* Act on the event */
-            // var crypt = new JSEncrypt({default_key_size: keySize});
-            var crypt = new JSEncrypt({
-                default_key_size: 1024
+            /* Generate new key pair
+            see example: http://travistidwell.com/jsencrypt/demo/
+            and code on: https://github.com/travist/jsencrypt/blob/master/demo/index.html
+            */
+            $("#generateKeyPair").click(function (event) {
+                /* Act on the event */
+                // var crypt = new JSEncrypt({default_key_size: keySize});
+                var crypt = new JSEncrypt({
+                    default_key_size: 1024
+                });
+                var privateKeyRSA = crypt.getPrivateKey();
+                var publicKeyRSA = crypt.getPublicKey();
+                $('#privkey').val(privateKeyRSA);
+                $('#pubkey').val(publicKeyRSA);
             });
-            var privateKeyRSA = crypt.getPrivateKey();
-            var publicKeyRSA = crypt.getPublicKey();
-            $('#privkey').val(privateKeyRSA);
-            $('#pubkey').val(publicKeyRSA);
+
+            // Run a quick encryption/decryption when they click.
+            $('#testme').click(function () {
+                // Encrypt with the public key...
+                var encrypt = new JSEncrypt();
+                encrypt.setPublicKey($('#pubkey').val());
+                var encrypted = encrypt.encrypt($('#input').val());
+                console.log("encrypted: " + encrypted);
+
+                // Decrypt with the private key...
+                var decrypt = new JSEncrypt();
+                decrypt.setPrivateKey($('#privkey').val());
+                var uncrypted = decrypt.decrypt(encrypted);
+                console.log("decrypted: " + uncrypted);
+
+                // Now a simple check to see if the round-trip worked.
+                if (uncrypted == $('#input').val()) {
+                    alert('It works!!!');
+                } else {
+                    alert('Something went wrong....');
+                }
+            });
+
+
+            $("#encrypt").click(function (event) {
+                /* Act on the event */
+                var encrypt = new JSEncrypt();
+                var publicKeyRSA = $('#pubkey').val();
+                console.log("publicKeyRSA: " + publicKeyRSA);
+                encrypt.setPublicKey(publicKeyRSA);
+                var messageText = $('#input').val();
+                console.log("messageText: " + messageText);
+                var encryptedText = encrypt.encrypt(messageText);
+                console.log("encryptedText: " + encryptedText);
+                $("#encryptedTextVal").val(encryptedText);
+                // $("#encryptedText").html(encryptedText);
+                $("#currentResult").text(encryptedText);
+            });
+
+            $("#decrypt").click(function (event) {
+                /* Act on the event */
+                var decrypt = new JSEncrypt();
+                var messageText = $("#encryptedTextVal").val();
+                var privateKeyRSA = $('#privkey').val();
+                decrypt.setPrivateKey(privateKeyRSA);
+                var decryptedText = decrypt.decrypt(messageText);
+                $("#decryptedTextVal").val(decryptedText);
+            });
+
         });
-
-        // Run a quick encryption/decryption when they click.
-        $('#testme').click(function() {
-            // Encrypt with the public key...
-            var encrypt = new JSEncrypt();
-            encrypt.setPublicKey($('#pubkey').val());
-            var encrypted = encrypt.encrypt($('#input').val());
-            console.log("encrypted: " + encrypted);
-
-            // Decrypt with the private key...
-            var decrypt = new JSEncrypt();
-            decrypt.setPrivateKey($('#privkey').val());
-            var uncrypted = decrypt.decrypt(encrypted);
-            console.log("decrypted: " + uncrypted);
-
-            // Now a simple check to see if the round-trip worked.
-            if (uncrypted == $('#input').val()) {
-                alert('It works!!!');
-            } else {
-                alert('Something went wrong....');
-            }
-        });
-
-
-        $("#encrypt").click(function(event) {
-            /* Act on the event */
-            var encrypt = new JSEncrypt();
-            var publicKeyRSA = $('#pubkey').val();
-            console.log("publicKeyRSA: " + publicKeyRSA);
-            encrypt.setPublicKey(publicKeyRSA);
-            var messageText = $('#input').val();
-            console.log("messageText: " + messageText);
-            var encryptedText = encrypt.encrypt(messageText);
-            console.log("encryptedText: " + encryptedText);
-            $("#encryptedTextVal").val(encryptedText);
-            // $("#encryptedText").html(encryptedText);
-            $("#currentResult").text(encryptedText);
-        });
-
-        $("#decrypt").click(function(event) {
-            /* Act on the event */
-            var decrypt = new JSEncrypt();
-            var messageText = $("#encryptedTextVal").val();
-            var privateKeyRSA = $('#privkey').val();
-            decrypt.setPrivateKey(privateKeyRSA);
-            var decryptedText = decrypt.decrypt(messageText);
-            $("#decryptedTextVal").val(decryptedText);
-        });
-
-    });
     </script>
 </head>
 
 <body>
 
-    <div class="ui container">
+<div class="ui container">
 
-        <!-- breadcrumb -->
-        <div class="ui breadcrumb">
-          <a class="section" href="/">Home</a>
-          <div class="divider"> / </div>
-          <a class="section" href="/crypto/">Crypto</a>
-          <div class="divider"> / </div>
-          <a class="section" href="/crypto/rsa/">RSA with JavaScript</a>
-          <div class="divider"> / </div>
-          <div class="active section">JSEncrypt</div>
-        </div>
-        <!--  -->
-        <h1>RSA</h1>
-        <hr>
-        <!-- <div class="ui segment"> -->
-        <div>
-          <p>Code: <i class="fa fa-github" aria-hidden="true"></i>
-          <a href="https://github.com/ageyev/ageyev.github.io/tree/master/crypto/rsa/index.html">https://github.com/ageyev/ageyev.github.io/tree/master/crypto/rsa/index.html</a>
-          </p>
-        </div>
+    <!-- breadcrumb -->
+    <div class="ui breadcrumb">
+        <a class="section" href="/">Home</a>
+        <div class="divider"> /</div>
+        <a class="section" href="/crypto/">Crypto</a>
+        <div class="divider"> /</div>
+        <a class="section" href="/crypto/rsa/">RSA with JavaScript</a>
+        <div class="divider"> /</div>
+        <div class="active section">JSEncrypt</div>
+    </div>
+    <!--  -->
+    <h1>RSA</h1>
+    <hr>
+    <!-- <div class="ui segment"> -->
+    <div>
+        <p>Code: <i class="fa fa-github" aria-hidden="true"></i>
+            <a href="https://github.com/ageyev/ageyev.github.io/tree/master/crypto/rsa/index.html">https://github.com/ageyev/ageyev.github.io/tree/master/crypto/rsa/index.html</a>
+        </p>
+    </div>
 
     <h4>RSA Encryption and Decryption with JavaScript </h4>
     <p>Using <a href="http://www.travistidwell.com/jsencrypt">JSEncrypt</a>
@@ -158,7 +171,8 @@ bVRTjwDxAT6mQol/LQIDAQAB
         </label>
         <button id="testme">
             Test
-        </button><b>:</b>
+        </button>
+        <b>:</b>
         <br>
         <textarea id="input" name="input" type="text" rows=4 cols=71>This is a test!</textarea>
     </div>
@@ -175,7 +189,7 @@ bVRTjwDxAT6mQol/LQIDAQAB
     <br>
     <textarea id="decryptedTextVal" rows="5" cols="71"></textarea>
     <hr>
-    </div>
+</div>
 </body>
 
 </html>

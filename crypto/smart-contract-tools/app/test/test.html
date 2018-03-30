@@ -5,10 +5,39 @@
         <div class="divider"> /</div>
         <a class="section" href="/crypto/">Crypto</a>
         <div class="divider"> /</div>
-        <div class="active section">Smart Contract Tools</div>
+        <a class="section" ui-sref="home">Smart Contract Tools</a>
+        <div class="divider"> /</div>
+        <div class="active section">Text<>Hex Converter</div>
     </div>
     <div class="line"></div>
 
-    <h1>Test</h1>
+    <h1>Text <> Hex Converter </h1>
+    <br>
 
+    <form>
+        <div class="ui fluid labeled input">
+            <div class="ui label">text</div>
+            <input placeholder="" type="text" ng-model="textToHexInput">
+            <button class="ui button" ng-click="toHex()">convert to hex</button>
+        </div>
+        <div class="ui fluid input">
+            <input ng-model="textToHexResult">
+        </div>
+    </form>
+    <br>
+    <form>
+        <div class="ui fluid labeled input">
+            <div class="ui label">hex</div>
+            <input placeholder="" type="text" ng-model="bytes32toTextInput">
+            <button class="ui button" ng-click="toText()">convert to text</button>
+        </div>
+        <div class="ui fluid input">
+            <input ng-model="bytes32toTextResult">
+        </div>
+    </form>
+
+
+    <!-- Footer -->
+    <br><br>
+    <footer-main></footer-main>
 </div>

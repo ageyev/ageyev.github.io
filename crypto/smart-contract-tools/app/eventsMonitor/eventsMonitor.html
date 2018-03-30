@@ -9,7 +9,7 @@
     </div>
     <div class="line"></div>
 
-    <a class="ui blue ribbon label" ng-href="{{currentNetwork.etherscanLinkPrefix}}">
+    <a class="ui blue ribbon label" ng-href="{{currentNetwork.etherscanLinkPrefix}}" target="_blank">
             <span style="color: white">
             <i class="ethereum icon"></i>{{currentNetwork.networkName}}
             </span>
@@ -18,6 +18,12 @@
 
     <p>
         Smart contract needs to have verified code on etherscan.io
+        <span ng-show="contractAddress">:&nbsp;
+        <a ng-href="{{currentNetwork.etherscanLinkPrefix}}address/{{contractAddress}}#code"
+           title="click to see code on etherscan.io" target="_blank">
+            {{contractAddress}}
+        </a>
+        </span>
     </p>
 
     <!-- -->
@@ -26,18 +32,57 @@
             <!--<i class="close icon"></i>-->
             <div class="header">ERROR: No connection to Ethereum network</div>
             <p>
-                You have to use <a href="https://metamask.io">MetaMask</a> plugin for your browser
-                or <a href="https://github.com/ethereum/mist/releases">Mist browser</a>
+                You have to use <a href="https://metamask.io" target="_blank">MetaMask</a> plugin for your browser
+                or <a href="https://github.com/ethereum/mist/releases" target="_blank">Mist browser</a>
                 or other software providing connection to Ethereum node
             </p>
         </div>
     </div>
-    <!-- -->
 
     <div class="ui fluid action input">
         <input type="text" placeholder="enter address" ng-model="contractAddress">
-        <button class="ui button" ng-click="monitorEvents()">Monitor events</button>
+        <button class="ui secondary button" ng-click="monitorEvents({})">Monitor events</button>
     </div>
+
+    <!-- filter options  -->
+    <button ng-show="currentBlockNumber>=0" class="ui mini basic button" ng-click="refreshCurrentBlockNumber()"
+            title="Click to refresh">
+        current block: {{currentBlockNumber}}
+    </button>
+    <button ng-show="!showFilterOptions" class="ui mini button" ng-click="showFilterOptions=!showFilterOptions">
+        show filter options
+    </button>
+    <button ng-show="showFilterOptions" class="ui mini button" ng-click="showFilterOptions=!showFilterOptions">
+        hide filter options
+    </button>
+    <div ng-show="showFilterOptions">
+        <form>
+            <fieldset>
+                <legend>filter</legend>
+                can take time if requested from early blocks<br>
+                <div class="ui mini labeled input">
+                    <div class="ui label">from block:</div>
+                    <input placeholder="" type="number" ng-model="additionalFilterObjectInput.fromBlock">
+                </div>
+                <div class="ui mini labeled input">
+                    <div class="ui label">to block:</div>
+                    <input placeholder="" type="number" ng-model="additionalFilterObjectInput.toBlock">
+                </div>
+                <div class="ui mini labeled input">
+                    <div class="ui label">address (to/from):</div>
+                    <input placeholder="" type="text" ng-model="additionalFilterObjectInput.address">
+                </div>
+                <div class="ui mini labeled input">
+                    <div class="ui label">indexed value (topic):</div>
+                    <input placeholder="" type="text" ng-model="additionalFilterObjectInput.topics">
+                </div>
+                <br><br>
+                <button class="ui mini secondary button" ng-click="applyFilter()">apply filter</button>&nbsp;
+                <button class="ui mini secondary button" ng-click="clearFilter()">clear filter</button>
+            </fieldset>
+        </form>
+    </div>
+    <!-- -->
 
     <!-- errors -->
     <div id="allEventsError" ng-show="allEventsError">
@@ -58,8 +103,8 @@
 
     <div ng-show="listeningToEvents">
         <br>
-        Monitoring events from
-        <a ng-href={{currentNetwork.etherscanLinkPrefix}}address/{{contractAddress}}">
+        Monitoring events (max: 100) from
+        <a ng-href={{currentNetwork.etherscanLinkPrefix}}address/{{contractAddress}}" target="_blank">
             {{contractAddress}}
         </a>
         <span title="working...">
@@ -87,8 +132,17 @@
                 Event: <span style="font-weight: bold">{{event.event}}</span><br>
                 Event data: {{event.args}}<br>
                 Log index: {{event.logIndex}}<br>
-                Block number: <a ng-href="{{currentNetwork.etherscanLinkPrefix}}block/{{event.blockNumber}}">{{event.blockNumber}}</a><br>
-                TransactionHash: <a ng-href="{{currentNetwork.etherscanLinkPrefix}}tx/{{event.transactionHash}}">{{event.transactionHash}}</a><br>
+                Block number:
+                <a ng-href="{{currentNetwork.etherscanLinkPrefix}}block/{{event.blockNumber}}" target="_blank">
+                    {{event.blockNumber}}
+                </a>
+                <br>
+                TransactionHash:
+                <a ng-href="{{currentNetwork.etherscanLinkPrefix}}tx/{{event.transactionHash}}" target="_blank">
+                    {{event.transactionHash}}
+                </a>
+                <br>
+
             </td>
         </tr>
         </tbody>

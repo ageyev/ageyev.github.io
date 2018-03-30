@@ -65,6 +65,19 @@ app.run([
             return new Date(unixTime * 1000);
         };
 
+        $rootScope.currentBlockNumber = null;
+        $rootScope.refreshCurrentBlockNumber = function () {
+            $rootScope.web3.eth.getBlockNumber(
+                function (error, result) {
+                    if (!error) {
+                        $rootScope.currentBlockNumber = result;
+                        $rootScope.$apply();
+                        $log.debug("$rootScope.currentBlockNumber: ", $rootScope.currentBlockNumber);
+                    }
+                }
+            )
+        };
+
         /* === web3.js === */
         // example from:
         // https://github.com/trufflesuite/truffle-artifactor#artifactorgenerateoptions-networks
@@ -176,6 +189,8 @@ app.run([
                 $log.warn("accounts not detected");
                 $rootScope.accountNotDetectedError = true;
             }
+
+            $rootScope.refreshCurrentBlockNumber();
         }
 
 

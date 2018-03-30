@@ -1,12 +1,21 @@
 <div ng-show="web3">
     <div class="line"></div>
     You use node:&nbsp {{currentNetwork.node}}<br>
-    Network ID:&nbsp{{currentNetwork.network_id }}&nbsp(<a ng-href="{{currentNetwork.etherscanLinkPrefix}}">{{currentNetwork.networkName}}</a>)<br>
+    Network ID:&nbsp{{currentNetwork.network_id }}&nbsp(
+    <a ng-href="{{currentNetwork.etherscanLinkPrefix}}" target="_blank">{{currentNetwork.networkName}}</a>
+    )<br>
     <!--Ethereum protocol version:&nbsp {{currentNetwork.ethereumProtocolVersion}}<br>-->
     <!--Node connected: {{web3.isConnected()}}<br>-->
+    <span ng-show="currentBlockNumber >= 0">
+        <span ng-click="refreshCurrentBlockNumber()" title="Click to refresh">Current block number:</span>
+        <a ng-href="{{currentNetwork.etherscanLinkPrefix}}block/{{currentBlockNumber}}" target="_blank">
+            {{currentBlockNumber}}
+        </a>
+        <br>
+    </span>
     <span ng-hide="accountNotDetectedError">
     User accounts detected:
-        <a ng-href={{currentNetwork.etherscanLinkPrefix}}address/{{web3.eth.defaultAccount}}>
+        <a ng-href="{{currentNetwork.etherscanLinkPrefix}}address/{{web3.eth.defaultAccount}}" target="_blank">
         {{web3.eth.defaultAccount}}
         </a>
     </span>

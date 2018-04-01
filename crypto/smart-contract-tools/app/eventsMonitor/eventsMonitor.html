@@ -18,15 +18,31 @@
     </a>
     <h1 style="margin-top: 0em">Smart contract events monitor</h1>
 
-    <p>
-        Smart contract needs to have verified code on etherscan.io
-        <span ng-show="contractAddress">:&nbsp;
-        <a ng-href="{{currentNetwork.etherscanLinkPrefix}}address/{{contractAddress}}#code"
-           title="click to see code on etherscan.io" target="_blank">
+    <div id="smartContractInfo">
+        <div ng-show="!userProvidedABI||userProvidedABI===''">
+            <p>
+                Smart contract verified code from etherscan.io will be used, or you can
+                <a href="" ng-click="showABI=!showABI">
+                    provide ABI
+                </a>
+                manually
+                <span ng-show="contractAddress">for: &nbsp;<a
+                        ng-href="{{currentNetwork.etherscanLinkPrefix}}address/{{contractAddress}}"
+                        title="click to see code on etherscan.io" target="_blank">
             {{contractAddress}}
-        </a>
-        </span>
-    </p>
+        </a></span>
+            </p>
+        </div>
+
+        <div ng-show="userProvidedABI">
+            Your provided ABI will be used for
+            <span ng-show="contractAddress">&nbsp;<a
+                    ng-href="{{currentNetwork.etherscanLinkPrefix}}address/{{contractAddress}}"
+                    title="click to see smart contract on etherscan.io" target="_blank">
+            {{contractAddress}}
+        </a></span>
+        </div>
+    </div>
 
     <!-- -->
     <div id="noConnectionToNodeError" ng-show="noConnectionToNodeError">
@@ -42,8 +58,10 @@
     </div>
 
     <div class="ui fluid action input">
-        <input type="text" placeholder="enter address" ng-model="contractAddress">
-        <button class="ui secondary button" ng-click="monitorEvents({})">Monitor events</button>
+        <input type="text" placeholder="enter smart contract address (required)" ng-model="contractAddress">
+        <button class="ui secondary button" ng-click="monitorEvents(additionalFilterObjectInput)">
+            Monitor events
+        </button>
     </div>
 
     <!-- filter options  -->
@@ -51,36 +69,73 @@
             title="Click to refresh">
         current block: {{currentBlockNumber}}
     </button>
+
     <button ng-show="!showFilterOptions" class="ui mini button" ng-click="showFilterOptions=!showFilterOptions">
-        show filter options
+        show options
     </button>
     <button ng-show="showFilterOptions" class="ui mini button" ng-click="showFilterOptions=!showFilterOptions">
-        hide filter options
+        hide options
     </button>
+
+    <button ng-show="!showABI" class="ui mini button" ng-click="showABI=!showABI">
+        provide your ABI
+    </button>
+    <button ng-show="showABI" class="ui mini button" ng-click="showABI=!showABI">
+        hide ABI
+    </button>
+
+    <button ng-show="!showTableFilter" class="ui mini button" ng-click="showTableFilter=!showTableFilter">
+        show filter
+    </button>
+    <button ng-show="showTableFilter" class="ui mini button" ng-click="showTableFilter=!showTableFilter">
+        hide filter
+    </button>
+
+    <div ng-show="showABI">
+        <form id="formABI">
+            <fieldset>
+                <legend>ABI</legend>
+                you can provide ABI for smart contract, that will be used instead of searching for ABI on etherscan.io
+                <br>
+                <div class="ui form">
+                    <div class="field">
+                        <!--<label>User Text</label>-->
+                        <textarea ng-model="userProvidedABI"></textarea>
+                    </div>
+                </div>
+                <button class="ui mini button" ng-click="clearUserProvidedABI()">
+                    clear ABI
+                </button>
+            </fieldset>
+        </form>
+    </div>
+
     <div ng-show="showFilterOptions">
         <form>
             <fieldset>
-                <legend>filter</legend>
+                <legend>Options</legend>
                 can take time if requested from early blocks<br>
+
                 <div class="ui mini labeled input">
                     <div class="ui label">from block:</div>
-                    <input placeholder="" type="number" ng-model="additionalFilterObjectInput.fromBlock">
+                    <input placeholder="latest (default)" type="number"
+                           ng-model="additionalFilterObjectInput.fromBlock">
                 </div>
+
                 <div class="ui mini labeled input">
                     <div class="ui label">to block:</div>
-                    <input placeholder="" type="number" ng-model="additionalFilterObjectInput.toBlock">
+                    <input placeholder="latest (default)" type="number"
+                           ng-model="additionalFilterObjectInput.toBlock">
                 </div>
+
                 <div class="ui mini labeled input">
-                    <div class="ui label">address (to/from):</div>
-                    <input placeholder="" type="text" ng-model="additionalFilterObjectInput.address">
+                    <div class="ui label">max events to show:</div>
+                    <input placeholder="" type="number" ng-model="maxEventsNumber">
                 </div>
-                <div class="ui mini labeled input">
-                    <div class="ui label">indexed value (topic):</div>
-                    <input placeholder="" type="text" ng-model="additionalFilterObjectInput.topics">
-                </div>
+
                 <br><br>
-                <button class="ui mini secondary button" ng-click="applyFilter()">apply filter</button>&nbsp;
-                <button class="ui mini secondary button" ng-click="clearFilter()">clear filter</button>
+                <button class="ui mini secondary button" ng-click="applyFilter()">apply options</button>&nbsp;
+                <button class="ui mini secondary button" ng-click="clearFilter()">clear options</button>
             </fieldset>
         </form>
     </div>
@@ -98,7 +153,6 @@
         <div class="ui negative message">
             <i class="close icon" ng-click="etherscanError=null"></i>
             <p>{{etherscanError}}</p>
-
         </div>
     </div>
     <!-- -->
@@ -114,6 +168,26 @@
         </span>
         <button ng-click="stopMonitoringEvents()">stop</button>
     </div>
+
+    <div id="tableFilter" ng-show="showTableFilter">
+        <form id="showTableFilterForm">
+            <fieldset>
+                <legend>Filter</legend>
+
+                <div class="ui mini labeled input">
+                    <div class="ui label">Event name:</div>
+                    <input type="text" placeholder="(case sensitive)" ng-model="showTableFilterOptions.event">
+                </div>
+                <div class="ui mini labeled input">
+                    <div class="ui label">Event data:</div>
+                    <input type="text" placeholder="(case sensitive)" ng-model="showTableFilterOptions.eventData">
+                </div>
+
+            </fieldset>
+        </form>
+    </div>
+
+    <!-- Table -->
     <table class="ui celled structured table">
         <thead>
         <tr>
@@ -127,20 +201,25 @@
         </thead>
         <tbody>
         <tr ng-repeat="event in allEvents">
-            <td>
+
+            <td ng-hide="(showTableFilterOptions.event&&showTableFilterOptions.event!=''&&event.event.indexOf(showTableFilterOptions.event)===-1)||(showTableFilterOptions.eventData&&showTableFilterOptions.eventData!=''&&event.argsStr.indexOf(showTableFilterOptions.eventData)===-1)">
                 {{$index+1}}
             </td>
-            <td>
+
+            <td ng-hide="(showTableFilterOptions.event&&showTableFilterOptions.event!=''&&event.event.indexOf(showTableFilterOptions.event)===-1)||(showTableFilterOptions.eventData&&showTableFilterOptions.eventData!=''&&event.argsStr.indexOf(showTableFilterOptions.eventData)===-1)">
+
                 Event: <span style="font-weight: bold">{{event.event}}</span><br>
                 Event data: {{event.args}}<br>
                 Log index: {{event.logIndex}}<br>
                 Block number:
-                <a ng-href="{{currentNetwork.etherscanLinkPrefix}}block/{{event.blockNumber}}" target="_blank">
+                <a ng-href="{{currentNetwork.etherscanLinkPrefix}}block/{{event.blockNumber}}"
+                   target="_blank">
                     {{event.blockNumber}}
                 </a>
                 <br>
                 TransactionHash:
-                <a ng-href="{{currentNetwork.etherscanLinkPrefix}}tx/{{event.transactionHash}}" target="_blank">
+                <a ng-href="{{currentNetwork.etherscanLinkPrefix}}tx/{{event.transactionHash}}"
+                   target="_blank">
                     {{event.transactionHash}}
                 </a>
                 <br>

@@ -2,6 +2,7 @@
 
 var app = angular.module('smartContractTools', [
         'ui.router',
+        // 'ui.uploader', // () https://github.com/angular-ui/ui-uploader
         // ---- my:
         'app.ui.router',
         'app.controllers',

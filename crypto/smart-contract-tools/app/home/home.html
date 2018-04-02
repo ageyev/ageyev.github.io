@@ -1,4 +1,5 @@
 <div class="ui container">
+
     <!-- breadcrumb -->
     <div class="ui breadcrumb">
         <a class="section" href="/">Home</a>
@@ -10,30 +11,26 @@
     <div class="line"></div>
 
 
-    <div id="noConnectionToNodeError" ng-show="noConnectionToNodeError">
-        <br>
-        <div class="ui negative message">
-            <!--<i class="close icon"></i>-->
-            <div class="header">ERROR: No connection to Ethereum network</div>
-            <p>
-                You have to use <a href="https://metamask.io">MetaMask</a> plugin for your browser
-                or <a href="https://github.com/ethereum/mist/releases">Mist browser</a>
-                or other software providing connection to Ethereum node
-            </p>
-        </div>
-    </div>
+    <no-connection-to-node-error></no-connection-to-node-error>
 
+    <!-- Main Section -->
     <div id="mainSection" ng-hide="noConnectionToNodeError">
+
         <h1>Smart contract tools</h1>
         <br>
         <a ui-sref="smartContractEvents">
             Smart contract events monitor
         </a>
         <br><br>
+        <a ui-sref="deploy">
+            Deploy smart contract
+        </a>
+        <br><br>
         <a ui-sref="test">
             Text <> Hex Converter
         </a>
     </div>
+    <!-- -->
     <br>
     <br>
     <footer-main></footer-main>

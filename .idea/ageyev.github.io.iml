@@ -23,5 +23,6 @@
     <orderEntry type="library" name="jquery-3.3.1" level="application" />
     <orderEntry type="library" name="angular-ui-router" level="application" />
     <orderEntry type="library" name="web3" level="application" />
+    <orderEntry type="library" name="browser-solc" level="application" />
   </component>
 </module>

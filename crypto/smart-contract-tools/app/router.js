@@ -33,6 +33,11 @@ router
                     controller: 'app.eventsMonitor',
                     templateUrl: 'app/eventsMonitor/eventsMonitor.html'
                 })
+                .state('deploy', {
+                    url: '/deploy',
+                    controller: 'app.deploy',
+                    templateUrl: 'app/deploy/deploy.html'
+                })
                 .state('test', {
                     url: '/test',
                     controller: 'app.test',

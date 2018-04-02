@@ -44,18 +44,7 @@
         </div>
     </div>
 
-    <!-- -->
-    <div id="noConnectionToNodeError" ng-show="noConnectionToNodeError">
-        <div class="ui negative message">
-            <!--<i class="close icon"></i>-->
-            <div class="header">ERROR: No connection to Ethereum network</div>
-            <p>
-                You have to use <a href="https://metamask.io" target="_blank">MetaMask</a> plugin for your browser
-                or <a href="https://github.com/ethereum/mist/releases" target="_blank">Mist browser</a>
-                or other software providing connection to Ethereum node
-            </p>
-        </div>
-    </div>
+    <no-connection-to-node-error></no-connection-to-node-error>
 
     <div class="ui fluid action input">
         <input type="text" placeholder="enter smart contract address (required)" ng-model="contractAddress">
@@ -217,7 +206,7 @@
                     {{event.blockNumber}}
                 </a>
                 <br>
-                TransactionHash:
+                Transaction Hash:
                 <a ng-href="{{currentNetwork.etherscanLinkPrefix}}tx/{{event.transactionHash}}"
                    target="_blank">
                     {{event.transactionHash}}

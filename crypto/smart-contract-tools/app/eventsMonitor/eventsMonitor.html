@@ -26,11 +26,12 @@
                     provide ABI
                 </a>
                 manually
-                <span ng-show="contractAddress">for: &nbsp;<a
-                        ng-href="{{currentNetwork.etherscanLinkPrefix}}address/{{contractAddress}}"
-                        title="click to see code on etherscan.io" target="_blank">
-            {{contractAddress}}
-        </a></span>
+                <span ng-show="contractAddress">for: &nbsp;
+                    <a ng-href="{{currentNetwork.etherscanLinkPrefix}}address/{{contractAddress}}"
+                       title="click to see code on etherscan.io" target="_blank">
+                    {{contractAddress}}
+                    </a>
+                </span>
             </p>
         </div>
 

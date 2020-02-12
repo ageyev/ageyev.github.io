@@ -1,0 +1,13 @@
+[book]
+authors = ["Viktor Ageyev"]
+language = "ru"
+multilingual = false
+src = "src"
+title = "Сознание и существование"
+
+git-repository-url = "https://github.com/ageyev/ageyev.github.io"
+git-repository-icon = "fa-github"
+
+[output.html.search]
+enable = false
+

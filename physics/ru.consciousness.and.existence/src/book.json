@@ -8,6 +8,9 @@
     "simple-page-toc",
     "anchor-navigation-ex"
   ],
+  "structure": {
+    "readme": "README.md"
+  },
   "variables": {
     "host": "ageyev.github.io"
   },
@@ -18,7 +21,7 @@
       "showLevel": false
     },
     "github": {
-      "url": "https://github.com/ageyev/ageyev.github.io"
+      "url": "https://github.com/ageyev/ageyev.github.io/tree/master/physics/ru.consciousness.and.existence"
     },
     "simple-page-toc": {
       "maxDepth": 3,

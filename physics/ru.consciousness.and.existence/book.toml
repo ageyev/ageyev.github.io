@@ -5,7 +5,7 @@ multilingual = false
 src = "src"
 title = "Сознание и существование"
 
-git-repository-url = "https://github.com/ageyev/ageyev.github.io"
+git-repository-url = "https://github.com/ageyev/ageyev.github.io/tree/master/physics/ru.consciousness.and.existence"
 git-repository-icon = "fa-github"
 
 [output.html.search]

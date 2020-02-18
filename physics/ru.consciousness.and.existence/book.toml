@@ -3,7 +3,7 @@ authors = ["Viktor Ageyev"]
 language = "ru"
 multilingual = false
 src = "src"
-title = "Сознание и существование"
+title = "Сознание и существование. Библейская интерпертация квантовой механики"
 
 git-repository-url = "https://github.com/ageyev/ageyev.github.io/tree/master/physics/ru.consciousness.and.existence"
 git-repository-icon = "fa-github"

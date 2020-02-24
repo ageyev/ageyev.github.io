@@ -28,10 +28,6 @@
 
 ### Двухщелевой эксперимент 
 
-> И свет во тьме светит, и тьма не объяла его.
-> 
-> [Ин. 1:5](https://ru.wikisource.org/wiki/%D0%9E%D1%82_%D0%98%D0%BE%D0%B0%D0%BD%D0%BD%D0%B0_%D1%81%D0%B2%D1%8F%D1%82%D0%BE%D0%B5_%D0%B1%D0%BB%D0%B0%D0%B3%D0%BE%D0%B2%D0%B5%D1%81%D1%82%D0%B2%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5#1:5)
-
 > Мы разберем феномен, который невозможно, абсолютно невозможно объяснить любым [классическим способом](https://ru.wikipedia.org/wiki/%D0%9A%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D0%BA%D0%B0) и в котором заложено сердце квантовой механики. В действительности, он содержит тайну.
 > 
 > (We choose to examine a phenomenon which is impossible, absolutely impossible, to explain in any classical way, and which has in it the heart of quantum mechanics. In reality, it contains the only mystery)

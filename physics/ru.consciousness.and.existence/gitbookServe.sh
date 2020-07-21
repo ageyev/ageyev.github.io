@@ -1,2 +1,0 @@
-
-gitbook serve ./src ./gitbook

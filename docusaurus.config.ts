@@ -67,7 +67,7 @@ const config: Config = {
 
     navbar: {
       // --- Navbar Title
-      title: '', // TODO: add site title to Navbar
+      title: 'International Law etc.', // TODO: add site title to Navbar
       logo: {
         alt: 'Logo',
         src: 'img/logo.svg',

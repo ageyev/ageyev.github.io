@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkageyev_github_io=self.webpackChunkageyev_github_io||[]).push([[722],{3078:e=>{e.exports=JSON.parse('{"tags":[{"label":"Viktor Ageyev","permalink":"/ru/tags/ageyev","description":"Viktor Ageyev","count":1},{"label":"Test","permalink":"/ru/tags/Test","description":"Publication for testing website features","count":1}]}')}}]);

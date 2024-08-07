@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>International Law Blog</title>
+        <link>https://international-law.info/uk/</link>
+        <description>International Law Blog</description>
+        <lastBuildDate>Tue, 06 Aug 2024 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>uk</language>
+        <item>
+            <title><![CDATA[Starting]]></title>
+            <link>https://international-law.info/uk/starting</link>
+            <guid>https://international-law.info/uk/starting</guid>
+            <pubDate>Tue, 06 Aug 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Welcome to the new blog.]]></description>
+            <content:encoded><![CDATA[<p>Welcome to the new blog.</p>
+<p>It was build with <a href="https://docusaurus.io/" target="_blank" rel="noopener noreferrer">Docusaurus</a></p>
+<p>Its code is hosted on GitHub, see <a href="https://github.com/ageyev/ageyev.github.io/" target="_blank" rel="noopener noreferrer">repo</a></p>]]></content:encoded>
+            <category>Viktor Ageyev</category>
+            <category>Test</category>
+        </item>
+    </channel>
+</rss>

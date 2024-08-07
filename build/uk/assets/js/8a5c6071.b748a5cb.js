@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkageyev_github_io=self.webpackChunkageyev_github_io||[]).push([[376],{5355:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/uk/","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

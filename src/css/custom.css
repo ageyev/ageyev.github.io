@@ -4,6 +4,7 @@
  * work well for content-centric websites.
  */
 
+
 /* You can override the default Infima variables here. */
 :root {
   --ifm-color-primary: #2e8555;
@@ -28,3 +29,29 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+/* =================== */
+
+/* remove a dot between footer links */
+.footer__link-separator {
+  color: transparent !important;
+}
+
+/* remove underline next to icon */
+.footer_icon:hover{
+  text-decoration: none !important;
+}
+
+/* icon default color */
+svg.footer_icon {
+  fill: whitesmoke;
+}
+
+svg.footer_icon:hover {
+  fill: var(--ifm-color-primary-lightest);
+}
+
+svg.footer_icon {
+  width: 1.1rem;
+}
+

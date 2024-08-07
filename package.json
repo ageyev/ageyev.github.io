@@ -1,6 +1,8 @@
 {
-  "name": "docusaurus",
-  "version": "0.0.0",
+  "name": "ageyev.github.io",
+  "version": "0.1.0",
+  "homepage": "https://international-law.info",
+  "author": "Viktor Ageyev",
   "private": true,
   "scripts": {
     "docusaurus": "docusaurus",
@@ -23,6 +25,7 @@
     "@fortawesome/free-solid-svg-icons": "^6.6.0",
     "@fortawesome/react-fontawesome": "^0.2.2",
     "@mdx-js/react": "^3.0.0",
+    "@types/react-dom": "^18.3.0",
     "clsx": "^2.0.0",
     "prism-react-renderer": "^2.3.0",
     "react": "^18.0.0",

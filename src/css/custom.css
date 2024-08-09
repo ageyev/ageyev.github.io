@@ -42,16 +42,28 @@
   text-decoration: none !important;
 }
 
-/* icon default color */
-svg.footer_icon {
+/*svg.footer_icon:hover {*/
+/*  fill: var(--ifm-color-primary-lightest);*/
+/*}*/
+
+svg.icon {
   fill: whitesmoke;
+  height: 1rem;
 }
 
-svg.footer_icon:hover {
-  fill: var(--ifm-color-primary-lightest);
+svg.youtube:hover {
+  fill: firebrick;
 }
 
-svg.footer_icon {
-  width: 1.1rem;
+svg.facebook:hover {
+  fill: #2d66c3;
 }
+
+svg.twitter:hover {
+  fill: gray;
+}
+
+
+
+
 

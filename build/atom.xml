@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://international-law.info/</id>
-    <title>International Law Blog</title>
+    <title>International Law etc. Blog</title>
     <updated>2024-08-06T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://international-law.info/"/>
-    <subtitle>International Law Blog</subtitle>
+    <subtitle>International Law etc. Blog</subtitle>
     <icon>https://international-law.info/img/favicon/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Starting]]></title>

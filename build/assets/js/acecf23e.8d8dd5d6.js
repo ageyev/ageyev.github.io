@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkageyev_github_io=self.webpackChunkageyev_github_io||[]).push([[903],{1912:e=>{e.exports=JSON.parse('{"blogBasePath":"/","blogTitle":"International Law etc.","authorsListPath":"/authors"}')}}]);

@@ -1,12 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://international-law.info/</id>
     <title>International Law etc. Blog</title>
     <updated>2024-08-06T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://international-law.info/"/>
-    <subtitle>International Law etc. Blog</subtitle>
+    <subtitle>Keep up to date with upcoming blog posts by following our feed!</subtitle>
     <icon>https://international-law.info/img/favicon/favicon.ico</icon>
+    <rights>Copyright © 2024 Viktor Ageyev</rights>
     <entry>
         <title type="html"><![CDATA[Starting]]></title>
         <id>https://international-law.info/starting</id>
@@ -18,7 +19,6 @@
 <p>Its code is hosted on GitHub, see <a href="https://github.com/ageyev/ageyev.github.io/" target="_blank" rel="noopener noreferrer">repo</a></p>]]></content>
         <author>
             <name>Viktor Ageyev</name>
-            <uri>/docs/about/viktor-ageyev</uri>
         </author>
         <category label="Viktor Ageyev" term="Viktor Ageyev"/>
         <category label="Test" term="Test"/>

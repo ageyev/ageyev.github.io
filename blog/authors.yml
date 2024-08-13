@@ -1,5 +1,10 @@
 ageyev:
   name: Viktor Ageyev
   title: author
-  url: /docs/about/viktor-ageyev
+  # url: /docs/about/viktor-ageyev
   image_url: /img/authors/ageyev_viktor_02.jpg
+  page: true # https://docusaurus.io/blog/releases/3.5#blog-authors-pages
+  socials: # https://docusaurus.io/blog/releases/3.5#blog-social-icons
+    x: ageyev
+    linkedin: ageyev
+    github: ageyev

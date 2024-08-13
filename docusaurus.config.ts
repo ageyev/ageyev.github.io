@@ -3,6 +3,13 @@ import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 //
 
+
+const blogOptions = {
+  feedOptions: {
+    xslt: true,
+  },
+};
+
 const config: Config = {
   title: 'International Law etc.', // 'My Site', // "title" is not allowed to be empty
   tagline: 'by Viktor Ageyev',
@@ -49,6 +56,20 @@ const config: Config = {
         blog: {
           // see: https://docusaurus.io/docs/blog#blog-only-mode
           routeBasePath: '/', // Serve the blog at the site's root
+          blogTitle: 'International Law etc.',
+          blogDescription: '',
+          postsPerPage: 5,
+
+          // (!) feeds are only generated in production, see https://github.com/facebook/docusaurus/issues/6523#issuecomment-1025743866
+          // https://docusaurus.io/blog/releases/3.5#blog-feeds-styling
+          // https://darekkay.com/blog/rss-styling/
+          // https://github.com/facebook/docusaurus/blob/main/website/docusaurus.config.ts#L488
+          feedOptions: {
+            type: 'all',
+            description: 'Keep up to date with upcoming blog posts by following our feed!',
+            copyright: `Copyright © ${new Date().getFullYear()} Viktor Ageyev`,
+            xslt: true,
+          },
 
           showReadingTime: false, // default: true
           // Please change this to your repo.
@@ -133,6 +154,11 @@ const config: Config = {
       ],
       // copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
       copyright: `Copyright © 2024, Viktor Ageyev`,
+      // copyright: ` // html works:
+      //           <a href="https://www.facebook.com/viktor.ageyev" target="_blank" title="Facebook" class="footer_icon">
+      //           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="facebook icon"><!--!Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--><path d="M512 256C512 114.6 397.4 0 256 0S0 114.6 0 256C0 376 82.7 476.8 194.2 504.5V334.2H141.4V256h52.8V222.3c0-87.1 39.4-127.5 125-127.5c16.2 0 44.2 3.2 55.7 6.4V172c-6-.6-16.5-1-29.6-1c-42 0-58.2 15.9-58.2 57.2V256h83.6l-14.4 78.2H287V510.1C413.8 494.8 512 386.9 512 256h0z"/></svg>
+      //           </a>
+      //         `,
     },
     prism: {
       theme: prismThemes.github,

@@ -107,7 +107,7 @@ const config: Config = {
           position: 'right',
         },
         { // --- RSS
-          href: '/rss.xml',
+          href: 'https://international-law.info/rss.xml',
           label: 'RSS',
           position: 'right',
         },

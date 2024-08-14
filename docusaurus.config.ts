@@ -162,6 +162,13 @@ const config: Config = {
       theme: prismThemes.github,
       darkTheme: prismThemes.dracula,
     },
+    // https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-google-gtag
+    // This plugin is always inactive in development and only active in production
+    // to avoid polluting the analytics statistics.
+    gtag: {
+      trackingID: 'G-H9H0GL30GY',
+      anonymizeIP: true,
+    },
   } satisfies Preset.ThemeConfig,
 };
 

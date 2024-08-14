@@ -3,13 +3,6 @@ import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 //
 
-
-const blogOptions = {
-  feedOptions: {
-    xslt: true,
-  },
-};
-
 const config: Config = {
   title: 'International Law etc.', // 'My Site', // "title" is not allowed to be empty
   tagline: 'by Viktor Ageyev',
@@ -89,7 +82,7 @@ const config: Config = {
 
     navbar: {
       // --- Navbar Title
-      title: 'International Law etc.', // TODO: add site title to Navbar
+      title: 'International Law etc.',
       logo: {
         alt: 'Logo',
         src: 'img/logo.svg',
@@ -111,6 +104,11 @@ const config: Config = {
         { // --- Link to GitHub
           href: 'https://github.com/ageyev/ageyev.github.io/',
           label: 'GitHub',
+          position: 'right',
+        },
+        { // --- RSS
+          href: '/rss.xml',
+          label: 'RSS',
           position: 'right',
         },
       ],

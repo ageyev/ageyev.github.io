@@ -72,6 +72,14 @@ const config: Config = {
         theme: {
           customCss: './src/css/custom.css',
         },
+        // see: https://github.com/facebook/docusaurus/pull/5832
+        // https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-google-gtag
+        // This plugin is always inactive in development and only active in production
+        // to avoid polluting the analytics statistics.
+        gtag: {
+          trackingID: 'G-H9H0GL30GY',
+          // anonymizeIP: true,
+        },
       } satisfies Preset.Options,
     ],
   ],
@@ -161,13 +169,6 @@ const config: Config = {
     prism: {
       theme: prismThemes.github,
       darkTheme: prismThemes.dracula,
-    },
-    // https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-google-gtag
-    // This plugin is always inactive in development and only active in production
-    // to avoid polluting the analytics statistics.
-    gtag: {
-      trackingID: 'G-H9H0GL30GY',
-      anonymizeIP: true,
     },
   } satisfies Preset.ThemeConfig,
 };

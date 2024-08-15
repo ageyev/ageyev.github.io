@@ -266,4 +266,15 @@ But in this case:
 
 There is also no [usucaption](https://en.wikipedia.org/wiki/Usucaption) (a method of acquiring property by occupying it uninterrupted for a certain period of time) regarding the seat of in the UN. And this was clearly demonstrated by the resolution of the General Assembly on expelling the Chiang Kai-shek government from the UN. And even if it were, the principle "ex injuria jus non oritur" would prevent it from being applied here. 
 
+---
+See also: 
+
+Viktor Ageyev [Two scenarios of how to expel Russia from the UN](https://www.eurointegration.com.ua/articles/2022/10/18/7148832/) // 2022-10-18,
+"European Pravda"
+(in Ukrainian)
+
+___
+Thanks to
+ex-ambassador of Ukraine to the UN, US, RF, OSCE [Volodymyr Yelchenko](https://www.facebook.com/volodymyr.yelchenko), and to 
+lawyer [Max Baryshnikov](https://www.facebook.com/max.baryshnikov) for the help in working on the ideas presented in this text.
 

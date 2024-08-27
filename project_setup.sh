@@ -13,7 +13,6 @@ rm -r "${tempDir}${name}"
 # https://react.dev/reference/react-dom/server/renderToStaticMarkup
 npm install -S @types/react-dom
 
-
 # YouTube embed videos
 # see: https://github.com/facebook/docusaurus/blob/main/website/src/pages/index.tsx
 # https://www.npmjs.com/package/react-lite-youtube-embed

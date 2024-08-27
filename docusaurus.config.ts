@@ -28,7 +28,7 @@ const config: Config = {
   i18n: {
     defaultLocale: 'en',
     // locales: ['en', 'ru', 'uk'], //
-    locales: ['en']
+    locales: ['en', 'ru', 'uk']
   },
 
   presets: [
@@ -108,6 +108,10 @@ const config: Config = {
           to: '/', // '/blog' > '/' , see https://docusaurus.io/docs/blog#blog-only-mode
           label: 'Blog',
           position: 'left'
+        },
+        { // i18n
+          type: 'localeDropdown',
+          position: 'left',
         },
         { // --- Link to GitHub
           href: 'https://github.com/ageyev/ageyev.github.io/',

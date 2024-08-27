@@ -1,0 +1,18 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.UN": {
+    "message": "ООН",
+    "description": "The label for category UN in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Russian Federation": {
+    "message": "РФ",
+    "description": "The label for category Russian Federation in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.About": {
+    "message": "О нас",
+    "description": "The label for category About in sidebar tutorialSidebar"
+  }
+}

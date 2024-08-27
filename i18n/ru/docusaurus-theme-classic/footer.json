@@ -1,0 +1,14 @@
+{
+  "link.item.label.[Texts]": {
+    "message": "[Тексты]",
+    "description": "The label of footer link with label=[Texts] linking to /docs/intro"
+  },
+  "link.item.label.[Blog]": {
+    "message": "[Блог]",
+    "description": "The label of footer link with label=[Blog] linking to /"
+  },
+  "copyright": {
+    "message": "Copyright © 2024, Viktor Ageyev",
+    "description": "The footer copyright"
+  }
+}

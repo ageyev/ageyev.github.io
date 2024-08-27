@@ -37,7 +37,7 @@ const config: Config = {
       {
         docs: {
           // see: https://docusaurus.io/docs/docs-introduction#docs-only-mode
-          // routeBasePath: '/', // Serve the docs at the site's root
+          routeBasePath: '/', // Serve the docs at the site's root
 
           sidebarPath: './sidebars.ts',
           // Please change this to your repo.
@@ -48,7 +48,7 @@ const config: Config = {
         },
         blog: {
           // see: https://docusaurus.io/docs/blog#blog-only-mode
-          routeBasePath: '/', // Serve the blog at the site's root
+          // routeBasePath: '/', // Serve the blog at the site's root
           blogTitle: 'International Law etc.',
           blogDescription: '',
           postsPerPage: 5,

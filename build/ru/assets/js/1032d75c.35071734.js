@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkageyev_github_io=self.webpackChunkageyev_github_io||[]).push([[632],{8920:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/ru/","page":1,"postsPerPage":5,"totalPages":1,"totalCount":1,"blogDescription":"","blogTitle":"International Law etc."}}')}}]);

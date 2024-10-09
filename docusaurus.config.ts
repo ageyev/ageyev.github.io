@@ -84,6 +84,12 @@ const config: Config = {
     // Replace it with your project's social card
     // image: 'img/docusaurus-social-card.jpg', // TODO: change
 
+    colorMode: {
+      defaultMode: 'dark', // 'light',
+      disableSwitch: false,
+      respectPrefersColorScheme: true, // false,
+    },
+
     navbar: {
       // --- Navbar Title
       title: 'International Law etc.',

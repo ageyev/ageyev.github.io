@@ -1,8 +1,8 @@
 test:
-  label: Test
+  label: Тест
   permalink: /Test
-  description: Publication for testing website features
+  description: Публикации для тестирования фукционала сайта
 ageyev:
-  label: Viktor Ageyev
+  label: Виктор Агеев
   permalink: /ageyev
-  description: Viktor Ageyev
+  description: Виктор Агеев

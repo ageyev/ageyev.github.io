@@ -1,0 +1,23 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "International Law etc. Blog",
+    "home_page_url": "https://international-law.info/blog",
+    "description": "Keep up to date with upcoming blog posts by following our feed!",
+    "items": [
+        {
+            "id": "https://international-law.info/blog/starting",
+            "content_html": "<p>Welcome to the new blog.</p>\n<p>It was build with <a href=\"https://docusaurus.io/\" target=\"_blank\" rel=\"noopener noreferrer\">Docusaurus</a> framework, its code is hosted on GitHub, see <a href=\"https://github.com/ageyev/ageyev.github.io/\" target=\"_blank\" rel=\"noopener noreferrer\">repo</a></p>",
+            "url": "https://international-law.info/blog/starting",
+            "title": "Starting",
+            "summary": "Welcome to the new blog.",
+            "date_modified": "2024-08-06T00:00:00.000Z",
+            "author": {
+                "name": "Viktor Ageyev"
+            },
+            "tags": [
+                "Viktor Ageyev",
+                "Test"
+            ]
+        }
+    ]
+}

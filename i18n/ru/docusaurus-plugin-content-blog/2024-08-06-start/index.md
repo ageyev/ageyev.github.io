@@ -5,10 +5,7 @@ authors: [ageyev]
 tags: [ageyev, test]
 ---
 
-Welcome to the new blog.
+Добро пожаловать в новый блог.
 
-It was build with [Docusaurus](https://docusaurus.io)
-
-<!-- truncate -->
-
-Its code is hosted on GitHub, see [repo](https://github.com/ageyev/ageyev.github.io/)
+Этот сайт написан на фреймворке [Docusaurus](https://docusaurus.io),
+код открыт и публикуется на GitHub, см. [репозиторий](https://github.com/ageyev/ageyev.github.io/) 

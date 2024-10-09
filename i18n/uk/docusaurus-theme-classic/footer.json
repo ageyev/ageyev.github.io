@@ -1,11 +1,11 @@
 {
   "link.item.label.[Texts]": {
-    "message": "[Texts]",
-    "description": "The label of footer link with label=[Texts] linking to /docs/intro"
+    "message": "[Тексти]",
+    "description": "The label of footer link with label=[Texts] linking to /"
   },
   "link.item.label.[Blog]": {
-    "message": "[Blog]",
-    "description": "The label of footer link with label=[Blog] linking to /"
+    "message": "[Блог]",
+    "description": "The label of footer link with label=[Blog] linking to /blog"
   },
   "copyright": {
     "message": "Copyright © 2024, Viktor Ageyev",

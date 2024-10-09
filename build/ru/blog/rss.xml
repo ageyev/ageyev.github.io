@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="rss.xsl"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>International Law etc. Blog</title>
+        <link>https://international-law.info/ru/blog</link>
+        <description>Keep up to date with upcoming blog posts by following our feed!</description>
+        <lastBuildDate>Tue, 06 Aug 2024 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>ru</language>
+        <copyright>Copyright © 2024 Viktor Ageyev</copyright>
+        <item>
+            <title><![CDATA[Starting]]></title>
+            <link>https://international-law.info/ru/blog/starting</link>
+            <guid>https://international-law.info/ru/blog/starting</guid>
+            <pubDate>Tue, 06 Aug 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Добро пожаловать в новый блог.]]></description>
+            <content:encoded><![CDATA[<p>Добро пожаловать в новый блог.</p>
+<p>Этот сайт написан на фреймворке <a href="https://docusaurus.io/" target="_blank" rel="noopener noreferrer">Docusaurus</a>,
+код открыт и публикуется на GitHub, см. <a href="https://github.com/ageyev/ageyev.github.io/" target="_blank" rel="noopener noreferrer">репозиторий</a></p>]]></content:encoded>
+            <category>Виктор Агеев</category>
+            <category>Тест</category>
+        </item>
+    </channel>
+</rss>

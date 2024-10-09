@@ -2,9 +2,10 @@
 title: Introduction 
 sidebar_position: 1
 hide_title: true
-draft: false 
+draft: false
+slug: /
 ---
 
 ## Introduction 
 
-This site is primarily about international law and topics closely or not so closely related to it, like local law, and also philosophy, religion and history. 
+Цей сайт про міжнародне право, та теми що з ним пов'язані, зокрема, національні правові системи, а також філософію, релігію та історію.

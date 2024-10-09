@@ -1,12 +1,11 @@
 ---
-title: How to expel RF from UN
-slug: how_to_expel_rf_from_un
-sidebar_position: 1
-hide_title: true
-draft: false 
+title: How to expel the Russian Federation from the UN
+sidebar_position: 2
+hide_title: false
+draft: true
 ---
 
-# How to overcome veto power in the U.N. Security Council and/or expel RF from the U.N.
+# How to expel the Russian Federation from the UN
 
 In the UN, especially in the 77th Session of the U.N. General Assembly, representatives of some states, including the United States and Ukraine, expressed the view that the Russian Federation, using the right of veto in the U.N. Security Council, commits crimes against international peace and security with impunity, and therefore some action must be taken to prevent the abuse of the right of veto, or even to remove the RF from the UN Security Council. However, until now no practical scenarios have been proposed to implement this.
 

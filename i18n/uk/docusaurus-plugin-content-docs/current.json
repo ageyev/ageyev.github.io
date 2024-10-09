@@ -7,10 +7,6 @@
     "message": "UN",
     "description": "The label for category UN in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.Russian Federation": {
-    "message": "Russian Federation",
-    "description": "The label for category Russian Federation in sidebar tutorialSidebar"
-  },
   "sidebar.tutorialSidebar.category.About": {
     "message": "About",
     "description": "The label for category About in sidebar tutorialSidebar"

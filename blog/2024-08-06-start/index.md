@@ -7,8 +7,4 @@ tags: [ageyev, test]
 
 Welcome to the new blog.
 
-It was build with [Docusaurus](https://docusaurus.io)
-
-<!-- truncate -->
-
-Its code is hosted on GitHub, see [repo](https://github.com/ageyev/ageyev.github.io/)
+It was build with [Docusaurus](https://docusaurus.io) framework, its code is hosted on GitHub, see [repo](https://github.com/ageyev/ageyev.github.io/)

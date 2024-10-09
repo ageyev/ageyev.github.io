@@ -1,11 +1,10 @@
 import {themes as prismThemes} from 'prism-react-renderer';
 import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
-//
 
 const config: Config = {
   title: 'International Law etc.', // 'My Site', // "title" is not allowed to be empty
-  tagline: 'by Viktor Ageyev',
+  // tagline: 'by Viktor Ageyev',
   favicon: 'img/favicon/favicon.ico',
 
   // Set the production url of your site here
@@ -38,7 +37,6 @@ const config: Config = {
         docs: {
           // see: https://docusaurus.io/docs/docs-introduction#docs-only-mode
           routeBasePath: '/', // Serve the docs at the site's root
-
           sidebarPath: './sidebars.ts',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
@@ -52,7 +50,6 @@ const config: Config = {
           blogTitle: 'International Law etc.',
           blogDescription: '',
           postsPerPage: 5,
-
           // (!) feeds are only generated in production, see https://github.com/facebook/docusaurus/issues/6523#issuecomment-1025743866
           // https://docusaurus.io/blog/releases/3.5#blog-feeds-styling
           // https://darekkay.com/blog/rss-styling/
@@ -63,11 +60,10 @@ const config: Config = {
             copyright: `Copyright © ${new Date().getFullYear()} Viktor Ageyev`,
             xslt: true,
           },
-
           showReadingTime: false, // default: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          // editUrl: 'https://github.com/ageyev/ageyev.github.io/',
+          editUrl: 'https://github.com/ageyev/ageyev.github.io/tree/master/',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -105,7 +101,7 @@ const config: Config = {
           label: 'Texts', // 'Tutorial',
         },
         { // --- Link to blog
-          to: '/', // '/blog' > '/' , see https://docusaurus.io/docs/blog#blog-only-mode
+          to: '/blog', // > '/' , see https://docusaurus.io/docs/blog#blog-only-mode
           label: 'Blog',
           position: 'left'
         },
@@ -134,11 +130,11 @@ const config: Config = {
       links: [
         {
           label: '[Texts]',
-          to: '/docs/intro',
+          to: '/', // '/docs/intro',
         },
         {
           label: '[Blog]',
-          to: '/',
+          to: '/blog', // '/',
         },
         { // Youtube
           html: `

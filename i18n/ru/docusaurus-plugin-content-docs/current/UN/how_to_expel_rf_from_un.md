@@ -1,54 +1,47 @@
 ---
-title: How to expel RF from UN
-slug: how_to_expel_rf_from_un
-sidebar_position: 1
-hide_title: true
-draft: false 
+title: How to expel RF from the UN
+sidebar_position: 2
+draft: true
 ---
 
-# Как преодолеть "право вето" в Совете Безопасности ООН и/или удалить РФ из ООН. 
+# How to overcome veto power in the U.N. Security Council and/or expel RF from the U.N.
 
-В ООН, в частности на 77 сессии Генеральной Ассамблеи, представители некоторых государств, включая США и Украину, высказывали позицию, что Российская Федерация, используя право вето в Совете Безопасности, безнаказанно совершает преступления против международной безопасности и мира, и, поэтому, должны быть предприняты меры, для того чтобы предотвратить злоупотребление правом вето, или даже устранить РФ из Совета Безопасности. Однако, до настоящего времени не было предложено практических сценариев реализации этого. 
+In the UN, especially in the 77th Session of the U.N. General Assembly, representatives of some states, including the United States and Ukraine, expressed the view that the Russian Federation, using the right of veto in the U.N. Security Council, commits crimes against international peace and security with impunity, and therefore some action must be taken to prevent the abuse of the right of veto, or even to remove the RF from the UN Security Council. However, until now no practical scenarios have been proposed to implement this.
 
-Состав Совета Безопасности ООН и порядок голосований в нем прописаны в Уставе ООН. И, в соотвествии, со [ст. 108](https://www.un.org/ru/about-us/un-charter/chapter-18) Устава, изменения в Устав вступают в силу:
-> после того как они приняты двумя третями голосов членов Генеральной Ассамблеи и ратифицированы, в соответствии с их конституционной процедурой, двумя третями Членов Организации, включая всех постоянных членов Совета Безопасности.
+The composition of the Security Council and the decision-making procedure are prescribed in the UN Charter. And, according to [art. 10](https://www.un.org/en/about-us/un-charter/chapter-18) UN Charter, changes to the Charter come into force
+> "when they have been adopted by a vote of two thirds of the members of the General Assembly and ratified in accordance with their respective constitutional processes by two thirds of the Members of the United Nations, including all the permanent members of the Security Council"
 
-Таким образом изменить установленные Уставом ООН состав Совета Безопасности или изменить порядок принятия решений Советом Безопасности невозможно без согласия всех постоянных членов Совета Безопасности. 
+Thus, it is impossible to change the composition of the Security Council established by the UN Charter or to change the decision-making procedure of the Security Council without the consent of all permanent members of the Security Council.
 
-В сентябре 2022 г. Официальный представитель МИД РФ Мария Захарова [сказала](https://ria.ru/20220915/oon-1816987025.html) (см [видео](https://youtu.be/5Gv2YCwYS-k?t=5432)) , что тот кто разработает механизм лишения РФ статуса постоянного члена Совета Безопасности ООН заслуживает нобелевской премии, поскольку юридически такой сценарий невозможнен. 
+In September 2022, the spokeswoman for the Ministry of Foreign Affairs of the Russian Federation Maria Zakharova [said](https://ria.ru/20220915/oon-1816987025.html) (see [video](https://youtu.be/5Gv2YCwYS-k?t=5432)) that the person who develops the mechanism for the removing of the Russian Federation from the UN Security Council deserves a Nobel Prize, because legally, such a scenario is impossible.
 
-И именно такой юридический механизм мы изложим в настоящей статье. Мы предлагем юридически возможные сценарии преодоления "права вето" или даже устранение РФ с места постоянного члена Совета Безопасности. 
+And this is exactly the kind of legal mechanism we will describe in this article. We will propose legally possible scenarios for overcoming the right of veto and even for removing the RF from the seat of a permanent member in the U.N. Security Council. 
 
-## Как преодолеть "право вето" в Совете Безопасности ООН. 
+## How to overcome the "veto power" in the UN Security Council
 
-### Нужно ли нам согласие всех постоянных членов Совета Безопасности для принятия решения? 
+### Do we need votes of all permanent members to make a Security Council decision?
 
-[Ч.3 ст. 27 Устава ООН](https://www.un.org/en/about-us/un-charter/chapter-5) говорит: 
-> Решения Совета Безопасности по всем другим вопросам считаются принятыми, когда за них поданы голоса девяти членов Совета, включая совпадающие голоса всех постоянных членов Совета;
+[Art. 27 (3) UN Charter](https://www.un.org/en/about-us/un-charter/chapter-5) states: 
+> Decisions of the Security Council on all other matters shall be made by an affirmative vote of nine members, including the concurring votes of the permanent members;
 
-С января по август 1950 г., Советский Союз бойкотировал заседения Совета Безопасности ООН в знак протест против того, что Республика Китай, а не Китайская Народная Республика занимала место постоянного члена Совета Безопасности. 
+From January until August 1950, the Soviet Union had boycotted the UN Security Council in protest that the Republic of China and not the People's Republic of China held a permanent seat on the Council.
 
-В течении этого периода решения СБ принимались без голоса Советского Союза, и они признавались легитимными, в том числе самим Советским Союзом. 
+During this period, SC decisions were made without the voice of the Soviet Union, and they are accepted as legitimate, including by the Soviet Union itself. 
 
-Особенно важно, что это включало в себя [Резолюцию СБ ООН от 7 июля 1950 г. #84 (1950)](https://en.wikipedia.org/wiki/United_Nations_Security_Council_Resolution_84) о введении войск под флагом ООН в Южную Корею. 
+Most important, this includes [UN SC Resolution #84 (1950) of 7 July 1950](https://en.wikipedia.org/wiki/United_Nations_Security_Council_Resolution_84) on the introduction of troops under the UN flag into South Korea.
 
-В [1950](https://treaties.un.org/doc/publication/ctc/uncharter.pdf) году в ч. 3 ст. 27 Устава вместо слова "девять" было слово "семь", но все остальные слова были теми же самыми. 
-
-В [консультативном заключении](https://www.icj-cij.org/public/files/case-related/53/053-19710621-ADV-01-00-EN.pdf) от 21 июня 1971 г. в деле ([о юридических последствиях, вызываемых продолжающимся присутствием Южной Африки в Намибии](https://www.icj-cij.org/en/case/53)) Международный суд ООН указал: 
-> "для препяствования принятию резолюции требующей согласия всех постоянных членов, постоянный член должен проголосовать против' 
-> 
-> 
+In [1950](https://treaties.un.org/doc/publication/ctc/uncharter.pdf) art. 27 (3) had instead the word "nine" the word "seven," but all other words were the same. 
 
 In [advisory opinion](https://www.icj-cij.org/public/files/case-related/53/053-19710621-ADV-01-00-EN.pdf) of 21 June 1971 ([Legal Consequences for States of the Continued Presence of South Africa in Namibia (South West Africa) notwithstanding Security Council Resolution 276 (1970) ](https://www.icj-cij.org/en/case/53)) International Court of Justice (ICJ) stated: 
 
 > "in order to prevent the adoption of a resolution requiring unanimity of the permanent members, a permanent member has only to cast a negative vote." 
 
-Как видим, практика применения ч. 3 ст. 27 и судебная практика в этом вопросе сходятся.
+As we can see, both the practice of application of Art. 27 (3) and the judicial precedent converge on this issue. 
 
-### Nemo iudex in causa sua и обязанность воздержаться при голосовании (obligatory abstention)
+### Nemo iudex in causa sua and obligatory abstention
 
-[Ч. 3. 27 Устава ООН](https://www.un.org/en/about-us/un-charter/chapter-5) устанавливает: 
->  сторона, участвующая в споре, должна воздержаться от голосования при принятии решения на основании Главы VI и на основании пункта 3 статьи 52 
+[Art. 27 (3) UN Charter](https://www.un.org/en/about-us/un-charter/chapter-5) states: 
+>  in decisions under Chapter VI, and under paragraph 3 of Article 52, a party to a dispute shall abstain from voting. 
 
 Although, in practice, abstentions with reference to this article were previously only voluntary in the Security Council (see John Chappell, Emma Svoboda [Must Russia Abstain on Security Council Votes Regarding the Ukraine Crisis?](https://www.lawfareblog.com/must-russia-abstain-security-council-votes-regarding-ukraine-crisis)), the word "shall" clearly indicates that abstention in these cases is obligatory and is not a subject to the discretion of the participant that is a party to a dispute. 
 
@@ -281,12 +274,8 @@ There is also no [usucaption](https://en.wikipedia.org/wiki/Usucaption) (a metho
 ---
 See also: 
 
-Viktor Ageyev [Two scenarios of how to expel Russia from the UN](https://www.eurointegration.com.ua/articles/2022/10/18/7148832/) // 2022-10-18,
-"European Pravda"
-(in Ukrainian)
+Viktor Ageyev [Two scenarios of how to expel Russia from the UN](https://www.eurointegration.com.ua/articles/2022/10/18/7148832/) // 2022-10-18,"European Pravda" (in Ukrainian)
 
 ___
-Thanks to
-ex-ambassador of Ukraine to the UN, US, RF, OSCE [Volodymyr Yelchenko](https://www.facebook.com/volodymyr.yelchenko), and to 
-lawyer [Max Baryshnikov](https://www.facebook.com/max.baryshnikov) for the help in working on the ideas presented in this text.
+Thanks to ex-ambassador of Ukraine to the UN, US, RF, OSCE [Volodymyr Yelchenko](https://www.facebook.com/volodymyr.yelchenko), and to lawyer [Max Baryshnikov](https://www.facebook.com/max.baryshnikov) for the help in working on the ideas presented in this text.
 

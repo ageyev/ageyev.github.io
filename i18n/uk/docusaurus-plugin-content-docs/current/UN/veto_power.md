@@ -6,7 +6,6 @@ hide_title: true
 draft: false 
 ---
 
-
 ## Як подолати право вето в Раді Безпеки ООН
 
 ![Рада Безпеки ООН](/img/Illustrations/veto_power/Zelensky_UN_SC.jpg "© Spencer Platt, Getty Images via AFP")

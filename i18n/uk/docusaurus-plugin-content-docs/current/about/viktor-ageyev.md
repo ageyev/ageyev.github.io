@@ -3,6 +3,6 @@ sidebar_position: 1
 tags: [docusaurus]
 ---
 
-# Viktor Ageyev
+# Віктор Агєєв
 
-This site was created and its content is mostly written by Viktor Ageyev (me)
+Код та тексти для цього сайту переважно написані Віктор Агєєв (це я)

@@ -1,14 +1,14 @@
 {
   "version.label": {
-    "message": "Next",
+    "message": "Далі",
     "description": "The label for version current"
   },
   "sidebar.tutorialSidebar.category.UN": {
-    "message": "UN",
+    "message": "ООН",
     "description": "The label for category UN in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.About": {
-    "message": "About",
+    "message": "Про нас",
     "description": "The label for category About in sidebar tutorialSidebar"
   }
 }

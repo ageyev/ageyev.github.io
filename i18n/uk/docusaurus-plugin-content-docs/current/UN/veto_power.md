@@ -1,5 +1,5 @@
 ---
-title: Как преодолеть "право вето" в СБ ООН
+title: Як подолати право вето в Раді Безпеки ООН
 slug: veto_power
 sidebar_position: 1
 hide_title: true

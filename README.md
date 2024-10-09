@@ -1,3 +1,3 @@
 
 
-[International Law](https://international-law.info) website code 
+[International Law etc.](https://international-law.info) website code 

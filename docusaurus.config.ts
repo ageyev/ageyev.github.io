@@ -114,11 +114,11 @@ const config: Config = {
           label: 'GitHub',
           position: 'right',
         },
-        { // --- RSS
-          href: 'https://international-law.info/rss.xml',
-          label: 'RSS',
-          position: 'right',
-        },
+        // { // --- RSS // TODO: repair RSS
+        //   href: 'https://international-law.info/rss.xml',
+        //   label: 'RSS',
+        //   position: 'right',
+        // },
       ],
     },
 

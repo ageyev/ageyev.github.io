@@ -1,11 +1,11 @@
 ---
-title: Introduction 
+title: Початок 
 sidebar_position: 1
 hide_title: true
 draft: false
 slug: /
 ---
 
-## Introduction 
+## Початок
 
 Цей сайт про міжнародне право, та теми що з ним пов'язані, зокрема, національні правові системи, а також філософію, релігію та історію.

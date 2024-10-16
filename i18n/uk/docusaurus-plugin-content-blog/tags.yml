@@ -3,6 +3,10 @@ test:
   permalink: /Test
   description: Publication for testing website features
 ageyev:
-  label: Viktor Ageyev
+  label: Віктор Агєєв
   permalink: /ageyev
-  description: Viktor Ageyev
+  description: Віктор Агєєв
+israel:
+  label: Ізраїль
+  permalink: /israel
+  description: Ізраїль

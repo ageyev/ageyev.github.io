@@ -8,8 +8,10 @@ draft: false
 
 # How to overcome the "veto power" in the UN Security Council 
 
-![UN Security Council](/img/Illustrations/veto_power/Zelensky_UN_SC.jpg "© Spencer Platt, Getty Images via AFP")
-*Photo © Spencer Platt, Getty Images via AFP*
+How to overcome the "veto power" in the UN Security Council without changing the UN Charter. 
+
+![UN Security Council](/img/Illustrations/docs/UN/veto_power/Zelensky_UN_SC.jpg "© Spencer Platt, Getty Images via AFP")
+*Photo © Spencer Platt, Getty Images via AFP* 
 
 ## Do we need votes of all permanent members to make a Security Council decision?
 
@@ -76,3 +78,9 @@ And after this, a vote can be held on the substance of the issue in accordance w
 In this way, we will have a functioning mechanism to overcome the veto power of the permanent members of the Security Council. 
 
 This is important, first and foremost, for the adoption of Security Council decisions on the use of armed forces under the UN flag to suppress aggression by the Russian Federation against Ukraine.
+
+--- 
+
+See also:
+
+Viktor Ageyev [The two ways to expel Russia from the UN: how to deprive the aggressor of the veto power in the Security Council, and not only that](https://www.eurointegration.com.ua/articles/2022/10/18/7148832/), "European Pravda", 2022-10-18 (in Ukrainian)

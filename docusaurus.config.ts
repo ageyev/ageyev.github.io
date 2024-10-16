@@ -48,7 +48,7 @@ const config: Config = {
           // see: https://docusaurus.io/docs/blog#blog-only-mode
           // routeBasePath: '/', // Serve the blog at the site's root
           blogTitle: 'International Law etc.',
-          blogDescription: '',
+          blogDescription: 'Ubi societas, ibi ius',
           postsPerPage: 5,
           // (!) feeds are only generated in production, see https://github.com/facebook/docusaurus/issues/6523#issuecomment-1025743866
           // https://docusaurus.io/blog/releases/3.5#blog-feeds-styling
@@ -120,11 +120,12 @@ const config: Config = {
           label: 'GitHub',
           position: 'right',
         },
-        // { // --- RSS // TODO: repair RSS
-        //   href: 'https://international-law.info/rss.xml',
-        //   label: 'RSS',
-        //   position: 'right',
-        // },
+        // TODO: repair RSS
+        { // --- RSS
+          href: 'https://international-law.info/rss.xml',
+          label: 'RSS',
+          position: 'right',
+        },
       ],
     },
 

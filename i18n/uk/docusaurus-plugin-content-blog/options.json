@@ -1,14 +1,14 @@
 {
   "title": {
-    "message": "International Law etc.",
+    "message": "Міжнародне право і так далі",
     "description": "The title for the blog used in SEO"
   },
   "description": {
-    "message": "",
+    "message": "Ubi societas, ibi ius",
     "description": "The description for the blog used in SEO"
   },
   "sidebar.title": {
-    "message": "Recent posts",
+    "message": "Нові публікації",
     "description": "The label for the left sidebar"
   }
 }

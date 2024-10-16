@@ -1,8 +1,13 @@
 test:
   label: Тест
   permalink: /Test
-  description: Публикации для тестирования фукционала сайта
+  description: Публикации для тестирования функционала сайта
 ageyev:
   label: Виктор Агеев
   permalink: /ageyev
   description: Виктор Агеев
+israel:
+  label: Израиль
+  permalink: /israel
+  description: Израиль
+

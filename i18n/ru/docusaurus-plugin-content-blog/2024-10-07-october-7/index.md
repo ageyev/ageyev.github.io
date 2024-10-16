@@ -36,6 +36,6 @@ draft: false
 
 --- 
 
-[Публикация на сайте 9 канала израильскго телевидения](https://www.9tv.co.il/Item/79640)(на русском)
+[Публикация на сайте 9 канала израильскго телевидения](https://www.9tv.co.il/Item/79640) (на русском)
 
-[Публикация на Facebook](https://www.facebook.com/viktor.ageyev/posts/pfbid0AzoFkvcVD9ka8bMTDJDAzg3YKU2asgU6Prg13G3QT8Wsm3nzue477pjx4zUqyC5Xl)(на русском)
+[Публикация на Facebook](https://www.facebook.com/viktor.ageyev/posts/pfbid0AzoFkvcVD9ka8bMTDJDAzg3YKU2asgU6Prg13G3QT8Wsm3nzue477pjx4zUqyC5Xl) (на русском)

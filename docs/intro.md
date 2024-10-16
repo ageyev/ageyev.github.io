@@ -1,11 +1,13 @@
 ---
 title: Introduction 
+id: intro
 sidebar_position: 1
 hide_title: true
 draft: false
 slug: /
 ---
 
-## Introduction 
+## International law etc.
 
 This site is primarily about international law and topics closely or not so closely related to it, like local law, and also philosophy, religion and history. 
+

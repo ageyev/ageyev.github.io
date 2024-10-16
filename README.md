@@ -12,11 +12,11 @@
 
 [Importing code snippets](https://docusaurus.io/docs/markdown-features/react#importing-code-snippets)
 
+[link to assets (e.g. docx files, images...)](https://docusaurus.io/docs/markdown-features/assets)
+
 ### Blog 
 
 [<!--truncate--> (.md) or {/* truncate */} (.mdx) marker](https://docusaurus.io/docs/blog#blog-list) 
-
-
 
 [Blog front matter fields](https://docusaurus.io/docs/3.4.0/api/plugins/@docusaurus/plugin-content-blog#markdown-front-matter) 
 

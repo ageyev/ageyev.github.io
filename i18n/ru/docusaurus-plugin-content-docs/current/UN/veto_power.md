@@ -1,7 +1,7 @@
 ---
 title: Как преодолеть "право вето" в СБ ООН
+id: veto_power
 slug: veto_power
-sidebar_position: 1
 hide_title: true
 draft: false 
 ---

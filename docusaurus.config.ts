@@ -102,7 +102,7 @@ const config: Config = {
       items: [
         { // --- Link to docs
           type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
+          sidebarId: 'docs',
           position: 'left',
           label: 'Texts', // 'Tutorial',
         },
@@ -122,7 +122,7 @@ const config: Config = {
         },
         // TODO: repair RSS
         { // --- RSS
-          href: 'https://international-law.info/rss.xml',
+          href: 'https://international-law.info/blog/rss.xml',
           label: 'RSS',
           position: 'right',
         },

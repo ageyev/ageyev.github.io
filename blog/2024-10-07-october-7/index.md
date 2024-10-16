@@ -34,6 +34,6 @@ I have never felt more pain than the pain over those who fell. I still can't gra
 
 --- 
 
-[Publication on the website of Channel 9 of Israeli television](https://www.9tv.co.il/Item/79640)(In Russian)
+[Publication on the website of Channel 9 of Israeli television](https://www.9tv.co.il/Item/79640) (In Russian)
 
-[Publication on Facebook](https://www.facebook.com/viktor.ageyev/posts/pfbid0AzoFkvcVD9ka8bMTDJDAzg3YKU2asgU6Prg13G3QT8Wsm3nzue477pjx4zUqyC5Xl)(in Russian)
+[Publication on Facebook](https://www.facebook.com/viktor.ageyev/posts/pfbid0AzoFkvcVD9ka8bMTDJDAzg3YKU2asgU6Prg13G3QT8Wsm3nzue477pjx4zUqyC5Xl) (in Russian)

@@ -3,11 +3,11 @@
     "message": "Дальше",
     "description": "The label for version current"
   },
-  "sidebar.tutorialSidebar.category.UN": {
+  "sidebar.docs.category.UN": {
     "message": "ООН",
     "description": "The label for category UN in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.About": {
+  "sidebar.docs.category.About": {
     "message": "О нас",
     "description": "The label for category About in sidebar tutorialSidebar"
   }

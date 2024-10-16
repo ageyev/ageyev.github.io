@@ -1,7 +1,7 @@
 ---
 title: How to overcome the "veto power" in the UN Security Council
+id: veto_power
 slug: veto_power
-sidebar_position: 1
 hide_title: true
 draft: false 
 ---

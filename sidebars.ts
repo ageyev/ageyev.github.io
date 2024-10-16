@@ -27,6 +27,7 @@ const sidebars: SidebarsConfig = {
       },
       items: [
         'UN/veto_power',
+        'UN/how_to_expel_rf_from_un'
       ],
     },
   ],

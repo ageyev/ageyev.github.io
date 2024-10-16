@@ -1,8 +1,7 @@
 ---
-title: How to expel the Russian Federation from the UN
-sidebar_position: 2
-hide_title: false
-draft: true
+title: How to expel RF from UN
+id: how_to_expel_rf_from_un
+slug: how_to_expel_rf_from_un
 ---
 
 # How to expel the Russian Federation from the UN
@@ -16,55 +15,7 @@ Thus, it is impossible to change the composition of the Security Council establi
 
 In September 2022, the spokeswoman for the Ministry of Foreign Affairs of the Russian Federation Maria Zakharova [said](https://ria.ru/20220915/oon-1816987025.html) (see [video](https://youtu.be/5Gv2YCwYS-k?t=5432)) that the person who develops the mechanism for the removing of the Russian Federation from the UN Security Council deserves a Nobel Prize, because legally, such a scenario is impossible.
 
-And this is exactly the kind of legal mechanism we will describe in this article. We will propose legally possible scenarios for overcoming the right of veto and even for removing the RF from the seat of a permanent member in the U.N. Security Council. 
-
-## How to overcome the "veto power" in the UN Security Council
-
-### Do we need votes of all permanent members to make a Security Council decision?
-
-[Art. 27 (3) UN Charter](https://www.un.org/en/about-us/un-charter/chapter-5) states: 
-> Decisions of the Security Council on all other matters shall be made by an affirmative vote of nine members, including the concurring votes of the permanent members;
-
-From January until August 1950, the Soviet Union had boycotted the UN Security Council in protest that the Republic of China and not the People's Republic of China held a permanent seat on the Council.
-
-During this period, SC decisions were made without the voice of the Soviet Union, and they are accepted as legitimate, including by the Soviet Union itself. 
-
-Most important, this includes [UN SC Resolution #84 (1950) of 7 July 1950](https://en.wikipedia.org/wiki/United_Nations_Security_Council_Resolution_84) on the introduction of troops under the UN flag into South Korea.
-
-In [1950](https://treaties.un.org/doc/publication/ctc/uncharter.pdf) art. 27 (3) had instead the word "nine" the word "seven," but all other words were the same. 
-
-In [advisory opinion](https://www.icj-cij.org/public/files/case-related/53/053-19710621-ADV-01-00-EN.pdf) of 21 June 1971 ([Legal Consequences for States of the Continued Presence of South Africa in Namibia (South West Africa) notwithstanding Security Council Resolution 276 (1970) ](https://www.icj-cij.org/en/case/53)) International Court of Justice (ICJ) stated: 
-
-> "in order to prevent the adoption of a resolution requiring unanimity of the permanent members, a permanent member has only to cast a negative vote." 
-
-As we can see, both the practice of application of Art. 27 (3) and the judicial precedent converge on this issue. 
-
-### Nemo iudex in causa sua and obligatory abstention
-
-[Art. 27 (3) UN Charter](https://www.un.org/en/about-us/un-charter/chapter-5) states: 
->  in decisions under Chapter VI, and under paragraph 3 of Article 52, a party to a dispute shall abstain from voting. 
-
-Although, in practice, abstentions with reference to this article were previously only voluntary in the Security Council (see John Chappell, Emma Svoboda [Must Russia Abstain on Security Council Votes Regarding the Ukraine Crisis?](https://www.lawfareblog.com/must-russia-abstain-security-council-votes-regarding-ukraine-crisis)), the word "shall" clearly indicates that abstention in these cases is obligatory and is not a subject to the discretion of the participant that is a party to a dispute. 
-
-See also Enrico Milano [Russia’s Veto in the Security Council: Whither the Duty to Abstain under Art. 27(3) of the UN Charter?](https://www.zaoerv.de/75_2015/75_2015_1_a_215_232.pdf)
-
-Mandatory abstention from voting when considering a dispute by the Security Council is based on the generally recognized legal principle [nemo iudex in causa sua](https://en.wikipedia.org/wiki/Nemo_iudex_in_causa_sua) ("no-one is judge in his own cause"), see Jan Wouters, Tom Ruys [Security Council Reform: a New Vet for a New Century?](https://aei.pitt.edu/8980/1/ep9.pdf#page=16)
-
-And, even repeated violations of the provisions of this article in the past, in no way can serve as an excuse for not applying this clear and direct rule in appropriate cases. 
-
-According to [Rule 40](https://www.un.org/securitycouncil/content/rop/chapter-7) of U.N. Security Council Provisional Rules of Procedure (S/96/Rev.7): 
-
-> "Voting in the Security Council shall be in accordance with the relevant Articles of the Charter and of the Statute of the International Court of Justice."
-
-From this rule, the procedure for counting votes in the Security Council is not entirely clear. 
-
-And it can be assumed that the application of mandatory abstention from voting, in practice, is possible in the following ways: 
-
-1) The existence of a dispute and the obligation to abstain may be resolved by a separate procedural decision of the Security Council adopted in accordance with [Art. 27 (2)](https://www.un.org/en/about-us/un-charter/chapter-5) of the Charter, or
-
-2) The text of the resolution under [Art. 27 (3)](https://www.un.org/en/about-us/un-charter/chapter-5) may contain a statement that there is a dispute and a certain state is a party to this dispute and therefore should abstain (and all members of the Security Council, except those who abstained, voted for this resolution)
-
-And this can become a basic precedent for returning to the Security Council the cardinal rule of natural justice "nemo iudex in causa sua."
+And this is exactly the kind of legal mechanism we will describe in this article. We will propose legally possible scenarios for removing the RF from the seat of a permanent member in the U.N. Security Council.
 
 ## Why RF is not a U.N. member
 
@@ -78,7 +29,7 @@ in [Art. 23](https://www.un.org/en/about-us/un-charter/chapter-5) of the UN Char
 
 Established UN's law is based on the principle that the successor state (which the Russian Federation is in relation to the USSR, as well as Ukraine and other former USSR members) has no right to *inherit* the place of the predecessor state in the UN. 
 
-The basis of this rule was laid in the [opinion](https://github.com/ageyev/un-su/blob/main/documents/un/1947-10-08_Sixth_Committee_Letter.pdf) of the Sixth (Legal) Committee of the U.N. General Assembly back in 1947:
+This rule was formulated in the [opinion](https://github.com/ageyev/un-su/blob/main/documents/un/1947-10-08_Sixth_Committee_Letter.pdf) of the Sixth (Legal) Committee of the U.N. General Assembly back in 1947:
 
 > "1. That, as a general rule, it is in conformity with legal principles to presume that a State which is a member of the organization of the United Nations does not cease to be a Member simply because its constitution or its frontier have been subjected to changes, and that the extinction of the State as a legal personality recognized in the international order must be shown before its rights and obligations can be considered thereby to have ceased to exist"
 > "2. That when a new State is created, whatever may be the territory and the population which is comprised and whether or not they formed a part of a State Member of the United Nations, it cannot under the system of the Charter claim the status of a Member of the United Nations unless it has been formally admitted as such in conformity with the provisions of the Charter"
@@ -90,7 +41,7 @@ But if there is a new state (a new international legal personality), even if it 
 This rule has never been challenged in the UN, and the UN has always been guided by it, and there are a number of relevant precedents, see Scharf, Michael P. 
 [Musical Chairs: The Dissolution of States and Membership in the United Nations](https://scholarship.law.cornell.edu/cgi/viewcontent.cgi?article=1338&context=cilj) (Cornell International Law Journal, Volume 28, Issue 1 Winter 1995)
 
-### Termination of the Soviet Union's existence as an international legal personality, and, consequently, as an UN member.
+### Termination of the Soviet Union's existence as an international legal personality, and, consequently, as UN member.
 
 On December 8, 1991, the Republic of Belarus, the Russian Soviet Federative Socialist Republic and Ukraine signed the Agreement on the Establishment of the Commonwealth of Independent States (also known as ["the Belovezh Accords"](https://en.wikipedia.org/wiki/Belovezh_Accords)), the main provision of which was:
 
@@ -98,7 +49,7 @@ On December 8, 1991, the Republic of Belarus, the Russian Soviet Federative Soci
 
 On December 10 of the same year, it was ratified by Ukraine and the Republic of Belarus, and on December 12 by the RSFSR.
 
-The cited provision of the said treaty does not allow any other interpretation, the USSR as an international legal personality, and therefore as a member state of the UN, has ceased to exist.
+The cited provision of the said treaty does not allow any other interpretation: *the USSR as an international legal personality, and therefore as a member state of the UN, has ceased to exist*.
 
 According to [Art. 15 (4)](http://www.constitution.ru/en/10003000-02.htm) of Constitution of the Russian Federation:
 
@@ -112,13 +63,13 @@ In the [Alma-Ata declaration](https://web.archive.org/web/20010122033300/http://
 
 > With the formation of the Commonwealth of Independent States, the USSR ceases to exist.
 
-The Soviet of the Republics of the Supreme Soviet of the USSR in its [last](https://history.wikireading.ru/333679) session on December 26, 1991, adopted [Declaration no. 142-N]:
+The Soviet of the Republics of the Supreme Soviet of the USSR in its [last](https://history.wikireading.ru/333679) session on December 26, 1991, adopted [Declaration no. 142-N](https://en.wikisource.org/wiki/Declaration_no._142-N_of_the_Soviet_of_the_Republics_of_the_Supreme_Soviet_of_the_USSR):
 
 > "The Soviet of the Republics of the Supreme Soviet of the USSR, following the will of the supreme state organizations of the Republic of Azerbaijan, of the Republic of Armenia, of the Republic of Belarus, of the Republic of Kazakhstan, of the Republic of Kyrgyzstan, of the Republic of Moldova, of the Russian Federation, of the Republic of Tajikistan, of Turkmenistan, of the Republic of Uzbekistan and of Ukraine regarding the creation of the Commonwealth of the Independent States, stipulates that with the creation of Commonwealth of the Independent States, the Union of SSR ceases to exist as a state and as an international legal personality"
 
 The proof that the Russian Federation (RSFSR) and the USSR are different international legal personalities is also the fact that even before the disappearance of the USSR, treaties were made between it and the RSFSR.
 
-On December 4, 1991, was also signed an agreement ["On succession in relation to external state debt and assets of the USSR"](https://ru.wikisource.org/wiki/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80_%D0%BE_%D0%BF%D1%80%D0%B0%D0%B2%D0%BE%D0%BF%D1%80%D0%B5%D0%B5%D0%BC%D1%81%D1%82%D0%B2%D0%B5_%D0%B2_%D0%BE%D1%82%D0%BD%D0%BE%D1%88%D0%B5%D0%BD%D0%B8%D0%B8_%D0%B2%D0%BD%D0%B5%D1%88%D0%BD%D0%B5%D0%B3%D0%BE_%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE_%D0%B4%D0%BE%D0%BB%D0%B3%D0%B0_%D0%B8_%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D0%BE%D0%B2_%D0%A1%D0%BE%D1%8E%D0%B7%D0%B0_%D0%A1%D0%A1%D0%A0) which was signed by states - former members of the USSR, including RSFSR, and *by the USSR itself* - This clearly shows that RSFSR and USSR are not the same international legal personality, but two different personalities, which even had entered into agreements with each other. 
+On December 4, 1991, was also signed an agreement ["On succession in relation to external state debt and assets of the USSR"](https://ru.wikisource.org/wiki/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80_%D0%BE_%D0%BF%D1%80%D0%B0%D0%B2%D0%BE%D0%BF%D1%80%D0%B5%D0%B5%D0%BC%D1%81%D1%82%D0%B2%D0%B5_%D0%B2_%D0%BE%D1%82%D0%BD%D0%BE%D1%88%D0%B5%D0%BD%D0%B8%D0%B8_%D0%B2%D0%BD%D0%B5%D1%88%D0%BD%D0%B5%D0%B3%D0%BE_%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE_%D0%B4%D0%BE%D0%BB%D0%B3%D0%B0_%D0%B8_%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D0%BE%D0%B2_%D0%A1%D0%BE%D1%8E%D0%B7%D0%B0_%D0%A1%D0%A1%D0%A0) which was signed by states - former members of the USSR, including RSFSR, and *by the USSR itself* - This clearly shows that RSFSR and USSR are not the same international legal personality, but two different personalities, which even had entered into agreements with each other.
 
 ### How the Russian Federation took the place of the USSR in the U.N.
 

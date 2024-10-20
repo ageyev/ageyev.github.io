@@ -8,10 +8,7 @@ draft: false
 
 # How to overcome the "veto power" in the UN Security Council 
 
-How to overcome the "veto power" in the UN Security Council without changing the UN Charter. 
-
-![UN Security Council](/img/Illustrations/docs/UN/veto_power/Zelensky_UN_SC.jpg "© Spencer Platt, Getty Images via AFP")
-*Photo © Spencer Platt, Getty Images via AFP* 
+How to overcome the ["veto power"](https://en.wikipedia.org/wiki/United_Nations_Security_Council_veto_power) in the UN Security Council without changing the UN Charter.
 
 ## Do we need votes of all permanent members to make a Security Council decision?
 
@@ -20,7 +17,7 @@ How to overcome the "veto power" in the UN Security Council without changing the
 
 From January until August 1950, the Soviet Union had boycotted the UN Security Council in protest that representatives of the [Republic of China](https://en.wikipedia.org/wiki/Taiwan) and not of the People's Republic of China held a permanent seat on the Council.
 
-During this period, SC decisions were made without the voice of the Soviet Union, and they are accepted as legitimate, including by the Soviet Union itself.
+During this period, SC decisions were made without the voice of the Soviet Union, and they were accepted as legitimate, including by the Soviet Union itself.
 
 Most importantly, this includes [UN SC Resolution #84 (1950) of 7 July 1950](https://en.wikipedia.org/wiki/United_Nations_Security_Council_Resolution_84), which authorized the deployment of troops under the UN flag into South Korea.
 
@@ -77,7 +74,7 @@ And after this, a vote can be held on the substance of the issue in accordance w
 
 In this way, we will have a functioning mechanism to overcome the veto power of the permanent members of the Security Council. 
 
-This is important, first and foremost, for the adoption of Security Council decisions on the use of armed forces under the UN flag to suppress aggression by the Russian Federation against Ukraine.
+This mechanism is crucial for enabling the Security Council to adopt decisions authorizing the use of armed forces under the UN flag to suppress aggression, such as that by the Russian Federation against Ukraine. 
 
 --- 
 

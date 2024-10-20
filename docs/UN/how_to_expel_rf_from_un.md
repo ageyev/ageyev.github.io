@@ -2,6 +2,7 @@
 title: How to expel RF from UN
 id: how_to_expel_rf_from_un
 slug: how_to_expel_rf_from_un
+draft: true
 ---
 
 # How to expel the Russian Federation from the UN
@@ -9,6 +10,7 @@ slug: how_to_expel_rf_from_un
 In the UN, especially in the 77th Session of the U.N. General Assembly, representatives of some states, including the United States and Ukraine, expressed the view that the Russian Federation, using the right of veto in the U.N. Security Council, commits crimes against international peace and security with impunity, and therefore some action must be taken to prevent the abuse of the right of veto, or even to remove the RF from the UN Security Council. However, until now no practical scenarios have been proposed to implement this.
 
 The composition of the Security Council and the decision-making procedure are prescribed in the UN Charter. And, according to [art. 10](https://www.un.org/en/about-us/un-charter/chapter-18) UN Charter, changes to the Charter come into force
+
 > "when they have been adopted by a vote of two thirds of the members of the General Assembly and ratified in accordance with their respective constitutional processes by two thirds of the Members of the United Nations, including all the permanent members of the Security Council"
 
 Thus, it is impossible to change the composition of the Security Council established by the UN Charter or to change the decision-making procedure of the Security Council without the consent of all permanent members of the Security Council.

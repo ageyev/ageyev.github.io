@@ -8,7 +8,7 @@ draft: false
 
 ## Как преодолеть право вето в СБ ООН 
 
-Процессуальный способ преодоления право вето в СБ ОНН без изменения Устава ООН.
+Процессуальный способ преодоления ["права вето"](https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B0%D0%B2%D0%BE_%D0%B2%D0%B5%D1%82%D0%BE_%D0%B2_%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D0%B5_%D0%91%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D0%9E%D0%9E%D0%9D) в СБ ОНН без изменения Устава ООН.
 
 ![UN Security Council](/img/Illustrations/docs/UN/veto_power/Zelensky_UN_SC.jpg "© Spencer Platt, Getty Images via AFP")
 *Photo © Spencer Platt, Getty Images via AFP*

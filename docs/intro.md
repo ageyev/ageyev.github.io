@@ -1,7 +1,6 @@
 ---
 title: Introduction 
 id: intro
-sidebar_position: 1
 hide_title: true
 draft: false
 slug: /

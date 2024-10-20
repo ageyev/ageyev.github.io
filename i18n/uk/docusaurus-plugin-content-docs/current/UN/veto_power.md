@@ -9,7 +9,7 @@ draft: false
 
 ## Як подолати право вето в Раді Безпеки ООН
 
-Як подолати "право вето" в РБ ООН без зміни чинного Статуту ООН.
+Як подолати ["право вето"](https://uk.wikipedia.org/wiki/%D0%9F%D1%80%D0%B0%D0%B2%D0%BE_%D0%B2%D0%B5%D1%82%D0%BE_%D0%B2_%D0%A0%D0%B0%D0%B4%D1%96_%D0%91%D0%B5%D0%B7%D0%BF%D0%B5%D0%BA%D0%B8_%D0%9E%D0%9E%D0%9D) в РБ ООН без зміни чинного Статуту ООН.
 
 ![Рада Безпеки ООН](/img/Illustrations/docs/UN/veto_power/Zelensky_UN_SC.jpg "© Spencer Platt, Getty Images via AFP")
 *Фото © Spencer Platt, Getty Images через AFP*

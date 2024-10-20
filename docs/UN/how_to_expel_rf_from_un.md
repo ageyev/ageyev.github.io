@@ -7,25 +7,19 @@ draft: true
 
 # How to expel the Russian Federation from the UN
 
-In the UN, especially in the 77th Session of the U.N. General Assembly, representatives of some states, including the United States and Ukraine, expressed the view that the Russian Federation, using the right of veto in the U.N. Security Council, commits crimes against international peace and security with impunity, and therefore some action must be taken to prevent the abuse of the right of veto, or even to remove the RF from the UN Security Council. However, until now no practical scenarios have been proposed to implement this.
-
-The composition of the Security Council and the decision-making procedure are prescribed in the UN Charter. And, according to [art. 10](https://www.un.org/en/about-us/un-charter/chapter-18) UN Charter, changes to the Charter come into force
-
-> "when they have been adopted by a vote of two thirds of the members of the General Assembly and ratified in accordance with their respective constitutional processes by two thirds of the Members of the United Nations, including all the permanent members of the Security Council"
-
-Thus, it is impossible to change the composition of the Security Council established by the UN Charter or to change the decision-making procedure of the Security Council without the consent of all permanent members of the Security Council.
-
 In September 2022, the spokeswoman for the Ministry of Foreign Affairs of the Russian Federation Maria Zakharova [said](https://ria.ru/20220915/oon-1816987025.html) (see [video](https://youtu.be/5Gv2YCwYS-k?t=5432)) that the person who develops the mechanism for the removing of the Russian Federation from the UN Security Council deserves a Nobel Prize, because legally, such a scenario is impossible.
 
-And this is exactly the kind of legal mechanism we will describe in this article. We will propose legally possible scenarios for removing the RF from the seat of a permanent member in the U.N. Security Council.
+In this article we will describe exactly this kind of legal mechanism, previously considered impossible, and show how it is practically possible to remove the Russian Federation from the UN Security Council. 
 
-## Why RF is not a U.N. member
+This mechanism is based on a fairly simple and easily proven assertion that the Russian Federation cannot legally be considered a member of the UN, and after the disappearance of the Soviet Union, only four permanent members remain on the Security Council. 
 
-### Permanent members of the Security Council, according to U.N. Charter
+## Permanent members of the Security Council, *according to the U.N. Charter*
 
 in [Art. 23](https://www.un.org/en/about-us/un-charter/chapter-5) of the UN Charter, the following are listed as permanent members of the Security Council:
 
 > "The Republic of China, France, ***the Union of Soviet Socialist Republics***, the United Kingdom of Great Britain and Northern Ireland, and the United States of America"
+
+## Why RF is not a U.N. member
 
 ### U.N. rules concerning the possibility to succeed a seat of a U.N. member
 
@@ -99,7 +93,7 @@ The implementation of this deception was facilitated by a number of factors:
 * December 24 is just Christmas Eve, and the first meeting of the Security Council at which Vorontsov sat with a sign "Russian Federation" was on December 31 — on New Year's Eve. 
 * This fraud, at least according to Vorontsov's memoirs, was carried out with the support of the United States, and the idea itself was invented by American lawyers. 
 
-### Ex injuria jus non oritur.
+### Ex injuria jus non oritur (right do not arise from a violation of the law)
 
 So, although the statement made by the permanent representative of the Soviet Union to the UN on December 24, 1991, that the USSR changed its name to "Russian Federation", due to his authority to represent the USSR and the presumption that he is acting in [good faith](https://en.wikipedia.org/wiki/Good_faith_(law), did not raise doubts and objections at that time, it was a lie, a fraud.
 

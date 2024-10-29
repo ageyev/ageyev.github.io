@@ -4,7 +4,24 @@
 
 ## How to use 
 
-### MDX features 
+### MDX features
+
+[React Lite YouTube Embed](https://www.npmjs.com/package/react-lite-youtube-embed) can be used to insert a video from YouTube to .mdx file. 
+
+An example: 
+
+```mdxjs
+
+import LiteYouTubeEmbed from 'react-lite-youtube-embed';
+import 'react-lite-youtube-embed/dist/LiteYouTubeEmbed.css';
+
+<LiteYouTubeEmbed
+    id="WcPJUgz_bq4"
+    title='Viktor Ageyev: How to overcome the "veto power" in the UN Security Council'
+    noCookie={false}
+/>
+
+```
 
 [Importing Markdown ("partials")](https://docusaurus.io/docs/markdown-features/react#importing-markdown)
 

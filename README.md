@@ -31,6 +31,9 @@ import 'react-lite-youtube-embed/dist/LiteYouTubeEmbed.css';
 
 [link to assets (e.g. docx files, images...)](https://docusaurus.io/docs/markdown-features/assets)
 
+[Admonitions](https://docusaurus.io/docs/markdown-features/admonitions). 
+You can use MDX inside admonitions too.
+
 ### Blog 
 
 [<!--truncate--> (.md) or {/* truncate */} (.mdx) marker](https://docusaurus.io/docs/blog#blog-list) 

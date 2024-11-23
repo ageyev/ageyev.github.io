@@ -2,3 +2,8 @@ docusaurus:
   label: 'Docusaurus'
   permalink: '/docusaurus'
   description: 'Docs related to the Docusaurus framework'
+
+RF:
+  label: RF
+  permalink: '/rf'
+  description: 'Docs related to the RF'

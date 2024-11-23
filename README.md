@@ -34,6 +34,25 @@ import 'react-lite-youtube-embed/dist/LiteYouTubeEmbed.css';
 [Admonitions](https://docusaurus.io/docs/markdown-features/admonitions). 
 You can use MDX inside admonitions too.
 
+### Doc pages
+
+[Doc tags](https://docusaurus.io/docs/3.3.2/create-doc#doc-tags)
+
+Optionally, you can add tags to your doc pages, which introduces another dimension of categorization in addition to the docs sidebar. Tags are passed in the front matter as a list of labels:
+
+```md 
+
+---
+id: doc-with-tags
+title: A doc with tags
+tags:
+- Demo
+- Getting started
+--- 
+
+```
+Tags can also be declared with tags: [Demo, Getting started].
+
 ### Blog 
 
 [<!--truncate--> (.md) or {/* truncate */} (.mdx) marker](https://docusaurus.io/docs/blog#blog-list) 

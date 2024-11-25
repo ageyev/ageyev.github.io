@@ -30,6 +30,17 @@ const sidebars: SidebarsConfig = {
         'UN/how_to_expel_rf_from_un'
       ],
     },
+    {
+      type: 'category',
+      label: 'ECHR',
+      link: {
+        type: 'doc',
+        id: 'ECHR/echr',
+      },
+      items: [
+        // 'ECHR/..',
+      ],
+    },
   ],
 
   // But you can create a sidebar manually

@@ -6,3 +6,7 @@ RF:
   label: РФ
   permalink: '/tags/rf'
   description: 'Docs related to the RF'
+ECHR:
+  label: ECHR
+  permalink: '/tags/echr'
+  description: 'Европейская конвенции по правам человека и Европейский суд по правам человека'

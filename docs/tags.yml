@@ -5,4 +5,8 @@ docusaurus:
 RF:
   label: RF
   permalink: '/tags/rf'
-  description: 'Docs related to the RF'
+  description: 'Russian Federation'
+ECHR:
+  label: ECHR
+  permalink: '/tags/echr'
+  description: 'European Convention on Human Rights and European Court of Human Rights'

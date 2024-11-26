@@ -41,6 +41,17 @@ const sidebars: SidebarsConfig = {
         // 'ECHR/..',
       ],
     },
+    {
+      type: 'category',
+      label: 'Israel',
+      link: {
+        type: 'doc',
+        id: 'Israel/israel',
+      },
+      items: [
+        'Israel/borders_and_territory',
+      ],
+    },
   ],
 
   // But you can create a sidebar manually

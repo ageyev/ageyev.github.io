@@ -44,6 +44,7 @@ const config: Config = {
           showLastUpdateAuthor: true, // git username from the last commit
           showLastUpdateTime: true, // git last commit time
         },
+
         blog: {
           // see: https://docusaurus.io/docs/blog#blog-only-mode
           // routeBasePath: '/', // Serve the blog at the site's root
@@ -65,9 +66,11 @@ const config: Config = {
           // Remove this to remove the "edit this page" links. // TODO: change links text
           // editUrl: 'https://github.com/ageyev/ageyev.github.io/tree/master/',
         },
+
         theme: {
           customCss: './src/css/custom.css',
         },
+
         // see: https://github.com/facebook/docusaurus/pull/5832
         // https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-google-gtag
         // This plugin is always inactive in development and only active in production
@@ -76,6 +79,23 @@ const config: Config = {
           trackingID: 'G-H9H0GL30GY',
           // anonymizeIP: true,
         },
+
+        // Sitemap
+        // https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-sitemap#ex-config
+        // https://www.sitemaps.org/protocol.html#xmlTagDefinitions
+        sitemap: {
+          lastmod: 'date',
+          changefreq: 'daily', // 'weekly',
+          priority: 0.5,
+          ignorePatterns: [], // ['/tags/**'],
+          filename: 'sitemap.xml',
+          createSitemapItems: async (params) => {
+            const {defaultCreateSitemapItems, ...rest} = params;
+            const items = await defaultCreateSitemapItems(rest);
+            return items.filter((item) => !item.url.includes('/page/'));
+          },
+        },
+
       } satisfies Preset.Options,
     ],
   ],

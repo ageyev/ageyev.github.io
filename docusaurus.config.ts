@@ -83,6 +83,9 @@ const config: Config = {
         // Sitemap
         // https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-sitemap#ex-config
         // https://www.sitemaps.org/protocol.html#xmlTagDefinitions
+        // for i18n see:
+        // https://stackoverflow.com/questions/77479158/not-all-locales-are-generated-in-sitemap-xml-of-a-docusaurus-website
+        // Docusaurus generates a separate sitemap.xml for each local
         sitemap: {
           lastmod: 'date',
           changefreq: 'daily', // 'weekly',

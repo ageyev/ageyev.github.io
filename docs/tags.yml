@@ -1,12 +1,12 @@
 docusaurus:
   label: 'Docusaurus'
-  permalink: '/tags/docusaurus'
+  permalink: '/docusaurus'
   description: 'Docs related to the Docusaurus framework'
 RF:
   label: RF
-  permalink: '/tags/rf'
+  permalink: '/rf'
   description: 'Russian Federation'
 ECHR:
   label: ECHR
-  permalink: '/tags/echr'
+  permalink: '/echr'
   description: 'European Convention on Human Rights and European Court of Human Rights'

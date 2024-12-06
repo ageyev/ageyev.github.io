@@ -40,7 +40,7 @@ const config: Config = {
           sidebarPath: './sidebars.ts',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: 'https://github.com/ageyev/ageyev.github.io/tree/master/',
+          // editUrl: 'https://github.com/ageyev/ageyev.github.io/tree/master/',
           showLastUpdateAuthor: true, // git username from the last commit
           showLastUpdateTime: true, // git last commit time
         },
@@ -86,6 +86,7 @@ const config: Config = {
         // for i18n see:
         // https://stackoverflow.com/questions/77479158/not-all-locales-are-generated-in-sitemap-xml-of-a-docusaurus-website
         // Docusaurus generates a separate sitemap.xml for each local
+        // https://developers.google.com/search/docs/crawling-indexing/sitemaps/overview 
         sitemap: {
           lastmod: 'date',
           changefreq: 'daily', // 'weekly',

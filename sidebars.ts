@@ -52,6 +52,17 @@ const sidebars: SidebarsConfig = {
         'Israel/borders_and_territory',
       ],
     },
+    {
+      type: 'category',
+      label: 'Software',
+      link: {
+        type: 'doc',
+        id: 'software/software',
+      },
+      items: [
+        'software/highlighter',
+      ],
+    },
   ],
 
   // But you can create a sidebar manually

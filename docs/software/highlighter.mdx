@@ -1,0 +1,44 @@
+---
+title: Highlighter.pro
+id: highlighter
+hide_title: true
+draft: false
+slug: /software/highlighter
+---
+
+
+import LiteYouTubeEmbed from 'react-lite-youtube-embed';
+import 'react-lite-youtube-embed/dist/LiteYouTubeEmbed.css';
+
+# Highlighter.pro
+
+This is a Chrome extension written by me, that works as a highlighter on webpages.
+
+I was looking for an extension with open code, that can be installed from [source code](https://github.com/highlighter-pro/highlighter) as like as from the [Chrome Web Store](https://chromewebstore.google.com/detail/highlighterpro/gpdhplhmppgenpnkfilghnjiodfmnoap), that does not collect any data from user, and, as is often the case, I ended up writing my own.
+
+It's *very* fast, very lightweight and does not overload your browser with heavy scripts.
+
+Here you can see how it works:
+<LiteYouTubeEmbed
+    id="2SCs8qEbkGI"
+    title='Highlighter.pro Chrome extension'
+    noCookie={false}
+/>
+
+## Functionality
+
+* You can add (and remove) highlights on web page using browser's context menu.
+* This extension uses side panel to show list of highlights and notes
+* You can add or edit notes to highlights in side panel
+* Notes to highlights can be written in [GitHub flavored Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax). It means you can format text, add notes, task lists, code blocks etc.
+* Highlights and notes can be saved to a backup file and then restored on another computer on in another Chrome browser. For this use extension's options page.
+* On extension's 'options' page you can remove all your highlights and notes in current browser (it is recommended to save a backup file before)
+* Code is open sourced and published on [GitHub](https://github.com/highlighter-pro/highlighter) and [GitLab](https://gitlab.com/highlighter-pro/highlighter)
+
+### How to save and restore backup
+
+Right-click on the extension icon > choose 'options' > use corresponding buttons to save and restore backup file.
+
+## Support
+
+For support write a message on [GitHub repo](https://github.com/highlighter-pro/highlighter/issues)

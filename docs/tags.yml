@@ -2,6 +2,10 @@ docusaurus:
   label: 'Docusaurus'
   permalink: '/docusaurus'
   description: 'Docs related to the Docusaurus framework'
+Israel:
+  label: Israel
+  permalink: '/israel'
+  description: 'Israel'
 RF:
   label: RF
   permalink: '/rf'

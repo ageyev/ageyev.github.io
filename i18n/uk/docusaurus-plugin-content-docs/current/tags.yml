@@ -2,10 +2,14 @@ docusaurus:
   label: 'Docusaurus'
   permalink: '/docusaurus'
   description: 'Docs related to the Docusaurus framework'
+Israel:
+  label: Ізраїль
+  permalink: '/israel'
+  description: 'Ізраїль'
 RF:
   label: РФ
   permalink: '/rf'
-  description: 'Docs related to the RF'
+  description: 'Російська Федерація'
 ECHR:
   label: ECHR
   permalink: '/echr'

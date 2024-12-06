@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkageyev_github_io=self.webpackChunkageyev_github_io||[]).push([[632],{5727:e=>{e.exports=JSON.parse('{"tags":[{"label":"Docusaurus","permalink":"/uk/tags/docusaurus","description":"Docs related to the Docusaurus framework","count":1},{"label":"\u0420\u0424","permalink":"/uk/tags/rf","description":"Docs related to the RF","count":1}]}')}}]);

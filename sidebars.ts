@@ -32,17 +32,6 @@ const sidebars: SidebarsConfig = {
     },
     {
       type: 'category',
-      label: 'ECHR',
-      link: {
-        type: 'doc',
-        id: 'ECHR/echr',
-      },
-      items: [
-        // 'ECHR/..',
-      ],
-    },
-    {
-      type: 'category',
       label: 'Israel',
       link: {
         type: 'doc',
@@ -50,6 +39,17 @@ const sidebars: SidebarsConfig = {
       },
       items: [
         'Israel/borders_and_territory',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'ECHR',
+      link: {
+        type: 'doc',
+        id: 'ECHR/echr',
+      },
+      items: [
+        // 'ECHR/..',
       ],
     },
     {

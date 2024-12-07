@@ -16,7 +16,11 @@
     "description": "The label for category Israel in sidebar docs"
   },
   "sidebar.docs.category.Software": {
-    "message": "Software",
+    "message": "Софт",
     "description": "The label for category Software in sidebar docs"
+  },
+  "sidebar.docs.category.ECHR": {
+    "message": "Європейський суд",
+    "description": "The label for category ECHR in sidebar docs"
   }
 }

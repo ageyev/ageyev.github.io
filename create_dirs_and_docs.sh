@@ -20,5 +20,8 @@ UK_BLOG="i18n/uk/docusaurus-plugin-content-blog";
 # mkdir -p $UK_DOCS/Israel/ && cp docs/Israel/territory.mdx $UK_DOCS/Israel/territory.mdx
 
 #mkdir -p docs/software/ && touch docs/software/software.mdx
-#mkdir -p $RU_DOCS/software/ && cp docs//software/* $RU_DOCS/software/
-#mkdir -p $UK_DOCS/software/ && cp docs//software/* $UK_DOCS/software/
+#mkdir -p $RU_DOCS/software/ && cp docs/software/* $RU_DOCS/software/
+#mkdir -p $UK_DOCS/software/ && cp docs/software/* $UK_DOCS/software/
+
+mkdir -p $RU_DOCS/ECHR/ && cp docs/ECHR/* $RU_DOCS/ECHR/
+mkdir -p $UK_DOCS/ECHR/ && cp docs/ECHR/* $UK_DOCS/ECHR/

@@ -49,7 +49,7 @@ const sidebars: SidebarsConfig = {
         id: 'ECHR/echr',
       },
       items: [
-        'ECHR/our_cases',
+        // 'ECHR/our_cases',
       ],
     },
     {

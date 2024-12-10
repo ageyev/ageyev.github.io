@@ -11,10 +11,6 @@
     "message": "О нас",
     "description": "The label for category About in sidebar tutorialSidebar"
   },
-  "sidebar.docs.category.Israel": {
-    "message": "Израиль",
-    "description": "The label for category Israel in sidebar docs"
-  },
   "sidebar.docs.category.ECHR": {
     "message": "Европейский суд",
     "description": "The label for category ECHR in sidebar docs"
@@ -22,5 +18,9 @@
   "sidebar.docs.category.Software": {
     "message": "Софт",
     "description": "The label for category Software in sidebar docs"
+  },
+  "sidebar.docs.category.Holy Land": {
+    "message": "Святая Земля",
+    "description": "The label for category Holy Land in sidebar docs"
   }
 }

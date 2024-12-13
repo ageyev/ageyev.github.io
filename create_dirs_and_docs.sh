@@ -26,3 +26,5 @@ UK_BLOG="i18n/uk/docusaurus-plugin-content-blog";
 #mkdir -p $RU_DOCS/ECHR/ && cp docs/ECHR/* $RU_DOCS/ECHR/
 #mkdir -p $UK_DOCS/ECHR/ && cp docs/ECHR/* $UK_DOCS/ECHR/
 
+#cp docs/Holy-Land/state_of_palestine.mdx $RU_DOCS/Holy-Land/
+#cp docs/Holy-Land/state_of_palestine.mdx $UK_DOCS/Holy-Land/

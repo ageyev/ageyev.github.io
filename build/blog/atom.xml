@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://international-law.info/blog</id>
+    <title>International Law etc. Blog</title>
+    <updated>2024-10-07T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://international-law.info/blog"/>
+    <subtitle>Keep up to date with upcoming blog posts by following our feed!</subtitle>
+    <icon>https://international-law.info/img/favicon/favicon.ico</icon>
+    <rights>Copyright © 2024 Viktor Ageyev</rights>
+    <entry>
+        <title type="html"><![CDATA[October 7]]></title>
+        <id>https://international-law.info/blog/october7</id>
+        <link href="https://international-law.info/blog/october7"/>
+        <updated>2024-10-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This is the text of my eldest son, written a week after October 7th. His unit was one of the first to engage in battle that morning; they repelled an attack by terrorists from the "Nukhba" special forces on the Urim base on the border with Gaza. He was wounded in that battle.]]></summary>
+        <content type="html"><![CDATA[<p>This is the text of my eldest son, written a week after October 7th. His unit was one of the first to engage in battle that morning; they repelled an attack by terrorists from the "Nukhba" special forces on the <a href="https://he.wikipedia.org/wiki/%D7%94%D7%A7%D7%A8%D7%91_%D7%91%D7%91%D7%A1%D7%99%D7%A1_%D7%90%D7%95%D7%A8%D7%99%D7%9D" target="_blank" rel="noopener noreferrer">Urim base</a> on the border with Gaza. He was wounded in that battle.</p>
+<p><img decoding="async" loading="lazy" alt="Mark" src="https://international-law.info/assets/images/2024-08-18.Mark_with_rifle-8894232879017c3eb3bee21d35397b8f.jpeg" width="580" height="692" class="img_ev3q"></p>
+<p>(Baruch HaShem, he returned to service after two months and is now fighting in Gaza)</p>
+<p>The <a href="https://www.instagram.com/p/CybeGarsF_p/" target="_blank" rel="noopener noreferrer">original text</a> is in Hebrew, the translation is mine.</p>
+<!-- -->
+<hr>
+<p>After a week's delay, I have finally decided to share what happened to me on the day I will remember forever. My story that I went through, and with great luck, I am now able to write these words.</p>
+<p><strong>October 7th</strong>, a day we woke up to the announcement of a "Red Alert" throughout the entire sector. We were in the shelter, and no one paid too much attention to these missiles, because what can they really do besides a few rockets...</p>
+<p>We heard gunfire from the direction of a nearby base, and within a few minutes, our gear was on us, and we headed in that direction. From that moment, we entered the war. It's impossible to describe the feelings you go through during this. You stop thinking and feeling; you just do what you need to do. You strive, advance, and shoot—all in a combat zone unfamiliar to you, all while rockets whistle overhead.</p>
+<p>And then comes the moment when I get hit by the bullet. At that moment, I felt nothing; I looked at my leg and couldn't believe this was happening. From here, everything happened in seconds. Seconds in which they take you back, apply a tourniquet, and tell you that everything will be okay. It all happened in seconds—seconds that replay themselves in my head for entire days.</p>
+<p>I can't describe my pride toward my friends from Unit 414 who fought and destroyed the enemy in that battle. I love you, and you will always remain in my heart as the bravest people I've ever known, each and every one of you. You are my heroes and heroines, and I'm proud to have fought alongside you.</p>
+<p>I have never felt more pain than the pain over those who fell. I still can't grasp the number of people who were taken from this world—and all in one day. Everyone I know lost someone: a friend, a family member, a brother, or a sister. Each one of them is etched on the heart of each of us forever. No one will be forgotten.</p>
+<p><em>"Whoever is merciful to the cruel will end up being cruel to the merciful."</em></p>
+<hr>
+<p><a href="https://www.9tv.co.il/Item/79640" target="_blank" rel="noopener noreferrer">Publication on the website of Channel 9 of Israeli television</a> (In Russian)</p>
+<p><a href="https://www.facebook.com/viktor.ageyev/posts/pfbid0AzoFkvcVD9ka8bMTDJDAzg3YKU2asgU6Prg13G3QT8Wsm3nzue477pjx4zUqyC5Xl" target="_blank" rel="noopener noreferrer">Publication on Facebook</a> (in Russian)</p>]]></content>
+        <author>
+            <name>Viktor Ageyev</name>
+        </author>
+        <category label="Viktor Ageyev" term="Viktor Ageyev"/>
+        <category label="Israel" term="Israel"/>
+    </entry>
+</feed>

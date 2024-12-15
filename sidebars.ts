@@ -35,10 +35,10 @@ const sidebars: SidebarsConfig = {
       label: 'Holy Land',
       link: {
         type: 'doc',
-        id: 'Holy-Land/holy_land',
+        id: 'HolyLand/holy_land',
       },
       items: [
-        'Holy-Land/borders_and_territory_of_israel',
+        'HolyLand/borders_and_territory_of_israel',
       ],
     },
     {

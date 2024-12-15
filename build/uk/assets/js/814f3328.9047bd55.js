@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkageyev_github_io=self.webpackChunkageyev_github_io||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"\u041d\u043e\u0432\u0456 \u043f\u0443\u0431\u043b\u0456\u043a\u0430\u0446\u0456\u0457","items":[{"title":"7 \u0436\u043e\u0432\u0442\u043d\u044f","permalink":"/uk/blog/october7","unlisted":false,"date":"2024-10-07T00:00:00.000Z"}]}')}}]);

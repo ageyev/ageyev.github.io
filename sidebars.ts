@@ -38,7 +38,7 @@ const sidebars: SidebarsConfig = {
         id: 'Holy-Land/holy_land',
       },
       items: [
-        'Holy-Land/borders_and_territory',
+        'Holy-Land/borders_and_territory_of_israel',
       ],
     },
     {

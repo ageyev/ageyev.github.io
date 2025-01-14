@@ -61,4 +61,4 @@ Tags can also be declared with tags: [Demo, Getting started].
 
 ### Images 
 
-Illustrations for texts in 'docs' and 'blog' sections are stored in the corresponding folders in [static/img/Illustrations](static/img/Illustrations)
+Illustrations for texts in 'docs' and 'blog' sections are stored in the corresponding folders in [static/img/Illustrations](static/img/Illustrations) 

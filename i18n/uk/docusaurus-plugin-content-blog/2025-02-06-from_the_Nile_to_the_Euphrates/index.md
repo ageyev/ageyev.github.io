@@ -35,6 +35,10 @@ draft: false
 
 --- 
 
+Пост в [Facebook](https://www.facebook.com/viktor.ageyev/posts/pfbid0GqkDefYN7YKmHdi1tzLC7Ai1vcoRvH2CqdSvhZS2yfhKfMM3SA1rf9yGWHm8yivTl) 
+
+--- 
+
 Див. також: 
 
 [Де проходять кордони Ізраїлю та що насправді Ізраїль окупує](/uk/borders_and_territory_of_israel/)

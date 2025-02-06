@@ -37,6 +37,10 @@ draft: false
 
 --- 
 
+Этот пост в [Facebook](https://www.facebook.com/viktor.ageyev/posts/pfbid0GqkDefYN7YKmHdi1tzLC7Ai1vcoRvH2CqdSvhZS2yfhKfMM3SA1rf9yGWHm8yivTl) 
+
+--- 
+
 См. тажже: 
 
 [Где проходят границы Израиля и что Израиль на самом деле оккупирует](/ru/borders_and_territory_of_israel/)

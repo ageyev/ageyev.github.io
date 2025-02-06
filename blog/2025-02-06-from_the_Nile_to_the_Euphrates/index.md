@@ -41,6 +41,8 @@ this post in:
 
 [Twitter](https://x.com/ageyev/status/1887506345617768538)
 
+[Facebook](https://www.facebook.com/viktor.ageyev/posts/pfbid0GqkDefYN7YKmHdi1tzLC7Ai1vcoRvH2CqdSvhZS2yfhKfMM3SA1rf9yGWHm8yivTl) (discussion in Russian)
+
 --- 
 
 See also: 

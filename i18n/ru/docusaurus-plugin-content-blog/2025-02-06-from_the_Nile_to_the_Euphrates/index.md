@@ -1,6 +1,5 @@
 ---
 slug: from_the_Nile_to_the_Euphrates
-title: От Нила до Евфрата - к вопросу о библейских границах Израиля 
 authors: [ageyev]
 tags: [ageyev, israel]
 draft: false

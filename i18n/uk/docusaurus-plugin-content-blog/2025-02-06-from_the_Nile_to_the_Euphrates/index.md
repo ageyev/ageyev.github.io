@@ -32,4 +32,6 @@ draft: false
 
 Тобто дійсно, у наш час, як і було передбачено, землями від Нілу до Євфрату володіють нащадки Авраама.
 
+!["From the Nile to the Euphrates"](/img/Illustrations/blog/2025-02-06-from_the_Nile_to_the_Euphrates/Bereshit_15-18.png) 
+
 --- 

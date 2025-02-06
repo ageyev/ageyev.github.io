@@ -34,10 +34,6 @@ draft: false
 
 Т.е. действительно в настоящее время, как и было предсказано землями от Нила до Евфрата владеют потомки Авраама. 
 
+!["From the Nile to the Euphrates"](/img/Illustrations/blog/2025-02-06-from_the_Nile_to_the_Euphrates/Bereshit_15-18.png) 
+
 --- 
-
-
-
-
-
-

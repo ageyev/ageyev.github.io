@@ -32,4 +32,13 @@ The descendants of Abraham are not only the Jews but also the Arabs.
 
 Thus, indeed, in the present time, as foretold, the lands from the Nile to the Euphrates are owned by the descendants of Abraham.
 
+!["From the Nile to the Euphrates"](/img/Illustrations/blog/2025-02-06-from_the_Nile_to_the_Euphrates/Bereshit_15-18.png)
+
 --- 
+
+this post in: 
+
+[Instagram](https://www.instagram.com/p/DFvBBNkoYaM/) 
+
+[Twitte](https://x.com/ageyev/status/1887506345617768538)
+

@@ -9,7 +9,7 @@
     <icon>https://international-law.info/ru/img/favicon/favicon.ico</icon>
     <rights>Copyright © 2025 Viktor Ageyev</rights>
     <entry>
-        <title type="html"><![CDATA[К вопросу о библейских границах Израиля]]></title>
+        <title type="html"><![CDATA[От Нила до Евфрата - к вопросу о библейских границах Израиля]]></title>
         <id>https://international-law.info/ru/blog/from_the_Nile_to_the_Euphrates</id>
         <link href="https://international-law.info/ru/blog/from_the_Nile_to_the_Euphrates"/>
         <updated>2025-02-06T00:00:00.000Z</updated>
@@ -33,7 +33,9 @@
 <p>Потомство Авраама - это не только евреи, но и арабы.</p>
 <p>Т.е. действительно в настоящее время, как и было предсказано землями от Нила до Евфрата владеют потомки Авраама.</p>
 <p><img decoding="async" loading="lazy" alt="&amp;quot;From the Nile to the Euphrates&amp;quot;" src="https://international-law.info/ru/assets/images/Bereshit_15-18-dee0bc18ba20705fc925fbf69c4ce280.png" width="834" height="104" class="img_ev3q"></p>
-<hr>]]></content>
+<hr>
+<p>См. тажже:</p>
+<p><a href="https://international-law.info/ru/borders_and_territory_of_israel/">Где проходят границы Израиля и что Израиль на самом деле оккупирует</a></p>]]></content>
         <author>
             <name>Виктор Агеев</name>
         </author>
@@ -68,5 +70,20 @@
         </author>
         <category label="Виктор Агеев" term="Виктор Агеев"/>
         <category label="Израиль" term="Израиль"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Starting]]></title>
+        <id>https://international-law.info/ru/blog/starting</id>
+        <link href="https://international-law.info/ru/blog/starting"/>
+        <updated>2024-08-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Добро пожаловать в новый блог.]]></summary>
+        <content type="html"><![CDATA[<p>Добро пожаловать в новый блог.</p>
+<p>Этот сайт написан на фреймворке <a href="https://docusaurus.io/" target="_blank" rel="noopener noreferrer">Docusaurus</a>,
+код открыт и публикуется на GitHub, см. <a href="https://github.com/ageyev/ageyev.github.io/" target="_blank" rel="noopener noreferrer">репозиторий</a></p>]]></content>
+        <author>
+            <name>Виктор Агеев</name>
+        </author>
+        <category label="Виктор Агеев" term="Виктор Агеев"/>
+        <category label="Тест" term="Тест"/>
     </entry>
 </feed>

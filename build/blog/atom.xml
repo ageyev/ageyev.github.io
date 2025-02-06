@@ -9,7 +9,7 @@
     <icon>https://international-law.info/img/favicon/favicon.ico</icon>
     <rights>Copyright © 2025 Viktor Ageyev</rights>
     <entry>
-        <title type="html"><![CDATA[On the Biblical Borders of Israel]]></title>
+        <title type="html"><![CDATA[From the Nile to the Euphrates - on the Question of Israel’s Biblical Borders]]></title>
         <id>https://international-law.info/blog/from_the_Nile_to_the_Euphrates</id>
         <link href="https://international-law.info/blog/from_the_Nile_to_the_Euphrates"/>
         <updated>2025-02-06T00:00:00.000Z</updated>
@@ -33,7 +33,10 @@
 <hr>
 <p>this post in:</p>
 <p><a href="https://www.instagram.com/p/DFvBBNkoYaM/" target="_blank" rel="noopener noreferrer">Instagram</a></p>
-<p><a href="https://x.com/ageyev/status/1887506345617768538" target="_blank" rel="noopener noreferrer">Twitter</a></p>]]></content>
+<p><a href="https://x.com/ageyev/status/1887506345617768538" target="_blank" rel="noopener noreferrer">Twitter</a></p>
+<hr>
+<p>See also:</p>
+<p><a href="https://international-law.info/borders_and_territory_of_israel/">Where Are Israel's Borders and What Is Israel Actually Occupying</a></p>]]></content>
         <author>
             <name>Viktor Ageyev</name>
         </author>
@@ -67,5 +70,19 @@
         </author>
         <category label="Viktor Ageyev" term="Viktor Ageyev"/>
         <category label="Israel" term="Israel"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Starting]]></title>
+        <id>https://international-law.info/blog/starting</id>
+        <link href="https://international-law.info/blog/starting"/>
+        <updated>2024-08-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the new blog.]]></summary>
+        <content type="html"><![CDATA[<p>Welcome to the new blog.</p>
+<p>It was build with <a href="https://docusaurus.io/" target="_blank" rel="noopener noreferrer">Docusaurus</a> framework, its code is hosted on GitHub, see <a href="https://github.com/ageyev/ageyev.github.io/" target="_blank" rel="noopener noreferrer">repo</a></p>]]></content>
+        <author>
+            <name>Viktor Ageyev</name>
+        </author>
+        <category label="Viktor Ageyev" term="Viktor Ageyev"/>
+        <category label="Test" term="Test"/>
     </entry>
 </feed>

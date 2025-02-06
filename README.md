@@ -62,3 +62,12 @@ Tags can also be declared with tags: [Demo, Getting started].
 ### Images 
 
 Illustrations for texts in 'docs' and 'blog' sections are stored in the corresponding folders in [static/img/Illustrations](static/img/Illustrations) 
+
+In the output they will be placed in ```img/``` directory. 
+
+To reference an image in the blog post, omit ```static```, for example: 
+
+
+```markdown
+![image description](/img/Illustrations/blog/2025-02-06-from_the_Nile_to_the_Euphrates/Bereshit_15-18.png) 
+```

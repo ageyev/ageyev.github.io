@@ -1,6 +1,6 @@
 ---
 slug: from_the_Nile_to_the_Euphrates
-title: К вопросу о библейских границах Израиля
+title: От Нила до Евфрата - к вопросу о библейских границах Израиля 
 authors: [ageyev]
 tags: [ageyev, israel]
 draft: false
@@ -37,3 +37,7 @@ draft: false
 !["From the Nile to the Euphrates"](/img/Illustrations/blog/2025-02-06-from_the_Nile_to_the_Euphrates/Bereshit_15-18.png) 
 
 --- 
+
+См. тажже: 
+
+[Где проходят границы Израиля и что Израиль на самом деле оккупирует](/ru/borders_and_territory_of_israel/)

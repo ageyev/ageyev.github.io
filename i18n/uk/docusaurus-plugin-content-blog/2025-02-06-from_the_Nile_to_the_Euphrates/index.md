@@ -35,3 +35,7 @@ draft: false
 !["From the Nile to the Euphrates"](/img/Illustrations/blog/2025-02-06-from_the_Nile_to_the_Euphrates/Bereshit_15-18.png) 
 
 --- 
+
+Див. також: 
+
+[Де проходять кордони Ізраїлю та що насправді Ізраїль окупує](/uk/borders_and_territory_of_israel/)

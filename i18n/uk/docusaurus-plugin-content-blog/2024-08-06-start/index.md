@@ -6,10 +6,7 @@ tags: [ageyev, test]
 draft: true
 ---
 
-Welcome to the new blog.
+Стартував новий блог і нову версію сайту
 
-It was build with [Docusaurus](https://docusaurus.io)
-
-<!-- truncate -->
-
-Its code is hosted on GitHub, see [repo](https://github.com/ageyev/ageyev.github.io/)
+Новий сайт побудовано на [Docusaurus](https://docusaurus.io).
+Код розміщений в [repo](https://github.com/ageyev/ageyev.github.io/)

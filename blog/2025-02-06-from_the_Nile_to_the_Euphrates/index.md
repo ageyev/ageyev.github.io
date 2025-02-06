@@ -1,6 +1,6 @@
 ---
 slug: from_the_Nile_to_the_Euphrates
-title: On the Biblical Borders of Israel 
+title: From the Nile to the Euphrates - on the Question of Israel’s Biblical Borders 
 authors: [ageyev]
 tags: [ageyev, israel]
 draft: false
@@ -42,3 +42,8 @@ this post in:
 
 [Twitter](https://x.com/ageyev/status/1887506345617768538)
 
+--- 
+
+See also: 
+
+[Where Are Israel's Borders and What Is Israel Actually Occupying](/borders_and_territory_of_israel/) 

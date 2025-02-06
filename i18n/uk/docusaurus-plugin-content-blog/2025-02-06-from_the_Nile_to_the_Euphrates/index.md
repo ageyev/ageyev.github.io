@@ -1,6 +1,5 @@
 ---
-slug: from_the_Nile_to_the_Euphrates
-title: On the Biblical Borders of Israel 
+slug: from_the_Nile_to_the_Euphrates 
 authors: [ageyev]
 tags: [ageyev, israel]
 draft: false

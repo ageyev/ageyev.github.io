@@ -40,5 +40,5 @@ this post in:
 
 [Instagram](https://www.instagram.com/p/DFvBBNkoYaM/) 
 
-[Twitte](https://x.com/ageyev/status/1887506345617768538)
+[Twitter](https://x.com/ageyev/status/1887506345617768538)
 

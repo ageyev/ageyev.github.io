@@ -49,33 +49,33 @@ However, the PLO, proclaiming itself the representative of the "Palestinian peop
 
 The determination of what constitutes "Palestinian territory" according to the PLO can be inferred from the emblem of the organization, which depicts "Palestine" in their understanding, i.e., only the territory of Israel:
 
-![Emblem of the PLO](/img/Illustrations/docs/holy_land/state_of_palestine/421px-Emblem_of_the_PLO_Vector_Graphic.svg.png)
+[![Emblem of the PLO](/img/Illustrations/docs/holy_land/state_of_palestine/Emblem_of_the_PLO.png)](https://en.wikipedia.org/wiki/Palestine_Liberation_Organization#/media/File:Emblem_of_the_PLO_Vector_Graphic.svg) 
 
 This same map appears on the emblems of leading organizations of the "First Intifada," specifically on the emblem of Hamas:
 
-![Emblem of Hamas](/img/Illustrations/docs/holy_land/state_of_palestine/Emblem_of_Hamas.svg)
+[![Emblem of Hamas](/img/Illustrations/docs/holy_land/state_of_palestine/Emblem_of_Hamas.svg)](https://en.wikipedia.org/wiki/Hamas#/media/File:Emblem_of_Hamas.svg)
 
 Palestinian Islamic Jihad:
 
-![Emplem of Palestinian Islamic Jihad](/img/Illustrations/docs/holy_land/state_of_palestine/PIJ_emblem.png)
+[![Emplem of Palestinian Islamic Jihad](/img/Illustrations/docs/holy_land/state_of_palestine/PIJ_emblem.png)](https://en.wikipedia.org/wiki/Palestinian_Islamic_Jihad#/media/File:PIJ_emblem.png) 
 
 Democratic Front for the Liberation of Palestine:
 
-![Emblem of Democratic Front for the Liberation of Palestine](/img/Illustrations/docs/holy_land/state_of_palestine/Democratic_Front_for_the_Liberation_of_Palestine_logo.png) 
+[![Emblem of Democratic Front for the Liberation of Palestine](/img/Illustrations/docs/holy_land/state_of_palestine/Democratic_Front_for_the_Liberation_of_Palestine_logo.png)](https://en.wikipedia.org/wiki/Democratic_Front_for_the_Liberation_of_Palestine#/media/File:Democratic_Front_for_the_Liberation_of_Palestine_logo.png) 
 
 Popular Front for the Liberation of Palestine:
 
-![Emblem of Popular Front for the Liberation of Palestine](/img/Illustrations/docs/holy_land/state_of_palestine/Logo_of_PFLP.png) 
+[![Emblem of Popular Front for the Liberation of Palestine](/img/Illustrations/docs/holy_land/state_of_palestine/Logo_of_PFLP.png)](https://en.wikipedia.org/wiki/Popular_Front_for_the_Liberation_of_Palestine#/media/File:Logo_of_PFLP.png) 
 
-Despite the PLO leading the "Intifada," it did not control any part of the territory it intended to seize during the uprising.
+Despite the PLO leading the "Intifada," it did not control any part of the territory it intended to seize during the uprising. 
 
 ### Government
 
-On December 9, 1988, the PLO's representative to the UN delivered a letter to the UN Secretary-General, which included the "Declaration on the Formation of the Provisional Government of the State of Palestine" accepted by the PLO at the same "Intifada Session" on November 15, 1988, which stated:
+On December 9, 1988, the PLO's representative to the UN delivered a letter to the UN Secretary-General, which included the "[Declaration of the formation of the provisional Government of the State of Palestine](https://www.un.org/unispal/document/auto-insert-181782/)" of the State of Palestine" accepted by the PLO at the same "Intifada Session" on November 15, 1988, which stated:
 
 > "A provisional Government shall be formed for the State of Palestine as soon as possible, in accordance with circumstances and the evolution of events."
 
-According to available information, on April 2, 1989, the PLO's Central Council elected Yasser Arafat as president of the self-proclaimed Palestinian state and designated Faruq al-Qaddumi as foreign minister.
+According to available information, on April 2, 1989, the PLO's Central Council elected Yasser Arafat as president of the self-proclaimed Palestinian state and designated [Faruq al-Qaddumi](https://en.wikipedia.org/wiki/Faruq_al-Qaddumi) as foreign minister.
 
 > "On April 2, 1989, the PLO's Central Council unanimously elected Arafat president of the self-proclaimed Palestinian state and designated Faruk Qaddumi as foreign minister ..."
 

@@ -51,23 +51,23 @@ slug: state_of_palestine
 
 Вывод о том, что такое "палестинская территория" в понимании ООП можно сделать на основании эмблемы этой организации, на которой собственно и изображена "Палестина" в их понимании, т.е. это только территория Израиля:
 
-![Emblem of the PLO](/img/Illustrations/docs/holy_land/state_of_palestine/421px-Emblem_of_the_PLO_Vector_Graphic.svg.png) 
+[![Emblem of the PLO](/img/Illustrations/docs/holy_land/state_of_palestine/Emblem_of_the_PLO.png)](https://en.wikipedia.org/wiki/Palestine_Liberation_Organization#/media/File:Emblem_of_the_PLO_Vector_Graphic.svg) 
 
 В таком же виде эта карта присуствует на эмблемах ведущих организаций "Первой интифады", а именно на эмблеме Хамас:
 
-![Emblem of Hamas](/img/Illustrations/docs/holy_land/state_of_palestine/Emblem_of_Hamas.svg)
+[![Emblem of Hamas](/img/Illustrations/docs/holy_land/state_of_palestine/Emblem_of_Hamas.svg)](https://en.wikipedia.org/wiki/Hamas#/media/File:Emblem_of_Hamas.svg)
 
 Палестинский Национальный Джихад (Palestinian Islamic Jihad):
 
-![Emplem of Palestinian Islamic Jihad](/img/Illustrations/docs/holy_land/state_of_palestine/PIJ_emblem.png)
+[![Emplem of Palestinian Islamic Jihad](/img/Illustrations/docs/holy_land/state_of_palestine/PIJ_emblem.png)](https://en.wikipedia.org/wiki/Palestinian_Islamic_Jihad#/media/File:PIJ_emblem.png)
 
 Демократический фронт освобождения Палестины (Democratic Front for the Liberation of Palestine):
 
-![Emblem of Democratic Front for the Liberation of Palestine](/img/Illustrations/docs/holy_land/state_of_palestine/Democratic_Front_for_the_Liberation_of_Palestine_logo.png)
+[![Emblem of Democratic Front for the Liberation of Palestine](/img/Illustrations/docs/holy_land/state_of_palestine/Democratic_Front_for_the_Liberation_of_Palestine_logo.png)](https://en.wikipedia.org/wiki/Democratic_Front_for_the_Liberation_of_Palestine#/media/File:Democratic_Front_for_the_Liberation_of_Palestine_logo.png)
 
 Народный Фронт Освобождения Палестины (Popular Front for the Liberation of Palestine):
 
-![Emblem of Popular Front for the Liberation of Palestine](/img/Illustrations/docs/holy_land/state_of_palestine/Logo_of_PFLP.png)
+[![Emblem of Popular Front for the Liberation of Palestine](/img/Illustrations/docs/holy_land/state_of_palestine/Logo_of_PFLP.png)](https://en.wikipedia.org/wiki/Popular_Front_for_the_Liberation_of_Palestine#/media/File:Logo_of_PFLP.png)
 
 Но несмотря на то, что ООП была лидером "Интифады", она не контролировала никакую часть территории, которую намеревалась захватить в ходе восстания.
 

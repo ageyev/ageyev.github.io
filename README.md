@@ -34,6 +34,24 @@ import 'react-lite-youtube-embed/dist/LiteYouTubeEmbed.css';
 [Admonitions](https://docusaurus.io/docs/markdown-features/admonitions). 
 You can use MDX inside admonitions too.
 
+#### plugin-ideal-image 
+
+[plugin-ideal-image](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-ideal-image) supports the PNG and JPG formats only. 
+
+```shell
+npm install --save @docusaurus/plugin-ideal-image 
+```
+
+Can be used like that: 
+
+
+```mdxjs
+
+
+
+```
+
+
 ### Doc pages
 
 [Doc tags](https://docusaurus.io/docs/3.3.2/create-doc#doc-tags)

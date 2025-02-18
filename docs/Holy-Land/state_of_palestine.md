@@ -21,7 +21,7 @@ We have previously discussed the concept of "[international legal personality](h
 
 There are two entities which are being conflated:
 
-## (1) The State of Palestine Declared in Algiers in 1988
+## (1) The State of Palestine declared in Algiers in 1988
 
 ### Declaration of Independence
 
@@ -29,7 +29,7 @@ From November 12 to 15, 1988, in Algiers, the 19th extraordinary session of the 
 
 This session was named by the Council itself (see [the Political Communiqué of the Palestine National Council of 15 November 1988](https://www.un.org/unispal/document/auto-insert-178680/)) "the session of the intifadah."
 
-The term "intifada" refers to the uprising of Palestinian Arabs against Israel that began in December 1987. The term "intifada" emerged with the creation of the organization [Hamas](https://en.wikipedia.org/wiki/Hamas) (founded in 1987), which first used it to describe the uprising in one of its initial statements on December 11, 1987 (see [Arabic Wikipedia on the first intifada](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D9%81%D8%A7%D8%B6%D8%A9_%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D8%A9_%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89)).
+The term "intifada" (or "intifadah") refers to the uprising of Palestinian Arabs against Israel that began in December 1987. The term "intifada" emerged with the creation of the organization [Hamas](https://en.wikipedia.org/wiki/Hamas) (founded in 1987), which first used it to describe the uprising in one of its initial statements on December 11, 1987 (see [Arabic Wikipedia on the first intifada](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D9%81%D8%A7%D8%B6%D8%A9_%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D8%A9_%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89)).
 
 On November 15, at the "intifada session" in Algiers, [Yasser Arafat](https://en.wikipedia.org/wiki/Yasser_Arafat) proclaimed the [Palestinian Declaration of Independence](https://en.wikipedia.org/wiki/Palestinian_Declaration_of_Independence) (Arabic: [إعلان الاستقلال الفلسطيني](https://ar.wikipedia.org/wiki/%D8%A5%D8%B9%D9%84%D8%A7%D9%86_%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D9%82%D9%84%D8%A7%D9%84_%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A)) (see [the Political Communiqué of the Palestine National Council and the Declaration of Independence of 15 November 1988](https://www.un.org/unispal/document/auto-insert-178680/), and [text of the Declaration in Arabic](https://ar.wikisource.org/wiki/%D8%A5%D8%B9%D9%84%D8%A7%D9%86_%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D9%82%D9%84%D8%A7%D9%84_%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A)).
 
@@ -41,11 +41,13 @@ The Declaration stated the following:
 
 ### Territory
 
-In the declaration, only the capital of the proclaimed "State of Palestine" (Holy Jerusalem) was explicitly mentioned, but the exact boundaries of the "Palestinian land," i.e., the territory of the proclaimed state, were not specified by the Palestine Liberation Organization (PLO).
+In the declaration, only the capital of the proclaimed "State of Palestine" (Holy Jerusalem) was explicitly mentioned, but the exact boundaries of the "Palestinian land," i.e. the territory of the proclaimed state that the Palestine Liberation Organization had in mind, were not explicitly defined.
+
+i.e., the territory of the proclaimed state, were not specified by the Palestine Liberation Organization (PLO).
 
 The territory of the Mandate for Palestine issued by the League of Nations ([Mandate for Palestine](https://en.wikisource.org/wiki/Palestine_Mandate_(1922))), also included the area between the Jordan River and the eastern boundary of Palestine, where in 1946, the Hashemite Kingdom of Transjordan was established (now Jordan).
 
-However, the PLO, proclaiming itself the representative of the "Palestinian people," carefully avoided mentioning that Jordan also pertains to Palestine.
+However, the PLO, proclaiming itself the representative of the "Palestinian people," carefully avoided mentioning that Jordan also is Palestine.
 
 The determination of what constitutes "Palestinian territory" according to the PLO can be inferred from the emblem of the organization, which depicts "Palestine" in their understanding, i.e., only the territory of Israel:
 
@@ -75,7 +77,7 @@ On December 9, 1988, the PLO's representative to the UN delivered a letter to th
 
 > "A provisional Government shall be formed for the State of Palestine as soon as possible, in accordance with circumstances and the evolution of events."
 
-According to available information, on April 2, 1989, the PLO's Central Council elected Yasser Arafat as president of the self-proclaimed Palestinian state and designated [Faruq al-Qaddumi](https://en.wikipedia.org/wiki/Faruq_al-Qaddumi) as foreign minister.
+According to available information, on April 2, 1989, the PLO's Central Council elected Yasser Arafat as president of the "State of Palestine" and designated [Faruq al-Qaddumi](https://en.wikipedia.org/wiki/Faruq_al-Qaddumi) as foreign minister.
 
 > "On April 2, 1989, the PLO's Central Council unanimously elected Arafat president of the self-proclaimed Palestinian state and designated Faruk Qaddumi as foreign minister ..."
 
@@ -85,7 +87,7 @@ No further appointments to the positions of president or foreign minister have b
 
 ### Diplomatic Recognition
 
-At the time of the proclamation of the "State of Palestine," the states of the Arab League (except Egypt) and the Soviet Union did not recognize the State of Israel. By the end of 1988, the "State of Palestine" was recognized by more than 80 states - predominantly Arab and Muslim countries, along with the Soviet Union and its satellites. By 1994, the "State of Palestine" had received diplomatic recognition from 95 states.
+At the time of the proclamation of the "State of Palestine," the states of the Arab League (except Egypt) and the Soviet Union did not recognize the State of Israel. Adn by the end of 1988, the "State of Palestine" was recognized by more than 80 states - predominantly Arab and Muslim countries, along with the Soviet Union and its satellites. By 1994, the "State of Palestine" had received diplomatic recognition from 95 states (see [Diplomatic recognitions](https://en.wikipedia.org/wiki/International_recognition_of_the_State_of_Palestine#Diplomatic_recognitions))
 
 ### Status in the UN
 
@@ -105,9 +107,9 @@ On November 29, 2012, the General Assembly adopted resolution [67/19](https://en
 
 The resolution decided to grant "observer State status in the United Nations" to the "State of Palestine."
 
-Here, it should be noted that, contrary to popular belief, the UN Charter does not provide for such status as "observer State," and the General Assembly does not have the authority to assign such status, as granting statehood rights without following the UN Charter's membership procedure constitutes a violation of the UN Charter.
+Here, it should be noted that, contrary to popular belief, the UN Charter does not provide for such status as "observer State," and the General Assembly does not have the authority to assign such status, as granting even rights of member state without following the UN Charter's membership procedure constitutes a violation of the UN Charter.
 
-On May 10, 2024, the UN General Assembly adopted resolution [A/RES/ES-10/23](https://www.un.org/unispal/document/admission-of-new-members-10may24/) granting, on an "exceptional basis," additional rights to the "State of Palestine" within the General Assembly. Based on this resolution, the "State of Palestine," not being a UN member, began submitting draft resolutions to the UN General Assembly, including one [resolution](https://documents.un.org/doc/undoc/ltd/n24/266/48/pdf/n2426648.pdf) demanding Israel withdraw from "occupied Palestinian territory" within 12 months.
+On May 10, 2024, the UN General Assembly adopted resolution [A/RES/ES-10/23](https://www.un.org/unispal/document/admission-of-new-members-10may24/) granting, on an "exceptional basis," additional rights to the "State of Palestine" within the General Assembly. Based on this resolution, the "State of Palestine," (but actually PNA) not being a UN member, began submitting draft resolutions to the UN General Assembly, including one [resolution](https://documents.un.org/doc/undoc/ltd/n24/266/48/pdf/n2426648.pdf) demanding Israel withdraw from "occupied Palestinian territory" within 12 months. 
 
 ## (2) Palestinian National Authority (PNA)
 
@@ -115,9 +117,9 @@ The [Palestinian National Authority](https://en.wikipedia.org/wiki/Palestinian_A
 
 This agreement was soon replaced by the [Israeli-Palestinian Interim Agreement on the West Bank and the Gaza Strip (Oslo II)](https://www.un.org/unispal/document/auto-insert-185434/) signed on September 28, 1995, between the Government of the State of Israel and the PLO (in accordance with Article XXXI, paragraph 2).
 
-It should be noted that at that time, Yasser Arafat was the head of the PLO and the "president" of the "State of Palestine" proclaimed in 1988 in Algiers, but the signatory to the agreements with Israel was the PLO.
+It should be noted that at that time, Yasser Arafat was the head of the PLO and the "president" of the "State of Palestine" proclaimed in 1988 in Algiers, but the signatory to the agreements with Israel was precisely the PLO, not "State of Palestine"
 
-The entire content of the Oslo II agreement contradicts the notion that there exists a State of Palestine within Israel's territory, proclaimed by the PLO in Algiers in 1988, and legally signified the PLO's recognition of the State of Israel and the legitimacy of its control over the territory.
+The entire content of the Oslo II agreement contradicts the notion that there exists the "State of Palestine" within Israel's territory, proclaimed by the PLO in Algiers in 1988, and legally signified the PLO's recognition of the State of Israel and the legitimacy of its control over the territory.
 
 Article I of Oslo II states that the Israeli government transfers part of its powers to the autonomy's organs, while retaining others:
 
@@ -130,19 +132,23 @@ Most importantly (Article IX, paragraph 5(a) of Oslo II):
 
 > "the Council will not have powers and responsibilities in the sphere of foreign relations, which sphere includes the establishment abroad of embassies, consulates or other types of foreign missions and posts or permitting their establishment in the West Bank or the Gaza Strip, the appointment of or admission of diplomatic and consular staff, and the exercise of diplomatic functions."
 
-It can also be noted that Oslo II envisaged self-governance "in accordance with democratic principles," including direct and free elections for the self-government bodies. In reality, however, there were armed clashes between militants of rival factions (Fatah and Hamas), during which they killed political opponents.
+It can also be noted that Oslo II envisaged self-governance "in accordance with democratic principles," including direct and free elections for the self-government bodies. In reality, however, there were armed clashes between militants of rival factions (Fatah and Hamas), during which they killed political opponents, and thus they decided who controls which parts of the autonomy (Gaza is now controlled by Hamas, the West Bank by Fatah, elections are not held in either place)
 
 ### Territory
 
-The territory where the PNA exercises self-governance is defined by the Oslo Agreements. Jerusalem, proclaimed by the "State of Palestine" as its capital, is not included and has never been part of the territory where the PNA operates.
+The territory where the PNA exercises self-governance is defined by the Oslo Agreements. 
+
+Jerusalem, once proclaimed by the "State of Palestine" as its capital, is not and has never been part of the territory in which the PNA operates. 
 
 ### Governing Bodies
 
-The governance bodies of the PNA are defined in the Oslo Agreements. Legally, these are not the same bodies established in 1988 for the proclaimed "State of Palestine."
+The governance bodies of the PNA are defined in the Oslo Agreements. 
+
+And legally these are not at all the same bodies that were created in 1988 by the proclaimed "State of Palestine"
 
 ### International Recognition and Status in the UN
 
-The PNA, established in 1994, has never been legally recognized by anyone as an independent state and has not received any special status in the UN.
+The PNA, created in 1994, was never legally recognized by anyone as an independent state (and could not be recognized based on the provisions of the Oslo Accords), and did not receive any special status in the UN.
 
 Corresponding recognitions and UN status pertain to the "State of Palestine" proclaimed in Algiers in 1988.
 
@@ -152,7 +158,10 @@ In the matter of distinguishing between the "State of Palestine" proclaimed in A
 
 It was the PLO in 1988 in Algiers that proclaimed the "State of Palestine," and it was the PLO that later signed the Oslo agreements.
 
-The PLO announced the commencement of its activities in the [Palestinian National Covenant](https://www.gov.il/en/pages/11-national-covenant-of-the-palestine-liberation-organization-28-may-1964) on May 28, 1964.
+The PLO announced the commencement of its activities in 
+[the Palestinian National Covenant (Palestinian National Charter)](https://www.gov.il/en/pages/11-national-covenant-of-the-palestine-liberation-organization-28-may-1964)
+([الميثاق الوطني الفلسطيني](https://ar.wikisource.org/wiki/%D8%A7%D9%84%D9%85%D9%8A%D8%AB%D8%A7%D9%82_%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A_%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A/1964))
+on May 28, 1964.
 
 On November 22, 1974, General Assembly resolution [A/RES/3237 (XXIX)](https://www.un.org/unispal/document/auto-insert-180059/) invited the PLO to participate in the sessions and work of the UN General Assembly as an "observer."
 
@@ -170,21 +179,19 @@ The status of an "observer organization" at the UN General Assembly also violate
 | International Recognition | 146 states                              | None                       |
 | Status in the UN        | "observer State"                        | None                       |
 
-## How the PNA Came to Masquerade as the "State of Palestine"
+## How the PNA came to masquerade as the "State of Palestine" 
 
-After the General Assembly adopted resolution [67/19](https://en.wikipedia.org/wiki/United_Nations_General_Assembly_resolution_67/19) in 2012, granting "observer State" status to the "State of Palestine" (clearly referring to the one proclaimed in Algiers in 1988), in January 2013, PNA Chairman Mahmoud Abbas issued a [decree](https://web.archive.org/web/20130312063000/http://www.alresalah.ps/en/index.php?act=post&id=1562) to replace the name "Palestinian National Authority" with "State of Palestine," thereby committing a fraud, and subsequently acted as if the international recognitions from 1988 and the UN General Assembly status from 2012 pertained to the institution he leads.
+After the General Assembly adopted resolution [67/19](https://en.wikipedia.org/wiki/United_Nations_General_Assembly_resolution_67/19) in 2012, granting "observer State" status to the "State of Palestine" (clearly referring to the one proclaimed in Algiers in 1988), in January 2013, PNA Chairman Mahmoud Abbas issued a [decree](https://web.archive.org/web/20130312063000/http://www.alresalah.ps/en/index.php?act=post&id=1562) to replace the name "Palestinian National Authority" with "State of Palestine," thereby committing a fraud, and subsequently acted as if the international recognitions from 1988 and the UN General Assembly status from 2012 pertained to the institution he leads (PNA).
 
 ## Practical Conclusions
 
-1) Legally, the PNA is not the "State of Palestine" that was recognized by the Soviet Union and its satellites, several Muslim states in 1988, and later granted "observer State" status by the UN General Assembly in 2012 (albeit in violation of the UN Charter).
+1) The Palestinian National Authority, established in 1994 based on the Oslo Accords, is not legally (and cannot legally be) the "State of Palestine," which was recognized in 1988 by the Soviet Union, its satellites, and several Muslim countries, and to which the United Nations General Assembly (violating the UN Charter, however) granted the status of "observer state" in 2012.
 
-2) The "State of Palestine" proclaimed in Algiers in 1988 currently has no living official representatives after the deaths of Yasser Arafat and Faruq al-Qaddumi.
+2) According to the Oslo Agreements, upon which the PNA legally exists and operates, it has no right to engage in foreign relations, specifically no right to represent at the UN in any capacity, establish relations with other states, or open embassies or consulates, nor to act as a state before the International Court of Justice. 
 
-3) According to the Oslo Agreements, upon which the PNA legally exists and operates, it has no right to engage in foreign relations, specifically no right to represent at the UN in any capacity, establish relations with other states, or open embassies or consulates, nor to act as a state before the International Court of Justice.
+3) By signing the Oslo Agreements, the PLO recognized the sovereignty of the State of Israel over its territory, including Jerusalem and the area where the PNA administers autonomy.
 
-4) By signing the Oslo Agreements, the PLO recognized the sovereignty of the State of Israel over its territory, including Jerusalem and the area where the PNA administers autonomy.
-
-5) The case [ICC-01/18](https://www.icc-cpi.int/palestine) at the International Criminal Court, initiated by the PNA masquerading as the "State of Palestine," should be terminated due to the PNA's deception of the court.
+4) The case [ICC-01/18](https://www.icc-cpi.int/palestine) at the International Criminal Court, initiated by the PNA masquerading as the "State of Palestine," should be terminated due to the PNA's deception of the court.
 
 ---
 

@@ -195,7 +195,7 @@ After the General Assembly adopted resolution [67/19](https://en.wikipedia.org/w
 
 ---
 
-## References
+## References:
 
 ["Palestine: documents" on al-bab.com](https://al-bab.com/documents-section/palestine-documents)
 
@@ -206,3 +206,9 @@ After the General Assembly adopted resolution [67/19](https://en.wikipedia.org/w
 [United Nations information system on Palestine: online repository of documents on the question of Palestine](https://www.un.org/unispal/documents/)
 
 ---
+
+## Illustrations: 
+
+Riyad Mansour ([Riyad Mansour](https://en.wikipedia.org/wiki/Riyad_Mansour)) pretends to be a representative of "State of Palestine" in UN (photo by (Angela Weiss / AFP)): 
+
+![Riyad Mansour](/img/Illustrations/docs/holy_land/state_of_palestine/Riyad_Mansour_in-UN_SC.jpg) 

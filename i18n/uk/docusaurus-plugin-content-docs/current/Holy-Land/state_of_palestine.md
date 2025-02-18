@@ -208,7 +208,7 @@ slug: state_of_palestine
 
 ---
 
-## Посилання
+## Посилання:
 
 [“Palestine: documents” на al-bab.com](https://al-bab.com/documents-section/palestine-documents)
 
@@ -219,3 +219,9 @@ slug: state_of_palestine
 [United Nations information system on Palestine: online repository of documents on the question of Palestine](https://www.un.org/unispal/documents/)
 
 ---
+
+## Ілюстрації:
+
+Ріяд Мансур ([Riyad Mansour](https://en.wikipedia.org/wiki/Riyad_Mansour) зображує із себе представника "Держави Палестина" в ООН (photo by (Angela Weiss / AFP)):
+
+![Riyad Mansour](/img/Illustrations/docs/holy_land/state_of_palestine/Riyad_Mansour_in-UN_SC.jpg) 

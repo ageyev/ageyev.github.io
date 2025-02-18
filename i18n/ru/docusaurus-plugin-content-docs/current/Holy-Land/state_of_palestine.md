@@ -51,29 +51,29 @@ slug: state_of_palestine
 
 Вывод о том, что такое "палестинская территория" в понимании ООП можно сделать на основании эмблемы этой организации, на которой собственно и изображена "Палестина" в их понимании, т.е. это только территория Израиля:
 
-![Emblem of the PLO](/static/Illustrations/docs/holy_land/state_of_palestine/421px-Emblem_of_the_PLO_Vector_Graphic.svg.png) 
+![Emblem of the PLO](/img/Illustrations/docs/holy_land/state_of_palestine/421px-Emblem_of_the_PLO_Vector_Graphic.svg.png) 
 
 В таком же виде эта карта присуствует на эмблемах ведущих организаций "Первой интифады", а именно на эмблеме Хамас:
 
-![Emblem of Hamas](/static/Illustrations/docs/holy_land/state_of_palestine/Emblem_of_Hamas.svg)
+![Emblem of Hamas](/img/Illustrations/docs/holy_land/state_of_palestine/Emblem_of_Hamas.svg)
 
 Палестинский Национальный Джихад (Palestinian Islamic Jihad):
 
-![Emplem of Palestinian Islamic Jihad](/static/Illustrations/docs/holy_land/state_of_palestine/PIJ_emblem.png)
+![Emplem of Palestinian Islamic Jihad](/img/Illustrations/docs/holy_land/state_of_palestine/PIJ_emblem.png)
 
 Демократический фронт освобождения Палестины (Democratic Front for the Liberation of Palestine):
 
-![Emblem of Democratic Front for the Liberation of Palestine](/static/Illustrations/docs/holy_land/state_of_palestine/Democratic_Front_for_the_Liberation_of_Palestine_logo.png)
+![Emblem of Democratic Front for the Liberation of Palestine](/img/Illustrations/docs/holy_land/state_of_palestine/Democratic_Front_for_the_Liberation_of_Palestine_logo.png)
 
 Народный Фронт Освобождения Палестины (Popular Front for the Liberation of Palestine):
 
-![Emblem of Popular Front for the Liberation of Palestine](/static/Illustrations/docs/holy_land/state_of_palestine/Logo_of_PFLP.png)
+![Emblem of Popular Front for the Liberation of Palestine](/img/Illustrations/docs/holy_land/state_of_palestine/Logo_of_PFLP.png)
 
 Но несмотря на то, что ООП была лидером "Интифады", она не контролировала никакую часть территории, которую намеревалась захватить в ходе восстания.
 
 ### Правительство
 
-9 декабря 1988 г. представитель ООП при ООН передал Генеральному Секретарю ООН письмо, к которому был приложена "Декларация о формировании временного правительства Государства Палестина" ("[Declaration of the formation of the provisional Government of the State of Palestine](https://www.un.org/unispal/document/auto-insert-181782/)") принятая ООП на той же "Сессии Интифады" 15 ноября1988 г., в которой указывалось:
+9 декабря 1988 г. представитель ООП при ООН передал Генеральному Секретарю ООН письмо, к которому была приложена "Декларация о формировании временного правительства Государства Палестина" ("[Declaration of the formation of the provisional Government of the State of Palestine](https://www.un.org/unispal/document/auto-insert-181782/)"), принятая ООП на той же "Сессии Интифады" 15 ноября1988 г., в которой указывалось:
 
 > "Временное правительство Государства Палестина будет сформировано как можно скорее, в зависимости от обстоятельств и развития событий"
 

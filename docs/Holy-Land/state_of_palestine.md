@@ -1,5 +1,5 @@
 ---
-title: State of Palestine
+title: What is the "State of Palestine"
 id: state_of_palestine
 hide_title: true
 draft: false

@@ -209,6 +209,6 @@ After the General Assembly adopted resolution [67/19](https://en.wikipedia.org/w
 
 ## Illustrations: 
 
-([Riyad Mansour](https://en.wikipedia.org/wiki/Riyad_Mansour)) pretends to be a representative of "State of Palestine" in UN (photo by (Angela Weiss / AFP)): 
+[Riyad Mansour](https://en.wikipedia.org/wiki/Riyad_Mansour) pretends to be a representative of "State of Palestine" in UN (photo by (Angela Weiss / AFP)): 
 
 [![Riyad Mansour](/img/Illustrations/docs/holy_land/state_of_palestine/Riyad_Mansour_in-UN_SC.jpg)](/img/Illustrations/docs/holy_land/state_of_palestine/Riyad_Mansour_in-UN_SC.jpg)

@@ -49,11 +49,11 @@ However, the PLO, proclaiming itself the representative of the "Palestinian peop
 
 The determination of what constitutes "Palestinian territory" according to the PLO can be inferred from the emblem of the organization, which depicts "Palestine" in their understanding, i.e., only the territory of Israel:
 
-![Emblem of the PLO](https://en.wikipedia.org/wiki/Palestine_Liberation_Organization#/media/File:Emblem_of_the_PLO_Vector_Graphic.svg)
+![Emblem of the PLO](/static/Illustrations/docs/holy_land/state_of_palestine/421px-Emblem_of_the_PLO_Vector_Graphic.svg.png)
 
 This same map appears on the emblems of leading organizations of the "First Intifada," specifically on the emblem of Hamas:
 
-![Emblem of Hamas](https://en.wikipedia.org/wiki/Hamas#/media/File:Emblem_of_Hamas.svg)
+![Emblem of Hamas](static/Illustrations/docs/holy_land/state_of_palestine/Emblem_of_Hamas.svg)
 
 Palestinian Islamic Jihad:
 
@@ -61,11 +61,11 @@ Palestinian Islamic Jihad:
 
 Democratic Front for the Liberation of Palestine:
 
-![Emblem of Democratic Front for the Liberation of Palestine](https://en.wikipedia.org/wiki/Democratic_Front_for_the_Liberation_of_Palestine#/media/File:Democratic_Front_for_the_Liberation_of_Palestine_logo.png)
+![Emblem of Democratic Front for the Liberation of Palestine](/static/Illustrations/docs/holy_land/state_of_palestine/Democratic_Front_for_the_Liberation_of_Palestine_logo.png) 
 
 Popular Front for the Liberation of Palestine:
 
-![Emblem of Popular Front for the Liberation of Palestine](https://en.wikipedia.org/wiki/Popular_Front_for_the_Liberation_of_Palestine#/media/File:Logo_of_PFLP.png)
+![Emblem of Popular Front for the Liberation of Palestine](/static/Illustrations/docs/holy_land/state_of_palestine/Logo_of_PFLP.png) 
 
 Despite the PLO leading the "Intifada," it did not control any part of the territory it intended to seize during the uprising.
 

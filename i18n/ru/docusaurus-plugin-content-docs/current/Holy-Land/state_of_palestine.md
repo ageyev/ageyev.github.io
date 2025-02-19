@@ -225,5 +225,6 @@ slug: state_of_palestine
 
 [![Riyad Mansour](/img/Illustrations/docs/holy_land/state_of_palestine/Riyad_Mansour_in-UN_SC.jpg)](/img/Illustrations/docs/holy_land/state_of_palestine/Riyad_Mansour_in-UN_SC.jpg)
 
-Махмуд Аббас выступает на заседении Совета Безопасности ООН, 11 февраля 2020 (photo by Shannon Stapleton / Reuters)
+Махмуд Аббас выступает на заседении Совета Безопасности ООН, 11 февраля 2020 (photo by Shannon Stapleton / Reuters): 
+
 [![Mahmoud Abbas](/img/Illustrations/docs/holy_land/state_of_palestine/Abbas_in_UN_02.jpeg)](/img/Illustrations/docs/holy_land/state_of_palestine/Abbas_in_UN_02.jpeg)

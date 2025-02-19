@@ -213,5 +213,6 @@ After the General Assembly adopted resolution [67/19](https://en.wikipedia.org/w
 
 [![Riyad Mansour](/img/Illustrations/docs/holy_land/state_of_palestine/Riyad_Mansour_in-UN_SC.jpg)](/img/Illustrations/docs/holy_land/state_of_palestine/Riyad_Mansour_in-UN_SC.jpg) 
 
-Mahmoud Abbas speaks during a Security Council meeting, February 11, 2020 (photo by Shannon Stapleton / Reuters)
+Mahmoud Abbas speaks during a Security Council meeting, February 11, 2020 (photo by Shannon Stapleton / Reuters): 
+
 [![Mahmoud Abbas](/img/Illustrations/docs/holy_land/state_of_palestine/Abbas_in_UN_02.jpeg)](/img/Illustrations/docs/holy_land/state_of_palestine/Abbas_in_UN_02.jpeg) 

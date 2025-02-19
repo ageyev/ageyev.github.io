@@ -41,4 +41,4 @@ draft: false
 
 Див. також: 
 
-[Де проходять кордони Ізраїлю та що насправді Ізраїль окупує](/uk/borders_and_territory_of_israel/)
+[Де проходять кордони Ізраїлю та що насправді Ізраїль окупує](/uk/Holy-Land/borders_and_territory_of_israel)

@@ -47,4 +47,4 @@ this post in:
 
 See also: 
 
-[Where Are Israel's Borders and What Is Israel Actually Occupying](/borders_and_territory_of_israel/) 
+[Where Are Israel's Borders and What Is Israel Actually Occupying]( /Holy-Land/borders_and_territory_of_israel) 

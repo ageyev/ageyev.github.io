@@ -2,7 +2,7 @@
 slug: october7
 title: October 7
 authors: [ageyev]
-tags: [ageyev, israel]
+tags: [ageyev, holy-land]
 draft: false
 ---
 

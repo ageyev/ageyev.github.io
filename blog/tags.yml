@@ -10,4 +10,8 @@ israel:
   label: Israel
   permalink: /israel
   description: Israel
+holy-land:
+  label: Holy Land
+  permalink: /holy-land
+  description: Holy Land
 

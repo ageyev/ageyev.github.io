@@ -1,0 +1,18 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.docs.category.UN": {
+    "message": "UN",
+    "description": "The label for category UN in sidebar docs"
+  },
+  "sidebar.docs.category.Holy Land": {
+    "message": "Holy Land",
+    "description": "The label for category Holy Land in sidebar docs"
+  },
+  "sidebar.docs.category.Software": {
+    "message": "Software",
+    "description": "The label for category Software in sidebar docs"
+  }
+}

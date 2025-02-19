@@ -2,7 +2,7 @@
 slug: october7
 title: 7 жовтня
 authors: [ageyev]
-tags: [ageyev, israel]
+tags: [ageyev, israel, holy-land]
 draft: false
 ---
 

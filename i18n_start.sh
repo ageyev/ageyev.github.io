@@ -25,5 +25,7 @@ cp -ur blog/** i18n/uk/docusaurus-plugin-content-blog
 
 mkdir -p i18n/ru/docusaurus-plugin-content-pages
 cp -ur src/pages/**.md i18n/uk/docusaurus-plugin-content-pages
-cp -ur src/pages/**.mdx i18n/uk/docusaurus-plugin-content-pages 
+cp -ur src/pages/**.mdx i18n/uk/docusaurus-plugin-content-pages
+
+# ----- HE
 

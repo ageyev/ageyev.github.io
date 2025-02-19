@@ -29,3 +29,5 @@ cp -ur src/pages/**.mdx i18n/uk/docusaurus-plugin-content-pages
 
 # ----- HE
 
+# npm run write-translations -- --locale he
+

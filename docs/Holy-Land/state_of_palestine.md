@@ -7,7 +7,7 @@ tags: [Israel]
 slug: state_of_palestine
 ---
 
-# Equivocation, or What is the "State of Palestine"
+# Equivocation, or what is the "State of Palestine"
 
 In logic, [equivocation](https://en.wikipedia.org/wiki/Equivocation) constitutes a fallacy or deception involving the use of a single term to refer to multiple entities within the same argument.
 
@@ -209,6 +209,6 @@ After the General Assembly adopted resolution [67/19](https://en.wikipedia.org/w
 
 ## Illustrations: 
 
-[Riyad Mansour](https://en.wikipedia.org/wiki/Riyad_Mansour) pretends to be a representative of "State of Palestine" in UN (photo by (Angela Weiss / AFP)): 
+[Riyad Mansour](https://en.wikipedia.org/wiki/Riyad_Mansour) pretends to be a representative of "State of Palestine" in UN (photo by Angela Weiss / AFP): 
 
 [![Riyad Mansour](/img/Illustrations/docs/holy_land/state_of_palestine/Riyad_Mansour_in-UN_SC.jpg)](/img/Illustrations/docs/holy_land/state_of_palestine/Riyad_Mansour_in-UN_SC.jpg)

@@ -226,3 +226,6 @@ image: https://international-law.info/img/Illustrations/docs/holy_land/state_of_
 Ріяд Мансур ([Riyad Mansour](https://en.wikipedia.org/wiki/Riyad_Mansour)) зображує із себе представника "Держави Палестина" в ООН (photo by Angela Weiss / AFP):
 
 [![Riyad Mansour](/img/Illustrations/docs/holy_land/state_of_palestine/Riyad_Mansour_in-UN_SC.jpg)](/img/Illustrations/docs/holy_land/state_of_palestine/Riyad_Mansour_in-UN_SC.jpg)
+
+Махмуд Аббас на засіданні Ради Безпеки ООН, 11 лютого 2020 (photo by Shannon Stapleton / Reuters)
+[![Mahmoud Abbas](/img/Illustrations/docs/holy_land/state_of_palestine/Abbas_in_UN_02.jpeg)](/img/Illustrations/docs/holy_land/state_of_palestine/Abbas_in_UN_02.jpeg)

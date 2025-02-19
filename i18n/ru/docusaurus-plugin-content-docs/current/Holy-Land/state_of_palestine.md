@@ -224,3 +224,6 @@ slug: state_of_palestine
 [Рияд Мансур](https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BD%D1%81%D1%83%D1%80,_%D0%A0%D0%B8%D1%8F%D0%B4) ([Riyad Mansour](https://en.wikipedia.org/wiki/Riyad_Mansour)) изображает из себя представителя "Государства Палестина" в ООН (photo by Angela Weiss / AFP): 
 
 [![Riyad Mansour](/img/Illustrations/docs/holy_land/state_of_palestine/Riyad_Mansour_in-UN_SC.jpg)](/img/Illustrations/docs/holy_land/state_of_palestine/Riyad_Mansour_in-UN_SC.jpg)
+
+Махмуд Аббас выступает на заседении Совета Безопасности ООН, 11 февраля 2020 (photo by Shannon Stapleton / Reuters)
+[![Mahmoud Abbas](/img/Illustrations/docs/holy_land/state_of_palestine/Abbas_in_UN_02.jpeg)](/img/Illustrations/docs/holy_land/state_of_palestine/Abbas_in_UN_02.jpeg)

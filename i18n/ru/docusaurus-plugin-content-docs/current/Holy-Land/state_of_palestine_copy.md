@@ -1,17 +1,8 @@
----
-title: Что такое "Государство Палестина"
-id: state_of_palestine
-hide_title: true
-draft: false
-tags: [Israel]
-slug: state_of_palestine
----
-
 # Эквивокация, или что такое "Государство Палестина"
 
 В логике, [эквивокация](https://ru.wikipedia.org/wiki/%D0%AD%D0%BA%D0%B2%D0%B8%D0%B2%D0%BE%D0%BA%D0%B0%D1%86%D0%B8%D1%8F) это ошибка или обман заключающийся в назывании разных вещей одним и тем же термином в рамках одного рассуждения.
 
-Такой трюк иногда используется в прикладной юриспруденции, например когда используется одно и то же название для нескольких юридических лиц, которые могут иметь разный статус (коммерческая или неприбыльная), или зарегистрированы в разных юрисдикциях. И, например, некие права принадлежащие одному юридическому лицу (лицензия, страховка и т.п.) используют для другого юридического лица с тем же названием.
+Такой трюк иногда используется в прикладной юриспруденции, например когда используется одно и то же название для нескольких юридических лиц, которые могут иметь разный статус (коммерческая или неприбыльная), или зарегистрированы в разных юрисдикциях. И, например, некие права принадлежащие одному юридическому лицу (лицензия, страховка и т.п.) используют для другого юридического лица с тем же названием. 
 
 На таком же обмане, основывается деятельность так называемого "Государства Палестина", в частности его участие в процессе в Международном уголовном суде (дело ICC-01/18 “[Ситуация в Палестине](https://www.icc-cpi.int/palestine)”)
 
@@ -49,25 +40,9 @@ The National Council declares, in the name of Allah and in the name of the Arab 
 
 Но, ООП, объявившая себя представителем "палестинского народа" всегда старательно избегала упоминать, что Иордания также относится к Палестине.
 
-Вывод о том, что такое "палестинская территория" в понимании ООП можно сделать на основании эмблемы этой организации, на которой собственно и изображена "Палестина" в их понимании, т.е. это только территория Израиля:
+Вывод о том, что такое "палестинская территория" в понимании ООП можно сделать на основании [эмблемы](https://en.wikipedia.org/wiki/Palestine_Liberation_Organization#/media/File:Emblem_of_the_PLO_Vector_Graphic.svg) этой организации, на которой собственно и изображена "Палестина" в их понимании, т.е. это только территория Израиля.
 
-[![Emblem of the PLO](/img/Illustrations/docs/holy_land/state_of_palestine/Emblem_of_the_PLO.png)](https://en.wikipedia.org/wiki/Palestine_Liberation_Organization#/media/File:Emblem_of_the_PLO_Vector_Graphic.svg) 
-
-В таком же виде эта карта присутствует на эмблемах ведущих организаций "Первой интифады", а именно, на эмблеме Хамас: 
-
-[![Emblem of Hamas](/img/Illustrations/docs/holy_land/state_of_palestine/Emblem_of_Hamas.svg)](https://en.wikipedia.org/wiki/Hamas#/media/File:Emblem_of_Hamas.svg)
-
-Палестинский Национальный Джихад (Palestinian Islamic Jihad):
-
-[![Emplem of Palestinian Islamic Jihad](/img/Illustrations/docs/holy_land/state_of_palestine/PIJ_emblem.png)](https://en.wikipedia.org/wiki/Palestinian_Islamic_Jihad#/media/File:PIJ_emblem.png)
-
-Демократический фронт освобождения Палестины (Democratic Front for the Liberation of Palestine):
-
-[![Emblem of Democratic Front for the Liberation of Palestine](/img/Illustrations/docs/holy_land/state_of_palestine/Democratic_Front_for_the_Liberation_of_Palestine_logo.png)](https://en.wikipedia.org/wiki/Democratic_Front_for_the_Liberation_of_Palestine#/media/File:Democratic_Front_for_the_Liberation_of_Palestine_logo.png)
-
-Народный Фронт Освобождения Палестины (Popular Front for the Liberation of Palestine):
-
-[![Emblem of Popular Front for the Liberation of Palestine](/img/Illustrations/docs/holy_land/state_of_palestine/Logo_of_PFLP.png)](https://en.wikipedia.org/wiki/Popular_Front_for_the_Liberation_of_Palestine#/media/File:Logo_of_PFLP.png)
+В таком же виде эта карта присутствует на эмблемах ведущих организаций "Первой интифады", а именно, на [эмблеме Хамас](https://en.wikipedia.org/wiki/Hamas#/media/File:Emblem_of_Hamas.svg), [Палестинский Национальный Джихад](https://en.wikipedia.org/wiki/Palestinian_Islamic_Jihad#/media/File:PIJ_emblem.png) и других.
 
 Но несмотря на то, что ООП была лидером "Интифады", она не контролировала никакую часть территории, которую намеревалась захватить в ходе восстания.
 
@@ -193,34 +168,16 @@ The National Council declares, in the name of Allah and in the name of the Arab 
 
 ## Практические выводы
 
-1) Созданная в 1994 г. на основе Ословских соглашений Палестинская Национальная Администрация юридически не является (и юридически не может являться) "Государством Палестина", которое в 1988 г. получило признание от Советского Союза, его сателлитов и ряда мусульманских стран, и которому в 2012 г. Генеральная Ассамблея ООН (нарушая, впрочем, Устав ООН) предоставила статус "государства наблюдателя".
-
-2) ПНА, в соответствии с соглашениями Осло, на основании которых она юридически существует и действует, не имеет права на деятельность в сфере внешних сношений (foreign relations), в частности не имеет права иметь представительство в ООН в каком либо статусе, не имеет права устанавливать отношения с другими государствами и открывать посольства или консульства, и, также не имеет права в качестве государства обращаться в Международный Суд ООН.
-
-3) Организация Освобождения Палестины подписанием Соглашений Осло признала власть Государства Израиля над его территорией, включая город Иерусалим и территорию на которой создана управляемая ПНА автономия.
-
+1) Созданная в 1994 г. на основе Ословских соглашений Палестинская Национальная Администрация юридически не является (и юридически не может являться) "Государством Палестина", которое в 1988 г. получило признание от Советского Союза, его сателлитов и ряда мусульманских стран, и которому в 2012 г. Генеральная Ассамблея ООН (нарушая, впрочем, Устав ООН) предоставила статус "государства наблюдателя".  
+     
+2) ПНА, в соответствии с соглашениями Осло, на основании которых она юридически существует и действует, не имеет права на деятельность в сфере внешних сношений (foreign relations), в частности не имеет права иметь представительство в ООН в каком либо статусе, не имеет права устанавливать отношения с другими государствами и открывать посольства или консульства, и, также не имеет права в качестве государства обращаться в Международный Суд ООН.  
+     
+3) Организация Освобождения Палестины подписанием Соглашений Осло признала власть Государства Израиля над его территорией, включая город Иерусалим и территорию на которой создана управляемая ПНА автономия.  
+     
 4) Дело [ICC-01/18](https://www.icc-cpi.int/palestine) в Международном уголовном суде (International Criminal Court) начатое по обращению ПНА выдающей себя за "Государство Палестина" должно быть прекращено, вследствие обмана суда со стороны ПНА.
 
 ---
 
-## Ссылки:
+Блог автора "Международное право etc.": 
 
-["Palestine: documents" on al-bab.com](https://al-bab.com/documents-section/palestine-documents)
-
-[Yale Law School: The Avalon Project: The Middle East](https://avalon.law.yale.edu/subject_menus/mideast.asp)
-
-[United Nations: The Question of Palestine](https://www.un.org/unispal/)
-
-[United Nations information system on Palestine: online repository of documents on the question of Palestine](https://www.un.org/unispal/documents/)
-
----
-
-## Иллюстрации:
-
-[Рияд Мансур](https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BD%D1%81%D1%83%D1%80,_%D0%A0%D0%B8%D1%8F%D0%B4) ([Riyad Mansour](https://en.wikipedia.org/wiki/Riyad_Mansour)) изображает из себя представителя "Государства Палестина" в ООН (photo by Angela Weiss / AFP): 
-
-[![Riyad Mansour](/img/Illustrations/docs/holy_land/state_of_palestine/Riyad_Mansour_in-UN_SC.jpg)](/img/Illustrations/docs/holy_land/state_of_palestine/Riyad_Mansour_in-UN_SC.jpg)
-
-Махмуд Аббас выступает на заседении Совета Безопасности ООН, 11 февраля 2020 (photo by Shannon Stapleton / Reuters): 
-
-[![Mahmoud Abbas](/img/Illustrations/docs/holy_land/state_of_palestine/Abbas_in_UN_02.jpeg)](/img/Illustrations/docs/holy_land/state_of_palestine/Abbas_in_UN_02.jpeg)
+https://international-law.info/ru/Holy-Land/state_of_palestine/  

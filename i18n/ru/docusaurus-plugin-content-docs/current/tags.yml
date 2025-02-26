@@ -10,6 +10,10 @@ RF:
   label: РФ
   permalink: '/rf'
   description: 'Российская Федерация'
+UN:
+  label: ООН
+  permalink: '/un'
+  description: 'ООН'
 ECHR:
   label: ECHR
   permalink: '/echr'

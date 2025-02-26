@@ -47,6 +47,8 @@ draft: false
 
 Обсуждение в [Facebook](https://www.facebook.com/viktor.ageyev/posts/pfbid0GqkDefYN7YKmHdi1tzLC7Ai1vcoRvH2CqdSvhZS2yfhKfMM3SA1rf9yGWHm8yivTl) 
 
+[LinkedIn](https://www.linkedin.com/posts/ageyev_from-the-nile-to-the-euphrates-on-the-activity-7293287687610912770-pYEd/) 
+
 [Twitter](https://x.com/ageyev/status/1887506345617768538)
 
 [Instagram](https://www.instagram.com/p/DFvBBNkoYaM/) 

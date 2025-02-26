@@ -215,6 +215,18 @@ The National Council declares, in the name of Allah and in the name of the Arab 
 
 ---
 
+Обсуждение: 
+
+[Facebook](https://www.facebook.com/viktor.ageyev/posts/pfbid0v5H5yZwZMxfx2XuYTZL5hT8jiNsrnJpXjf1vFkWgrJJ9tF74uh9t6Utn8qut4qJQl) (на русском)
+
+[LinkedIn](https://www.linkedin.com/posts/ageyev_what-is-the-state-of-palestine-international-activity-7297818285914415104-LDUl?utm_source=share&utm_medium=member_desktop&rcm=ACoAAABKOTQBA2A2b2Hx_vRrq4JgJGinG7maN4g)
+
+[Twitter](https://x.com/ageyev/status/1892052342528217227)
+
+[Instagram](https://www.instagram.com/p/DGPFplHoKZT/)
+
+---
+
 ## Иллюстрации:
 
 [Рияд Мансур](https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BD%D1%81%D1%83%D1%80,_%D0%A0%D0%B8%D1%8F%D0%B4) ([Riyad Mansour](https://en.wikipedia.org/wiki/Riyad_Mansour)) изображает из себя представителя "Государства Палестина" в ООН (photo by Angela Weiss / AFP): 

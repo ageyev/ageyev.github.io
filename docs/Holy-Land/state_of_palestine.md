@@ -207,6 +207,18 @@ After the General Assembly adopted resolution [67/19](https://en.wikipedia.org/w
 
 ---
 
+Discussions: 
+
+[Facebook](https://www.facebook.com/viktor.ageyev/posts/pfbid0v5H5yZwZMxfx2XuYTZL5hT8jiNsrnJpXjf1vFkWgrJJ9tF74uh9t6Utn8qut4qJQl) (in Russian)
+
+[LinkedIn](https://www.linkedin.com/posts/ageyev_what-is-the-state-of-palestine-international-activity-7297818285914415104-LDUl?utm_source=share&utm_medium=member_desktop&rcm=ACoAAABKOTQBA2A2b2Hx_vRrq4JgJGinG7maN4g)
+
+[Twitter](https://x.com/ageyev/status/1892052342528217227)
+
+[Instagram](https://www.instagram.com/p/DGPFplHoKZT/)
+
+--- 
+
 ## Illustrations: 
 
 [Riyad Mansour](https://en.wikipedia.org/wiki/Riyad_Mansour) pretends to be a representative of "State of Palestine" in UN (photo by Angela Weiss / AFP): 

@@ -221,6 +221,18 @@ image: https://international-law.info/img/Illustrations/docs/holy_land/state_of_
 
 ---
 
+Обговорення: 
+
+[Facebook](https://www.facebook.com/viktor.ageyev/posts/pfbid0v5H5yZwZMxfx2XuYTZL5hT8jiNsrnJpXjf1vFkWgrJJ9tF74uh9t6Utn8qut4qJQl)
+
+[LinkedIn](https://www.linkedin.com/posts/ageyev_what-is-the-state-of-palestine-international-activity-7297818285914415104-LDUl?utm_source=share&utm_medium=member_desktop&rcm=ACoAAABKOTQBA2A2b2Hx_vRrq4JgJGinG7maN4g)
+
+[Twitter](https://x.com/ageyev/status/1892052342528217227)
+
+[Instagram](https://www.instagram.com/p/DGPFplHoKZT/) 
+
+---
+
 ## Ілюстрації:
 
 Ріяд Мансур ([Riyad Mansour](https://en.wikipedia.org/wiki/Riyad_Mansour)) зображує із себе представника "Держави Палестина" в ООН (photo by Angela Weiss / AFP):

@@ -43,11 +43,13 @@ Which roughly corresponds to the current borders of Israel: on the western side 
 
 this post in: 
 
+[Facebook](https://www.facebook.com/viktor.ageyev/posts/pfbid0GqkDefYN7YKmHdi1tzLC7Ai1vcoRvH2CqdSvhZS2yfhKfMM3SA1rf9yGWHm8yivTl) (discussion in Russian) 
+
+[LinkedIn](https://www.linkedin.com/posts/ageyev_from-the-nile-to-the-euphrates-on-the-activity-7293287687610912770-pYEd/) 
+
+[Twitter](https://x.com/ageyev/status/1887506345617768538) 
+
 [Instagram](https://www.instagram.com/p/DFvBBNkoYaM/) 
-
-[Twitter](https://x.com/ageyev/status/1887506345617768538)
-
-[Facebook](https://www.facebook.com/viktor.ageyev/posts/pfbid0GqkDefYN7YKmHdi1tzLC7Ai1vcoRvH2CqdSvhZS2yfhKfMM3SA1rf9yGWHm8yivTl) (discussion in Russian)
 
 --- 
 

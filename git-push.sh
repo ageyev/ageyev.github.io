@@ -13,7 +13,7 @@ git config --local user.email "$GIT_USER_EMAIL";
 
 # git config --local -l
 
-npm run-script build && git add . && git commit -a -m "run build script"
+npm run-script build && git add ./build && git commit -a -m "run build script"
 
 ssh-add -D 
 ssh-add "${GITHUB_KEY_PATH}";

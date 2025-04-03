@@ -25,25 +25,25 @@ slug: state_of_palestine
 
 ### Декларация независимости
 
-С 12 по 15 ноября 1988 г. в Алжире состоялась 19 чрезвычайная сессии [Палестинского национального совета](https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BB%D0%B5%D1%81%D1%82%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BD%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%81%D0%BE%D0%B2%D0%B5%D1%82)([Palestinian National Council](https://en.wikipedia.org/wiki/Palestinian_National_Council)), органа [Организации Освобождения Палестины](https://ru.wikipedia.org/wiki/%D0%9E%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F_%D0%BE%D1%81%D0%B2%D0%BE%D0%B1%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F_%D0%9F%D0%B0%D0%BB%D0%B5%D1%81%D1%82%D0%B8%D0%BD%D1%8B)([Palestine Liberation Organization](https://en.wikipedia.org/wiki/Palestine_Liberation_Organization)).
+С 12 по 15 ноября 1988 г. в Алжире состоялась 19 чрезвычайная сессии [Палестинского национального совета](https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BB%D0%B5%D1%81%D1%82%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BD%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%81%D0%BE%D0%B2%D0%B5%D1%82) ([Palestinian National Council](https://en.wikipedia.org/wiki/Palestinian_National_Council)), органа [Организации Освобождения Палестины](https://ru.wikipedia.org/wiki/%D0%9E%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F_%D0%BE%D1%81%D0%B2%D0%BE%D0%B1%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F_%D0%9F%D0%B0%D0%BB%D0%B5%D1%81%D1%82%D0%B8%D0%BD%D1%8B) ([Palestine Liberation Organization](https://en.wikipedia.org/wiki/Palestine_Liberation_Organization)).
 
 Эта сессия самим советом была названа (см. [the Political Communiqué of the Palestine National Council of 15 November 1988](https://www.un.org/unispal/document/auto-insert-178680/)) "Сессией Интифады" ("the session of the intifada")
 
-Под "интифадой" понимается восстание палестинских арабов против Израиля начавшееся в декабре 1987 г. Сам термин "интифада" возник вместе с возникновением организации [Хамас](https://ru.wikipedia.org/wiki/%D0%A5%D0%90%D0%9C%D0%90%D0%A1) ([Hamas](https://en.wikipedia.org/wiki/Hamas))(создана в 1987 г), которая впервые употребила для обозначения восстания одном из своих первых заявлений от 11 декабря 1987 г. (см. [https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D9%81%D8%A7%D8%B6%D8%A9\_%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D8%A9\_%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D9%81%D8%A7%D8%B6%D8%A9_%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D8%A9_%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89))
+Под "интифадой" понимается восстание палестинских арабов против Израиля начавшееся в декабре 1987 г. Сам термин "интифада" возник вместе с возникновением организации [Хамас](https://ru.wikipedia.org/wiki/%D0%A5%D0%90%D0%9C%D0%90%D0%A1) ([Hamas](https://en.wikipedia.org/wiki/Hamas)) (создана в 1987 г), которая впервые употребила для обозначения восстания одном из своих первых заявлений от 11 декабря 1987 г. (см. [https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D9%81%D8%A7%D8%B6%D8%A9\_%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D8%A9\_%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D9%81%D8%A7%D8%B6%D8%A9_%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D8%A9_%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89))
 
 15 ноября на "сессии интифады" в Алжире [Ясир Арафат](https://ru.wikipedia.org/wiki/%D0%90%D1%80%D0%B0%D1%84%D0%B0%D1%82,_%D0%AF%D1%81%D0%B8%D1%80) ([Yasser Arafat](https://en.wikipedia.org/wiki/Yasser_Arafat)) провозгласил [Палестинскую декларацию о независимости](https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BB%D0%B5%D1%81%D1%82%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%B4%D0%B5%D0%BA%D0%BB%D0%B0%D1%80%D0%B0%D1%86%D0%B8%D1%8F_%D0%BE_%D0%BD%D0%B5%D0%B7%D0%B0%D0%B2%D0%B8%D1%81%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8_\(1988\)) ([Palestinian Declaration of Independence](https://en.wikipedia.org/wiki/Palestinian_Declaration_of_Independence), араб. [إعلان الاستقلال الفلسطيني](https://ar.wikipedia.org/wiki/%D8%A5%D8%B9%D9%84%D8%A7%D9%86_%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D9%82%D9%84%D8%A7%D9%84_%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A)) (см. [the Political Communiqué of the Palestine National Council and the Declaration of Independence of 15 November 1988](https://www.un.org/unispal/document/auto-insert-178680/), и [текст Декларации на арабском](https://ar.wikisource.org/wiki/%D8%A5%D8%B9%D9%84%D8%A7%D9%86_%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D9%82%D9%84%D8%A7%D9%84_%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A))
 
 В Декларации провозглашалось следующее:
 
-Национальный совет объявляет во имя Аллаха и во имя палестинского арабского народа о создании Государства Палестина на нашей палестинской земле со столицей в Святом Иерусалиме (Аль-Кудс Аш-Шариф)
+> Национальный совет объявляет во имя Аллаха и во имя палестинского арабского народа о создании Государства Палестина на нашей палестинской земле со столицей в Святом Иерусалиме (Аль-Кудс Аш-Шариф)
 
-فإن المجلس الوطني يعلن، باسم الله وباسم الشعب العربي الفلسطيني قيام دولة فلسطين فوق أرضنا الفلسطينية وعاصمتها القدس الشريف.
+> فإن المجلس الوطني يعلن، باسم الله وباسم الشعب العربي الفلسطيني قيام دولة فلسطين فوق أرضنا الفلسطينية وعاصمتها القدس الشريف.
 
-The National Council declares, in the name of Allah and in the name of the Arab Palestinian people, the establishment of the State of Palestine on our Palestinian land, with its capital in Holy Jerusalem (Al-Quds Ash-Sharif)
+> The National Council declares, in the name of Allah and in the name of the Arab Palestinian people, the establishment of the State of Palestine on our Palestinian land, with its capital in Holy Jerusalem (Al-Quds Ash-Sharif)
 
-### Территория
+### Территория 
 
-В декларации в явном виде была указана только столица провозглашенного "Государства Палестина" (Святой Иерусалим), но границы "палестинской земли", т.е. территории провозглашенного государства, которую имела в виду Организация Освобождения Палестины, не были определены явным образом.
+В декларации в явном виде была указана только столица провозглашенного "Государства Палестина" - Святой Иерусалим, но границы "палестинской земли", т.е. территории провозглашенного государства, которую имела в виду Организация Освобождения Палестины, не были определены явным образом.
 
 Территория Мандата Лиги Наций на Палестину ([Mandate for Palestine](https://en.wikisource.org/wiki/Palestine_Mandate_\(1922\))), включала в себя также территорию лежащую между рекой Иордан и восточной границей Палестины ("territories lying between the Jordan and the eastern boundary of Palestine"), на которых была в 1946 г. создано Хашимитское королевство Трансиордания (ныне Иорданское Хашимитское Королевство).
 
@@ -75,13 +75,15 @@ The National Council declares, in the name of Allah and in the name of the Arab 
 
 9 декабря 1988 г. представитель ООП при ООН передал Генеральному Секретарю ООН письмо, к которому была приложена "Декларация о формировании временного правительства Государства Палестина" ("[Declaration of the formation of the provisional Government of the State of Palestine](https://www.un.org/unispal/document/auto-insert-181782/)"), принятая ООП на той же "Сессии Интифады" 15 ноября 1988 г., в которой указывалось:
 
-"Временное правительство Государства Палестина будет сформировано как можно скорее, в зависимости от обстоятельств и развития событий"
+> "Временное правительство Государства Палестина будет сформировано как можно скорее, в зависимости от обстоятельств и развития событий"
 
-"A provisional Government shall be formed for the State of Palestine as soon as possible, in accordance with circumstances and the evolution of events"
+> "A provisional Government shall be formed for the State of Palestine as soon as possible, in accordance with circumstances and the evolution of events"
 
-По имеющимся сведениям, 2 апреля 1989 г., Центральный Совет ООП избрал Ясира Арафата президентом Государства Палестина, а Фаруха Каддуми ([Faruq al-Qaddumi](https://en.wikipedia.org/wiki/Faruq_al-Qaddumi)) его министром иностранных дел.
+По имеющимся сведениям, 2 апреля 1989 г., Центральный Совет ООП избрал Ясира Арафата президентом Государства Палестина, а Фаруха Каддуми ([Faruq al-Qaddumi](https://en.wikipedia.org/wiki/Faruq_al-Qaddumi)) его министром иностранных дел: 
 
-"On April 2, 1989, the PLO's Central Council unanimously elected Arafat president of the self-proclaimed Palestinian state and designated Faruk Qaddumi as foreign minister ..."
+> "2 апреля 1989 г. Центральный Совет ООП единогласно избрал Арафата президентом самопровозглашенного палестинского государства и назначил Фаруха Каддуми министром иностранных дел ..." 
+
+> "On April 2, 1989, the PLO's Central Council unanimously elected Arafat president of the self-proclaimed Palestinian state and designated Faruk Qaddumi as foreign minister ..."
 
 (Tom Lansford, [Political Handbook of the World 2014](https://books.google.jo/books?id=iC_VBQAAQBAJ&pg=PA1628), p. 1628\. CQ Press, March 2014.)
 
@@ -121,7 +123,7 @@ The National Council declares, in the name of Allah and in the name of the Arab 
 
 ## (2) Палестинская национальная администрация (Palestinian Authority)
 
-[Палестинская национальная администрация](https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BB%D0%B5%D1%81%D1%82%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BD%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B0%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F)([Palestinian Authority](https://en.wikipedia.org/wiki/Palestinian_Authority)) создана в соответствии с [Соглашением по сектору Газа и району Иерихона](https://www.un.org/unispal/document/auto-insert-185298/)([Agreement on the Gaza Strip and the Jericho Area](https://www.un.org/unispal/document/auto-insert-185298/)) подписанным 4 мая 1994 г. в Каире между Правительством Государства Израиля и Организацией Освобождения Палестины, которые представляли соответственно Ицхак Рабин и Ясир Арафат.
+[Палестинская национальная администрация](https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BB%D0%B5%D1%81%D1%82%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BD%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B0%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F) ([Palestinian Authority](https://en.wikipedia.org/wiki/Palestinian_Authority)) создана в соответствии с [Соглашением по сектору Газа и району Иерихона](https://www.un.org/unispal/document/auto-insert-185298/)([Agreement on the Gaza Strip and the Jericho Area](https://www.un.org/unispal/document/auto-insert-185298/)) подписанным 4 мая 1994 г. в Каире между Правительством Государства Израиля и Организацией Освобождения Палестины, которые представляли соответственно Ицхак Рабин и Ясир Арафат.
 
 Это соглашение, было вскоре заменено на [Временное соглашение по Западному берегу и сектору Газа (известное как Осло II)](https://www.un.org/unispal/document/auto-insert-185434/) ([Israeli-Palestinian Interim Agreement on the West Bank and the Gaza Strip (a.k.a. “Oslo II”)](https://www.un.org/unispal/document/auto-insert-185434/)) подписанное 28 сентября 1995 года между Правительством Государства Израиля и ООП (в соответствии с п. 2 ст. XXXI)
 
@@ -131,19 +133,21 @@ The National Council declares, in the name of Allah and in the name of the Arab 
 
 Ст. I Осло II говорит о том, что правительство Израиля передает часть полномочий на территории автономии органам автономии, остальные же продолжает осуществлять:
 
-«Израиль передаст полномочия и обязанности, указанные в настоящем Соглашении, от израильского военного правительства и его гражданской администрации Совету в соответствии с настоящим Соглашением. Израиль продолжит осуществлять полномочия и обязанности, не переданные таким образом» "После установления Совета Гражданская Администрация на Западном Берегу будет упразднена, и израильское военное командование отозвано. Отзыв военного командования не должен препятствовать осуществлению ним полномочий и обязанностей не переданных Совету"
+> "Израиль передаст полномочия и обязанности, указанные в настоящем Соглашении, от израильского военного правительства и его гражданской администрации Совету в соответствии с настоящим Соглашением. Израиль продолжит осуществлять полномочия и обязанности, не переданные таким образом" 
+> 
+> "После установления Совета Гражданская Администрация на Западном Берегу будет упразднена, и израильское военное командование отозвано. Отзыв военного командования не должен препятствовать осуществлению ним полномочий и обязанностей не переданных Совету"
 
-"Israel shall transfer powers and responsibilities as specified in this Agreement from the Israeli military government and its Civil Administration to the Council in accordance with this Agreement. Israel shall continue to exercise powers and responsibilities not so transferred"
+> "Israel shall transfer powers and responsibilities as specified in this Agreement from the Israeli military government and its Civil Administration to the Council in accordance with this Agreement. Israel shall continue to exercise powers and responsibilities not so transferred"
+> 
+> “After the inauguration of the Council the Civil Administration in the West Bank will be dissolved, and the Israeli military government shall be withdrawn. The withdrawal of the military government shall not prevent it from exercising the powers and responsibilities not transferred to the Council" 
 
-“After the inauguration of the Council the Civil Administration in the West Bank will be dissolved, and the Israeli military government shall be withdrawn. The withdrawal of the military government shall not prevent it from exercising the powers and responsibilities not transferred to the Council."
-
-То есть содержание этих статей, не оставляет никаких сомнений в том, что территория на которой создаются органы самоуправления автономии, в целом продолжает оставаться под властью Израиля, и ООП соглашается с этим. А создаваемые институции совершенно четко определены как "органы самоуправления" (Palestinian self-government)
+То есть, содержание этих статей, не оставляет никаких сомнений в том, что территория на которой создаются органы самоуправления автономии, в целом продолжает оставаться под властью Израиля, и ООП соглашается с этим. А создаваемые институции совершенно четко определены как "органы самоуправления" (Palestinian self-government)
 
 Ну и самое главное (п. 5 (a) ст. IX Осло II):
 
-"Совет не имеет полномочий и ответственности в сфере внешних сношений, которая включает устройство за рубежом посольств, консульств или иных видов дипломатических миссий или уполномоченных лиц, или же дозволение их устройство на Западном Берегу или в Секторе Газа, назначение или допуск дипломатического и консульского персонала и выполнение дипломатических функций"
+> "Совет не имеет полномочий и ответственности в сфере внешних сношений, которая включает устройство за рубежом посольств, консульств или иных видов дипломатических миссий или уполномоченных лиц, или же дозволение их устройство на Западном Берегу или в Секторе Газа, назначение или допуск дипломатического и консульского персонала и выполнение дипломатических функций"
 
-"the Council will not have powers and responsibilities in the sphere of foreign relations, which sphere includes the establishment abroad of embassies, consulates or other types of foreign missions and posts or permitting their establishment in the West Bank or the Gaza Strip, the appointment of or admission of diplomatic and consular staff, and the exercise of diplomatic functions"
+> "the Council will not have powers and responsibilities in the sphere of foreign relations, which sphere includes the establishment abroad of embassies, consulates or other types of foreign missions and posts or permitting their establishment in the West Bank or the Gaza Strip, the appointment of or admission of diplomatic and consular staff, and the exercise of diplomatic functions"
 
 Также можно отметить, что Осло II предусматривало самоуправление "в соответствии с демократическими принципами", в частности, прямые и свободные выборы органов самоуправления, в реальности же имели место вооруженные столкновения боевиков противоборствующих группировок (ФАТХ и ХАМАС) в ходе которых они убивали политических противников, и таким образом решали кто какие части автономии контролирует (теперь Газу контролирует ХАМАС, Западный Берег \- ФАТХ, выборы не проводятся ни там, ни там)
 
@@ -159,7 +163,7 @@ The National Council declares, in the name of Allah and in the name of the Arab 
 
 ### Международное признание и статус в ООН.
 
-ПНА, созданная в 1994 г., юридически никогда не признавалась никем самостоятельным государством (да и не могла признаваться исходя из положений Ословских соглашений), и не получала никакого особого статуса в ООН.
+ПНА, созданная в 1994 г., юридически никогда не признавалась никем самостоятельным государством (да и не могла признаваться  субъектом международного права исходя из положений Ословских соглашений), и не получала никакого особого статуса в ООН.
 
 Соответствующие признания и статус в ООН относились к провозглашенному в 1988 г. в Алжире "Государству Палестина".
 

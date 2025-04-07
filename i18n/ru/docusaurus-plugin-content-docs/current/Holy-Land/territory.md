@@ -267,7 +267,7 @@ out prejudice to the status of that territory"
 
 --- 
 
-[Ссылки на материалы по теме (References)](/Holy-Land/borders_references) 
+[Ссылки на материалы по теме (References)](https://github.com/ageyev/ageyev.github.io/blob/master/docs/Holy-Land/territory_references.md) 
 
 ---
 

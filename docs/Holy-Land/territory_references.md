@@ -7,7 +7,7 @@ tags: [Israel]
 slug: borders_references
 ---
 
-# References on the International Legal Status of Israel’s Borders 
+# References for [Borders and Territory of Israel](/Holy-Land/borders_and_territory_of_israel/)
 
 ## Norms concerning state borders in general
 

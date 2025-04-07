@@ -266,7 +266,7 @@ slug: borders_and_territory_of_israel
 
 ---
 
-[Посилання (References)](https://github.com/ageyev/ageyev.github.io/blob/master/docs/Holy-Land/territory_references.md) 
+[Посилання (References)](/Holy-Land/borders_references/) 
 
 ---
 

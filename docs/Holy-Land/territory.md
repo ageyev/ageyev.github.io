@@ -256,7 +256,7 @@ As can be seen from the above, in reality both the Gaza Strip, and the Judea and
 
 --- 
 
-[References](https://github.com/ageyev/ageyev.github.io/blob/master/docs/Holy-Land/territory_references.md) 
+[References](/Holy-Land/borders_references/) 
 
 ---
 

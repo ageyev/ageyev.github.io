@@ -207,6 +207,10 @@ After the General Assembly adopted resolution [67/19](https://en.wikipedia.org/w
 
 ---
 
+Also [published](https://www.9tv.co.il/Item/86616) 2025-03-06 on the website of 'Channel 9 Israel' (in Russian) 
+
+---
+
 Discussions: 
 
 [Facebook](https://www.facebook.com/viktor.ageyev/posts/pfbid0v5H5yZwZMxfx2XuYTZL5hT8jiNsrnJpXjf1vFkWgrJJ9tF74uh9t6Utn8qut4qJQl) (in Russian)

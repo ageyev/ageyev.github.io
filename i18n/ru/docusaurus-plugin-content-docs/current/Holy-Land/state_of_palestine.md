@@ -219,6 +219,12 @@ slug: state_of_palestine
 
 ---
 
+Также опубликовано на сайте 9 канала израильского телевидения (на русском): 
+
+[Виктор Агеев. Эквивокация, или что такое "Государство Палестина", 2025-03-06](https://www.9tv.co.il/Item/86616)
+
+---
+
 Обсуждение: 
 
 [Facebook](https://www.facebook.com/viktor.ageyev/posts/pfbid0v5H5yZwZMxfx2XuYTZL5hT8jiNsrnJpXjf1vFkWgrJJ9tF74uh9t6Utn8qut4qJQl) (на русском)

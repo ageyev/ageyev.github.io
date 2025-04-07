@@ -254,8 +254,21 @@ With which argument the International Criminal Court in The Hague agreed: on Feb
 
 As can be seen from the above, in reality both the Gaza Strip, and the Judea and Samaria District (the West Bank of the Jordan River), and Jerusalem are located on the territory of Israel, within its legally established borders, defined by effective treaties with neighboring states (Egypt and Jordan, respectively), and thus cannot in any way be considered occupied.
 
+--- 
+
+[References](/Holy-Land/borders_references) 
+
 ---
 
 See also our blog posts:
 
 ["From the Nile to the Euphrates": On the Question of Israel’s Biblical Borders](/blog/from_the_Nile_to_the_Euphrates)
+
+--- 
+
+Also [published](https://www.9tv.co.il/Item/70693) 2024-04-25 on the website of 'Channel 9 Israel' (in Russian)  
+
+See also [early version in Russian](https://github.com/ageyev/Israel/blob/main/TerritoryOfIsrael_RU.md)
+
+--- 
+

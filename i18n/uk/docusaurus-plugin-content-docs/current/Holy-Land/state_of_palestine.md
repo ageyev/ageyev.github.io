@@ -221,6 +221,10 @@ image: https://international-law.info/img/Illustrations/docs/holy_land/state_of_
 
 ---
 
+Також [опубліковано](https://www.9tv.co.il/Item/86616) (2025-03-06) на сайті 9 каналу ізраїльського телебачення (російською)
+
+--- 
+
 Обговорення: 
 
 [Facebook](https://www.facebook.com/viktor.ageyev/posts/pfbid0v5H5yZwZMxfx2XuYTZL5hT8jiNsrnJpXjf1vFkWgrJJ9tF74uh9t6Utn8qut4qJQl)

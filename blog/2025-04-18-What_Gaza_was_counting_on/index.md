@@ -25,7 +25,7 @@ In other words, if we assume Israel wages war as wars have traditionally been wa
 
 Currently, the only chance Hamas has to avoid destruction is a ceasefire—pushed by Israeli leftists ("deal now at any price") and other Hamas allies, including numerous U.S. and European officials benefiting from kickbacks tied to Gaza’s financial and humanitarian aid.
 
-I've previously written about the conflict between "bunnies" and "lions" within Israeli society (link in comments). Indeed, it must be understood that the "bunnies" bear responsibility for the October 7, 2023, attack. Had Hamas relied solely on military strength without counting on political protection, it would not have carried out the invasion. Hamas clearly depended on international pressure and internal Israeli leftist influence as its main tools for neutralizing Israeli retaliation.
+I've previously written about the conflict between "bunnies" and "lions" within Israeli society. Indeed, it must be understood that the "bunnies" bear responsibility for the October 7, 2023, attack. Had Hamas relied solely on military strength without counting on political protection, it would not have carried out the invasion. Hamas clearly depended on international pressure and internal Israeli leftist influence as its main tools for neutralizing Israeli retaliation.
 
 This frightening realization for leftists is underscored by the document published in Bild, revealing Hamas’s reliance on the Israeli left in its war against Israel—a publication that led to Eli Feldstein’s arrest. Ironically, the disclosure of this document harmed Hamas's political plans rather than the Israeli government’s, raising the rhetorical question: whose secret plans were those arresting Feldstein actually protecting?
 

@@ -4,7 +4,7 @@ title: Starting
 authors: [ageyev]
 tags: [ageyev, test]
 draft: false
---- 
+---
 
 Welcome to the new blog. 
 <!--truncate--> 

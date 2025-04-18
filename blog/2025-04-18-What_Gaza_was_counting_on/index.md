@@ -27,5 +27,10 @@ Currently, the only chance Hamas has to avoid destruction is a ceasefire—pushe
 
 I've previously written about the conflict between "bunnies" and "lions" within Israeli society. Indeed, it must be understood that the "bunnies" bear responsibility for the October 7, 2023, attack. Had Hamas relied solely on military strength without counting on political protection, it would not have carried out the invasion. Hamas clearly depended on international pressure and internal Israeli leftist influence as its main tools for neutralizing Israeli retaliation.
 
-This frightening realization for leftists is underscored by the document published in Bild, revealing Hamas’s reliance on the Israeli left in its war against Israel—a publication that led to Eli Feldstein’s arrest. Ironically, the disclosure of this document harmed Hamas's political plans rather than the Israeli government’s, raising the rhetorical question: whose secret plans were those arresting Feldstein actually protecting?
+This frightening realization for leftists is underscored by the document [published in Bild](https://www.bild.de/politik/inland/bild-exklusiv-zum-schaudern-das-plant-der-hamas-chef-mit-den-geiseln-66d98503c0fd674dd9f5d092), revealing Hamas’s reliance on the Israeli left in its war against Israel—a publication that led to Eli Feldstein’s arrest. Ironically, the disclosure of this document harmed Hamas's political plans rather than the Israeli government’s, raising the rhetorical question: whose secret plans were those arresting Feldstein actually protecting?
 
+--- 
+
+[Discussion on Facebook](https://www.facebook.com/viktor.ageyev/posts/pfbid0kZo6yBFCYmVJHoh8Z3KzBZLg8a5KamiQAh65o1gFGPC32yTzzCHjTg9A2stxfoqGl) (in Russian)
+
+--- 

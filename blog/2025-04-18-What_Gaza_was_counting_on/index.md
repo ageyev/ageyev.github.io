@@ -9,13 +9,13 @@ draft: false
 
 All previous attacks by Gaza against Israel followed the same pattern: Gaza initiates bombardments against Israel; Israel retaliates; Hamas and its allies flood the media and social networks with pictures of dead and crying children, triggering an outcry: "This must be stopped immediately; it doesn't matter who started it or who's right—the violence must end." Israel would halt its strikes. Gaza would declare victory, receiving fresh streams of financial and humanitarian aid, increased because now it needed "rebuilding." Those allocating and channeling the aid would benefit from greater kickbacks. Gaza would stockpile new rockets, and the cycle would repeat.
 
-Why did our military believe Gaza would not initiate a full-scale war? Because militarily, Gaza cannot stand against Israel—the imbalance of power is too great. The Hamas leadership understood this very well and could not fail to comprehend the situation.
-
-So what did our military overlook, and what was Hamas counting on? 
+Why did our military believe Gaza would not initiate a full-scale war? 
 
 <!--truncate--> 
 
-They overlooked Hamas’s political support—not just from corrupt officials eager for fresh financial inflows to Gaza, but also from broad segments of left-wing circles in Israel and internationally.
+Because militarily, Gaza cannot stand against Israel—the imbalance of power is too great. The Hamas leadership understood this very well and could not fail to comprehend the situation.
+
+So what did our military overlook, and what was Hamas counting on? They overlooked Hamas’s political support—not just from corrupt officials eager for fresh financial inflows to Gaza, but also from broad segments of left-wing circles in Israel and internationally.
 
 Hamas clearly anticipated executing a swift and effective raid on border military facilities, demonstrating their efficiency to sponsors, showing that with continued funding and armament, they could build forces capable of confronting Israel. They expected Israel’s retaliatory strike to be curtailed by the usual methods: photographs and videos of dead children, weeping women, and outcries from the global and domestic left—"this must stop immediately, regardless of who started it; don't you have sympathy for innocent children?"
 

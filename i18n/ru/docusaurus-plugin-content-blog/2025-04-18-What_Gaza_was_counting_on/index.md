@@ -6,13 +6,13 @@ tags: [holy-land]
 draft: false
 date: 2025-04-18
 description: "Analysis of Gaza's strategic calculations in the conflict"
-image: "/img/Illustrations/blog/2025-04-18_what_gaza_was_counting_on/2025-04-18_what_gaza_was_counting_on.png"
+image: "/img/Illustrations/blog/2025-04-18_what_gaza_was_counting_on/2025-04-18_what_gaza_was_counting_on-FB.png"
 lang: ru
 ---
 
 # На что рассчитывала Газа, начиная эту войну? 
 
-![](/img/Illustrations/blog/2025-04-18_what_gaza_was_counting_on/2025-04-18_what_gaza_was_counting_on-small.png)
+![](/img/Illustrations/blog/2025-04-18_what_gaza_was_counting_on/2025-04-18_what_gaza_was_counting_on-FB.png)
 
 Все предыдущие нападения Газы на Израиль происходили по одной и той же схеме: Газа начинает бомбить Израиль, Израиль бомбит в ответ, Хамас и его союзники заваливают СМИ и соцсети фото убитых и плачущих детей, поднимается вой "надо это немедленно прекратить, неважно, кто первый начал, и неважно, кто прав, главное немедленно это остановить". Израиль останавливал бомбежки. Газа праздновала победу. Получала новые потоки финансовой и гуманитарной помощи, уже увеличенные — так как надо "восстанавливать". Те, кто выделяет и направляет помощь, получали увеличенные "откаты". Газа заготавливает новые ракеты, и все повторяется снова.
 

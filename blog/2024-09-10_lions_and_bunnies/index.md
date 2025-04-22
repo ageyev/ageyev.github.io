@@ -53,7 +53,7 @@ Incidentally, this is why the [Haredim](https://en.wikipedia.org/wiki/Haredi_Jud
 
 And while ordinary secular leftists, though inclined to appeasement, are still capable of fighting (like our leftist generals, some of whom serve in right-wing governments), most of these Haredim are not capable of fighting at all. But that is a side note—albeit an important one in this context.
 
-Because of this attitude toward religion, when the left tries to understand our enemies’ motivations, [they are fundamentally unable to do so](/blog/understand_the_enemy). They believe our enemies fight us because we "oppress" and "occupy" them. And what other reason could there be? So, if we stop oppressing them and withdraw, give them land—they will no longer have a reason to attack us.
+Because of this attitude toward religion, when the left tries to understand our enemies’ motivations, [they are fundamentally unable to do so](/blog/understand-the-enemy). They believe our enemies fight us because we "oppress" and "occupy" them. And what other reason could there be? So, if we stop oppressing them and withdraw, give them land—they will no longer have a reason to attack us.
 
 To the left, this line of reasoning seems logical and rational. And because it aligns perfectly with the deep-rooted psychological conflict-avoidance strategy of the "bunnies," they find it incomprehensible how the right can be so stupid as not to see this.
 

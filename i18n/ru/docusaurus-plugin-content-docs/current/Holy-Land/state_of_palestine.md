@@ -6,7 +6,7 @@ draft: false
 tags: [Israel]
 slug: state_of_palestine
 lang: en
-image: /img/Illustrations/docs/holy_land/state_of_palestine/Riyad_Mansour_in-UN_SC.jpg
+image: /img/Illustrations/docs/holy_land/state_of_palestine/Abbas_in_UN_02.jpeg
 ---
 
 # Эквивокация, или что такое "Государство Палестина"

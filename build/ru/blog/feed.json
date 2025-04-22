@@ -49,21 +49,6 @@
                 "Израиль",
                 "Святая Земля"
             ]
-        },
-        {
-            "id": "https://international-law.info/ru/blog/starting",
-            "content_html": "<p>Добро пожаловать в новый блог.</p>\n<p>Этот сайт написан на фреймворке <a href=\"https://docusaurus.io/\" target=\"_blank\" rel=\"noopener noreferrer\">Docusaurus</a>,\nкод открыт и публикуется на GitHub, см. <a href=\"https://github.com/ageyev/ageyev.github.io/\" target=\"_blank\" rel=\"noopener noreferrer\">репозиторий</a></p>",
-            "url": "https://international-law.info/ru/blog/starting",
-            "title": "Starting",
-            "summary": "Добро пожаловать в новый блог.",
-            "date_modified": "2024-08-06T00:00:00.000Z",
-            "author": {
-                "name": "Виктор Агеев"
-            },
-            "tags": [
-                "Виктор Агеев",
-                "Тест"
-            ]
         }
     ]
 }

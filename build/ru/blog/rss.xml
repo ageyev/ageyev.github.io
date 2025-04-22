@@ -105,17 +105,5 @@
             <category>Израиль</category>
             <category>Святая Земля</category>
         </item>
-        <item>
-            <title><![CDATA[Starting]]></title>
-            <link>https://international-law.info/ru/blog/starting</link>
-            <guid>https://international-law.info/ru/blog/starting</guid>
-            <pubDate>Tue, 06 Aug 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Добро пожаловать в новый блог.]]></description>
-            <content:encoded><![CDATA[<p>Добро пожаловать в новый блог.</p>
-<p>Этот сайт написан на фреймворке <a href="https://docusaurus.io/" target="_blank" rel="noopener noreferrer">Docusaurus</a>,
-код открыт и публикуется на GitHub, см. <a href="https://github.com/ageyev/ageyev.github.io/" target="_blank" rel="noopener noreferrer">репозиторий</a></p>]]></content:encoded>
-            <category>Виктор Агеев</category>
-            <category>Тест</category>
-        </item>
     </channel>
 </rss>

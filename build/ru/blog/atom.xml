@@ -113,19 +113,4 @@
         <category label="Израиль" term="Израиль"/>
         <category label="Святая Земля" term="Святая Земля"/>
     </entry>
-    <entry>
-        <title type="html"><![CDATA[Starting]]></title>
-        <id>https://international-law.info/ru/blog/starting</id>
-        <link href="https://international-law.info/ru/blog/starting"/>
-        <updated>2024-08-06T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Добро пожаловать в новый блог.]]></summary>
-        <content type="html"><![CDATA[<p>Добро пожаловать в новый блог.</p>
-<p>Этот сайт написан на фреймворке <a href="https://docusaurus.io/" target="_blank" rel="noopener noreferrer">Docusaurus</a>,
-код открыт и публикуется на GitHub, см. <a href="https://github.com/ageyev/ageyev.github.io/" target="_blank" rel="noopener noreferrer">репозиторий</a></p>]]></content>
-        <author>
-            <name>Виктор Агеев</name>
-        </author>
-        <category label="Виктор Агеев" term="Виктор Агеев"/>
-        <category label="Тест" term="Тест"/>
-    </entry>
 </feed>

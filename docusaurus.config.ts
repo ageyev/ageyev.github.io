@@ -78,6 +78,8 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links. // TODO: change links text
           // editUrl: 'https://github.com/ageyev/ageyev.github.io/tree/master/',
+          showLastUpdateAuthor: true, // git username from the last commit
+          showLastUpdateTime: true, // git last commit time
         },
 
         theme: {

@@ -1,15 +1,20 @@
 ---
 slug: from_the_Nile_to_the_Euphrates 
+title: From the Nile to the Euphrates
 authors: [ageyev]
 tags: [ageyev, holy-land]
 draft: false
+description: "From the Nile to the Euphrates: On the Question of Israel’s Biblical Borders"
+image: /img/Illustrations/blog/2025-02-06-from_the_Nile_to_the_Euphrates/Bereshit_15-18.png
 ---
 
-# "From the Nile to the Euphrates": On the Question of Israel’s Biblical Borders
+# "From the Nile to the Euphrates": On the Question of Israel’s Biblical Borders 
+
+!["From the Nile to the Euphrates"](/img/Illustrations/blog/2025-02-06-from_the_Nile_to_the_Euphrates/Bereshit_15-18.png)
 
 One of the debated issues when discussing Israel’s borders from a legal perspective (in our view, sacred texts should also be considered in international law) is the well-known phrase *"from the Nile to the Euphrates,"* understood as the Tanakhic (biblical) definition of Israel’s borders.
 
-Accordingly, on one hand, some Israelis believe that Israel’s borders should be expanded to the "Torah-defined" boundaries from the Nile to the Euphrates. On the other hand, Israel’s opponents accuse it of striving to seize the corresponding territories.
+Accordingly, on the one hand, some Israelis believe that Israel’s borders should be expanded to the "Torah-defined" boundaries from the Nile to the Euphrates. On the other hand, Israel’s opponents accuse it of striving to seize the corresponding territories.
 
 However, this interpretation does not align with the biblical text. This passage is truly remarkable, considering the time it was written. That is, it was written thousands of years ago, and today it has come to pass as foretold. 
 
@@ -37,9 +42,13 @@ The boundaries of the land that the descendants of Israel were to possess are de
 
 Which roughly corresponds to the current borders of Israel: on the western side is the Mediterranean Sea ("the Great Sea"), on the eastern side is the Jordan, the Sea of Galilee (Chinnereth) and the Dead (Salt) Sea, on the south are the deserts of the Sinai or Arabian Peninsula ("the desert of Sin"), and on the north is the southern part of present-day Syria.
 
-!["From the Nile to the Euphrates"](/img/Illustrations/blog/2025-02-06-from_the_Nile_to_the_Euphrates/Bereshit_15-18.png)
-
 --- 
+
+## References: 
+
+[Wikipedia: Greater Israel](https://en.wikipedia.org/wiki/Greater_Israel)
+
+---
 
 this post in: 
 

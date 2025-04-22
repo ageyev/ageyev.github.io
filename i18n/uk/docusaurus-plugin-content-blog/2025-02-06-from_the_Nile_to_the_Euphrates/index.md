@@ -1,11 +1,16 @@
 ---
 slug: from_the_Nile_to_the_Euphrates 
+title: Від Нілу до Євфрату
 authors: [ageyev]
 tags: [ageyev, israel, holy-land]
 draft: false
+description: "Від Нілу до Євфрату: до питання про біблійні кордони Ізраїлю"
+image: /img/Illustrations/blog/2025-02-06-from_the_Nile_to_the_Euphrates/Bereshit_15-18.png
 ---
 
 # "Від Нілу до Євфрату": до питання про біблійні кордони Ізраїлю
+
+!["From the Nile to the Euphrates"](/img/Illustrations/blog/2025-02-06-from_the_Nile_to_the_Euphrates/Bereshit_15-18.png)
 
 Одним із дискусійних питань при обговоренні кордонів Ізраїлю з точки зору права (на наш погляд, священні тексти також повинні розглядатися в міжнародному праві) є відомий вислів *"від Нілу до Євфрату"*, який розуміється як танахічне (біблійне) визначення кордонів Ізраїлю.
 
@@ -50,9 +55,13 @@ draft: false
 
 Що приблизно відповідає нинішнім кордонам Ізраїлю: із західного боку - це Середземне море ("велике море"), зі східного - Йордан, Кінерет і Мертве (Солене) море, на півдні - пустелі Синайського або Аравійського півострова ("пустеля Сін") на півночі південна частина нинішньої Сирії.
 
-!["From the Nile to the Euphrates"](/img/Illustrations/blog/2025-02-06-from_the_Nile_to_the_Euphrates/Bereshit_15-18.png) 
-
 --- 
+
+## Посилання: 
+
+[Вікіпедія: Великий Ізраїль](https://uk.wikipedia.org/wiki/%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B8%D0%B9_%D0%86%D0%B7%D1%80%D0%B0%D1%97%D0%BB%D1%8C)
+
+---
 
 Обговорення в [Facebook](https://www.facebook.com/viktor.ageyev/posts/pfbid0GqkDefYN7YKmHdi1tzLC7Ai1vcoRvH2CqdSvhZS2yfhKfMM3SA1rf9yGWHm8yivTl) 
 

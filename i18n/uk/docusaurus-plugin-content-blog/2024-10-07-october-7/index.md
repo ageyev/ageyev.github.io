@@ -7,6 +7,7 @@ draft: false
 date: 2024-10-07
 description: IDF Soldier's Memories of October 7, 2023
 lang: uk
+image: /img/Illustrations/blog/2024-10-07-october-7/2024-08-18.Mark_with_rifle.jpeg 
 ---
 
 # 7 жовтня 

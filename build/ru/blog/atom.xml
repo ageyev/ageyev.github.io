@@ -113,4 +113,16 @@
         <category label="Израиль" term="Израиль"/>
         <category label="Святая Земля" term="Святая Земля"/>
     </entry>
+    <entry>
+        <title type="html"><![CDATA[Lions and Bunnies]]></title>
+        <id>https://international-law.info/ru/blog/lions_and_bunnies</id>
+        <link href="https://international-law.info/ru/blog/lions_and_bunnies"/>
+        <updated>2024-09-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Analysis of the conflict in israeli society regarding war strategy]]></summary>
+        <content type="html"><![CDATA[<p><img decoding="async" loading="lazy" alt="DALL·E 2024-09-10 16.06.05 - A lion and a bunny sitting at a table, each holding books and engaged in a lively scientific debate" src="https://international-law.info/ru/assets/images/2024-09-10_a_lion_and_a_bunny_sitting_at_a_table-7b6fe45eb44e7e7869d5f17d7814ed4a.webp" width="1024" height="1024" class="img_ev3q"></p>]]></content>
+        <author>
+            <name>Виктор Агеев</name>
+        </author>
+        <category label="Святая Земля" term="Святая Земля"/>
+    </entry>
 </feed>

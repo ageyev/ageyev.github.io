@@ -3,7 +3,7 @@ slug: starting
 title: Starting
 authors: [ageyev]
 tags: [ageyev, test]
-draft: false 
+draft: true
 ---
 
 Добро пожаловать в новый блог. 

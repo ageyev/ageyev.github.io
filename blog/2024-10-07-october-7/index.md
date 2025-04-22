@@ -4,11 +4,14 @@ title: October 7
 authors: [ageyev]
 tags: [ageyev, holy-land]
 draft: false
+date: 2024-10-07
+description: IDF Soldier's Memories of October 7, 2023
+lang: en 
 ---
 
 # October 7 
 
-This is the text of my eldest son, written a week after October 7th. His unit was one of the first to engage in battle that morning; they repelled an attack by terrorists from the "Nukhba" special forces on the [Urim base](https://he.wikipedia.org/wiki/%D7%94%D7%A7%D7%A8%D7%91_%D7%91%D7%91%D7%A1%D7%99%D7%A1_%D7%90%D7%95%D7%A8%D7%99%D7%9D) on the border with Gaza. He was wounded in that battle.
+This is the text of my eldest son, written a week after October 7th. His unit was one of the first to engage in battle that morning; they repelled an attack by terrorists from the ["Nukhba" special forces](https://en.wikipedia.org/wiki/Nukhba_forces) on the [Urim base](https://he.wikipedia.org/wiki/%D7%94%D7%A7%D7%A8%D7%91_%D7%91%D7%91%D7%A1%D7%99%D7%A1_%D7%90%D7%95%D7%A8%D7%99%D7%9D) on the border with Gaza. He was wounded in that battle.
 
 ![Mark](/img/Illustrations/blog/2024-10-07-october-7/2024-08-18.Mark_with_rifle.jpeg)
 

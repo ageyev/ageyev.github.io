@@ -2947,9 +2947,9 @@ function _interopRequireWildcard(e, r) {
 var lib = __webpack_require__(3259);
 var lib_default = /*#__PURE__*/__webpack_require__.n(lib);
 ;// ./.docusaurus/routesChunkNames.json
-const routesChunkNames_namespaceObject = /*#__PURE__*/JSON.parse('{"/blog-1c1":{"__comp":"a6aa9e1f","__context":{"plugin":"36994c47"},"sidebar":"814f3328","items":[{"content":"1bf92856"},{"content":"849a618d"},{"content":"84a9ba62"},{"content":"e72aa375"}],"__props":"c15d9823"},"/blog/archive-182":{"__comp":"9e4087bc","__context":{"plugin":"36994c47"},"__props":"f81c1134"},"/blog/authors-0b7":{"__comp":"621db11d","__context":{"data":{"blogMetadata":"acecf23e"},"plugin":"36994c47"},"sidebar":"814f3328","__props":"ef8b811a"},"/blog/authors/ageyev-26f":{"__comp":"33fc5bb8","__context":{"data":{"blogMetadata":"acecf23e"},"plugin":"36994c47"},"items":[{"content":"1bf92856"},{"content":"849a618d"},{"content":"84a9ba62"},{"content":"e72aa375"}],"sidebar":"814f3328","__props":"a4e0ab43"},"/blog/from_the_Nile_to_the_Euphrates-9ba":{"__comp":"ccc49370","__context":{"data":{"blogMetadata":"acecf23e"},"plugin":"36994c47"},"sidebar":"814f3328","content":"f6b23fe4"},"/blog/lions_and_bunnies-2a2":{"__comp":"ccc49370","__context":{"data":{"blogMetadata":"acecf23e"},"plugin":"36994c47"},"sidebar":"814f3328","content":"cc1724d6"},"/blog/october7-21c":{"__comp":"ccc49370","__context":{"data":{"blogMetadata":"acecf23e"},"plugin":"36994c47"},"sidebar":"814f3328","content":"764a532b"},"/blog/tags-287":{"__comp":"01a85c17","__context":{"plugin":"36994c47"},"sidebar":"814f3328","__props":"3a2db09e"},"/blog/tags/ageyev-4d0":{"__comp":"6875c492","__context":{"plugin":"36994c47"},"sidebar":"814f3328","items":[{"content":"849a618d"},{"content":"84a9ba62"}],"__props":"fba5d987"},"/blog/tags/holy-land-646":{"__comp":"6875c492","__context":{"plugin":"36994c47"},"sidebar":"814f3328","items":[{"content":"1bf92856"},{"content":"849a618d"},{"content":"84a9ba62"},{"content":"e72aa375"}],"__props":"faba56cb"},"/blog/what_gaza_was_counting_on-bb5":{"__comp":"ccc49370","__context":{"data":{"blogMetadata":"acecf23e"},"plugin":"36994c47"},"sidebar":"814f3328","content":"8e1e209b"},"/-30a":{"__comp":"5e95c892","__context":{"plugin":"aba21aa0"}},"/-829":{"__comp":"a7bd4aaa","__props":"22dd74f7"},"/tags-ce1":{"__comp":"3720c009","__props":"59af61a6"},"/tags/docusaurus-85e":{"__comp":"df203c0f","__props":"ed84ec52"},"/tags/israel-39b":{"__comp":"df203c0f","__props":"f4a8bbc0"},"/tags/rf-dcd":{"__comp":"df203c0f","__props":"82602d17"},"/tags/un-780":{"__comp":"df203c0f","__props":"1c98b893"},"/-3a1":{"__comp":"a94703ab"},"/about/viktor-ageyev-a3b":{"__comp":"17896441","content":"29065044"},"/echr-990":{"__comp":"17896441","content":"f719f023"},"/Holy-Land/borders_and_territory_of_israel-b96":{"__comp":"17896441","content":"9ecb0f21"},"/Holy-Land/borders_references-41a":{"__comp":"17896441","content":"8c5208b5"},"/Holy-Land/holy_land-f4b":{"__comp":"17896441","content":"62d2b2f8"},"/Holy-Land/palestinian_people-ccc":{"__comp":"17896441","content":"8a58a795"},"/Holy-Land/state_of_palestine-b14":{"__comp":"17896441","content":"3612b7c7"},"/our_cases-d36":{"__comp":"17896441","content":"dc2d7384"},"/software-f45":{"__comp":"17896441","content":"af71a24e"},"/software/highlighter-2b6":{"__comp":"17896441","content":"e0a6a3bf"},"/un-464":{"__comp":"17896441","content":"a890167f"},"/UN/how_to_expel_rf_from_un-d9a":{"__comp":"17896441","content":"17e31d66"},"/UN/veto_power-d7d":{"__comp":"17896441","content":"94a85309"},"/-7c4":{"__comp":"17896441","content":"0e384e19"}}');
+const routesChunkNames_namespaceObject = /*#__PURE__*/JSON.parse('{"/blog-512":{"__comp":"a6aa9e1f","__context":{"plugin":"36994c47"},"sidebar":"814f3328","items":[{"content":"1bf92856"},{"content":"7e73d5a4"},{"content":"84a9ba62"},{"content":"e72aa375"}],"__props":"c15d9823"},"/blog/archive-182":{"__comp":"9e4087bc","__context":{"plugin":"36994c47"},"__props":"f81c1134"},"/blog/authors-0b7":{"__comp":"621db11d","__context":{"data":{"blogMetadata":"acecf23e"},"plugin":"36994c47"},"sidebar":"814f3328","__props":"ef8b811a"},"/blog/authors/ageyev-446":{"__comp":"33fc5bb8","__context":{"data":{"blogMetadata":"acecf23e"},"plugin":"36994c47"},"items":[{"content":"1bf92856"},{"content":"7e73d5a4"},{"content":"84a9ba62"},{"content":"e72aa375"}],"sidebar":"814f3328","__props":"a4e0ab43"},"/blog/from_the_Nile_to_the_Euphrates-87e":{"__comp":"ccc49370","__context":{"data":{"blogMetadata":"acecf23e"},"plugin":"36994c47"},"sidebar":"814f3328","content":"a3cc47ad"},"/blog/lions_and_bunnies-2a2":{"__comp":"ccc49370","__context":{"data":{"blogMetadata":"acecf23e"},"plugin":"36994c47"},"sidebar":"814f3328","content":"cc1724d6"},"/blog/october7-21c":{"__comp":"ccc49370","__context":{"data":{"blogMetadata":"acecf23e"},"plugin":"36994c47"},"sidebar":"814f3328","content":"764a532b"},"/blog/tags-287":{"__comp":"01a85c17","__context":{"plugin":"36994c47"},"sidebar":"814f3328","__props":"3a2db09e"},"/blog/tags/ageyev-02f":{"__comp":"6875c492","__context":{"plugin":"36994c47"},"sidebar":"814f3328","items":[{"content":"7e73d5a4"},{"content":"84a9ba62"}],"__props":"fba5d987"},"/blog/tags/holy-land-080":{"__comp":"6875c492","__context":{"plugin":"36994c47"},"sidebar":"814f3328","items":[{"content":"1bf92856"},{"content":"7e73d5a4"},{"content":"84a9ba62"},{"content":"e72aa375"}],"__props":"faba56cb"},"/blog/what_gaza_was_counting_on-bb5":{"__comp":"ccc49370","__context":{"data":{"blogMetadata":"acecf23e"},"plugin":"36994c47"},"sidebar":"814f3328","content":"8e1e209b"},"/-30a":{"__comp":"5e95c892","__context":{"plugin":"aba21aa0"}},"/-829":{"__comp":"a7bd4aaa","__props":"22dd74f7"},"/tags-ce1":{"__comp":"3720c009","__props":"59af61a6"},"/tags/docusaurus-85e":{"__comp":"df203c0f","__props":"ed84ec52"},"/tags/israel-39b":{"__comp":"df203c0f","__props":"f4a8bbc0"},"/tags/rf-dcd":{"__comp":"df203c0f","__props":"82602d17"},"/tags/un-780":{"__comp":"df203c0f","__props":"1c98b893"},"/-3a1":{"__comp":"a94703ab"},"/about/viktor-ageyev-a3b":{"__comp":"17896441","content":"29065044"},"/echr-990":{"__comp":"17896441","content":"f719f023"},"/Holy-Land/borders_and_territory_of_israel-b96":{"__comp":"17896441","content":"9ecb0f21"},"/Holy-Land/borders_references-41a":{"__comp":"17896441","content":"8c5208b5"},"/Holy-Land/holy_land-f4b":{"__comp":"17896441","content":"62d2b2f8"},"/Holy-Land/palestinian_people-ccc":{"__comp":"17896441","content":"8a58a795"},"/Holy-Land/state_of_palestine-b14":{"__comp":"17896441","content":"3612b7c7"},"/our_cases-d36":{"__comp":"17896441","content":"dc2d7384"},"/software-f45":{"__comp":"17896441","content":"af71a24e"},"/software/highlighter-2b6":{"__comp":"17896441","content":"e0a6a3bf"},"/un-464":{"__comp":"17896441","content":"a890167f"},"/UN/how_to_expel_rf_from_un-d9a":{"__comp":"17896441","content":"17e31d66"},"/UN/veto_power-d7d":{"__comp":"17896441","content":"94a85309"},"/-7c4":{"__comp":"17896441","content":"0e384e19"}}');
 ;// ./.docusaurus/registry.js
-/* harmony default export */ const registry = ({"01a85c17":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(9140))),"@theme/BlogTagsListPage",/*require.resolve*/(9140)],"0e384e19":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(2053))),"@site/docs/intro.md",/*require.resolve*/(2053)],"17896441":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(3223))),"@theme/DocItem",/*require.resolve*/(3223)],"17e31d66":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(6906))),"@site/docs/UN/how_to_expel_rf_from_un.mdx",/*require.resolve*/(6906)],"1bf92856":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(850))),"@site/blog/2025-04-18-What_Gaza_was_counting_on/index.md?truncated=true",/*require.resolve*/(850)],"1c98b893":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(2298))),"@generated/docusaurus-plugin-content-docs/default/p/tags-un-b4c.json",/*require.resolve*/(2298)],"22dd74f7":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(5226))),"@generated/docusaurus-plugin-content-docs/default/p/index-466.json",/*require.resolve*/(5226)],"29065044":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(1266))),"@site/docs/about/viktor-ageyev.md",/*require.resolve*/(1266)],"33fc5bb8":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(778))),"@theme/Blog/Pages/BlogAuthorsPostsPage",/*require.resolve*/(778)],"3612b7c7":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(9452))),"@site/docs/Holy-Land/state_of_palestine.md",/*require.resolve*/(9452)],"36994c47":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(5516))),"@generated/docusaurus-plugin-content-blog/default/__plugin.json",/*require.resolve*/(5516)],"3720c009":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(2194))),"@theme/DocTagsListPage",/*require.resolve*/(2194)],"3a2db09e":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(8070))),"@generated/docusaurus-plugin-content-blog/default/p/blog-tags-df9.json",/*require.resolve*/(8070)],"59af61a6":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(5332))),"@generated/docusaurus-plugin-content-docs/default/p/tags-b9f.json",/*require.resolve*/(5332)],"5e95c892":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(7121))),"@theme/DocsRoot",/*require.resolve*/(7121)],"621db11d":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(5613))),"@theme/Blog/Pages/BlogAuthorsListPage",/*require.resolve*/(5613)],"62d2b2f8":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(3993))),"@site/docs/Holy-Land/holy_land.mdx",/*require.resolve*/(3993)],"6875c492":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(3069))),"@theme/BlogTagsPostsPage",/*require.resolve*/(3069)],"764a532b":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(8630))),"@site/blog/2024-10-07-october-7/index.md",/*require.resolve*/(8630)],"814f3328":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(5513))),"~blog/default/blog-post-list-prop-default.json",/*require.resolve*/(5513)],"82602d17":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(2612))),"@generated/docusaurus-plugin-content-docs/default/p/tags-rf-bce.json",/*require.resolve*/(2612)],"849a618d":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(3837))),"@site/blog/2025-02-06-from_the_Nile_to_the_Euphrates/index.md?truncated=true",/*require.resolve*/(3837)],"84a9ba62":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(8634))),"@site/blog/2024-10-07-october-7/index.md?truncated=true",/*require.resolve*/(8634)],"8a58a795":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(2046))),"@site/docs/Holy-Land/palestinian_people.md",/*require.resolve*/(2046)],"8c5208b5":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(670))),"@site/docs/Holy-Land/territory_references.md",/*require.resolve*/(670)],"8e1e209b":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(7614))),"@site/blog/2025-04-18-What_Gaza_was_counting_on/index.md",/*require.resolve*/(7614)],"94a85309":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(2176))),"@site/docs/UN/veto_power.mdx",/*require.resolve*/(2176)],"9e4087bc":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(9331))),"@theme/BlogArchivePage",/*require.resolve*/(9331)],"9ecb0f21":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(6754))),"@site/docs/Holy-Land/territory.md",/*require.resolve*/(6754)],"a4e0ab43":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(6284))),"@generated/docusaurus-plugin-content-blog/default/p/blog-authors-ageyev-329.json",/*require.resolve*/(6284)],"a6aa9e1f":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(5124))),"@theme/BlogListPage",/*require.resolve*/(5124)],"a7bd4aaa":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(1723))),"@theme/DocVersionRoot",/*require.resolve*/(1723)],"a890167f":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(7139))),"@site/docs/UN/un.mdx",/*require.resolve*/(7139)],"a94703ab":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(8319))),"@theme/DocRoot",/*require.resolve*/(8319)],"aba21aa0":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(7093))),"@generated/docusaurus-plugin-content-docs/default/__plugin.json",/*require.resolve*/(7093)],"acecf23e":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(1912))),"~blog/default/blogMetadata-default.json",/*require.resolve*/(1912)],"af71a24e":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(1025))),"@site/docs/software/software.mdx",/*require.resolve*/(1025)],"c15d9823":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(9328))),"@generated/docusaurus-plugin-content-blog/default/p/blog-bd9.json",/*require.resolve*/(9328)],"cc1724d6":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(7260))),"@site/blog/2024-09-10_lions_and_bunnies/index.mdx",/*require.resolve*/(7260)],"ccc49370":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(3858))),"@theme/BlogPostPage",/*require.resolve*/(3858)],"dc2d7384":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(3385))),"@site/docs/ECHR/our_cases.mdx",/*require.resolve*/(3385)],"df203c0f":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(5921))),"@theme/DocTagDocListPage",/*require.resolve*/(5921)],"e0a6a3bf":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(6809))),"@site/docs/software/highlighter.mdx",/*require.resolve*/(6809)],"e72aa375":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(4920))),"@site/blog/2024-09-10_lions_and_bunnies/index.mdx?truncated=true",/*require.resolve*/(4920)],"ed84ec52":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(8382))),"@generated/docusaurus-plugin-content-docs/default/p/tags-docusaurus-f7a.json",/*require.resolve*/(8382)],"ef8b811a":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(6600))),"@generated/docusaurus-plugin-content-blog/default/p/blog-authors-790.json",/*require.resolve*/(6600)],"f4a8bbc0":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(5358))),"@generated/docusaurus-plugin-content-docs/default/p/tags-israel-f20.json",/*require.resolve*/(5358)],"f6b23fe4":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(3414))),"@site/blog/2025-02-06-from_the_Nile_to_the_Euphrates/index.md",/*require.resolve*/(3414)],"f719f023":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(5456))),"@site/docs/ECHR/echr.mdx",/*require.resolve*/(5456)],"f81c1134":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(7735))),"@generated/docusaurus-plugin-content-blog/default/p/blog-archive-f05.json",/*require.resolve*/(7735)],"faba56cb":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(8838))),"@generated/docusaurus-plugin-content-blog/default/p/blog-tags-holy-land-145.json",/*require.resolve*/(8838)],"fba5d987":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(383))),"@generated/docusaurus-plugin-content-blog/default/p/blog-tags-ageyev-42d.json",/*require.resolve*/(383)]});
+/* harmony default export */ const registry = ({"01a85c17":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(9140))),"@theme/BlogTagsListPage",/*require.resolve*/(9140)],"0e384e19":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(2053))),"@site/docs/intro.md",/*require.resolve*/(2053)],"17896441":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(3223))),"@theme/DocItem",/*require.resolve*/(3223)],"17e31d66":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(6906))),"@site/docs/UN/how_to_expel_rf_from_un.mdx",/*require.resolve*/(6906)],"1bf92856":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(850))),"@site/blog/2025-04-18-What_Gaza_was_counting_on/index.md?truncated=true",/*require.resolve*/(850)],"1c98b893":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(2298))),"@generated/docusaurus-plugin-content-docs/default/p/tags-un-b4c.json",/*require.resolve*/(2298)],"22dd74f7":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(5226))),"@generated/docusaurus-plugin-content-docs/default/p/index-466.json",/*require.resolve*/(5226)],"29065044":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(1266))),"@site/docs/about/viktor-ageyev.md",/*require.resolve*/(1266)],"33fc5bb8":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(778))),"@theme/Blog/Pages/BlogAuthorsPostsPage",/*require.resolve*/(778)],"3612b7c7":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(9452))),"@site/docs/Holy-Land/state_of_palestine.md",/*require.resolve*/(9452)],"36994c47":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(5516))),"@generated/docusaurus-plugin-content-blog/default/__plugin.json",/*require.resolve*/(5516)],"3720c009":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(2194))),"@theme/DocTagsListPage",/*require.resolve*/(2194)],"3a2db09e":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(8070))),"@generated/docusaurus-plugin-content-blog/default/p/blog-tags-df9.json",/*require.resolve*/(8070)],"59af61a6":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(5332))),"@generated/docusaurus-plugin-content-docs/default/p/tags-b9f.json",/*require.resolve*/(5332)],"5e95c892":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(7121))),"@theme/DocsRoot",/*require.resolve*/(7121)],"621db11d":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(5613))),"@theme/Blog/Pages/BlogAuthorsListPage",/*require.resolve*/(5613)],"62d2b2f8":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(3993))),"@site/docs/Holy-Land/holy_land.mdx",/*require.resolve*/(3993)],"6875c492":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(3069))),"@theme/BlogTagsPostsPage",/*require.resolve*/(3069)],"764a532b":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(8630))),"@site/blog/2024-10-07-october-7/index.md",/*require.resolve*/(8630)],"7e73d5a4":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(3230))),"@site/blog/2025-02-06-from_the_Nile_to_the_Euphrates/index.mdx?truncated=true",/*require.resolve*/(3230)],"814f3328":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(5513))),"~blog/default/blog-post-list-prop-default.json",/*require.resolve*/(5513)],"82602d17":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(2612))),"@generated/docusaurus-plugin-content-docs/default/p/tags-rf-bce.json",/*require.resolve*/(2612)],"84a9ba62":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(8634))),"@site/blog/2024-10-07-october-7/index.md?truncated=true",/*require.resolve*/(8634)],"8a58a795":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(2046))),"@site/docs/Holy-Land/palestinian_people.md",/*require.resolve*/(2046)],"8c5208b5":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(670))),"@site/docs/Holy-Land/territory_references.md",/*require.resolve*/(670)],"8e1e209b":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(7614))),"@site/blog/2025-04-18-What_Gaza_was_counting_on/index.md",/*require.resolve*/(7614)],"94a85309":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(2176))),"@site/docs/UN/veto_power.mdx",/*require.resolve*/(2176)],"9e4087bc":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(9331))),"@theme/BlogArchivePage",/*require.resolve*/(9331)],"9ecb0f21":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(6754))),"@site/docs/Holy-Land/territory.md",/*require.resolve*/(6754)],"a3cc47ad":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(1770))),"@site/blog/2025-02-06-from_the_Nile_to_the_Euphrates/index.mdx",/*require.resolve*/(1770)],"a4e0ab43":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(6284))),"@generated/docusaurus-plugin-content-blog/default/p/blog-authors-ageyev-329.json",/*require.resolve*/(6284)],"a6aa9e1f":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(5124))),"@theme/BlogListPage",/*require.resolve*/(5124)],"a7bd4aaa":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(1723))),"@theme/DocVersionRoot",/*require.resolve*/(1723)],"a890167f":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(7139))),"@site/docs/UN/un.mdx",/*require.resolve*/(7139)],"a94703ab":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(8319))),"@theme/DocRoot",/*require.resolve*/(8319)],"aba21aa0":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(7093))),"@generated/docusaurus-plugin-content-docs/default/__plugin.json",/*require.resolve*/(7093)],"acecf23e":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(1912))),"~blog/default/blogMetadata-default.json",/*require.resolve*/(1912)],"af71a24e":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(1025))),"@site/docs/software/software.mdx",/*require.resolve*/(1025)],"c15d9823":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(9328))),"@generated/docusaurus-plugin-content-blog/default/p/blog-bd9.json",/*require.resolve*/(9328)],"cc1724d6":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(7260))),"@site/blog/2024-09-10_lions_and_bunnies/index.mdx",/*require.resolve*/(7260)],"ccc49370":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(3858))),"@theme/BlogPostPage",/*require.resolve*/(3858)],"dc2d7384":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(3385))),"@site/docs/ECHR/our_cases.mdx",/*require.resolve*/(3385)],"df203c0f":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(5921))),"@theme/DocTagDocListPage",/*require.resolve*/(5921)],"e0a6a3bf":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(6809))),"@site/docs/software/highlighter.mdx",/*require.resolve*/(6809)],"e72aa375":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(4920))),"@site/blog/2024-09-10_lions_and_bunnies/index.mdx?truncated=true",/*require.resolve*/(4920)],"ed84ec52":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(8382))),"@generated/docusaurus-plugin-content-docs/default/p/tags-docusaurus-f7a.json",/*require.resolve*/(8382)],"ef8b811a":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(6600))),"@generated/docusaurus-plugin-content-blog/default/p/blog-authors-790.json",/*require.resolve*/(6600)],"f4a8bbc0":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(5358))),"@generated/docusaurus-plugin-content-docs/default/p/tags-israel-f20.json",/*require.resolve*/(5358)],"f719f023":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(5456))),"@site/docs/ECHR/echr.mdx",/*require.resolve*/(5456)],"f81c1134":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(7735))),"@generated/docusaurus-plugin-content-blog/default/p/blog-archive-f05.json",/*require.resolve*/(7735)],"faba56cb":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(8838))),"@generated/docusaurus-plugin-content-blog/default/p/blog-tags-holy-land-145.json",/*require.resolve*/(8838)],"fba5d987":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(383))),"@generated/docusaurus-plugin-content-blog/default/p/blog-tags-ageyev-42d.json",/*require.resolve*/(383)]});
 // EXTERNAL MODULE: ./node_modules/react/jsx-runtime.js
 var jsx_runtime = __webpack_require__(4848);
 ;// ./node_modules/@docusaurus/core/lib/client/theme-fallback/Loading/index.js
@@ -3013,7 +3013,7 @@ if(typeof chunk==='object'||typeof chunk==='function'){Object.keys(loadedModule)
 let val=loadedModules;const keyPaths=keyPath.split('.');keyPaths.slice(0,-1).forEach(k=>{val=val[k];});val[keyPaths[keyPaths.length-1]]=chunk;});/* eslint-disable no-underscore-dangle */const Component=loadedModules.__comp;delete loadedModules.__comp;const routeContext=loadedModules.__context;delete loadedModules.__context;const routeProps=loadedModules.__props;delete loadedModules.__props;/* eslint-enable no-underscore-dangle */// Is there any way to put this RouteContextProvider upper in the tree?
 return/*#__PURE__*/(0,jsx_runtime.jsx)(client_routeContext/* RouteContextProvider */.W,{value:routeContext,children:/*#__PURE__*/(0,jsx_runtime.jsx)(Component,{...loadedModules,...routeProps,...props})});}});}
 ;// ./.docusaurus/routes.js
-/* harmony default export */ const routes = ([{path:'/blog',component:ComponentCreator('/blog','1c1'),exact:true},{path:'/blog/archive',component:ComponentCreator('/blog/archive','182'),exact:true},{path:'/blog/authors',component:ComponentCreator('/blog/authors','0b7'),exact:true},{path:'/blog/authors/ageyev',component:ComponentCreator('/blog/authors/ageyev','26f'),exact:true},{path:'/blog/from_the_Nile_to_the_Euphrates',component:ComponentCreator('/blog/from_the_Nile_to_the_Euphrates','9ba'),exact:true},{path:'/blog/lions_and_bunnies',component:ComponentCreator('/blog/lions_and_bunnies','2a2'),exact:true},{path:'/blog/october7',component:ComponentCreator('/blog/october7','21c'),exact:true},{path:'/blog/tags',component:ComponentCreator('/blog/tags','287'),exact:true},{path:'/blog/tags/ageyev',component:ComponentCreator('/blog/tags/ageyev','4d0'),exact:true},{path:'/blog/tags/holy-land',component:ComponentCreator('/blog/tags/holy-land','646'),exact:true},{path:'/blog/what_gaza_was_counting_on',component:ComponentCreator('/blog/what_gaza_was_counting_on','bb5'),exact:true},{path:'/',component:ComponentCreator('/','30a'),routes:[{path:'/',component:ComponentCreator('/','829'),routes:[{path:'/tags',component:ComponentCreator('/tags','ce1'),exact:true},{path:'/tags/docusaurus',component:ComponentCreator('/tags/docusaurus','85e'),exact:true},{path:'/tags/israel',component:ComponentCreator('/tags/israel','39b'),exact:true},{path:'/tags/rf',component:ComponentCreator('/tags/rf','dcd'),exact:true},{path:'/tags/un',component:ComponentCreator('/tags/un','780'),exact:true},{path:'/',component:ComponentCreator('/','3a1'),routes:[{path:'/about/viktor-ageyev',component:ComponentCreator('/about/viktor-ageyev','a3b'),exact:true},{path:'/echr',component:ComponentCreator('/echr','990'),exact:true,sidebar:"docs"},{path:'/Holy-Land/borders_and_territory_of_israel',component:ComponentCreator('/Holy-Land/borders_and_territory_of_israel','b96'),exact:true,sidebar:"docs"},{path:'/Holy-Land/borders_references',component:ComponentCreator('/Holy-Land/borders_references','41a'),exact:true},{path:'/Holy-Land/holy_land',component:ComponentCreator('/Holy-Land/holy_land','f4b'),exact:true,sidebar:"docs"},{path:'/Holy-Land/palestinian_people',component:ComponentCreator('/Holy-Land/palestinian_people','ccc'),exact:true,sidebar:"docs"},{path:'/Holy-Land/state_of_palestine',component:ComponentCreator('/Holy-Land/state_of_palestine','b14'),exact:true,sidebar:"docs"},{path:'/our_cases',component:ComponentCreator('/our_cases','d36'),exact:true},{path:'/software',component:ComponentCreator('/software','f45'),exact:true,sidebar:"docs"},{path:'/software/highlighter',component:ComponentCreator('/software/highlighter','2b6'),exact:true,sidebar:"docs"},{path:'/un',component:ComponentCreator('/un','464'),exact:true,sidebar:"docs"},{path:'/UN/how_to_expel_rf_from_un',component:ComponentCreator('/UN/how_to_expel_rf_from_un','d9a'),exact:true,sidebar:"docs"},{path:'/UN/veto_power',component:ComponentCreator('/UN/veto_power','d7d'),exact:true,sidebar:"docs"},{path:'/',component:ComponentCreator('/','7c4'),exact:true,sidebar:"docs"}]}]}]},{path:'*',component:ComponentCreator('*')}]);
+/* harmony default export */ const routes = ([{path:'/blog',component:ComponentCreator('/blog','512'),exact:true},{path:'/blog/archive',component:ComponentCreator('/blog/archive','182'),exact:true},{path:'/blog/authors',component:ComponentCreator('/blog/authors','0b7'),exact:true},{path:'/blog/authors/ageyev',component:ComponentCreator('/blog/authors/ageyev','446'),exact:true},{path:'/blog/from_the_Nile_to_the_Euphrates',component:ComponentCreator('/blog/from_the_Nile_to_the_Euphrates','87e'),exact:true},{path:'/blog/lions_and_bunnies',component:ComponentCreator('/blog/lions_and_bunnies','2a2'),exact:true},{path:'/blog/october7',component:ComponentCreator('/blog/october7','21c'),exact:true},{path:'/blog/tags',component:ComponentCreator('/blog/tags','287'),exact:true},{path:'/blog/tags/ageyev',component:ComponentCreator('/blog/tags/ageyev','02f'),exact:true},{path:'/blog/tags/holy-land',component:ComponentCreator('/blog/tags/holy-land','080'),exact:true},{path:'/blog/what_gaza_was_counting_on',component:ComponentCreator('/blog/what_gaza_was_counting_on','bb5'),exact:true},{path:'/',component:ComponentCreator('/','30a'),routes:[{path:'/',component:ComponentCreator('/','829'),routes:[{path:'/tags',component:ComponentCreator('/tags','ce1'),exact:true},{path:'/tags/docusaurus',component:ComponentCreator('/tags/docusaurus','85e'),exact:true},{path:'/tags/israel',component:ComponentCreator('/tags/israel','39b'),exact:true},{path:'/tags/rf',component:ComponentCreator('/tags/rf','dcd'),exact:true},{path:'/tags/un',component:ComponentCreator('/tags/un','780'),exact:true},{path:'/',component:ComponentCreator('/','3a1'),routes:[{path:'/about/viktor-ageyev',component:ComponentCreator('/about/viktor-ageyev','a3b'),exact:true},{path:'/echr',component:ComponentCreator('/echr','990'),exact:true,sidebar:"docs"},{path:'/Holy-Land/borders_and_territory_of_israel',component:ComponentCreator('/Holy-Land/borders_and_territory_of_israel','b96'),exact:true,sidebar:"docs"},{path:'/Holy-Land/borders_references',component:ComponentCreator('/Holy-Land/borders_references','41a'),exact:true},{path:'/Holy-Land/holy_land',component:ComponentCreator('/Holy-Land/holy_land','f4b'),exact:true,sidebar:"docs"},{path:'/Holy-Land/palestinian_people',component:ComponentCreator('/Holy-Land/palestinian_people','ccc'),exact:true,sidebar:"docs"},{path:'/Holy-Land/state_of_palestine',component:ComponentCreator('/Holy-Land/state_of_palestine','b14'),exact:true,sidebar:"docs"},{path:'/our_cases',component:ComponentCreator('/our_cases','d36'),exact:true},{path:'/software',component:ComponentCreator('/software','f45'),exact:true,sidebar:"docs"},{path:'/software/highlighter',component:ComponentCreator('/software/highlighter','2b6'),exact:true,sidebar:"docs"},{path:'/un',component:ComponentCreator('/un','464'),exact:true,sidebar:"docs"},{path:'/UN/how_to_expel_rf_from_un',component:ComponentCreator('/UN/how_to_expel_rf_from_un','d9a'),exact:true,sidebar:"docs"},{path:'/UN/veto_power',component:ComponentCreator('/UN/veto_power','d7d'),exact:true,sidebar:"docs"},{path:'/',component:ComponentCreator('/','7c4'),exact:true,sidebar:"docs"}]}]}]},{path:'*',component:ComponentCreator('*')}]);
 
 /***/ }),
 
@@ -6785,6 +6785,171 @@ prismjs/prism.js:
 
 /***/ }),
 
+/***/ 1770:
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   assets: () => (/* binding */ assets),
+/* harmony export */   contentTitle: () => (/* binding */ contentTitle),
+/* harmony export */   "default": () => (/* binding */ MDXContent),
+/* harmony export */   frontMatter: () => (/* binding */ frontMatter),
+/* harmony export */   metadata: () => (/* reexport default export from named module */ _site_docusaurus_docusaurus_plugin_content_blog_default_site_blog_2025_02_06_from_the_nile_to_the_euphrates_index_mdx_a3c_json__WEBPACK_IMPORTED_MODULE_0__),
+/* harmony export */   toc: () => (/* binding */ toc)
+/* harmony export */ });
+/* harmony import */ var _site_docusaurus_docusaurus_plugin_content_blog_default_site_blog_2025_02_06_from_the_nile_to_the_euphrates_index_mdx_a3c_json__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(7202);
+/* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(4848);
+/* harmony import */ var _mdx_js_react__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(8453);
+/* harmony import */ var _site_static_img_Illustrations_blog_2025_02_06_from_the_Nile_to_the_Euphrates_Bereshit_15_18_png__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(3557);
+/* harmony import */ var _site_static_img_Illustrations_blog_2025_02_06_from_the_Nile_to_the_Euphrates_Bereshit_15_18_png__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_site_static_img_Illustrations_blog_2025_02_06_from_the_Nile_to_the_Euphrates_Bereshit_15_18_png__WEBPACK_IMPORTED_MODULE_2__);
+
+
+const frontMatter = {
+	slug: 'from_the_Nile_to_the_Euphrates',
+	title: 'From the Nile to the Euphrates',
+	authors: [
+		'ageyev'
+	],
+	tags: [
+		'ageyev',
+		'holy-land'
+	],
+	draft: false,
+	description: 'From the Nile to the Euphrates: On the Question of Israel’s Biblical Borders',
+	image: '/img/Illustrations/blog/2025-02-06-from_the_Nile_to_the_Euphrates/Bereshit_15-18.png'
+};
+const contentTitle = '"From the Nile to the Euphrates": On the Question of Israel’s Biblical Borders';
+
+const assets = {
+"authorsImageUrls": [undefined],
+};
+
+
+
+
+const toc = [{
+  "value": "References:",
+  "id": "references",
+  "level": 2
+}];
+function _createMdxContent(props) {
+  const _components = {
+    a: "a",
+    blockquote: "blockquote",
+    em: "em",
+    h2: "h2",
+    hr: "hr",
+    p: "p",
+    ...(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_3__/* .useMDXComponents */ .R)(),
+    ...props.components
+  }, {Image} = _components;
+  if (!Image) _missingMdxReference("Image", true);
+  return (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.Fragment, {
+    children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(Image, {
+      img: (_site_static_img_Illustrations_blog_2025_02_06_from_the_Nile_to_the_Euphrates_Bereshit_15_18_png__WEBPACK_IMPORTED_MODULE_2___default())
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+      children: ["One of the debated issues when discussing Israel’s borders from a legal perspective (in our view, sacred texts should also be considered in international law) is the well-known phrase ", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.em, {
+        children: "\"from the Nile to the Euphrates,\""
+      }), " understood as the Tanakhic (biblical) definition of Israel’s borders."]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
+      children: "Accordingly, on the one hand, some Israelis believe that Israel’s borders should be expanded to the \"Torah-defined\" boundaries from the Nile to the Euphrates. On the other hand, Israel’s opponents accuse it of striving to seize the corresponding territories."
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
+      children: "However, this interpretation does not align with the biblical text. This passage is truly remarkable, considering the time it was written. That is, it was written thousands of years ago, and today it has come to pass as foretold."
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
+      children: "No, Israel's borders do not extend from the Nile to the Euphrates, nor should they. In reality, this is not about the borders of Israel."
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+      children: ["It was written as follows (Bereshit/Genesis ", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.a, {
+        href: "https://mechon-mamre.org/p/pt/pt0115.htm",
+        children: "15:18"
+      }), "):"]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.blockquote, {
+      children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
+        children: "בַּיּוֹם הַהוּא, כָּרַת יְהוָה אֶת-אַבְרָם--בְּרִית לֵאמֹר: לְזַרְעֲךָ, נָתַתִּי אֶת-הָאָרֶץ הַזֹּאת, מִנְּהַר מִצְרַיִם, עַד-הַנָּהָר הַגָּדֹל נְהַר-פְּרָת."
+      }), "\n"]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
+      children: "(On that day, the Lord made a covenant with Abram, saying: \"To your descendants I give these lands, from the river of Egypt to the great river, the river Euphrates\")"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
+      children: "In the King James translation:"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.blockquote, {
+      children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
+        children: "In that day the LORD made a covenant with Abram, saying: 'Unto thy seed have I given this land, from the river of Egypt unto the great river, the river Euphrates.'"
+      }), "\n"]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
+      children: "The descendants of Abraham are not only the Jews but also the Arabs."
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
+      children: "Thus, indeed, in the present time, as foretold, the lands from the Nile to the Euphrates are owned by the descendants of Abraham."
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+      children: ["The boundaries of the land that the descendants of Israel were to possess are described in ", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.a, {
+        href: "https://mechon-mamre.org/p/pt/pt0434.htm",
+        children: "Numbers 34:1-12"
+      }), ":"]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.blockquote, {
+      children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
+        children: "And the LORD spoke unto Moses, saying:'Command the children of Israel, and say unto them: When ye come into the land of Canaan, this shall be the land that shall fall unto you for an inheritance, even the land of Canaan according to the borders thereof. Thus your south side shall be from the wilderness of Zin close by the side of Edom, and your south border shall begin at the end of the Salt Sea eastward; and your border shall turn about southward of the ascent of Akrabbim, and pass along to Zin; and the goings out thereof shall be southward of Kadesh-barnea; and it shall go forth to Hazar-addar, and pass along to Azmon; and the border shall turn about from Azmon unto the Brook of Egypt, and the goings out thereof shall be at the Sea. And for the western border, ye shall have the Great Sea for a border; this shall be your west border. And this shall be your north border: from the Great Sea ye shall mark out your line unto mount Hor; from mount Hor ye shall mark out a line unto the entrance to Hamath; and the goings out of the border shall be at Zedad; and the border shall go forth to Ziphron, and the goings out thereof shall be at Hazar-enan; this shall be your north border. And ye shall mark out your line for the east border from Hazar-enan to Shepham; and the border shall go down from Shepham to Riblah, on the east side of Ain; and the border shall go down, and shall strike upon the slope of the sea of Chinnereth eastward; and the border shall go down to the Jordan, and the goings out thereof shall be at the Salt Sea; this shall be your land according to the borders thereof round about."
+      }), "\n"]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
+      children: "Which roughly corresponds to the current borders of Israel: on the western side is the Mediterranean Sea (\"the Great Sea\"), on the eastern side is the Jordan, the Sea of Galilee (Chinnereth) and the Dead (Salt) Sea, on the south are the deserts of the Sinai or Arabian Peninsula (\"the desert of Sin\"), and on the north is the southern part of present-day Syria."
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.hr, {}), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.h2, {
+      id: "references",
+      children: "References:"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
+      children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.a, {
+        href: "https://en.wikipedia.org/wiki/Greater_Israel",
+        children: "Wikipedia: Greater Israel"
+      })
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.hr, {}), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
+      children: "this post in:"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+      children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.a, {
+        href: "https://www.facebook.com/viktor.ageyev/posts/pfbid0GqkDefYN7YKmHdi1tzLC7Ai1vcoRvH2CqdSvhZS2yfhKfMM3SA1rf9yGWHm8yivTl",
+        children: "Facebook"
+      }), " (discussion in Russian)"]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
+      children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.a, {
+        href: "https://www.linkedin.com/posts/ageyev_from-the-nile-to-the-euphrates-on-the-activity-7293287687610912770-pYEd/",
+        children: "LinkedIn"
+      })
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
+      children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.a, {
+        href: "https://x.com/ageyev/status/1887506345617768538",
+        children: "Twitter"
+      })
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
+      children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.a, {
+        href: "https://www.instagram.com/p/DFvBBNkoYaM/",
+        children: "Instagram"
+      })
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.hr, {}), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
+      children: "See also:"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
+      children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.a, {
+        href: "/Holy-Land/borders_and_territory_of_israel",
+        children: "Where Are Israel's Borders and What Is Israel Actually Occupying"
+      })
+    })]
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = {
+    ...(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_3__/* .useMDXComponents */ .R)(),
+    ...props.components
+  };
+  return MDXLayout ? (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(MDXLayout, {
+    ...props,
+    children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+function _missingMdxReference(id, component) {
+  throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
+}
+
+
+
+/***/ }),
+
 /***/ 1871:
 /***/ ((module) => {
 
@@ -8509,6 +8674,94 @@ var Layout_styles_module_default = /*#__PURE__*/__webpack_require__.n(Layout_sty
 
 /***/ }),
 
+/***/ 3230:
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   assets: () => (/* binding */ assets),
+/* harmony export */   contentTitle: () => (/* binding */ contentTitle),
+/* harmony export */   "default": () => (/* binding */ MDXContent),
+/* harmony export */   frontMatter: () => (/* binding */ frontMatter),
+/* harmony export */   metadata: () => (/* reexport default export from named module */ _site_docusaurus_docusaurus_plugin_content_blog_default_site_blog_2025_02_06_from_the_nile_to_the_euphrates_index_mdx_a3c_json__WEBPACK_IMPORTED_MODULE_0__),
+/* harmony export */   toc: () => (/* binding */ toc)
+/* harmony export */ });
+/* harmony import */ var _site_docusaurus_docusaurus_plugin_content_blog_default_site_blog_2025_02_06_from_the_nile_to_the_euphrates_index_mdx_a3c_json__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(7202);
+/* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(4848);
+/* harmony import */ var _mdx_js_react__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(8453);
+/* harmony import */ var _site_static_img_Illustrations_blog_2025_02_06_from_the_Nile_to_the_Euphrates_Bereshit_15_18_png__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(3557);
+/* harmony import */ var _site_static_img_Illustrations_blog_2025_02_06_from_the_Nile_to_the_Euphrates_Bereshit_15_18_png__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_site_static_img_Illustrations_blog_2025_02_06_from_the_Nile_to_the_Euphrates_Bereshit_15_18_png__WEBPACK_IMPORTED_MODULE_2__);
+
+
+const frontMatter = {
+	slug: 'from_the_Nile_to_the_Euphrates',
+	title: 'From the Nile to the Euphrates',
+	authors: [
+		'ageyev'
+	],
+	tags: [
+		'ageyev',
+		'holy-land'
+	],
+	draft: false,
+	description: 'From the Nile to the Euphrates: On the Question of Israel’s Biblical Borders',
+	image: '/img/Illustrations/blog/2025-02-06-from_the_Nile_to_the_Euphrates/Bereshit_15-18.png'
+};
+const contentTitle = '"From the Nile to the Euphrates": On the Question of Israel’s Biblical Borders';
+
+const assets = {
+"authorsImageUrls": [undefined],
+};
+
+
+
+
+const toc = [];
+function _createMdxContent(props) {
+  const _components = {
+    em: "em",
+    p: "p",
+    ...(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_3__/* .useMDXComponents */ .R)(),
+    ...props.components
+  }, {Image} = _components;
+  if (!Image) _missingMdxReference("Image", true);
+  return (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.Fragment, {
+    children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(Image, {
+      img: (_site_static_img_Illustrations_blog_2025_02_06_from_the_Nile_to_the_Euphrates_Bereshit_15_18_png__WEBPACK_IMPORTED_MODULE_2___default())
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+      children: ["One of the debated issues when discussing Israel’s borders from a legal perspective (in our view, sacred texts should also be considered in international law) is the well-known phrase ", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.em, {
+        children: "\"from the Nile to the Euphrates,\""
+      }), " understood as the Tanakhic (biblical) definition of Israel’s borders."]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
+      children: "Accordingly, on the one hand, some Israelis believe that Israel’s borders should be expanded to the \"Torah-defined\" boundaries from the Nile to the Euphrates. On the other hand, Israel’s opponents accuse it of striving to seize the corresponding territories."
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
+      children: "However, this interpretation does not align with the biblical text. This passage is truly remarkable, considering the time it was written. That is, it was written thousands of years ago, and today it has come to pass as foretold."
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
+      children: "No, Israel's borders do not extend from the Nile to the Euphrates, nor should they. In reality, this is not about the borders of Israel."
+    })]
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = {
+    ...(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_3__/* .useMDXComponents */ .R)(),
+    ...props.components
+  };
+  return MDXLayout ? (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(MDXLayout, {
+    ...props,
+    children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+function _missingMdxReference(id, component) {
+  throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
+}
+
+
+
+/***/ }),
+
 /***/ 3259:
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
@@ -8983,171 +9236,6 @@ module.exports = {
 
 /***/ }),
 
-/***/ 3414:
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   assets: () => (/* binding */ assets),
-/* harmony export */   contentTitle: () => (/* binding */ contentTitle),
-/* harmony export */   "default": () => (/* binding */ MDXContent),
-/* harmony export */   frontMatter: () => (/* binding */ frontMatter),
-/* harmony export */   metadata: () => (/* reexport default export from named module */ _site_docusaurus_docusaurus_plugin_content_blog_default_site_blog_2025_02_06_from_the_nile_to_the_euphrates_index_md_f6b_json__WEBPACK_IMPORTED_MODULE_0__),
-/* harmony export */   toc: () => (/* binding */ toc)
-/* harmony export */ });
-/* harmony import */ var _site_docusaurus_docusaurus_plugin_content_blog_default_site_blog_2025_02_06_from_the_nile_to_the_euphrates_index_md_f6b_json__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(5369);
-/* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(4848);
-/* harmony import */ var _mdx_js_react__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(8453);
-/* harmony import */ var _site_static_img_Illustrations_blog_2025_02_06_from_the_Nile_to_the_Euphrates_Bereshit_15_18_png__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(3557);
-/* harmony import */ var _site_static_img_Illustrations_blog_2025_02_06_from_the_Nile_to_the_Euphrates_Bereshit_15_18_png__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_site_static_img_Illustrations_blog_2025_02_06_from_the_Nile_to_the_Euphrates_Bereshit_15_18_png__WEBPACK_IMPORTED_MODULE_2__);
-
-
-const frontMatter = {
-	slug: 'from_the_Nile_to_the_Euphrates',
-	title: 'From the Nile to the Euphrates',
-	authors: [
-		'ageyev'
-	],
-	tags: [
-		'ageyev',
-		'holy-land'
-	],
-	draft: false,
-	description: 'From the Nile to the Euphrates: On the Question of Israel’s Biblical Borders',
-	image: '/img/Illustrations/blog/2025-02-06-from_the_Nile_to_the_Euphrates/Bereshit_15-18.png'
-};
-const contentTitle = '"From the Nile to the Euphrates": On the Question of Israel’s Biblical Borders';
-
-const assets = {
-"authorsImageUrls": [undefined],
-};
-
-
-
-
-const toc = [{
-  "value": "References:",
-  "id": "references",
-  "level": 2
-}];
-function _createMdxContent(props) {
-  const _components = {
-    a: "a",
-    blockquote: "blockquote",
-    em: "em",
-    h2: "h2",
-    hr: "hr",
-    p: "p",
-    ...(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_3__/* .useMDXComponents */ .R)(),
-    ...props.components
-  }, {Image} = _components;
-  if (!Image) _missingMdxReference("Image", true);
-  return (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.Fragment, {
-    children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(Image, {
-      img: (_site_static_img_Illustrations_blog_2025_02_06_from_the_Nile_to_the_Euphrates_Bereshit_15_18_png__WEBPACK_IMPORTED_MODULE_2___default())
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
-      children: ["One of the debated issues when discussing Israel’s borders from a legal perspective (in our view, sacred texts should also be considered in international law) is the well-known phrase ", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.em, {
-        children: "\"from the Nile to the Euphrates,\""
-      }), " understood as the Tanakhic (biblical) definition of Israel’s borders."]
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "Accordingly, on the one hand, some Israelis believe that Israel’s borders should be expanded to the \"Torah-defined\" boundaries from the Nile to the Euphrates. On the other hand, Israel’s opponents accuse it of striving to seize the corresponding territories."
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "However, this interpretation does not align with the biblical text. This passage is truly remarkable, considering the time it was written. That is, it was written thousands of years ago, and today it has come to pass as foretold."
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "No, Israel's borders do not extend from the Nile to the Euphrates, nor should they. In reality, this is not about the borders of Israel."
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
-      children: ["It was written as follows (Bereshit/Genesis ", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.a, {
-        href: "https://mechon-mamre.org/p/pt/pt0115.htm",
-        children: "15:18"
-      }), "):"]
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.blockquote, {
-      children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-        children: "בַּיּוֹם הַהוּא, כָּרַת יְהוָה אֶת-אַבְרָם--בְּרִית לֵאמֹר: לְזַרְעֲךָ, נָתַתִּי אֶת-הָאָרֶץ הַזֹּאת, מִנְּהַר מִצְרַיִם, עַד-הַנָּהָר הַגָּדֹל נְהַר-פְּרָת."
-      }), "\n"]
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "(On that day, the Lord made a covenant with Abram, saying: \"To your descendants I give these lands, from the river of Egypt to the great river, the river Euphrates\")"
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "In the King James translation:"
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.blockquote, {
-      children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-        children: "In that day the LORD made a covenant with Abram, saying: 'Unto thy seed have I given this land, from the river of Egypt unto the great river, the river Euphrates.'"
-      }), "\n"]
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "The descendants of Abraham are not only the Jews but also the Arabs."
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "Thus, indeed, in the present time, as foretold, the lands from the Nile to the Euphrates are owned by the descendants of Abraham."
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
-      children: ["The boundaries of the land that the descendants of Israel were to possess are described in ", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.a, {
-        href: "https://mechon-mamre.org/p/pt/pt0434.htm",
-        children: "Numbers 34:1-12"
-      }), ":"]
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.blockquote, {
-      children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-        children: "And the LORD spoke unto Moses, saying:'Command the children of Israel, and say unto them: When ye come into the land of Canaan, this shall be the land that shall fall unto you for an inheritance, even the land of Canaan according to the borders thereof. Thus your south side shall be from the wilderness of Zin close by the side of Edom, and your south border shall begin at the end of the Salt Sea eastward; and your border shall turn about southward of the ascent of Akrabbim, and pass along to Zin; and the goings out thereof shall be southward of Kadesh-barnea; and it shall go forth to Hazar-addar, and pass along to Azmon; and the border shall turn about from Azmon unto the Brook of Egypt, and the goings out thereof shall be at the Sea. And for the western border, ye shall have the Great Sea for a border; this shall be your west border. And this shall be your north border: from the Great Sea ye shall mark out your line unto mount Hor; from mount Hor ye shall mark out a line unto the entrance to Hamath; and the goings out of the border shall be at Zedad; and the border shall go forth to Ziphron, and the goings out thereof shall be at Hazar-enan; this shall be your north border. And ye shall mark out your line for the east border from Hazar-enan to Shepham; and the border shall go down from Shepham to Riblah, on the east side of Ain; and the border shall go down, and shall strike upon the slope of the sea of Chinnereth eastward; and the border shall go down to the Jordan, and the goings out thereof shall be at the Salt Sea; this shall be your land according to the borders thereof round about."
-      }), "\n"]
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "Which roughly corresponds to the current borders of Israel: on the western side is the Mediterranean Sea (\"the Great Sea\"), on the eastern side is the Jordan, the Sea of Galilee (Chinnereth) and the Dead (Salt) Sea, on the south are the deserts of the Sinai or Arabian Peninsula (\"the desert of Sin\"), and on the north is the southern part of present-day Syria."
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.hr, {}), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.h2, {
-      id: "references",
-      children: "References:"
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.a, {
-        href: "https://en.wikipedia.org/wiki/Greater_Israel",
-        children: "Wikipedia: Greater Israel"
-      })
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.hr, {}), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "this post in:"
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
-      children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.a, {
-        href: "https://www.facebook.com/viktor.ageyev/posts/pfbid0GqkDefYN7YKmHdi1tzLC7Ai1vcoRvH2CqdSvhZS2yfhKfMM3SA1rf9yGWHm8yivTl",
-        children: "Facebook"
-      }), " (discussion in Russian)"]
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.a, {
-        href: "https://www.linkedin.com/posts/ageyev_from-the-nile-to-the-euphrates-on-the-activity-7293287687610912770-pYEd/",
-        children: "LinkedIn"
-      })
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.a, {
-        href: "https://x.com/ageyev/status/1887506345617768538",
-        children: "Twitter"
-      })
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.a, {
-        href: "https://www.instagram.com/p/DFvBBNkoYaM/",
-        children: "Instagram"
-      })
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.hr, {}), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "See also:"
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.a, {
-        href: "/Holy-Land/borders_and_territory_of_israel",
-        children: "Where Are Israel's Borders and What Is Israel Actually Occupying"
-      })
-    })]
-  });
-}
-function MDXContent(props = {}) {
-  const {wrapper: MDXLayout} = {
-    ...(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_3__/* .useMDXComponents */ .R)(),
-    ...props.components
-  };
-  return MDXLayout ? (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(MDXLayout, {
-    ...props,
-    children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_createMdxContent, {
-      ...props
-    })
-  }) : _createMdxContent(props);
-}
-function _missingMdxReference(id, component) {
-  throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
-}
-
-
-
-/***/ }),
-
 /***/ 3420:
 /***/ ((module) => {
 
@@ -9244,94 +9332,6 @@ module.exports = {
 module.exports = {
 	"breadcrumbHomeIcon": `breadcrumbHomeIcon_YNFT`
 };
-
-
-/***/ }),
-
-/***/ 3837:
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   assets: () => (/* binding */ assets),
-/* harmony export */   contentTitle: () => (/* binding */ contentTitle),
-/* harmony export */   "default": () => (/* binding */ MDXContent),
-/* harmony export */   frontMatter: () => (/* binding */ frontMatter),
-/* harmony export */   metadata: () => (/* reexport default export from named module */ _site_docusaurus_docusaurus_plugin_content_blog_default_site_blog_2025_02_06_from_the_nile_to_the_euphrates_index_md_f6b_json__WEBPACK_IMPORTED_MODULE_0__),
-/* harmony export */   toc: () => (/* binding */ toc)
-/* harmony export */ });
-/* harmony import */ var _site_docusaurus_docusaurus_plugin_content_blog_default_site_blog_2025_02_06_from_the_nile_to_the_euphrates_index_md_f6b_json__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(5369);
-/* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(4848);
-/* harmony import */ var _mdx_js_react__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(8453);
-/* harmony import */ var _site_static_img_Illustrations_blog_2025_02_06_from_the_Nile_to_the_Euphrates_Bereshit_15_18_png__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(3557);
-/* harmony import */ var _site_static_img_Illustrations_blog_2025_02_06_from_the_Nile_to_the_Euphrates_Bereshit_15_18_png__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_site_static_img_Illustrations_blog_2025_02_06_from_the_Nile_to_the_Euphrates_Bereshit_15_18_png__WEBPACK_IMPORTED_MODULE_2__);
-
-
-const frontMatter = {
-	slug: 'from_the_Nile_to_the_Euphrates',
-	title: 'From the Nile to the Euphrates',
-	authors: [
-		'ageyev'
-	],
-	tags: [
-		'ageyev',
-		'holy-land'
-	],
-	draft: false,
-	description: 'From the Nile to the Euphrates: On the Question of Israel’s Biblical Borders',
-	image: '/img/Illustrations/blog/2025-02-06-from_the_Nile_to_the_Euphrates/Bereshit_15-18.png'
-};
-const contentTitle = '"From the Nile to the Euphrates": On the Question of Israel’s Biblical Borders';
-
-const assets = {
-"authorsImageUrls": [undefined],
-};
-
-
-
-
-const toc = [];
-function _createMdxContent(props) {
-  const _components = {
-    em: "em",
-    p: "p",
-    ...(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_3__/* .useMDXComponents */ .R)(),
-    ...props.components
-  }, {Image} = _components;
-  if (!Image) _missingMdxReference("Image", true);
-  return (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.Fragment, {
-    children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(Image, {
-      img: (_site_static_img_Illustrations_blog_2025_02_06_from_the_Nile_to_the_Euphrates_Bereshit_15_18_png__WEBPACK_IMPORTED_MODULE_2___default())
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
-      children: ["One of the debated issues when discussing Israel’s borders from a legal perspective (in our view, sacred texts should also be considered in international law) is the well-known phrase ", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.em, {
-        children: "\"from the Nile to the Euphrates,\""
-      }), " understood as the Tanakhic (biblical) definition of Israel’s borders."]
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "Accordingly, on the one hand, some Israelis believe that Israel’s borders should be expanded to the \"Torah-defined\" boundaries from the Nile to the Euphrates. On the other hand, Israel’s opponents accuse it of striving to seize the corresponding territories."
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "However, this interpretation does not align with the biblical text. This passage is truly remarkable, considering the time it was written. That is, it was written thousands of years ago, and today it has come to pass as foretold."
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "No, Israel's borders do not extend from the Nile to the Euphrates, nor should they. In reality, this is not about the borders of Israel."
-    })]
-  });
-}
-function MDXContent(props = {}) {
-  const {wrapper: MDXLayout} = {
-    ...(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_3__/* .useMDXComponents */ .R)(),
-    ...props.components
-  };
-  return MDXLayout ? (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(MDXLayout, {
-    ...props,
-    children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_createMdxContent, {
-      ...props
-    })
-  }) : _createMdxContent(props);
-}
-function _missingMdxReference(id, component) {
-  throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
-}
-
 
 
 /***/ }),
@@ -11593,14 +11593,6 @@ module.exports = /*#__PURE__*/JSON.parse('{"tags":[{"label":"Docusaurus","permal
 
 "use strict";
 module.exports = /*#__PURE__*/JSON.parse('{"tag":{"label":"Israel","permalink":"/tags/israel","description":"Israel","allTagsPath":"/tags","count":4,"items":[{"id":"Holy-Land/borders_and_territory_of_israel","title":"Borders and Territory of Israel","description":"Applicable Norms of International Law","permalink":"/Holy-Land/borders_and_territory_of_israel"},{"id":"Holy-Land/state_of_palestine","title":"Palestinian people","description":"Links and references","permalink":"/Holy-Land/palestinian_people"},{"id":"Holy-Land/state_of_palestine","title":"Palestinian people","description":"Links and references","permalink":"/Holy-Land/palestinian_people"},{"id":"Holy-Land/borders_references","title":"References","description":"Norms concerning state borders in general","permalink":"/Holy-Land/borders_references"}],"unlisted":false}}');
-
-/***/ }),
-
-/***/ 5369:
-/***/ ((module) => {
-
-"use strict";
-module.exports = /*#__PURE__*/JSON.parse('{"permalink":"/blog/from_the_Nile_to_the_Euphrates","source":"@site/blog/2025-02-06-from_the_Nile_to_the_Euphrates/index.md","title":"From the Nile to the Euphrates","description":"From the Nile to the Euphrates: On the Question of Israel’s Biblical Borders","date":"2025-02-06T00:00:00.000Z","tags":[{"inline":false,"label":"Viktor Ageyev","permalink":"/blog/tags/ageyev","description":"Viktor Ageyev"},{"inline":false,"label":"Holy Land","permalink":"/blog/tags/holy-land","description":"Holy Land"}],"hasTruncateMarker":true,"authors":[{"name":"Viktor Ageyev","title":"author","page":{"permalink":"/blog/authors/ageyev"},"socials":{"x":"https://x.com/ageyev","linkedin":"https://www.linkedin.com/in/ageyev/","github":"https://github.com/ageyev"},"imageURL":"/img/authors/ageyev_viktor_02.jpg","key":"ageyev"}],"frontMatter":{"slug":"from_the_Nile_to_the_Euphrates","title":"From the Nile to the Euphrates","authors":["ageyev"],"tags":["ageyev","holy-land"],"draft":false,"description":"From the Nile to the Euphrates: On the Question of Israel’s Biblical Borders","image":"/img/Illustrations/blog/2025-02-06-from_the_Nile_to_the_Euphrates/Bereshit_15-18.png"},"unlisted":false,"lastUpdatedAt":1745341420000,"lastUpdatedBy":"ageyev","prevItem":{"title":"What Could Gaza/Hamas Have Counted on When Launching this War?","permalink":"/blog/what_gaza_was_counting_on"},"nextItem":{"title":"October 7","permalink":"/blog/october7"}}');
 
 /***/ }),
 
@@ -15780,6 +15772,14 @@ function MDXContent(props = {}) {
 
 /***/ }),
 
+/***/ 7202:
+/***/ ((module) => {
+
+"use strict";
+module.exports = /*#__PURE__*/JSON.parse('{"permalink":"/blog/from_the_Nile_to_the_Euphrates","source":"@site/blog/2025-02-06-from_the_Nile_to_the_Euphrates/index.mdx","title":"From the Nile to the Euphrates","description":"From the Nile to the Euphrates: On the Question of Israel’s Biblical Borders","date":"2025-02-06T00:00:00.000Z","tags":[{"inline":false,"label":"Viktor Ageyev","permalink":"/blog/tags/ageyev","description":"Viktor Ageyev"},{"inline":false,"label":"Holy Land","permalink":"/blog/tags/holy-land","description":"Holy Land"}],"hasTruncateMarker":true,"authors":[{"name":"Viktor Ageyev","title":"author","page":{"permalink":"/blog/authors/ageyev"},"socials":{"x":"https://x.com/ageyev","linkedin":"https://www.linkedin.com/in/ageyev/","github":"https://github.com/ageyev"},"imageURL":"/img/authors/ageyev_viktor_02.jpg","key":"ageyev"}],"frontMatter":{"slug":"from_the_Nile_to_the_Euphrates","title":"From the Nile to the Euphrates","authors":["ageyev"],"tags":["ageyev","holy-land"],"draft":false,"description":"From the Nile to the Euphrates: On the Question of Israel’s Biblical Borders","image":"/img/Illustrations/blog/2025-02-06-from_the_Nile_to_the_Euphrates/Bereshit_15-18.png"},"unlisted":false,"lastUpdatedAt":1745341499000,"lastUpdatedBy":"ageyev","prevItem":{"title":"What Could Gaza/Hamas Have Counted on When Launching this War?","permalink":"/blog/what_gaza_was_counting_on"},"nextItem":{"title":"October 7","permalink":"/blog/october7"}}');
+
+/***/ }),
+
 /***/ 7260:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
@@ -16757,7 +16757,7 @@ module.exports = {
 /***/ ((module) => {
 
 "use strict";
-module.exports = /*#__PURE__*/JSON.parse('{"archive":{"blogPosts":[{"id":"what_gaza_was_counting_on","metadata":{"permalink":"/blog/what_gaza_was_counting_on","source":"@site/blog/2025-04-18-What_Gaza_was_counting_on/index.md","title":"What Could Gaza/Hamas Have Counted on When Launching this War?","description":"Analysis of Gaza\'s strategic calculations in the conflict","date":"2025-04-18T00:00:00.000Z","tags":[{"inline":false,"label":"Holy Land","permalink":"/blog/tags/holy-land","description":"Holy Land"}],"hasTruncateMarker":true,"authors":[{"name":"Viktor Ageyev","title":"author","page":{"permalink":"/blog/authors/ageyev"},"socials":{"x":"https://x.com/ageyev","linkedin":"https://www.linkedin.com/in/ageyev/","github":"https://github.com/ageyev"},"imageURL":"/img/authors/ageyev_viktor_02.jpg","key":"ageyev"}],"frontMatter":{"slug":"what_gaza_was_counting_on","title":"What Could Gaza/Hamas Have Counted on When Launching this War?","authors":["ageyev"],"tags":["holy-land"],"draft":false,"date":"2025-04-18T00:00:00.000Z","description":"Analysis of Gaza\'s strategic calculations in the conflict","image":"/img/Illustrations/blog/2025-04-18_what_gaza_was_counting_on/2025-04-18_what_gaza_was_counting_on.png","lang":"en"},"unlisted":false,"lastUpdatedAt":1745340823000,"lastUpdatedBy":"ageyev","nextItem":{"title":"From the Nile to the Euphrates","permalink":"/blog/from_the_Nile_to_the_Euphrates"}},"content":"![](/img/Illustrations/blog/2025-04-18_what_gaza_was_counting_on/2025-04-18_what_gaza_was_counting_on.png)\\n\\nAll previous attacks by Gaza against Israel followed the same pattern: Gaza initiates bombardments against Israel; Israel retaliates; Hamas and its allies flood the media and social networks with pictures of dead and crying children, triggering an outcry: \\"This must be stopped immediately; it doesn\'t matter who started it or who\'s right—the violence must end.\\" Israel would halt its strikes. Gaza would declare victory, receiving fresh streams of financial and humanitarian aid, increased because now it needed \\"rebuilding.\\" Those allocating and channeling the aid would benefit from greater kickbacks. Gaza would stockpile new rockets, and the cycle would repeat.\\n\\nWhy did our military believe Gaza would not initiate a full-scale war? \\n\\n<!--truncate--> \\n\\nBecause militarily, Gaza cannot stand against Israel—the imbalance of power is too great. The Hamas leadership understood this very well and could not fail to comprehend the situation.\\n\\nSo what did our military overlook, and what was Hamas counting on? They overlooked Hamas’s political support—not just from corrupt officials eager for fresh financial inflows to Gaza, but also from broad segments of left-wing circles in Israel and internationally.\\n\\nHamas clearly anticipated executing a swift and effective raid on border military facilities, demonstrating their efficiency to sponsors, showing that with continued funding and armament, they could build forces capable of confronting Israel. They expected Israel’s retaliatory strike to be curtailed by the usual methods: photographs and videos of dead children, weeping women, and outcries from the global and domestic left—\\"this must stop immediately, regardless of who started it; don\'t you have a sympathy for innocent children?\\"\\n\\nBut, \\n\\na) the attack proved far too effective, catching Israeli forces severely off-guard, and \\n\\nB) most crucially, Gaza residents storming through the breached wall into Israeli settlements and a music festival committed unimaginable atrocities. They proudly posted videos on Telegram, which quickly spread to other social networks and media, thus breaking the traditional pattern of anti-Israeli propaganda.\\n\\n\\nIn other words, if we assume Israel wages war as wars have traditionally been waged, as against Nazi Germany or Imperial Japan, — Gaza stands no chance. But Hamas attacked, betting Israel would not fight through to the end.\\n\\nCurrently, the only chance Hamas has to avoid destruction is a ceasefire — pushed by Israeli leftists (\\"deal now at any price\\") and other Hamas allies, including many U.S. and European officials benefiting from kickbacks tied to Gaza’s financial and humanitarian aid.\\n\\nI\'ve previously written about the conflict between \\"bunnies\\" and \\"lions\\" within Israeli society. Indeed, it must be understood that the \\"bunnies\\" bear responsibility for the October 7, 2023, attack. Had Hamas relied solely on military strength without counting on political protection, it would not have carried out the invasion. Hamas clearly depended on international pressure and internal Israeli leftist influence as its main tools for neutralizing Israeli retaliation.\\n\\nThis frightening realization for leftists is underscored by the document [published in Bild](https://www.bild.de/politik/inland/bild-exklusiv-zum-schaudern-das-plant-der-hamas-chef-mit-den-geiseln-66d98503c0fd674dd9f5d092), revealing Hamas’s reliance on the Israeli left in its war against Israel—a publication that led to [Eli Feldstein](https://en.wikipedia.org/wiki/Eli_Feldstein)’s arrest. Ironically, the disclosure of this document harmed Hamas\'s political plans rather than the Israeli government’s, raising the rhetorical question: whose secret plans were those arresting Feldstein actually protecting?\\n\\n--- \\n\\n[Discussion on Facebook](https://www.facebook.com/viktor.ageyev/posts/pfbid0kZo6yBFCYmVJHoh8Z3KzBZLg8a5KamiQAh65o1gFGPC32yTzzCHjTg9A2stxfoqGl) (in Russian)\\n\\n---"},{"id":"from_the_Nile_to_the_Euphrates","metadata":{"permalink":"/blog/from_the_Nile_to_the_Euphrates","source":"@site/blog/2025-02-06-from_the_Nile_to_the_Euphrates/index.md","title":"From the Nile to the Euphrates","description":"From the Nile to the Euphrates: On the Question of Israel’s Biblical Borders","date":"2025-02-06T00:00:00.000Z","tags":[{"inline":false,"label":"Viktor Ageyev","permalink":"/blog/tags/ageyev","description":"Viktor Ageyev"},{"inline":false,"label":"Holy Land","permalink":"/blog/tags/holy-land","description":"Holy Land"}],"hasTruncateMarker":true,"authors":[{"name":"Viktor Ageyev","title":"author","page":{"permalink":"/blog/authors/ageyev"},"socials":{"x":"https://x.com/ageyev","linkedin":"https://www.linkedin.com/in/ageyev/","github":"https://github.com/ageyev"},"imageURL":"/img/authors/ageyev_viktor_02.jpg","key":"ageyev"}],"frontMatter":{"slug":"from_the_Nile_to_the_Euphrates","title":"From the Nile to the Euphrates","authors":["ageyev"],"tags":["ageyev","holy-land"],"draft":false,"description":"From the Nile to the Euphrates: On the Question of Israel’s Biblical Borders","image":"/img/Illustrations/blog/2025-02-06-from_the_Nile_to_the_Euphrates/Bereshit_15-18.png"},"unlisted":false,"lastUpdatedAt":1745341420000,"lastUpdatedBy":"ageyev","prevItem":{"title":"What Could Gaza/Hamas Have Counted on When Launching this War?","permalink":"/blog/what_gaza_was_counting_on"},"nextItem":{"title":"October 7","permalink":"/blog/october7"}},"content":"import image from \'@site/static/img/Illustrations/blog/2025-02-06-from_the_Nile_to_the_Euphrates/Bereshit_15-18.png\';\\n\\n\\n<Image img={image} />\\n\\nOne of the debated issues when discussing Israel’s borders from a legal perspective (in our view, sacred texts should also be considered in international law) is the well-known phrase *\\"from the Nile to the Euphrates,\\"* understood as the Tanakhic (biblical) definition of Israel’s borders.\\n\\nAccordingly, on the one hand, some Israelis believe that Israel’s borders should be expanded to the \\"Torah-defined\\" boundaries from the Nile to the Euphrates. On the other hand, Israel’s opponents accuse it of striving to seize the corresponding territories.\\n\\nHowever, this interpretation does not align with the biblical text. This passage is truly remarkable, considering the time it was written. That is, it was written thousands of years ago, and today it has come to pass as foretold. \\n\\nNo, Israel\'s borders do not extend from the Nile to the Euphrates, nor should they. In reality, this is not about the borders of Israel.\\n\\n<!--truncate--> \\n\\nIt was written as follows (Bereshit/Genesis [15:18](https://mechon-mamre.org/p/pt/pt0115.htm)):\\n\\n> בַּיּוֹם הַהוּא, כָּרַת יְהוָה אֶת-אַבְרָם--בְּרִית לֵאמֹר: לְזַרְעֲךָ, נָתַתִּי אֶת-הָאָרֶץ הַזֹּאת, מִנְּהַר מִצְרַיִם, עַד-הַנָּהָר הַגָּדֹל נְהַר-פְּרָת.\\n\\n(On that day, the Lord made a covenant with Abram, saying: \\"To your descendants I give these lands, from the river of Egypt to the great river, the river Euphrates\\")\\n\\nIn the King James translation:\\n\\n> In that day the LORD made a covenant with Abram, saying: \'Unto thy seed have I given this land, from the river of Egypt unto the great river, the river Euphrates.\'\\n\\nThe descendants of Abraham are not only the Jews but also the Arabs.\\n\\nThus, indeed, in the present time, as foretold, the lands from the Nile to the Euphrates are owned by the descendants of Abraham.\\n\\nThe boundaries of the land that the descendants of Israel were to possess are described in [Numbers 34:1-12](https://mechon-mamre.org/p/pt/pt0434.htm): \\n\\n> And the LORD spoke unto Moses, saying:\'Command the children of Israel, and say unto them: When ye come into the land of Canaan, this shall be the land that shall fall unto you for an inheritance, even the land of Canaan according to the borders thereof. Thus your south side shall be from the wilderness of Zin close by the side of Edom, and your south border shall begin at the end of the Salt Sea eastward; and your border shall turn about southward of the ascent of Akrabbim, and pass along to Zin; and the goings out thereof shall be southward of Kadesh-barnea; and it shall go forth to Hazar-addar, and pass along to Azmon; and the border shall turn about from Azmon unto the Brook of Egypt, and the goings out thereof shall be at the Sea. And for the western border, ye shall have the Great Sea for a border; this shall be your west border. And this shall be your north border: from the Great Sea ye shall mark out your line unto mount Hor; from mount Hor ye shall mark out a line unto the entrance to Hamath; and the goings out of the border shall be at Zedad; and the border shall go forth to Ziphron, and the goings out thereof shall be at Hazar-enan; this shall be your north border. And ye shall mark out your line for the east border from Hazar-enan to Shepham; and the border shall go down from Shepham to Riblah, on the east side of Ain; and the border shall go down, and shall strike upon the slope of the sea of Chinnereth eastward; and the border shall go down to the Jordan, and the goings out thereof shall be at the Salt Sea; this shall be your land according to the borders thereof round about.\\n\\nWhich roughly corresponds to the current borders of Israel: on the western side is the Mediterranean Sea (\\"the Great Sea\\"), on the eastern side is the Jordan, the Sea of Galilee (Chinnereth) and the Dead (Salt) Sea, on the south are the deserts of the Sinai or Arabian Peninsula (\\"the desert of Sin\\"), and on the north is the southern part of present-day Syria.\\n\\n--- \\n\\n## References: \\n\\n[Wikipedia: Greater Israel](https://en.wikipedia.org/wiki/Greater_Israel)\\n\\n---\\n\\nthis post in: \\n\\n[Facebook](https://www.facebook.com/viktor.ageyev/posts/pfbid0GqkDefYN7YKmHdi1tzLC7Ai1vcoRvH2CqdSvhZS2yfhKfMM3SA1rf9yGWHm8yivTl) (discussion in Russian) \\n\\n[LinkedIn](https://www.linkedin.com/posts/ageyev_from-the-nile-to-the-euphrates-on-the-activity-7293287687610912770-pYEd/) \\n\\n[Twitter](https://x.com/ageyev/status/1887506345617768538) \\n\\n[Instagram](https://www.instagram.com/p/DFvBBNkoYaM/) \\n\\n--- \\n\\nSee also: \\n\\n[Where Are Israel\'s Borders and What Is Israel Actually Occupying]( /Holy-Land/borders_and_territory_of_israel)"},{"id":"october7","metadata":{"permalink":"/blog/october7","source":"@site/blog/2024-10-07-october-7/index.md","title":"October 7","description":"IDF Soldier\'s Memories of October 7, 2023","date":"2024-10-07T00:00:00.000Z","tags":[{"inline":false,"label":"Viktor Ageyev","permalink":"/blog/tags/ageyev","description":"Viktor Ageyev"},{"inline":false,"label":"Holy Land","permalink":"/blog/tags/holy-land","description":"Holy Land"}],"hasTruncateMarker":true,"authors":[{"name":"Viktor Ageyev","title":"author","page":{"permalink":"/blog/authors/ageyev"},"socials":{"x":"https://x.com/ageyev","linkedin":"https://www.linkedin.com/in/ageyev/","github":"https://github.com/ageyev"},"imageURL":"/img/authors/ageyev_viktor_02.jpg","key":"ageyev"}],"frontMatter":{"slug":"october7","title":"October 7","authors":["ageyev"],"tags":["ageyev","holy-land"],"draft":false,"date":"2024-10-07T00:00:00.000Z","description":"IDF Soldier\'s Memories of October 7, 2023","lang":"en","image":"/img/Illustrations/blog/2024-10-07-october-7/2024-08-18.Mark_with_rifle.jpeg"},"unlisted":false,"lastUpdatedAt":1745340823000,"lastUpdatedBy":"ageyev","prevItem":{"title":"From the Nile to the Euphrates","permalink":"/blog/from_the_Nile_to_the_Euphrates"},"nextItem":{"title":"Lions and Bunnies","permalink":"/blog/lions_and_bunnies"}},"content":"This is the text of my eldest son, written a week after October 7th. His unit was one of the first to engage in battle that morning; they repelled an attack by terrorists from the \\"Nukhba\\" special forces on the [Urim base](https://he.wikipedia.org/wiki/%D7%94%D7%A7%D7%A8%D7%91_%D7%91%D7%91%D7%A1%D7%99%D7%A1_%D7%90%D7%95%D7%A8%D7%99%D7%9D) on the border with Gaza. He was wounded in that battle.\\n\\n![Mark](/img/Illustrations/blog/2024-10-07-october-7/2024-08-18.Mark_with_rifle.jpeg)\\n\\n(Baruch HaShem, he returned to service after two months and is now fighting in Gaza)\\n\\nThe [original text](https://www.instagram.com/p/CybeGarsF_p/) is in Hebrew, the translation is mine. \\n\\n{/* truncate */}\\n---\\nAfter a week\'s delay, I have finally decided to share what happened to me on the day I will remember forever. My story that I went through, and with great luck, I am now able to write these words.\\n\\n**October 7th**, a day we woke up to the announcement of a \\"Red Alert\\" throughout the entire sector. We were in the shelter, and no one paid too much attention to these missiles, because what can they really do besides a few rockets...\\n\\nWe heard gunfire from the direction of a nearby base, and within a few minutes, our gear was on us, and we headed in that direction. From that moment, we entered the war. It\'s impossible to describe the feelings you go through during this. You stop thinking and feeling; you just do what you need to do. You strive, advance, and shoot—all in a combat zone unfamiliar to you, all while rockets whistle overhead.\\n\\nAnd then comes the moment when I get hit by the bullet. At that moment, I felt nothing; I looked at my leg and couldn\'t believe this was happening. From here, everything happened in seconds. Seconds in which they take you back, apply a tourniquet, and tell you that everything will be okay. It all happened in seconds—seconds that replay themselves in my head for entire days.\\n\\nI can\'t describe my pride toward my friends from Unit 414 who fought and destroyed the enemy in that battle. I love you, and you will always remain in my heart as the bravest people I\'ve ever known, each and every one of you. You are my heroes and heroines, and I\'m proud to have fought alongside you.\\n\\nI have never felt more pain than the pain over those who fell. I still can\'t grasp the number of people who were taken from this world—and all in one day. Everyone I know lost someone: a friend, a family member, a brother, or a sister. Each one of them is etched on the heart of each of us forever. No one will be forgotten.\\n\\n*\\"Whoever is merciful to the cruel will end up being cruel to the merciful.\\"*\\n\\n--- \\n\\n[Publication on the website of Channel 9 of Israeli television](https://www.9tv.co.il/Item/79640) (In Russian)\\n\\n[Publication on Facebook](https://www.facebook.com/viktor.ageyev/posts/pfbid0AzoFkvcVD9ka8bMTDJDAzg3YKU2asgU6Prg13G3QT8Wsm3nzue477pjx4zUqyC5Xl) (in Russian)"},{"id":"lions_and_bunnies","metadata":{"permalink":"/blog/lions_and_bunnies","source":"@site/blog/2024-09-10_lions_and_bunnies/index.mdx","title":"Lions and Bunnies","description":"Analysis of the conflict in israeli society regarding war strategy","date":"2024-09-10T00:00:00.000Z","tags":[{"inline":false,"label":"Holy Land","permalink":"/blog/tags/holy-land","description":"Holy Land"}],"hasTruncateMarker":true,"authors":[{"name":"Viktor Ageyev","title":"author","page":{"permalink":"/blog/authors/ageyev"},"socials":{"x":"https://x.com/ageyev","linkedin":"https://www.linkedin.com/in/ageyev/","github":"https://github.com/ageyev"},"imageURL":"/img/authors/ageyev_viktor_02.jpg","key":"ageyev"}],"frontMatter":{"slug":"lions_and_bunnies","title":"Lions and Bunnies","authors":["ageyev"],"tags":["holy-land"],"draft":false,"date":"2024-09-10T00:00:00.000Z","description":"Analysis of the conflict in israeli society regarding war strategy","lang":"en","image":"/img/Illustrations/blog/2024-09-10_lions_and_bunnies/2024-09-10_a_lion_and_a_bunny_sitting_at_a_table.jpg"},"unlisted":false,"lastUpdatedAt":1745341420000,"lastUpdatedBy":"ageyev","prevItem":{"title":"October 7","permalink":"/blog/october7"}},"content":"![DALL·E 2024-09-10 16.06.05 - A lion and a bunny sitting at a table, each holding books and engaged in a lively scientific debate](/img/Illustrations/blog/2024-09-10_lions_and_bunnies/2024-09-10_a_lion_and_a_bunny_sitting_at_a_table.webp)\\n\\n<!-- truncate -->"}]}}');
+module.exports = /*#__PURE__*/JSON.parse('{"archive":{"blogPosts":[{"id":"what_gaza_was_counting_on","metadata":{"permalink":"/blog/what_gaza_was_counting_on","source":"@site/blog/2025-04-18-What_Gaza_was_counting_on/index.md","title":"What Could Gaza/Hamas Have Counted on When Launching this War?","description":"Analysis of Gaza\'s strategic calculations in the conflict","date":"2025-04-18T00:00:00.000Z","tags":[{"inline":false,"label":"Holy Land","permalink":"/blog/tags/holy-land","description":"Holy Land"}],"hasTruncateMarker":true,"authors":[{"name":"Viktor Ageyev","title":"author","page":{"permalink":"/blog/authors/ageyev"},"socials":{"x":"https://x.com/ageyev","linkedin":"https://www.linkedin.com/in/ageyev/","github":"https://github.com/ageyev"},"imageURL":"/img/authors/ageyev_viktor_02.jpg","key":"ageyev"}],"frontMatter":{"slug":"what_gaza_was_counting_on","title":"What Could Gaza/Hamas Have Counted on When Launching this War?","authors":["ageyev"],"tags":["holy-land"],"draft":false,"date":"2025-04-18T00:00:00.000Z","description":"Analysis of Gaza\'s strategic calculations in the conflict","image":"/img/Illustrations/blog/2025-04-18_what_gaza_was_counting_on/2025-04-18_what_gaza_was_counting_on.png","lang":"en"},"unlisted":false,"lastUpdatedAt":1745340823000,"lastUpdatedBy":"ageyev","nextItem":{"title":"From the Nile to the Euphrates","permalink":"/blog/from_the_Nile_to_the_Euphrates"}},"content":"![](/img/Illustrations/blog/2025-04-18_what_gaza_was_counting_on/2025-04-18_what_gaza_was_counting_on.png)\\n\\nAll previous attacks by Gaza against Israel followed the same pattern: Gaza initiates bombardments against Israel; Israel retaliates; Hamas and its allies flood the media and social networks with pictures of dead and crying children, triggering an outcry: \\"This must be stopped immediately; it doesn\'t matter who started it or who\'s right—the violence must end.\\" Israel would halt its strikes. Gaza would declare victory, receiving fresh streams of financial and humanitarian aid, increased because now it needed \\"rebuilding.\\" Those allocating and channeling the aid would benefit from greater kickbacks. Gaza would stockpile new rockets, and the cycle would repeat.\\n\\nWhy did our military believe Gaza would not initiate a full-scale war? \\n\\n<!--truncate--> \\n\\nBecause militarily, Gaza cannot stand against Israel—the imbalance of power is too great. The Hamas leadership understood this very well and could not fail to comprehend the situation.\\n\\nSo what did our military overlook, and what was Hamas counting on? They overlooked Hamas’s political support—not just from corrupt officials eager for fresh financial inflows to Gaza, but also from broad segments of left-wing circles in Israel and internationally.\\n\\nHamas clearly anticipated executing a swift and effective raid on border military facilities, demonstrating their efficiency to sponsors, showing that with continued funding and armament, they could build forces capable of confronting Israel. They expected Israel’s retaliatory strike to be curtailed by the usual methods: photographs and videos of dead children, weeping women, and outcries from the global and domestic left—\\"this must stop immediately, regardless of who started it; don\'t you have a sympathy for innocent children?\\"\\n\\nBut, \\n\\na) the attack proved far too effective, catching Israeli forces severely off-guard, and \\n\\nB) most crucially, Gaza residents storming through the breached wall into Israeli settlements and a music festival committed unimaginable atrocities. They proudly posted videos on Telegram, which quickly spread to other social networks and media, thus breaking the traditional pattern of anti-Israeli propaganda.\\n\\n\\nIn other words, if we assume Israel wages war as wars have traditionally been waged, as against Nazi Germany or Imperial Japan, — Gaza stands no chance. But Hamas attacked, betting Israel would not fight through to the end.\\n\\nCurrently, the only chance Hamas has to avoid destruction is a ceasefire — pushed by Israeli leftists (\\"deal now at any price\\") and other Hamas allies, including many U.S. and European officials benefiting from kickbacks tied to Gaza’s financial and humanitarian aid.\\n\\nI\'ve previously written about the conflict between \\"bunnies\\" and \\"lions\\" within Israeli society. Indeed, it must be understood that the \\"bunnies\\" bear responsibility for the October 7, 2023, attack. Had Hamas relied solely on military strength without counting on political protection, it would not have carried out the invasion. Hamas clearly depended on international pressure and internal Israeli leftist influence as its main tools for neutralizing Israeli retaliation.\\n\\nThis frightening realization for leftists is underscored by the document [published in Bild](https://www.bild.de/politik/inland/bild-exklusiv-zum-schaudern-das-plant-der-hamas-chef-mit-den-geiseln-66d98503c0fd674dd9f5d092), revealing Hamas’s reliance on the Israeli left in its war against Israel—a publication that led to [Eli Feldstein](https://en.wikipedia.org/wiki/Eli_Feldstein)’s arrest. Ironically, the disclosure of this document harmed Hamas\'s political plans rather than the Israeli government’s, raising the rhetorical question: whose secret plans were those arresting Feldstein actually protecting?\\n\\n--- \\n\\n[Discussion on Facebook](https://www.facebook.com/viktor.ageyev/posts/pfbid0kZo6yBFCYmVJHoh8Z3KzBZLg8a5KamiQAh65o1gFGPC32yTzzCHjTg9A2stxfoqGl) (in Russian)\\n\\n---"},{"id":"from_the_Nile_to_the_Euphrates","metadata":{"permalink":"/blog/from_the_Nile_to_the_Euphrates","source":"@site/blog/2025-02-06-from_the_Nile_to_the_Euphrates/index.mdx","title":"From the Nile to the Euphrates","description":"From the Nile to the Euphrates: On the Question of Israel’s Biblical Borders","date":"2025-02-06T00:00:00.000Z","tags":[{"inline":false,"label":"Viktor Ageyev","permalink":"/blog/tags/ageyev","description":"Viktor Ageyev"},{"inline":false,"label":"Holy Land","permalink":"/blog/tags/holy-land","description":"Holy Land"}],"hasTruncateMarker":true,"authors":[{"name":"Viktor Ageyev","title":"author","page":{"permalink":"/blog/authors/ageyev"},"socials":{"x":"https://x.com/ageyev","linkedin":"https://www.linkedin.com/in/ageyev/","github":"https://github.com/ageyev"},"imageURL":"/img/authors/ageyev_viktor_02.jpg","key":"ageyev"}],"frontMatter":{"slug":"from_the_Nile_to_the_Euphrates","title":"From the Nile to the Euphrates","authors":["ageyev"],"tags":["ageyev","holy-land"],"draft":false,"description":"From the Nile to the Euphrates: On the Question of Israel’s Biblical Borders","image":"/img/Illustrations/blog/2025-02-06-from_the_Nile_to_the_Euphrates/Bereshit_15-18.png"},"unlisted":false,"lastUpdatedAt":1745341499000,"lastUpdatedBy":"ageyev","prevItem":{"title":"What Could Gaza/Hamas Have Counted on When Launching this War?","permalink":"/blog/what_gaza_was_counting_on"},"nextItem":{"title":"October 7","permalink":"/blog/october7"}},"content":"import image from \'@site/static/img/Illustrations/blog/2025-02-06-from_the_Nile_to_the_Euphrates/Bereshit_15-18.png\';\\n\\n\\n<Image img={image} />\\n\\nOne of the debated issues when discussing Israel’s borders from a legal perspective (in our view, sacred texts should also be considered in international law) is the well-known phrase *\\"from the Nile to the Euphrates,\\"* understood as the Tanakhic (biblical) definition of Israel’s borders.\\n\\nAccordingly, on the one hand, some Israelis believe that Israel’s borders should be expanded to the \\"Torah-defined\\" boundaries from the Nile to the Euphrates. On the other hand, Israel’s opponents accuse it of striving to seize the corresponding territories.\\n\\nHowever, this interpretation does not align with the biblical text. This passage is truly remarkable, considering the time it was written. That is, it was written thousands of years ago, and today it has come to pass as foretold. \\n\\nNo, Israel\'s borders do not extend from the Nile to the Euphrates, nor should they. In reality, this is not about the borders of Israel.\\n\\n<!--truncate--> \\n\\nIt was written as follows (Bereshit/Genesis [15:18](https://mechon-mamre.org/p/pt/pt0115.htm)):\\n\\n> בַּיּוֹם הַהוּא, כָּרַת יְהוָה אֶת-אַבְרָם--בְּרִית לֵאמֹר: לְזַרְעֲךָ, נָתַתִּי אֶת-הָאָרֶץ הַזֹּאת, מִנְּהַר מִצְרַיִם, עַד-הַנָּהָר הַגָּדֹל נְהַר-פְּרָת.\\n\\n(On that day, the Lord made a covenant with Abram, saying: \\"To your descendants I give these lands, from the river of Egypt to the great river, the river Euphrates\\")\\n\\nIn the King James translation:\\n\\n> In that day the LORD made a covenant with Abram, saying: \'Unto thy seed have I given this land, from the river of Egypt unto the great river, the river Euphrates.\'\\n\\nThe descendants of Abraham are not only the Jews but also the Arabs.\\n\\nThus, indeed, in the present time, as foretold, the lands from the Nile to the Euphrates are owned by the descendants of Abraham.\\n\\nThe boundaries of the land that the descendants of Israel were to possess are described in [Numbers 34:1-12](https://mechon-mamre.org/p/pt/pt0434.htm): \\n\\n> And the LORD spoke unto Moses, saying:\'Command the children of Israel, and say unto them: When ye come into the land of Canaan, this shall be the land that shall fall unto you for an inheritance, even the land of Canaan according to the borders thereof. Thus your south side shall be from the wilderness of Zin close by the side of Edom, and your south border shall begin at the end of the Salt Sea eastward; and your border shall turn about southward of the ascent of Akrabbim, and pass along to Zin; and the goings out thereof shall be southward of Kadesh-barnea; and it shall go forth to Hazar-addar, and pass along to Azmon; and the border shall turn about from Azmon unto the Brook of Egypt, and the goings out thereof shall be at the Sea. And for the western border, ye shall have the Great Sea for a border; this shall be your west border. And this shall be your north border: from the Great Sea ye shall mark out your line unto mount Hor; from mount Hor ye shall mark out a line unto the entrance to Hamath; and the goings out of the border shall be at Zedad; and the border shall go forth to Ziphron, and the goings out thereof shall be at Hazar-enan; this shall be your north border. And ye shall mark out your line for the east border from Hazar-enan to Shepham; and the border shall go down from Shepham to Riblah, on the east side of Ain; and the border shall go down, and shall strike upon the slope of the sea of Chinnereth eastward; and the border shall go down to the Jordan, and the goings out thereof shall be at the Salt Sea; this shall be your land according to the borders thereof round about.\\n\\nWhich roughly corresponds to the current borders of Israel: on the western side is the Mediterranean Sea (\\"the Great Sea\\"), on the eastern side is the Jordan, the Sea of Galilee (Chinnereth) and the Dead (Salt) Sea, on the south are the deserts of the Sinai or Arabian Peninsula (\\"the desert of Sin\\"), and on the north is the southern part of present-day Syria.\\n\\n--- \\n\\n## References: \\n\\n[Wikipedia: Greater Israel](https://en.wikipedia.org/wiki/Greater_Israel)\\n\\n---\\n\\nthis post in: \\n\\n[Facebook](https://www.facebook.com/viktor.ageyev/posts/pfbid0GqkDefYN7YKmHdi1tzLC7Ai1vcoRvH2CqdSvhZS2yfhKfMM3SA1rf9yGWHm8yivTl) (discussion in Russian) \\n\\n[LinkedIn](https://www.linkedin.com/posts/ageyev_from-the-nile-to-the-euphrates-on-the-activity-7293287687610912770-pYEd/) \\n\\n[Twitter](https://x.com/ageyev/status/1887506345617768538) \\n\\n[Instagram](https://www.instagram.com/p/DFvBBNkoYaM/) \\n\\n--- \\n\\nSee also: \\n\\n[Where Are Israel\'s Borders and What Is Israel Actually Occupying]( /Holy-Land/borders_and_territory_of_israel)"},{"id":"october7","metadata":{"permalink":"/blog/october7","source":"@site/blog/2024-10-07-october-7/index.md","title":"October 7","description":"IDF Soldier\'s Memories of October 7, 2023","date":"2024-10-07T00:00:00.000Z","tags":[{"inline":false,"label":"Viktor Ageyev","permalink":"/blog/tags/ageyev","description":"Viktor Ageyev"},{"inline":false,"label":"Holy Land","permalink":"/blog/tags/holy-land","description":"Holy Land"}],"hasTruncateMarker":true,"authors":[{"name":"Viktor Ageyev","title":"author","page":{"permalink":"/blog/authors/ageyev"},"socials":{"x":"https://x.com/ageyev","linkedin":"https://www.linkedin.com/in/ageyev/","github":"https://github.com/ageyev"},"imageURL":"/img/authors/ageyev_viktor_02.jpg","key":"ageyev"}],"frontMatter":{"slug":"october7","title":"October 7","authors":["ageyev"],"tags":["ageyev","holy-land"],"draft":false,"date":"2024-10-07T00:00:00.000Z","description":"IDF Soldier\'s Memories of October 7, 2023","lang":"en","image":"/img/Illustrations/blog/2024-10-07-october-7/2024-08-18.Mark_with_rifle.jpeg"},"unlisted":false,"lastUpdatedAt":1745340823000,"lastUpdatedBy":"ageyev","prevItem":{"title":"From the Nile to the Euphrates","permalink":"/blog/from_the_Nile_to_the_Euphrates"},"nextItem":{"title":"Lions and Bunnies","permalink":"/blog/lions_and_bunnies"}},"content":"This is the text of my eldest son, written a week after October 7th. His unit was one of the first to engage in battle that morning; they repelled an attack by terrorists from the \\"Nukhba\\" special forces on the [Urim base](https://he.wikipedia.org/wiki/%D7%94%D7%A7%D7%A8%D7%91_%D7%91%D7%91%D7%A1%D7%99%D7%A1_%D7%90%D7%95%D7%A8%D7%99%D7%9D) on the border with Gaza. He was wounded in that battle.\\n\\n![Mark](/img/Illustrations/blog/2024-10-07-october-7/2024-08-18.Mark_with_rifle.jpeg)\\n\\n(Baruch HaShem, he returned to service after two months and is now fighting in Gaza)\\n\\nThe [original text](https://www.instagram.com/p/CybeGarsF_p/) is in Hebrew, the translation is mine. \\n\\n{/* truncate */}\\n---\\nAfter a week\'s delay, I have finally decided to share what happened to me on the day I will remember forever. My story that I went through, and with great luck, I am now able to write these words.\\n\\n**October 7th**, a day we woke up to the announcement of a \\"Red Alert\\" throughout the entire sector. We were in the shelter, and no one paid too much attention to these missiles, because what can they really do besides a few rockets...\\n\\nWe heard gunfire from the direction of a nearby base, and within a few minutes, our gear was on us, and we headed in that direction. From that moment, we entered the war. It\'s impossible to describe the feelings you go through during this. You stop thinking and feeling; you just do what you need to do. You strive, advance, and shoot—all in a combat zone unfamiliar to you, all while rockets whistle overhead.\\n\\nAnd then comes the moment when I get hit by the bullet. At that moment, I felt nothing; I looked at my leg and couldn\'t believe this was happening. From here, everything happened in seconds. Seconds in which they take you back, apply a tourniquet, and tell you that everything will be okay. It all happened in seconds—seconds that replay themselves in my head for entire days.\\n\\nI can\'t describe my pride toward my friends from Unit 414 who fought and destroyed the enemy in that battle. I love you, and you will always remain in my heart as the bravest people I\'ve ever known, each and every one of you. You are my heroes and heroines, and I\'m proud to have fought alongside you.\\n\\nI have never felt more pain than the pain over those who fell. I still can\'t grasp the number of people who were taken from this world—and all in one day. Everyone I know lost someone: a friend, a family member, a brother, or a sister. Each one of them is etched on the heart of each of us forever. No one will be forgotten.\\n\\n*\\"Whoever is merciful to the cruel will end up being cruel to the merciful.\\"*\\n\\n--- \\n\\n[Publication on the website of Channel 9 of Israeli television](https://www.9tv.co.il/Item/79640) (In Russian)\\n\\n[Publication on Facebook](https://www.facebook.com/viktor.ageyev/posts/pfbid0AzoFkvcVD9ka8bMTDJDAzg3YKU2asgU6Prg13G3QT8Wsm3nzue477pjx4zUqyC5Xl) (in Russian)"},{"id":"lions_and_bunnies","metadata":{"permalink":"/blog/lions_and_bunnies","source":"@site/blog/2024-09-10_lions_and_bunnies/index.mdx","title":"Lions and Bunnies","description":"Analysis of the conflict in israeli society regarding war strategy","date":"2024-09-10T00:00:00.000Z","tags":[{"inline":false,"label":"Holy Land","permalink":"/blog/tags/holy-land","description":"Holy Land"}],"hasTruncateMarker":true,"authors":[{"name":"Viktor Ageyev","title":"author","page":{"permalink":"/blog/authors/ageyev"},"socials":{"x":"https://x.com/ageyev","linkedin":"https://www.linkedin.com/in/ageyev/","github":"https://github.com/ageyev"},"imageURL":"/img/authors/ageyev_viktor_02.jpg","key":"ageyev"}],"frontMatter":{"slug":"lions_and_bunnies","title":"Lions and Bunnies","authors":["ageyev"],"tags":["holy-land"],"draft":false,"date":"2024-09-10T00:00:00.000Z","description":"Analysis of the conflict in israeli society regarding war strategy","lang":"en","image":"/img/Illustrations/blog/2024-09-10_lions_and_bunnies/2024-09-10_a_lion_and_a_bunny_sitting_at_a_table.jpg"},"unlisted":false,"lastUpdatedAt":1745341420000,"lastUpdatedBy":"ageyev","prevItem":{"title":"October 7","permalink":"/blog/october7"}},"content":"![DALL·E 2024-09-10 16.06.05 - A lion and a bunny sitting at a table, each holding books and engaged in a lively scientific debate](/img/Illustrations/blog/2024-09-10_lions_and_bunnies/2024-09-10_a_lion_and_a_bunny_sitting_at_a_table.webp)\\n\\n<!-- truncate -->"}]}}');
 
 /***/ }),
 

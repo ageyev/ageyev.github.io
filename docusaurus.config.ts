@@ -10,7 +10,7 @@ const config: Config = {
       {
         // quality: 70,
         // max: 1030, // max resized image's size.
-        // min: 640, // min resized image's size. if original is lower, use that size.
+        // min: 640, // min resized image's size. if the original is lower, use that size.
         // steps: 2, // the max number of images generated between min and max (inclusive)
         disableInDev: false,
       },
@@ -35,7 +35,7 @@ const config: Config = {
   onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internationalization, you can use this field to set
-  // useful metadata like html lang. For example, if your site is Chinese, you
+  // useful metadata like HTML lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',

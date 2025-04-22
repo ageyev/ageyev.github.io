@@ -1,4 +1,3 @@
-
 ---
 slug: what_gaza_was_counting_on
 title: На що розраховувала Газа, починаючи цю війну?

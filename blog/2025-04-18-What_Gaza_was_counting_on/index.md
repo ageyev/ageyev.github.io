@@ -6,13 +6,13 @@ tags: [holy-land]
 draft: false
 date: 2025-04-18
 description: "Analysis of Gaza's strategic calculations in the conflict"
-image: "/img/Illustrations/blog/2025-04-18_what_gaza_was_counting_on/2025-04-18_what_gaza_was_counting_on-FB.png"
+image: "/img/Illustrations/blog/2025-04-18_what_gaza_was_counting_on/2025-04-18_what_gaza_was_counting_on-FB.jpg"
 lang: en
 ---
 
 # What Could Gaza/Hamas Have Counted on When Launching this War? 
 
-![](/img/Illustrations/blog/2025-04-18_what_gaza_was_counting_on/2025-04-18_what_gaza_was_counting_on-FB.png)
+![](/img/Illustrations/blog/2025-04-18_what_gaza_was_counting_on/2025-04-18_what_gaza_was_counting_on-FB.jpg)
 
 All previous attacks by Gaza against Israel followed the same pattern: Gaza initiates bombardments against Israel; Israel retaliates; Hamas and its allies flood the media and social networks with pictures of dead and crying children, triggering an outcry: "This must be stopped immediately; it doesn't matter who started it or who's right—the violence must end." Israel would halt its strikes. Gaza would declare victory, receiving fresh streams of financial and humanitarian aid, increased because now it needed "rebuilding." Those allocating and channeling the aid would benefit from greater kickbacks. Gaza would stockpile new rockets, and the cycle would repeat.
 

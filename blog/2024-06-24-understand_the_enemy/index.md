@@ -6,8 +6,7 @@ tags: [holy-land]
 draft: false
 date: 2024-06-24
 description: "The Israeli left cannot bring Israel to peace because, fundamentally, they are incapable of understanding those who wage war against us"
-lang: en
-image: 
+lang: en 
 ---
 
 # Understanding the Enemy 

@@ -8,12 +8,9 @@ description: "From the Nile to the Euphrates: On the Question of Israel’s Bibl
 image: /img/Illustrations/blog/2025-02-06-from_the_Nile_to_the_Euphrates/Bereshit_15-18.png
 ---
 
-import Image from '@theme/IdealImage';
-import image from '@site/static/img/Illustrations/blog/2025-02-06-from_the_Nile_to_the_Euphrates/Bereshit_15-18.png';
-
 # "From the Nile to the Euphrates": On the Question of Israel’s Biblical Borders 
 
-<Image img={image} />
+!["From the Nile to the Euphrates"](/img/Illustrations/blog/2025-02-06-from_the_Nile_to_the_Euphrates/Bereshit_15-18.png)
 
 One of the debated issues when discussing Israel’s borders from a legal perspective (in our view, sacred texts should also be considered in international law) is the well-known phrase *"from the Nile to the Euphrates,"* understood as the Tanakhic (biblical) definition of Israel’s borders.
 

@@ -17,7 +17,6 @@ image: /img/Illustrations/blog/2024-09-10_lions_and_bunnies/2024-09-10_a_lion_an
 I have written quite a bit about how the psychology of the left works, how the approaches of the right and the left differ, and how this causes conflict—not only in Israel, but more broadly.
 
 In today’s situation, I would highlight two main points:
-
 <!-- truncate -->
 
 ## (1) Conflict Strategy

@@ -12,6 +12,7 @@ lang: en
 # Understanding the Enemy 
 
 The Israeli left cannot bring Israel to peace because, fundamentally, they are incapable of understanding those who wage war against us.
+<!-- truncate --> 
 
 Currently, the main agenda of the left in domestic politics is the struggle against religion in favor of a secular state (which is why the Haredi parties, who are in essence also left-wing, are not aligned with them).
 

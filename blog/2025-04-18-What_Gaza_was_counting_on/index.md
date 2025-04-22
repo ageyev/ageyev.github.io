@@ -32,7 +32,7 @@ B) most crucially, Gaza residents storming through the breached wall into Israel
 
 In other words, if we assume Israel wages war as wars have traditionally been waged, as against Nazi Germany or Imperial Japan, — Gaza stands no chance. But Hamas attacked, betting Israel would not fight through to the end.
 
-Currently, the only chance Hamas has to avoid destruction is a ceasefire—pushed by Israeli leftists ("deal now at any price") and other Hamas allies, including many U.S. and European officials benefiting from kickbacks tied to Gaza’s financial and humanitarian aid.
+Currently, the only chance Hamas has to avoid destruction is a ceasefire — pushed by Israeli leftists ("deal now at any price") and other Hamas allies, including many U.S. and European officials benefiting from kickbacks tied to Gaza’s financial and humanitarian aid.
 
 I've previously written about the conflict between "bunnies" and "lions" within Israeli society. Indeed, it must be understood that the "bunnies" bear responsibility for the October 7, 2023, attack. Had Hamas relied solely on military strength without counting on political protection, it would not have carried out the invasion. Hamas clearly depended on international pressure and internal Israeli leftist influence as its main tools for neutralizing Israeli retaliation.
 

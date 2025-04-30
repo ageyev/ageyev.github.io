@@ -21,7 +21,7 @@ This deception involves using the term "State of Palestine" to denote different 
 
 We have previously discussed the concept of "[international legal personality](https://en.wikipedia.org/wiki/International_legal_personality)" in the article "[How to Expel the Russian Federation from the UN](https://international-law.info/UN/how_to_expel_rf_from_un)", where we demonstrated that the Russian Federation and the USSR are different [subjects of international law](https://www.law.cornell.edu/wex/subjects_of_international_law).
 
-There are two entities which are being conflated:
+There are two entities that are being conflated: 1) Palestinian National Authority (PNA) established in 1994, 2) the "State of Palestine" declared in Algiers in 1988
 
 ## (1) The State of Palestine declared in Algiers in 1988
 
@@ -31,7 +31,7 @@ From November 12 to 15, 1988, in Algiers, the 19th extraordinary session of the 
 
 This session was named by the Council itself (see [the Political Communiqué of the Palestine National Council of 15 November 1988](https://www.un.org/unispal/document/auto-insert-178680/)) "the session of the intifadah."
 
-The term "intifada" (or "intifadah") refers to the uprising of Palestinian Arabs against Israel that began in December 1987. The term "intifada" emerged with the creation of the organization [Hamas](https://en.wikipedia.org/wiki/Hamas) (founded in 1987), which first used it to describe the uprising in one of its initial statements on December 11, 1987 (see [Arabic Wikipedia on the first intifada](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D9%81%D8%A7%D8%B6%D8%A9_%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D8%A9_%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89)).
+The term "intifada" (or "intifadah") refers to the uprising of Palestinian Arabs against Israel that began in December 1987. The term "intifada" emerged with the creation of the organization [Hamas](https://en.wikipedia.org/wiki/Hamas) (founded in 1987), which first used it to describe the uprising in one of its initial statements on December 11, 1987 (see [الانتفاضة الفلسطينية الأولى‎ (Wikipedia: the first intifada)](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D9%81%D8%A7%D8%B6%D8%A9_%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D8%A9_%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89)).
 
 On November 15, at the "intifada session" in Algiers, [Yasser Arafat](https://en.wikipedia.org/wiki/Yasser_Arafat) proclaimed the [Palestinian Declaration of Independence](https://en.wikipedia.org/wiki/Palestinian_Declaration_of_Independence) (Arabic: [إعلان الاستقلال الفلسطيني](https://ar.wikipedia.org/wiki/%D8%A5%D8%B9%D9%84%D8%A7%D9%86_%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D9%82%D9%84%D8%A7%D9%84_%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A)) (see [the Political Communiqué of the Palestine National Council and the Declaration of Independence of 15 November 1988](https://www.un.org/unispal/document/auto-insert-178680/), and [text of the Declaration in Arabic](https://ar.wikisource.org/wiki/%D8%A5%D8%B9%D9%84%D8%A7%D9%86_%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D9%82%D9%84%D8%A7%D9%84_%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A)) 
 

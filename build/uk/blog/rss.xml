@@ -4,11 +4,21 @@
         <title>International Law etc. Blog</title>
         <link>https://international-law.info/uk/blog</link>
         <description>Keep up to date with upcoming blog posts by following our feed!</description>
-        <lastBuildDate>Fri, 18 Apr 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 May 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>uk</language>
         <copyright>Copyright © 2025 Viktor Ageyev</copyright>
+        <item>
+            <title><![CDATA[What Independence Day Means for Israel]]></title>
+            <link>https://international-law.info/uk/blog/israel_independence_day</link>
+            <guid>https://international-law.info/uk/blog/israel_independence_day</guid>
+            <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[(video in Russian)]]></description>
+            <content:encoded><![CDATA[<p>(video in Russian)</p>
+<link rel="preload" href="https://i.ytimg.com/vi/RrCe5eQOtdc/hqdefault.jpg" as="image"><article class="yt-lite" data-title="What Independence Day Means for Israel" style="background-image:url(https://i.ytimg.com/vi/RrCe5eQOtdc/hqdefault.jpg);--aspect-ratio:56.25%"><button type="button" class="lty-playbtn" aria-label="Watch What Independence Day Means for Israel"></button></article>]]></content:encoded>
+            <category>Свята Земля</category>
+        </item>
         <item>
             <title><![CDATA[На що розраховувала Газа, починаючи цю війну?]]></title>
             <link>https://international-law.info/uk/blog/what_gaza_was_counting_on</link>

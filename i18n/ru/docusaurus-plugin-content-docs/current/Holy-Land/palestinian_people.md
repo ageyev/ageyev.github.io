@@ -23,7 +23,7 @@ slug: palestinian_people
 
 Резолюцией Генеральной Ассамблеи ООН № 32/40 от 2 декабря 1977 года учрежден [Международный день солидарности с палестинским народом](https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D0%B4%D0%B5%D0%BD%D1%8C_%D1%81%D0%BE%D0%BB%D0%B8%D0%B4%D0%B0%D1%80%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D1%81_%D0%BF%D0%B0%D0%BB%D0%B5%D1%81%D1%82%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%BC_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BE%D0%BC) ([International Day of Solidarity with the Palestinian People](https://en.wikipedia.org/wiki/International_Day_of_Solidarity_with_the_Palestinian_People)), но нет других Международных дней солидарности, учреждённых ООН в поддержку конкретного народа.
 
-То есть мы видим, что "палестинский народ" явно очень отличается от всех других народов проживающих на Земле, и защите его прав (неотъемлемость которых даже специально подчеркнута в названии специального комитета) уделяется принципиально больше внимания чем защите прав любого другого народа на нашей планете.
+То есть мы видим, что "палестинский народ" явно очень отличается от всех других народов, проживающих на Земле, и защите его прав (неотъемлемость которых даже специально подчеркнута в названии специального комитета) уделяется принципиально больше внимания чем защите прав любого другого народа на нашей планете.
 
 В чем же уникальность этого народа?
 
@@ -35,7 +35,7 @@ slug: palestinian_people
 
 Во-первых, есть мифологическая история палестинского народа. Этот вариант истории выглядит примерно так: Палестина - это родина палестинского народа (предполагается название страны связано с названием народа). Палестинский народ издревле жил в Палестине. И вот палестинский народ "гостеприимно" принял спасавшихся от нацистов евреев. А евреи затем оккупировали территорию государства "палестинцев" и лишили "палестинцев" их родины.
 
-Эта история активно поддерживается пропагандой. В социальных сетях множество постов со старыми фото с надписями типа "Прекрасная Палестина, 1929 год", фото монет и банкнот 1920-30 годов с надписью "Палестина" и тому подобные доказательства, что до прибытия "спасавшихся от нацистов" евреев у палестинского народа было свое собственное государство.
+Эта история активно поддерживается пропагандой. В социальных сетях множество постов со старыми фото с надписями типа "Прекрасная Палестина, 1929 год", фото монет и банкнот 1920–30 годов с надписью "Палестина" и тому подобные доказательства, что до прибытия "спасавшихся от нацистов" евреев у палестинского народа было свое собственное государство.
 
 В этой истории интересно то, что это ложь от начала и до конца, но эту историю верят миллионы людей во всем мире, особенно мусульман, считая ее общеизвестным и само собой разумеющимся фактом.
 
@@ -47,7 +47,7 @@ slug: palestinian_people
 
 Палестина, ранее называвшаяся Иудея, это территория бывшей римской провинции Иудея. Территория современных государств - Израиля и Иордании.
 
-С 1516 по 1917 годы эта территория входила в состав Османской империи. Она не была отдельной административной единицей, а была разделена между несколькими провинциями ([эялеты](https://en.wikipedia.org/wiki/Eyalet) или [вилайеты](https://en.wikipedia.org/wiki/Vilayet)). Никто в Османской империи никогда не слышал, что на этой территории проживает "палестинский народ" На этой территории проживали арабы, евреи, друзы, армяне и другие. А вот такого народа "палестинцы" не было.
+С 1516 по 1917 годы эта территория входила в состав Османской империи. Она не была отдельной административной единицей, а была разделена между несколькими провинциями ([эялеты](https://en.wikipedia.org/wiki/Eyalet) или [вилайеты](https://en.wikipedia.org/wiki/Vilayet)). Никто в Османской империи никогда не слышал, что на этой территории проживает "палестинский народ". На этой территории проживали арабы, евреи, друзы, армяне и другие. А вот такого народа "палестинцы" не было.
 
 В 1914 году Османская Империя объявила войну странам [Антанты](https://en.wikipedia.org/wiki/Triple_Entente), и войну проиграла. Территория исторической Палестины была занята войсками Великобритании.
 
@@ -55,7 +55,7 @@ slug: palestinian_people
 
 В 1922 г. Лига Наций выдала Великобритании [Мандат](https://en.wikipedia.org/wiki/Mandate_for_Palestine) на управление Палестиной с целью создания на ней еврейского государства. В том же году в Мандат были внесены изменения. В соответствии с этими изменениями, на той части Палестины, которая находилась на восток от реки Иордан, предполагалось создание арабского государства, и оно было создано в 1946 году - Хашимитское королевство Трансиордания (ныне Иорданское Хашимитское Королевство) Ни о каком "палестинском народе" ни во время утверждения Мандата и внесения в него изменений в 1922 году, ни во время создания в Палестине Хашимитское королевства Трансиордания никто не слышал о "палестинском народе"
 
-Во период действия Мандата термин "Палестинский" в названии общественных или коммерческих организаций, например, Палестинский симфонический оркестр (The Palestine Symphony Orchestra), Палестинская футбольная ассоциация (Palestine Football Association), Палестинская электрическая компания (Palestine Electric Corporation) было признаком того, что это еврейская организация.
+В период действия Мандата термин "Палестинский" в названии общественных или коммерческих организаций, например, Палестинский симфонический оркестр (The Palestine Symphony Orchestra), Палестинская футбольная ассоциация (Palestine Football Association), Палестинская электрическая компания (Palestine Electric Corporation) было признаком того, что это еврейская организация.
 
 В мае 1947 года Генеральная Ассамблея ООН сформировала "Специальный комитет ООН по Палестине" ([UNSCOP](https://en.wikipedia.org/wiki/United_Nations_Special_Committee_on_Palestine)) для выработки рекомендаций относительно будущего правительства той оставшейся части Палестины (на запад от Иордана) 3 сентября 1947 года Комитет представил свой отчет. На его основе 29 ноября 1947 г. Генеральная Ассамблея ООН приняла резолюцию № 181 с рекомендацией разделить оставшуюся часть палестины на еврейское и арабское государство.
 
@@ -83,21 +83,27 @@ slug: palestinian_people
 
 Документы, в частности документы [архива Митрохина](https://ru.wikipedia.org/wiki/%D0%90%D1%80%D1%85%D0%B8%D0%B2_%D0%9C%D0%B8%D1%82%D1%80%D0%BE%D1%85%D0%B8%D0%BD%D0%B0) ([Mitrokhin Archive](https://en.wikipedia.org/wiki/Mitrokhin_Archive)) и свидетельства, опубликованные в годы развала СССР, дают важную информацию для понимания деятельности ООП.  
 
-Особенно ценной в этом отношении является информация, которую публиковал бывший заместитель начальника внешней разведки Румынии ([Securitate](https://en.wikipedia.org/wiki/Securitate)) [Ион Михай Пачепа](https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D1%87%D0%B5%D0%BF%D0%B0,_%D0%98%D0%BE%D0%BD_%D0%9C%D0%B8%D1%85%D0%B0%D0%B9) ([Ion Mihai Pacepa](https://en.wikipedia.org/wiki/Ion_Mihai_Pacepa))
+Особенно ценной в этом отношении является информация, которую публиковал бывший заместитель начальника внешней разведки Румынии ([Securitate](https://en.wikipedia.org/wiki/Securitate)) [Ион Михай Пачепа](https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D1%87%D0%B5%D0%BF%D0%B0,_%D0%98%D0%BE%D0%BD_%D0%9C%D0%B8%D1%85%D0%B0%D0%B9) ([Ion Mihai Pacepa](https://en.wikipedia.org/wiki/Ion_Mihai_Pacepa)): 
 
+> "Мне передали личное дело Арафата, составленное КГБ. Он был египетским буржуа, которого внешняя разведка КГБ превратила в убеждённого марксиста. КГБ обучал его в своей спецшколе в Балашихе под Москвой и в середине 1960-х решил подготовить его в качестве будущего лидера ООП. Сначала КГБ уничтожил официальные документы о рождении Арафата в Каире и заменил их фиктивными, утверждавшими, что он родился в Иерусалиме, а значит, был палестинцем по рождению".
+> ... "Затем КГБ предоставил Арафату идеологию и образ — так же, как он это делал для преданных коммунистов в наших международных подставных организациях."
 
+> "I was given the KGB's "personal file" on Arafat. He was an Egyptian bourgeois turned into a devoted Marxist by KGB foreign intelligence. The KGB had trained him at its Balashikha special-ops school east of Moscow and in the mid-1960s decided to groom him as the future PLO leader. First, the KGB destroyed the official records of Arafat's birth in Cairo, replacing them with fictitious documents saying that he had been born in Jerusalem and was therefore a Palestinian by birth"
+> ... "Next, the KGB gave Arafat an ideology and an image, just as it did for loyal Communists in our international front organizations."
 
-Термин "палестинский народ" впервые был употреблен в документе известном как [Палестинская Хартия](https://en.wikipedia.org/wiki/Palestinian_National_Covenant)
+([Ion Mihai Pacepa, "The KGB's Man" // "Wall Street Journal", 2003-02-22](https://www.wsj.com/articles/SB106419296113226300))
 
+В интервью журналу FrontPage Magazine в 2004 году Ион Пачепа рассказывал: 
 
+> "Организация освобождения Палестины была придумана КГБ ... В 1964 году первый Совет ООП, состоявший из 422 палестинских представителей, отобранных КГБ, утвердил Палестинскую национальную хартию — документ, который был подготовлен в Москве" 
 
+> "The PLO was dreamt up by the KGB... In 1964 the first PLO Council, consisting of 422 Palestinian representatives handpicked by the KGB, approved the Palestinian National Charter—a document that had been drafted in Moscow"
 
+(цитата по [John Richardson, "The Soviet-Palestinian Lie" // Gatestone Institute, 2016-10-16](https://www.gatestoneinstitute.org/9090/soviet-union-palestinians)) 
 
-
+Итак, концепция "палестинский народа" появилась вместе с ООП, которая объявила себя представителем этого народа в документе известном как [Палестинская Хартия](https://en.wikipedia.org/wiki/Palestinian_National_Covenant) 
 
 И хотя в настоящее время в употребление вошел термин "палестинский народ" не существует никаких признаков по которым можно было бы отличить араба (т.е. человека принадлежащего к арабскому народу) проживающего в Палестине, от "палестинца" (т.е. человека принадлежащего к палестинскому народу)
-
-
 
 ## Links and references
 
@@ -107,12 +113,18 @@ slug: palestinian_people
 
 [Arab League declaration on the invasion of Palestine // Israeli Ministry of Foreign Affairs](https://www.gov.il/en/pages/arab-league-declaration-on-the-invasion-of-palestine)
 
+[Wikipedia: Soviet Union and state-sponsored terrorism](https://en.wikipedia.org/wiki/Soviet_Union_and_state-sponsored_terrorism) 
+
+[Ion Mihai Pacepa, "The KGB's Man" // "Wall Street Journal", 2003-02-22](https://www.wsj.com/articles/SB106419296113226300)
+
 [Peter Baker. Soviet Document Suggests Mahmoud Abbas Was a K.G.B. Spy in the 1980s // New York Times, 2016-09-07](https://www.nytimes.com/2016/09/08/world/middleeast/mahmoud-abbas-israel-palestine-kgb.html) 
 
-[John Richardson. The Soviet-Palestinian Lie // Gatestone Institute, 2016-10-16](https://www.gatestoneinstitute.org/9090/soviet-union-palestinians)
+[John Richardson, "The Soviet-Palestinian Lie" // Gatestone Institute, 2016-10-16](https://www.gatestoneinstitute.org/9090/soviet-union-palestinians) 
 
 [Gabriel Caligiuri. The Crescent And The Sickle: A History Of “Free Palestine.” 2024-11-01](https://fai.online/articles/crescent-sickle-history-free-palestine) 
 
 [Ronen Bergman. The KGB's Middle East Files: Palestinians in the service of Mother Russia // 2016-04-11 ](https://www.ynetnews.com/articles/0,7340,L-4874089,00.html)
 
-November 1, 2024 ]
+[Bob Ryan. Palestinians Invented by the KGB. // "The Times of Israel", 2022-12-03](https://blogs.timesofisrael.com/palestinians-invented-by-the-kgb/) 
+
+

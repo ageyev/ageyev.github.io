@@ -155,6 +155,8 @@ slug: borders_references
 
 [Википедия: Статус территорий, оккупированных Израилем в 1967 году](https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%B0%D1%82%D1%83%D1%81_%D1%82%D0%B5%D1%80%D1%80%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%B9,_%D0%BE%D0%BA%D0%BA%D1%83%D0%BF%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D1%85_%D0%98%D0%B7%D1%80%D0%B0%D0%B8%D0%BB%D0%B5%D0%BC_%D0%B2_1967_%D0%B3%D0%BE%D0%B4%D1%83) 
 
+[Wikipedia: Occupied Palestinian territories](https://en.wikipedia.org/wiki/Occupied_Palestinian_territories) 
+
 [Howard Grief](https://en.wikipedia.org/wiki/Howard_Grief) ['The Legal Foundation And Borders Of Israel Under International Law'](https://www.amazon.com/dp/B0C426QN7Z/) 
 
 [Howard Grief](https://en.wikipedia.org/wiki/Howard_Grief) ['The Origin of the Occupation Myth'](https://israelwhitepaper.org/origin-of-occupation-myth-by-howard-grief/) 

@@ -6,10 +6,10 @@
     "items": [
         {
             "id": "https://international-law.info/uk/blog/israel_independence_day",
-            "content_html": "<p>(video in Russian)</p>\n<link rel=\"preload\" href=\"https://i.ytimg.com/vi/RrCe5eQOtdc/hqdefault.jpg\" as=\"image\"><article class=\"yt-lite\" data-title=\"What Independence Day Means for Israel\" style=\"background-image:url(https://i.ytimg.com/vi/RrCe5eQOtdc/hqdefault.jpg);--aspect-ratio:56.25%\"><button type=\"button\" class=\"lty-playbtn\" aria-label=\"Watch What Independence Day Means for Israel\"></button></article>\n<p>`</p>",
+            "content_html": "<p>(відео російською)</p>\n<link rel=\"preload\" href=\"https://i.ytimg.com/vi/RrCe5eQOtdc/hqdefault.jpg\" as=\"image\"><article class=\"yt-lite\" data-title=\"What Independence Day Means for Israel\" style=\"background-image:url(https://i.ytimg.com/vi/RrCe5eQOtdc/hqdefault.jpg);--aspect-ratio:56.25%\"><button type=\"button\" class=\"lty-playbtn\" aria-label=\"Watch What Independence Day Means for Israel\"></button></article>\n<p>`</p>",
             "url": "https://international-law.info/uk/blog/israel_independence_day",
-            "title": "What Independence Day Means for Israel",
-            "summary": "(video in Russian)",
+            "title": "Що для Ізраїлю означає День Незалежності",
+            "summary": "(відео російською)",
             "date_modified": "2025-05-01T00:00:00.000Z",
             "author": {
                 "name": "Viktor Ageyev"

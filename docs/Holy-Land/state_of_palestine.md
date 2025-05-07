@@ -132,7 +132,7 @@ Article I of Oslo II states that the Israeli government transfers part of its po
 
 Thus, these articles leave no doubt that the territory where the autonomy's self-governing bodies are established remains under Israeli control, with the PLO agreeing to this. The institutions created are clearly defined as "organs of self-government" (Palestinian self-government).
 
-Most importantly (Article IX, paragraph 5(a) of Oslo II):
+Most importantly (Article IX, paragraph 5 (a) of Oslo II): 
 
 > "the Council will not have powers and responsibilities in the sphere of foreign relations, which sphere includes the establishment abroad of embassies, consulates or other types of foreign missions and posts or permitting their establishment in the West Bank or the Gaza Strip, the appointment of or admission of diplomatic and consular staff, and the exercise of diplomatic functions."
 
@@ -207,7 +207,9 @@ After the General Assembly adopted resolution [67/19](https://en.wikipedia.org/w
 
 [United Nations: The Question of Palestine](https://www.un.org/unispal/)
 
-[United Nations information system on Palestine: online repository of documents on the question of Palestine](https://www.un.org/unispal/documents/)
+[United Nations information system on Palestine: online repository of documents on the question of Palestine](https://www.un.org/unispal/documents/) 
+
+[Interactive Encyclopedia of the Palestine Question](https://www.palquest.org/) 
 
 ---
 

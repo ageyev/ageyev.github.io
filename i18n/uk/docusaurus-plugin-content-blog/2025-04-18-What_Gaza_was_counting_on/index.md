@@ -42,6 +42,10 @@ lang: uk
 
 --- 
 
+[Публикація](https://www.9tv.co.il/item/90415) на сайті 9 каналу ізраїльського телебачення (російською) 
+
+--- 
+
 Цей пост в соцмережах: 
 
 [Обговорення](https://www.facebook.com/viktor.ageyev/posts/pfbid0kZo6yBFCYmVJHoh8Z3KzBZLg8a5KamiQAh65o1gFGPC32yTzzCHjTg9A2stxfoqGl) в Фейсбук (російською) 

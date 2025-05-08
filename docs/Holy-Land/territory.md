@@ -5,9 +5,11 @@ hide_title: true
 draft: false
 tags: [Israel]
 slug: borders_and_territory_of_israel
+description: "Where are Israel's borders according to international law, and what Israel really occupies"
+lang: en
 ---
 
-# Where are Israel's borders and what is Israel actually occupying
+# Where are Israel's borders and what is Israel actually occupying 
 
 ## Applicable Norms of International Law
 

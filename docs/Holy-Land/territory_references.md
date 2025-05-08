@@ -125,11 +125,17 @@ slug: borders_references
 
 [ICC: Decision on the ‘Prosecution request pursuant to article 19(3) for a ruling on the Court’s territorial jurisdiction in Palestine’](https://www.icc-cpi.int/court-record/icc-01/18-143)
 
-[The Israeli Attorney General’s memorandum: Everything the ICC is not meant to be // B’Tselem](https://www.btselem.org/publications/summaries/202003_position_paper_on_israel_ag_icc_memorandum)
+[The Israeli Attorney General’s memorandum: Everything the ICC is not meant to be // B’Tselem](https://www.btselem.org/publications/summaries/202003_position_paper_on_israel_ag_icc_memorandum) 
+
+### Committee on the Exercise of the Inalienable Rights of the Palestinian People (CEIRPP) 
+
+[CEIRPP: Study on the Legality of the Israeli Occupation of the Occupied Palestinian Territory, Including East Jerusalem](https://www.un.org/unispal/document/ceirpp-legal-study2023/) 
+
+[Правовой статус Западного берега Газы. Подготовлено для Комитета по осуществлению неотъемлемых прав палестинского народа и под его руководством. 1982](https://unispal.un.org/pdfs/81-33462r.pdf)
 
 ### United Nations Human Rights Council 
 
-[The Independent International Commission of Inquiry on the Occupied Palestinian Territory, including East Jerusalem, and Israel: Home page](https://www.ohchr.org/en/hr-bodies/hrc/co-israel/index)
+[The Independent International Commission of Inquiry on the Occupied Palestinian Territory, including East Jerusalem, and Israel: Home page](https://www.ohchr.org/en/hr-bodies/hrc/co-israel/index) 
 
 ### UN, other 
 
@@ -147,15 +153,15 @@ slug: borders_references
 
 [ООН: Вопрос о Палестине и ООН](https://www.un.org/unispal/ru/2017/08/29/questionofpalestineandun/)
 
-[Wikipedia: List of United Nations resolutions concerning Palestine](https://en.wikipedia.org/wiki/List_of_United_Nations_resolutions_concerning_Palestine)
-
-[Правовой статус Западного берега Газы. Подготовлено для Комитета по осуществлению неотъемлемых прав палестинского народа и под его руководством. 1982](https://unispal.un.org/pdfs/81-33462r.pdf)
+[Wikipedia: List of United Nations resolutions concerning Palestine](https://en.wikipedia.org/wiki/List_of_United_Nations_resolutions_concerning_Palestine) 
 
 ## Other publications on topic 
 
 [Википедия: Статус территорий, оккупированных Израилем в 1967 году](https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%B0%D1%82%D1%83%D1%81_%D1%82%D0%B5%D1%80%D1%80%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%B9,_%D0%BE%D0%BA%D0%BA%D1%83%D0%BF%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D1%85_%D0%98%D0%B7%D1%80%D0%B0%D0%B8%D0%BB%D0%B5%D0%BC_%D0%B2_1967_%D0%B3%D0%BE%D0%B4%D1%83) 
 
-[Wikipedia: Occupied Palestinian territories](https://en.wikipedia.org/wiki/Occupied_Palestinian_territories) 
+[Wikipedia:Legalit of the Israeli occupation of Palestine](https://en.wikipedia.org/wiki/Legality_of_the_Israeli_occupation_of_Palestine) 
+
+[Wikipedia: Occupied Palestinian territories](https://en.wikipedia.org/wiki/Occupied_Palestinian_territories)
 
 [Howard Grief](https://en.wikipedia.org/wiki/Howard_Grief) ['The Legal Foundation And Borders Of Israel Under International Law'](https://www.amazon.com/dp/B0C426QN7Z/) 
 

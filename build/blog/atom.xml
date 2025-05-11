@@ -265,7 +265,9 @@ I will not forget.<br></p>
         <author>
             <name>Viktor Ageyev</name>
         </author>
-        <category label="Viktor Ageyev" term="Viktor Ageyev"/>
+        <author>
+            <name>Mark Ageyev</name>
+        </author>
         <category label="Holy Land" term="Holy Land"/>
     </entry>
     <entry>

@@ -282,8 +282,9 @@
         <author>
             <name>Віктор Агєєв</name>
         </author>
-        <category label="Віктор Агєєв" term="Віктор Агєєв"/>
-        <category label="Ізраїль" term="Ізраїль"/>
+        <author>
+            <name>Марк Агєєв</name>
+        </author>
         <category label="Свята Земля" term="Свята Земля"/>
     </entry>
     <entry>

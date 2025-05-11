@@ -1,8 +1,8 @@
 ---
 slug: october7
 title: October 7
-authors: [ageyev]
-tags: [ageyev, holy-land]
+authors: [ageyev, mark_ageyev]
+tags: [holy-land]
 draft: false
 date: 2024-10-07
 description: IDF Soldier's Memories of October 7, 2023

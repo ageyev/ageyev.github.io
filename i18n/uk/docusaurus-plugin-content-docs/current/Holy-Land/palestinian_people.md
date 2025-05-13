@@ -1,6 +1,6 @@
 ---
 title: "Palestinian people"
-id: state_of_palestine
+id: palestinian_people
 hide_title: true
 draft: false
 tags: [Israel]

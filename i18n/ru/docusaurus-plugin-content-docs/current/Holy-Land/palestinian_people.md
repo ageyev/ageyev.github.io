@@ -1,6 +1,6 @@
 ---
 title: "Палестинский народ"
-id: state_of_palestine
+id: palestinian_people
 hide_title: true
 draft: false
 tags: [Israel]
@@ -115,12 +115,16 @@ slug: palestinian_people
 
 > 
 
+# Правильный термин 
+
+Таким образом, использование термина "палестинский народ" или термин "палестинцы" используемый в том же смысле, что и "палестинский народ" является недопустимым так фактически является поддержкой этого обмана или соучастие в этом обмене. 
+
+Взамен для обозначения членов политических течений входящих в Организацию Освобождения Палестины, или движений чьи иделогические корни происходят от ООП (ХАМАС), а также их сторонников из местного населения следует использовать термин "арафатовцы" (arafatists)
+
+Термин "арафатовцы" более точно отображает как историю так и сущность этого политического движения, а также то, что оно не является отдельной этнической или национальной группой. Этот термин поясняет почему к тем, кто называет себя "палестинский народ" не относятся палестинские арабы, живущие в расположенной в Палестине Иордании не, и почему значительная часть живущих в Израиле арабов себя не незывает "палестинцами". Термин "арафатовцы" все расставляет на свои места. 
 
 
-
-
-
-И хотя в настоящее время в употребление вошел термин "палестинский народ" не существует никаких признаков по которым можно было бы отличить араба (т.е. человека принадлежащего к арабскому народу) проживающего в Палестине, от "палестинца" (т.е. человека принадлежащего к палестинскому народу) 
+И хотя в настоящее время в употребление вошел термин "палестинский народ" не существует никаких этнических признаков по которым можно было бы отличить араба (т.е. человека принадлежащего к арабскому народу) проживающего в Палестине, от "палестинца" (т.е. человека принадлежащего к палестинскому народу) 
 
 ## Право на самоопределение и его субъекты 
 
@@ -128,17 +132,17 @@ slug: palestinian_people
 
 ## Links and references
 
-### Подразделения ООН 
+### UN institutions 
 
 [The United Nations Division for Palestinian Rights (UNDPR)](https://en.wikipedia.org/wiki/United_Nations_Division_for_Palestinian_Rights)
 
 [United Nations Committee on the Exercise of the Inalienable Rights of the Palestinian People (CEIRPP)](https://en.wikipedia.org/wiki/Committee_on_the_Exercise_of_the_Inalienable_Rights_of_the_Palestinian_People) 
 
-### Исторические события 
+### Historical events 
 
 [Wikipedia: Palestine Arab Congresses](https://en.wikipedia.org/wiki/Palestine_Arab_Congress)
 
-### Исторические документы  
+### Documents 
 
 [First Palestine Arab Congress resolution in 1919, addressed to the Paris Peace Conference](https://en.wikipedia.org/wiki/Palestine_Arab_Congress#/media/File:First_Palestine_Arab_Congress_resolution,_1919.png) (Arabic text)
 
@@ -154,7 +158,7 @@ slug: palestinian_people
 
 [الميثاق القومي الفلسطيني](https://www.palquest.org/ar/historictext/9614/%D8%A7%D9%84%D9%85%D9%8A%D8%AB%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D9%88%D9%85%D9%8A-%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A)
 
-### Исследования 
+### Researches 
 
 [Wikipedia: Soviet Union and state-sponsored terrorism](https://en.wikipedia.org/wiki/Soviet_Union_and_state-sponsored_terrorism) 
 

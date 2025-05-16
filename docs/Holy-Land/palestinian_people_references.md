@@ -1,12 +1,11 @@
 ---
-title: "Palestinian people"
-id: state_of_palestine
+title: "Palestinian people: references"
+id: palestinian_people_references 
 hide_title: true
 draft: false
 tags: [Israel]
-slug: palestinian_people
+slug: palestinian_people_references
 ---
-
 
 
 ## Links and references 

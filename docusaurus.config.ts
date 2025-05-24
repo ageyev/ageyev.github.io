@@ -80,6 +80,8 @@ const config: Config = {
           // editUrl: 'https://github.com/ageyev/ageyev.github.io/tree/master/',
           showLastUpdateAuthor: true, // git username from the last commit
           showLastUpdateTime: true, // git last commit time
+          //
+          blogSidebarCount: 12, // Set the number of recent posts
         },
 
         theme: {

@@ -9,7 +9,6 @@ slug: palestinian_people
 
 
 
-
 ## Links and references 
 
 [The United Nations Division for Palestinian Rights (UNDPR)](https://en.wikipedia.org/wiki/United_Nations_Division_for_Palestinian_Rights)

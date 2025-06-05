@@ -40,7 +40,7 @@ const sidebars: SidebarsConfig = {
       items: [
         'Holy-Land/borders_and_territory_of_israel',
         'Holy-Land/state_of_palestine',
-        // 'Holy-Land/palestinian_people',
+        'Holy-Land/palestinian_people',
       ],
     },
     {

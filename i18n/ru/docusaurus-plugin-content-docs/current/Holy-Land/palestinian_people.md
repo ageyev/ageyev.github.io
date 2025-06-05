@@ -5,6 +5,9 @@ hide_title: true
 draft: false
 tags: [Israel]
 slug: palestinian_people
+lang: ru
+image: /img/Illustrations/docs/holy_land/palestinian_people/arafat_and_brezhnev_afp.jpg
+description: 'Подлинная история "палестинского народа" и ее правовой анализ'
 ---
 
 # Палестинский народ и его право на самоопределение: историко-правовой анализ 

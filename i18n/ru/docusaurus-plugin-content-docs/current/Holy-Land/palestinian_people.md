@@ -9,9 +9,9 @@ slug: palestinian_people
 
 # Палестинский народ и его право на самоопределение: историко-правовой анализ 
 
-## Уникальность "палестинского народа" в деятельности и структуре ООН
+## Уникальность "палестинского народа" в международном праве
 
-"Палестинский народ" и его права занимают совершенно уникальное место в современной международной политике.
+"Палестинский народ" и его права занимают совершенно уникальное место в современной международной политике и праве.
 
 Так в ООН существует специальный [Комитет по осуществлению неотъемлемых прав палестинского народа](https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BC%D0%B8%D1%82%D0%B5%D1%82_%D0%BF%D0%BE_%D0%BE%D1%81%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8E_%D0%BD%D0%B5%D0%BE%D1%82%D1%8A%D0%B5%D0%BC%D0%BB%D0%B5%D0%BC%D1%8B%D1%85_%D0%BF%D1%80%D0%B0%D0%B2_%D0%BF%D0%B0%D0%BB%D0%B5%D1%81%D1%82%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%B0) ([Committee on the Exercise of the Inalienable Rights of the Palestinian People (CEIRPP)](https://en.wikipedia.org/wiki/Committee_on_the_Exercise_of_the_Inalienable_Rights_of_the_Palestinian_People))
 

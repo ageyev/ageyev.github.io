@@ -43,7 +43,7 @@ keywords: [Israel, Iran, war, international law, UN, legal analysis]
 
 [Facebook](https://www.facebook.com/viktor.ageyev/posts/pfbid035UdBWTQNNwu7kaymT22gKphsmD1EpLVp5sjFFftMmQxUwkc5phSju5F18PFdzgYUl) (обговорення російською та українською)
 
-[X](https://x.com/ageyev/status/1934520779325985009)
+[X (Twitter)](https://x.com/ageyev/status/1934520779325985009)
 
 [LinkedIn](https://www.linkedin.com/posts/ageyev_strike-on-iran-international-law-etc-activity-7340286381555875840-yXNY?utm_source=share&utm_medium=member_desktop&rcm=ACoAAABKOTQBA2A2b2Hx_vRrq4JgJGinG7maN4g)
 

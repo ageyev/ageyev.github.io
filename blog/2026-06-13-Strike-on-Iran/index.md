@@ -16,6 +16,7 @@ keywords: [Israel, Iran, war, international law, UN, legal analysis]
 In a [statement](https://x.com/IDF/status/1933324595471454495) by the Israel Defense Forces (IDF) press office dated 13 June 2025, it was stated that the Israeli army had carried out a preemptive strike on Iran.
 
 In this context, I shall provide a brief international legal clarification:
+<!-- truncate -->
 
 Following Iran’s massive attacks against Israel on [13–14 April 2024](https://en.wikipedia.org/wiki/April_2024_Iranian_strikes_on_Israel) and [1 October 2024](https://en.wikipedia.org/wiki/October_2024_Iranian_strikes_on_Israel), today's strike on Iran cannot in any way be regarded as "preventive" or "preemptive."
 

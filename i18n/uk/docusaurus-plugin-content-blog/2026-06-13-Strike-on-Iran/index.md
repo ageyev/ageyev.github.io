@@ -16,6 +16,7 @@ keywords: [Israel, Iran, war, international law, UN, legal analysis]
 У [повідомленні](https://x.com/IDF/status/1933324595471454495) пресслужби ЦАХАЛ (Israel Defense Forces) від 13 червня 2025 року було сказано, що ізраїльська армія завдала упереджувальний (𝐩𝐫𝐞𝐞𝐦𝐩𝐭𝐢𝐯𝐞) удар (strike) по Ірану.
 
 У зв’язку з цим дам коротке міжнародно-правове роз'яснення:
+<!-- truncate -->
 
 Після здійснених Іраном масованих атак на Ізраїль [13-14 квітня 2024](https://en.wikipedia.org/wiki/April_2024_Iranian_strikes_on_Israel) та [1 жовтня 2024](https://en.wikipedia.org/wiki/October_2024_Iranian_strikes_on_Israel), сьогоднішній удар по Ірану жодним чином не можна вважати «превентивним» чи «упереджувальним» («preemptive»).
 

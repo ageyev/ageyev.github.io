@@ -6,7 +6,6 @@ tags: [holy-land, israel, iran]
 draft: false
 date: 2025-06-13
 description: "Международно-правовой анализ"
-image: 
 lang: ru
 keywords: [Israel, Iran, war, international law, UN, legal analysis]
 ---

@@ -10,6 +10,10 @@ israel:
   label: Израиль
   permalink: /israel
   description: Израиль
+iran:
+  label: Иран
+  permalink: /iran
+  description: Иран
 holy-land:
   label: Святая Земля
   permalink: /holy-land

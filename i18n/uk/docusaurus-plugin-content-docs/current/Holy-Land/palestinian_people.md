@@ -238,6 +238,16 @@ description: 'Справжня історія "палестинського на
 
 --- 
 
+Обсуждение в социальных сетях: 
+
+[Facebook](https://www.facebook.com/viktor.ageyev/posts/pfbid0koNhHmV1htxh2eaeBdnPzdFFke2L1hmd1PyCwFvT5GnWcBJvuC7vQHzSbqB6QhDEl) (на русском) 
+
+[LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7337759951089512448/) 
+
+[X (Twitter)](https://x.com/ageyev/status/1931994687272780217)
+
+---
+
 Рання версія цього тексту (на російській):
 [Що таке "палестинський народ" і чи є у нього право на самовизначення](https://github.com/ageyev/Israel/blob/main/palestinians/palestinians_ru.md)
 

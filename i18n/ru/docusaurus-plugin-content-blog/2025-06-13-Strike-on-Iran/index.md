@@ -6,7 +6,7 @@ tags: [holy-land, israel, iran]
 draft: false
 date: 2025-06-13
 description: "Международно-правовой анализ"
-image: "/img/Illustrations/blog/2026-06-13-Strike-on-Iran/Lion_ChatGPT_generated.png"
+image: "/img/Illustrations/blog/2025-06-13-Strike-on-Iran/Lion_ChatGPT_generated.png"
 lang: ru
 keywords: [Israel, Iran, war, international law, UN, legal analysis]
 ---

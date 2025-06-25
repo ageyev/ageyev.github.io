@@ -72,7 +72,13 @@ Discussion on social networks:
 
 [Facebook](https://www.facebook.com/viktor.ageyev/posts/pfbid0Lb3REtzBeHDk3SLQUCrYj9BQLSgDsAfUtLojw8o3fxr4MkeqRk568cRukgiYzWZFl) (in Russian)
 
-[Telegram](https://t.me/israel_9/110469) (in Russian)
+[Telegram](https://t.me/israel_9/110469) (in Russian) 
+
+[X (Twitter)](https://x.com/ageyev/status/1937865975476445693) 
+
+[LinkedIn](https://www.linkedin.com/posts/ageyev_surrender-or-ceasefire-international-law-activity-7343633284200816642-cUOT?utm_source=share&utm_medium=member_desktop&rcm=ACoAAABKOTQBA2A2b2Hx_vRrq4JgJGinG7maN4g) 
+
+[Instagram](https://www.instagram.com/p/DLU2QixIoh1/) 
 
 ---
 

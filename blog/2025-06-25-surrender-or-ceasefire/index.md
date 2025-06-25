@@ -20,7 +20,7 @@ By contrast, the previously traditional method accepted in international law for
 
 ![Marshall Keitel signs German surrender terms in Berlin, 8 May 1945](/img/Illustrations/blog/2025-06-25-surrender-or-ceasefire/Field_Marshall_Keitel_signs_German_surrender_terms_in_Berlin_8_May_1945.jpg)
 
-After the signing of acts of surrender, accompanied by territorial losses, deportations, and reparations, neither Germany nor even Japan attacked anyone again and transformed into peaceful, civilized, and respected states.
+After the signing instruments of surrender, accompanied by territorial losses, deportations, and reparations, neither Germany nor even Japan attacked anyone again and transformed into peaceful, civilized, and respected states.
 
 The ancient practice of distinguishing between states of war and peace, formally declaring war, and then formalizing its conclusion and results—is correct.
 

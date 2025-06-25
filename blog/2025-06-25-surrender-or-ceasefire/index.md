@@ -6,7 +6,7 @@ tags: [holy-land, israel, iran, jus-in-bello]
 draft: false
 date: 2025-06-25
 description: "Unconditional surrender or unconditional ceasefire? Why the current legal doctrine is wrong"
-image: "/img/Illustrations/blog/2025-06-25-surrender-or-ceasefire/trump_surrender.png" 
+image: "/img/Illustrations/blog/2025-06-25-surrender-or-ceasefire/Field_Marshall_Keitel_signs_German_surrender_terms_in_Berlin_8_May_1945.jpg" 
 lang: en
 keywords: [Israel, Iran, war, international law, UN, legal analysis, jus in bello]
 ---
@@ -15,7 +15,7 @@ keywords: [Israel, Iran, war, international law, UN, legal analysis, jus in bell
 
 Our practice shows that Israel’s habitual approach when facing enemies—"if we are attacked, we bomb in response until the enemy’s forces are damaged, then we agree to a ceasefire and peacefully watch the enemy celebrate victory" (here it must be emphasized: in their understanding, “victory” is in no way determined by the number of losses they suffered, but solely by the ability to proclaim and celebrate this victory)—is flawed, as it inevitably leads to the enemy, inspired by another “victory,” restoring strength, receiving increased support, and attacking again.
 
-By contrast, the previously traditional method accepted in international law for ending wars—signing an act of surrender (i.e., a formal recognition of defeat in war), imposing on the guilty party the costs of war (reparations), and depriving it of territories (annexations)—actually works.
+By contrast, the previously traditional method accepted in international law for ending wars—signing an [instrument of surrende](https://en.wikipedia.org/wiki/Instrument_of_Surrender), i.e., a formal recognition of defeat in the war, imposing on the guilty party the costs of war (reparations), and depriving it of territories (annexations)—actually works.
 
 After the signing of acts of surrender, accompanied by territorial losses, deportations, and reparations, neither Germany nor even Japan attacked anyone again and transformed into peaceful, civilized, and respected states.
 <!-- truncate --> 

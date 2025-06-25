@@ -2,13 +2,13 @@
 slug: surrender-or-ceasefire
 title: Surrender or ceasefire
 authors: [ageyev]
-tags: [holy-land, israel, iran]
+tags: [holy-land, israel, iran, jus-in-bello]
 draft: false
 date: 2025-06-25
 description: "Unconditional surrender or unconditional ceasefire? Why the current legal doctrine is wrong"
 image: "/img/Illustrations/blog/2025-06-25-surrender-or-ceasefire/trump_surrender.png" 
 lang: en
-keywords: [Israel, Iran, war, international law, UN, legal analysis]
+keywords: [Israel, Iran, war, international law, UN, legal analysis, jus in bello]
 ---
 
 # Unconditional Surrender or Unconditional Ceasefire? Why the Modern Doctrine is Flawed

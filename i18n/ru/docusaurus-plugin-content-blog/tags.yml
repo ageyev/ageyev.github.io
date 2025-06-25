@@ -18,3 +18,7 @@ holy-land:
   label: Святая Земля
   permalink: /holy-land
   description: Святая Земля
+jus-in-bello:
+  label: Jus in Bello
+  permalink: /jus-in-bello
+  description: Право войны

@@ -18,4 +18,7 @@ holy-land:
   label: Holy Land
   permalink: /holy-land
   description: Holy Land
-
+jus-in-bello:
+  label: Jus in Bello
+  permalink: /jus-in-bello
+  description: Law of war

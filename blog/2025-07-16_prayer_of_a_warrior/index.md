@@ -6,7 +6,6 @@ tags: [holy-land, israel]
 draft: false
 date: 2025-07-16
 description: "The prayer of a warrior going into battle is on a spiritual level fundamentally unattainable in yeshiva conditions"
-image: "" 
 lang: en
 keywords: [Israel, war]
 ---

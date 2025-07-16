@@ -6,7 +6,6 @@ tags: [holy-land, israel]
 draft: false
 date: 2025-07-16
 description: "Молитва воїна, який іде в бій, перебуває на духовному рівні, принципово недосяжному в умовах єшиви"
-image: "" 
 lang: uk
 keywords: [Israel, war]
 ---

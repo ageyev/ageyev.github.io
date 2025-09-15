@@ -6,6 +6,10 @@ Israel:
   label: Israel
   permalink: '/israel'
   description: 'Israel'
+Palestine:
+  label: Palestine
+  permalink: '/palestine'
+  description: 'Palestine'
 RF:
   label: RF
   permalink: '/rf'

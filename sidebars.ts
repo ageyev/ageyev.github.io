@@ -38,9 +38,10 @@ const sidebars: SidebarsConfig = {
         id: 'Holy-Land/holy_land',
       },
       items: [
-        'Holy-Land/borders_and_territory_of_israel',
-        'Holy-Land/state_of_palestine',
+        'Holy-Land/the_term_palestine',
         'Holy-Land/palestinian_people',
+        'Holy-Land/state_of_palestine',
+        'Holy-Land/borders_and_territory_of_israel',
       ],
     },
     {

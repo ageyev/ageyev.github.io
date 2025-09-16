@@ -41,6 +41,7 @@ const sidebars: SidebarsConfig = {
         'Holy-Land/the_term_palestine',
         'Holy-Land/palestinian_people',
         'Holy-Land/state_of_palestine',
+        'Holy-Land/belligerent_occupation',
         'Holy-Land/borders_and_territory_of_israel',
       ],
     },

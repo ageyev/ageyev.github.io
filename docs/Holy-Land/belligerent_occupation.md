@@ -1,5 +1,5 @@
 ---
-title: Belligerent occupation
+title: Occupation
 id: belligerent_occupation
 hide_title: true
 draft: false
@@ -10,7 +10,7 @@ description: "The concept of 'occupation' in international law"
 image: /img/Illustrations/docs/holy_land/belligerent_occupation/occupation_scales_international_law.png
 ---
 
-# Occupation
+# Belligerent occupation 
 
 What the term **"occupation"** (belligerent occupation or military occupation) actually means in international law in general, and in the context of the Geneva Conventions in particular.
 

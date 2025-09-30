@@ -102,4 +102,6 @@ Therefore, it is very important to abandon the term "Palestinians" in relation t
 
 ---
 
-[Publication and discussion on Facebook](https://www.facebook.com/viktor.ageyev/posts/pfbid0cCsuWvm7jMg1R2JHXnr4ZKRDE1YRBJaebeqvP1apdEZvnWpzv4nfNCs9E55CCoTTl) (in Russian)
+[Publication and discussion on Facebook](https://www.facebook.com/viktor.ageyev/posts/pfbid0cCsuWvm7jMg1R2JHXnr4ZKRDE1YRBJaebeqvP1apdEZvnWpzv4nfNCs9E55CCoTTl) (in Russian) 
+
+Also [published](https://www.9tv.co.il/item/112786) 2024-09-18 on the website of 'Channel 9 Israel' (in Russian) 

@@ -99,3 +99,5 @@ image: /img/Illustrations/docs/holy_land/the_term_palestine/travel_document_crop
 -----
 
 [Публікація та обговорення у Facebook](https://www.facebook.com/viktor.ageyev/posts/pfbid0cCsuWvm7jMg1R2JHXnr4ZKRDE1YRBJaebeqvP1apdEZvnWpzv4nfNCs9E55CCoTTl) (російською)
+
+Також [опубліковано 2025-09-18](https://www.9tv.co.il/item/112786) на вебсайті 9 каналу ізраїльського телебачення (російською)

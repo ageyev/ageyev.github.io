@@ -101,4 +101,5 @@ image: /img/Illustrations/docs/holy_land/the_term_palestine/travel_document_crop
 
 [Публикация и обсуждение в Facebook](https://www.facebook.com/viktor.ageyev/posts/pfbid0cCsuWvm7jMg1R2JHXnr4ZKRDE1YRBJaebeqvP1apdEZvnWpzv4nfNCs9E55CCoTTl) (на русском)   
 
-
+на сайте 9 канала израильского телевидения (на русском):
+[Виктор Агеев. Что такое “Палестина”?, 2025-09-18](https://www.9tv.co.il/Item/112786)

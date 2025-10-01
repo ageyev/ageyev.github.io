@@ -263,7 +263,7 @@ As can be seen from the above, in reality both the Gaza Strip, and the Judea and
 
 See also our blog posts:
 
-["From the Nile to the Euphrates": On the Question of Israel’s Biblical Borders](/blog/from_the_Nile_to_the_Euphrates)
+["From the Nile to the Euphrates": On the Question of Israel’s Biblical Borders](/blog/from_the_Nile_to_the_Euphrates/)
 
 --- 
 

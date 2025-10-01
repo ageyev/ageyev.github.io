@@ -4,7 +4,6 @@ id: the_term_palestine
 hide_title: true
 draft: false
 tags: [Israel]
-slug: the_term_palestine
 lang: uk
 image: /img/Illustrations/docs/holy_land/the_term_palestine/travel_document_cropped_01_marked.png 
 ---

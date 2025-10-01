@@ -4,7 +4,6 @@ id: belligerent_occupation
 hide_title: true
 draft: false
 tags: [Israel]
-slug: belligerent_occupation
 lang: en
 description: "The concept of 'occupation' in international law"
 image: /img/Illustrations/docs/holy_land/belligerent_occupation/occupation_scales_international_law.png

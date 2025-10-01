@@ -4,7 +4,6 @@ id: borders_references
 hide_title: true
 draft: false
 tags: [Israel]
-slug: borders_references
 ---
 
 # References on the International Legal Status of Israel’s Borders 

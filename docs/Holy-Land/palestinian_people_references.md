@@ -4,7 +4,6 @@ id: palestinian_people_references
 hide_title: true
 draft: false
 tags: [Israel]
-slug: palestinian_people_references
 ---
 
 # Links and references for [The Palestinian People and Their Right to Self-Determination](palestinian_people)

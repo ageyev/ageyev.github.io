@@ -26,6 +26,9 @@ const config: Config = {
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
+  // https://docusaurus.io/docs/api/docusaurus-config#trailingSlash
+  trailingSlash: true, // ← ensure all pages use trailing slash 
+
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'ageyev', // Usually your GitHub org/username.

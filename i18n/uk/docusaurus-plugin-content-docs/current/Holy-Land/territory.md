@@ -4,7 +4,6 @@ id: borders_and_territory_of_israel
 hide_title: true
 draft: false
 tags: [Israel]
-slug: borders_and_territory_of_israel
 ---
 
 ## Де проходять кордони Ізраїлю та що насправді Ізраїль окупує

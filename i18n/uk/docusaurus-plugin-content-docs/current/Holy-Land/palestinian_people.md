@@ -4,7 +4,6 @@ id: palestinian_people
 hide_title: true
 draft: false
 tags: [Israel]
-slug: palestinian_people
 lang: uk
 image: /img/Illustrations/docs/holy_land/palestinian_people/arafat_and_brezhnev_afp.jpg
 description: 'Справжня історія "палестинського народу" та її правовий аналіз'

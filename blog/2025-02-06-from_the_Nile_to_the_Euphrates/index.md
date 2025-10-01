@@ -1,5 +1,5 @@
 ---
-slug: from_the_Nile_to_the_Euphrates 
+slug: from_the_nile_to_the_euphrates 
 title: From the Nile to the Euphrates
 authors: [ageyev]
 tags: [ageyev, holy-land]

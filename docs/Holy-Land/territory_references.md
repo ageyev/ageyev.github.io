@@ -4,7 +4,6 @@ id: borders_references
 hide_title: true
 draft: false
 tags: [Israel]
-slug: borders_references
 ---
 
 # References for [Borders and Territory of Israel](/Holy-Land/borders_and_territory_of_israel/)

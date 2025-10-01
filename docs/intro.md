@@ -10,4 +10,4 @@ slug: /
 
 This site is primarily about international law and topics closely or not so closely related to it, like local law, and also philosophy, religion and history. 
 
-To navigate the site, use the sidebar and header menu.
+To navigate the site, use the sidebar. To switch to another language (most of the materials are presented in several languages), use the menu in the top panel. 

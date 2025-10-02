@@ -20,7 +20,7 @@ Historically, the term dates back to "Eretz Plishtim" — “the land of the Phi
 
 In 135 A.D., the Roman emperor [Hadrian](https://en.wikipedia.org/wiki/Hadrian) officially renamed the [Province of Judaea](https://en.wikipedia.org/wiki/Judaea_\(Roman_province\)) (Latin: Iudaea) to “[Syria Palaestina](https://en.wiktionary.org/wiki/Syria_Palaestina),” a term that the Greeks had previously applied to this territory (specifically [Παλαιστίνη](https://en.wiktionary.org/wiki/%CE%A0%CE%B1%CE%BB%CE%B1%CE%B9%CF%83%CF%84%CE%AF%CE%BD%CE%B7) in [Herodotus](https://sacred-texts.com/cla/hh/hh2100.htm)).
 
-Before Judaea became a Roman province, it was an independent kingdom with the same name ([Kingdom of Judah](https://en.wikipedia.org/wiki/Kingdom_of_Judah), or in Hebrew [יְהוּדָה](https://he.wikipedia.org/wiki/%D7%9E%D7%9E%D7%9C%D7%9B%D7%AA_%D7%99%D7%94%D7%95%D7%93%D7%94)).
+Before Judaea became a Roman province, it was an independent kingdom with the same name ([Kingdom of Judah](https://en.wikipedia.org/wiki/Kingdom_of_Judah), or in Hebrew [יהודה](https://he.wikipedia.org/wiki/%D7%9E%D7%9E%D7%9C%D7%9B%D7%AA_%D7%99%D7%94%D7%95%D7%93%D7%94)).
 
 ## Subsequent Use of the Term
 

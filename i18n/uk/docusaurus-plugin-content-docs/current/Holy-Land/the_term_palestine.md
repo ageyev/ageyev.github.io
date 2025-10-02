@@ -1,14 +1,14 @@
 ---
-title: Що означає “Палестина”
+title: Палестина
 id: the_term_palestine
-hide_title: true
+hide_title: false
 draft: false
 tags: [Israel]
 lang: uk
 image: /img/Illustrations/docs/holy_land/the_term_palestine/travel_document_cropped_01_marked.png 
 ---
 
-# Що означає “Палестина”?
+**Що означає “Палестина”?**
 
 > “Якщо імена неправильні, то слова не мають під собою підґрунтя. Якщо слова не мають під собою підґрунтя, то справи не можуть здійснюватися” (“Лунь юй”)
 
@@ -20,7 +20,7 @@ image: /img/Illustrations/docs/holy_land/the_term_palestine/travel_document_crop
 
 У 135 р. н.е. римський імператор [Адриан](https://en.wikipedia.org/wiki/Hadrian) офіційно перейменував [Провінцію Юдея](https://en.wikipedia.org/wiki/Judaea_\(Roman_province\)) (лат. Iudaea) на “[Сирія Палестина](https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D1%80%D0%B8%D1%8F_%D0%9F%D0%B0%D0%BB%D0%B5%D1%81%D1%82%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F)” (лат. [Syria Palaestina](https://en.wiktionary.org/wiki/Syria_Palaestina)), термін, який і раніше ще у греків застосовувався до цієї території (зокрема [Παλαιστίνη](https://en.wiktionary.org/wiki/%CE%A0%CE%B1%CE%BB%CE%B1%CE%B9%CF%83%CF%84%CE%AF%CE%BD%CE%B7) у [Геродота](https://sacred-texts.com/cla/hh/hh2100.htm))
 
-До того як Юдея стала провінцією Риму, вона була незалежним царством з тією ж назвою ([Царство Юдея](https://en.wikipedia.org/wiki/Kingdom_of_Judah), або на івриті [יְהוּדָה](https://he.wikipedia.org/wiki/%D7%9E%D7%9E%D7%9C%D7%9B%D7%AA_%D7%99%D7%94%D7%95%D7%93%D7%94))
+До того як Юдея стала провінцією Риму, вона була незалежним царством з тією ж назвою ([Царство Юдея](https://en.wikipedia.org/wiki/Kingdom_of_Judah), або на івриті [יהודה](https://he.wikipedia.org/wiki/%D7%9E%D7%9E%D7%9C%D7%9B%D7%AA_%D7%99%D7%94%D7%95%D7%93%D7%94))
 
 ## Подальше його використання
 

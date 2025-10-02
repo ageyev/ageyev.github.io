@@ -1,5 +1,5 @@
 ---
-title: What is Palestine
+title: Palestine
 id: the_term_palestine
 hide_title: true
 draft: false

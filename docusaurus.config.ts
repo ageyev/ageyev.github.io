@@ -16,6 +16,7 @@ const config: Config = {
       },
     ],
   ],
+
   title: 'International Law etc.', // 'My Site', // "title" is not allowed to be empty
   // tagline: 'by Viktor Ageyev',
   favicon: 'img/favicon/favicon.ico',
@@ -35,14 +36,22 @@ const config: Config = {
   projectName: 'ageyev.github.io', // Usually your repo name.
 
   onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
+  // onBrokenMarkdownLinks: 'warn', // depreciated
+  markdown: {
+      format: 'detect',
+      mermaid: false,
+      emoji: true,
+      hooks: {
+          onBrokenMarkdownLinks: 'warn',
+          onBrokenMarkdownImages: 'warn', // default:
+      },
+  },
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like HTML lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-    // locales: ['en', 'ru', 'uk'], //
     locales: ['en', 'ru', 'uk']
   },
 

@@ -4,7 +4,6 @@
  * work well for content-centric websites.
  */
 
-
 /* You can override the default Infima variables here. */
 :root {
   --ifm-color-primary: #2e8555;
@@ -61,4 +60,36 @@ svg.facebook:hover {
 
 svg.twitter:hover {
   fill: grey;
+}
+
+/* === Theme colors */
+
+/* Light theme background */
+:root {
+    --ifm-background-color: #f1f1f1;
+    --ifm-background-surface-color: #dfdfdf;
+}
+
+/* Dark theme background */
+html[data-theme='dark'] {
+    --ifm-background-color: #282828;  /* dark gray base */
+    /*--ifm-background-surface-color: #353535; !* slightly lighter for surfaces: navbar on top *!*/
+}
+
+/* == Font size */
+
+.markdown h1:first-child {
+    --ifm-h1-font-size: 2.2rem;
+}
+
+.markdown > h1 {
+    --ifm-h1-font-size: 2.1rem;
+}
+
+.markdown > h2 {
+    --ifm-h2-font-size: 1.7rem;
+}
+
+.markdown > h3 {
+    --ifm-h3-font-size: 1.3rem;
 }

@@ -280,6 +280,6 @@ out prejudice to the status of that territory"
 
 См. также посты в нашем блоге:
 
-["От Нила до Евфрата": к вопросу о библейских границах Израиля](/ru/blog/from_the_Nile_to_the_Euphrates/)
+["От Нила до Евфрата": к вопросу о библейских границах Израиля](/ru/blog/from_the_nile_to_the_euphrates/)
 
 --- 

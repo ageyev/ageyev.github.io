@@ -22,3 +22,5 @@ git push github --all
 
 ssh-add "${GITLAB_KEY_PATH}"
 git push gitlab --all
+
+docusaurus clear

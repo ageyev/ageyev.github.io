@@ -5,7 +5,7 @@ hide_title: true
 draft: false
 tags: [Israel]
 description: "Where are Israel's borders according to international law, and what Israel really occupies"
-lang: en
+lang: en 
 ---
 
 # Where are Israel's borders and what is Israel actually occupying 
@@ -263,7 +263,7 @@ As can be seen from the above, in reality both the Gaza Strip, and the Judea and
 
 See also our blog posts:
 
-["From the Nile to the Euphrates": On the Question of Israel’s Biblical Borders](/blog/from_the_Nile_to_the_Euphrates/)
+["From the Nile to the Euphrates": On the Question of Israel’s Biblical Borders](/blog/from_the_nile_to_the_euphrates/)
 
 --- 
 

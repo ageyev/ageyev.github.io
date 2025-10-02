@@ -6,7 +6,7 @@ draft: false
 tags: [Israel]
 ---
 
-# Links and references for [The Palestinian People and Their Right to Self-Determination](palestinian_people/)
+# Links and references for [The Palestinian People and Their Right to Self-Determination](/Holy-Land/palestinian_people/)
 
 ## UN institutions
 

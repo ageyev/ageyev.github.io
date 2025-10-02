@@ -1,5 +1,5 @@
 ---
-slug: from_the_Nile_to_the_Euphrates 
+slug: from_the_nile_to_the_euphrates 
 title: Від Нілу до Євфрату
 authors: [ageyev]
 tags: [ageyev, israel, holy-land]

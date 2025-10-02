@@ -47,8 +47,6 @@ Can be used like that:
 
 ```mdxjs
 
-
-
 ```
 
 
@@ -87,4 +85,10 @@ To reference an image in the blog post, omit ```static```, for example:
 
 ```markdown
 ![image description](/img/Illustrations/blog/2025-02-06-from_the_Nile_to_the_Euphrates/Bereshit_15-18.png) 
+```
+
+### Updating Docusaurus 
+
+```shell
+ npm i @docusaurus/core@latest @docusaurus/plugin-content-blog@latest @docusaurus/plugin-ideal-image@latest @docusaurus/preset-classic@latest @docusaurus/module-type-aliases@latest @docusaurus/tsconfig@latest @docusaurus/types@latest
 ```

@@ -92,3 +92,17 @@ To reference an image in the blog post, omit ```static```, for example:
 ```shell
  npm i @docusaurus/core@latest @docusaurus/plugin-content-blog@latest @docusaurus/plugin-ideal-image@latest @docusaurus/preset-classic@latest @docusaurus/module-type-aliases@latest @docusaurus/tsconfig@latest @docusaurus/types@latest
 ```
+
+## SEO 
+
+See [Google: Build and submit a sitemap](https://developers.google.com/search/docs/crawling-indexing/sitemaps/build-sitemap) 
+and [Google: robots.txt](https://developers.google.com/search/docs/crawling-indexing/robots/)
+
+
+[/static/robots.txt](/static/robots.txt) : 
+
+```txt
+User-agent: *
+Allow: /
+Sitemap: https://international-law.info/sitemap.xml     
+```

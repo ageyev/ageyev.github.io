@@ -140,6 +140,7 @@ const config: Config = {
     colorMode: {
       defaultMode: 'dark', // 'light',
       disableSwitch: false,
+      // Whether to use the prefers-color-scheme media-query, using user system preferences, instead of the hardcoded defaultMode:
       respectPrefersColorScheme: true, // false,
     },
 

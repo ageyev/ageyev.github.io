@@ -6,7 +6,8 @@ draft: false
 tags: [Israel]
 description: "Где юридически проходят границы Израиля и чем они установлены"
 image: "/img/Illustrations/docs/holy_land/territory/1947_plan_of_partition_map_crop.png"
-lang: en 
+lang: en
+keywords: ["международное право", "Израиль", "границы", "ООН", "Палестина", "оккупация", "аннексия"]
 ---
 
 # Границы и территория Израиля

@@ -26,7 +26,7 @@ A very characteristic example in this regard is the argument presented by repres
 
 (See para. 34 of the [ICC decision of February 5, 2021](https://www.icc-cpi.int/sites/default/files/CourtRecords/CR2021_01165.PDF))
 
-This is the legal argument: everyone constantly calls this territory occupied Palestinian territory, so there is no doubt to whom this territory belongs.
+This is the legal argument: everyone constantly calls this territory the "occupied Palestinian territory", so there is no doubt to whom this territory belongs.
 
 And the International Criminal Court in The Hague agreed with this argument: on February 5, 2021, the ICC issued a [Decision](https://www.icc-cpi.int/sites/default/files/CourtRecords/CR2021_01165.PDF) that the Court's jurisdiction extends to the territories of Gaza and the West Bank, including "East Jerusalem," "occupied by Israel." On March 3, 2021, the ICC Prosecutor opened an investigation into war crimes committed in these territories, and on November 21, 2024, [issued warrants of arrest](https://www.icc-cpi.int/news/situation-state-palestine-icc-pre-trial-chamber-i-rejects-state-israels-challenges) for the Prime Minister and Minister of Defence of Israel.
 

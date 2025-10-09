@@ -64,8 +64,7 @@ keywords: [Israel, Iran, war, international law, UN, legal analysis, jus in bell
 
 [Цей текст і обговорення у ФБ](https://www.facebook.com/viktor.ageyev/posts/pfbid0xP5TKZwGPyYV824UgTYV4je1uzpN3zHkLJk4G9b6NYZorxoD9Eez7AbrqhyPQocjl) (російською) 
 
-
-[Twitter (X)](https://international-law.info/blog/deal_with_the_devil/)
+[Twitter (X)](https://x.com/ageyev/status/1976328041522704729) 
 
 [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7382094149296136192/)
 

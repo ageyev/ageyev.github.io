@@ -58,6 +58,10 @@ svg.facebook:hover {
   fill: #2d66c3;
 }
 
+svg.linkedin:hover {
+  fill: #2d66ff;
+}
+
 svg.twitter:hover {
   fill: grey;
 }

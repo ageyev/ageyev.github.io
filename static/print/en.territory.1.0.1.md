@@ -1,20 +1,6 @@
----
-title: Borders and Territory of Israel
-id: borders_and_territory_of_israel
-hide_title: true
-draft: false
-tags: [Israel]
-description: "Where are Israel's borders according to international law, and what Israel really occupies"
-image: "/img/Illustrations/docs/holy_land/territory/1947_plan_of_partition_map_crop.png"
-lang: en
-keywords: ["international law", "Israel", "borders", "UN", "Palestine", "occupation", "annexation"]
----
+# Where are Israel's legal borders, and how are they determined?
 
-# Borders and Territory of Israel
-
-*Where are Israel's legal borders, and how are they determined?*
-
-## General remarks on argumentation in disputes on this topic
+## **General remarks on argumentation in disputes on this topic**
 
 Currently, the official position, expressed in UN General Assembly resolutions, documents of the International Court of Justice, the International Criminal Court, and even the Supreme Court of Israel, and held by the vast majority of international lawyers, is that Israel currently occupies certain "Palestinian territories." These are usually understood to mean the West Bank, eastern Jerusalem, and the Gaza Strip.
 
@@ -38,13 +24,13 @@ In fact, this method of argumentation is not legal. And it is not legal even if 
 
 The legal approach consists of formulating general legal norms applicable to the situation and drawing conclusions based on them, based on the established facts. Moreover, "legal norm" means that this norm applies in similar situations. That is, if we are talking about borders and occupation, then we must first define the rules applicable to borders and occupation in general, not just in relation to Israel, but in general.
 
-## Applicable rules of international law
+## **Applicable rules of international law**
 
 So, following the legal approach, we will first formulate legal norms and principles and then draw conclusions from them.
 
 As you can see, this approach is radically opposed to the approach adopted today.
 
-And these principles, despite their clear simplicity and obviousness, lead to conclusions that are contrary to both the position of most UN documents and the position of the Supreme Court of Israel.
+And these principles, despite their apparent simplicity and obviousness, lead to conclusions that are contrary to both the position of most UN documents and the position of the Supreme Court of Israel.
 
 These principles are as follows:
 
@@ -52,9 +38,9 @@ These principles are as follows:
 
 (2) A border treaty between neighboring (bordering) states establishes the borderline between them.
 
-(3) Occupation may only be considered to be the occupation by the armed forces of a state of a territory located *for* the borders of this state.
+(3) Occupation may only be considered to be the occupation by the armed forces of a state of a territory located*for*the borders of this state.
 
-(4) The desire, even a very strong one, to create one’s own state on the territory of another state, is not in itself a reason to consider this territory occupied, and does not change existing state borders.
+(4) The desire, even a very strong one, even an intolerable one, to create one’s own state on the territory of another state, is not in itself a reason to consider this territory occupied, and does not change existing state borders.
 
 Each of these principles, in our opinion, should be considered as a norm of international law, in the sense of [paragraph 1 of article 38 of the Statute of the International Court of Justice of the United Nations](https://en.wikipedia.org/wiki/Sources_of_international_law), and, as our experience of professional discussions on this topic shows, even those lawyers who are ardent opponents of Israel cannot deny the correctness of any of these four principles.
 
@@ -62,9 +48,9 @@ Their application to the question of where the borders of Israel are located, ta
 
 Let's look at this issue in more detail, and the answer to the question: where exactly are Israel's borders, and what does Israel actually occupy?
 
-## History
+## **History**
 
-### League of Nations Mandate for Palestine
+### **League of Nations Mandate for Palestine**
 
 Since 1922, the territory of Palestine (including the territory of present-day Jordan) has been under British administration, in accordance with[Mandate](https://en.wikisource.org/wiki/Palestine_Mandate_\(1922\))League of Nations.
 
@@ -72,7 +58,7 @@ The text of the Mandate itself stated that this entire territory, that is, inclu
 
 Then on September 16, 1922, it was adopted[Transjordan Memorandum](https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D0%B8%D0%BE%D1%80%D0%B4%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B5%D0%BC%D0%BE%D1%80%D0%B0%D0%BD%D0%B4%D1%83%D0%BC) ([Trans-Jordan memory](https://en.wikipedia.org/wiki/Trans-Jordan_memorandum)), which excluded the territory of present-day Jordan from the list of territories designated for Jewish settlement. And on May 25, 1946, the Hashemite Kingdom of Transjordan, established on this territory, gained independence.
 
-### The UN Partition Plan for Palestine and the so-called "1947 borders"
+### **The UN Partition Plan for Palestine and the so-called "1947 borders"**
 
 On November 29, 1947, the UN General Assembly adopted Resolution No. 181["The Future Government of Palestine"](https://ru.wikisource.org/wiki/%D0%A0%D0%B5%D0%B7%D0%BE%D0%BB%D1%8E%D1%86%D0%B8%D1%8F_%D0%93%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9_%D0%90%D1%81%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D0%B5%D0%B8_%D0%9E%D0%9E%D0%9D_%E2%84%96_A/RES/181_\(II\))
 
@@ -88,7 +74,7 @@ Also, for example, the President of France recently [stated](https://www.france2
 
 However, this position is legally erroneous. And since it is generally accepted, the legal significance of Resolution 181 requires a closer look.
 
-The Arab side then officially rejected Resolution 181 by the [statement](http://www.mideastweb.org/arableague1948.htm) of The Arab League (or League of Arab States) of May 15, 1948 (i.e. the day after Israel declared its independence), and at the same day began a war against Israel, in which Egypt, Syria, Lebanon, Transjordan, Saudi Arabia, Iraq and Yemen took direct part.
+The Arab side then officially rejected Resolution 181 by the [statement](http://www.mideastweb.org/arableague1948.htm) of The Arab League (or League of Arab States) of May 15, 1948 (i.e. the day after Israel declared its independence), and at the same day began a war against Israel, in which Egypt, Syria, Lebanon, Transjordan, Saudi Arabia, Iraq and Yemen took direct part. 
 
 But let us imagine the following situation: on May 15, 1948 (the day after the Declaration of Independence of Israel was proclaimed) the League of Arab States, instead of declaring that they reject UN General Assembly Resolution No. 181 and military aggression, issues a statement that the LAS, as a representative of the Arab people, ardently supports the plan set out in Resolution 181 and confirms the consent of the Arab side to its implementation.
 
@@ -106,11 +92,11 @@ That is, from the perspective of international law, the borders of the State of 
 
 From which it follows:
 
-1) The borders of the territory of Israel from May 14, 1948 were legally determined by the borders of the Mandate, the provisions of which were mandatory and were not changed by anyone.
-
+1) The borders of the territory of Israel from May 14, 1948 were legally determined by the borders of the Mandate, the provisions of which were mandatory and were not changed by anyone.  
+     
 2) The territory of Israel from 1949 (to 1967\) was under the illegal occupation of Jordan (the West Bank and Jerusalem, illegally annexed by Jordan since 1950\) and Egypt (the Gaza Strip)
 
-### The Green Line of 1949 (or the pre-1967 border)
+### **The Green Line of 1949 (or the pre-1967 border)**
 
 In 1949, under the auspices of the UN, negotiations took place between Israel and all the aggressor states except Iraq, as a result of which agreements were reached on ceasefire lines ([1949 Armistice Agreements](https://en.wikipedia.org/wiki/1949_Armistice_Agreements))
 
@@ -126,7 +112,7 @@ However, the armistice agreements themselves clearly stated that:
 
 That is, in fact, no "1967 borders" ever existed; there was a demarcation line established by the armistice agreements, which, on the contrary, emphasized that this was not a border, but only a line of withdrawal of troops.
 
-### Six-Day War of 1967
+### **Six-Day War of 1967**
 
 During the Six-Day War of 1967, Israel captured the Sinai Peninsula, the Gaza Strip, the West Bank, East Jerusalem, and the Golan Heights.
 
@@ -134,15 +120,15 @@ The Sinai Peninsula was later returned to Egypt under a 1979 treaty.
 
 The remaining territories recaptured by Israel in 1967, as can be seen from the above, should be considered as territories that legally belonged to Israel as of May 14, 1967 and were liberated by Israel from the occupation of hostile armies.
 
-### The legal difference between the territories conquered in 1948-49 and in 1967
+### **The legal difference between the territories conquered in 1948-49 and in 1967**
 
 Contrary to popular belief, there is absolutely no legal difference between the territories of the former Mandatory Palestine (we are not talking here about the Sinai Peninsula and the Golan Heights here) that Israel controlled in 1967 and in 1949\.
 
 In both cases, control over the former territory of Mandatory Palestine, originally intended for the creation of a Jewish state, was gained by Israel during the war.
 
-## Modern borders and territory of Israel.
+## **Modern borders and territory of Israel.**
 
-### What are the borders of a state and the territory of a state?
+### **What are the borders of a state and the territory of a state?**
 
 [State border](https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%B3%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0)— a line and a vertical surface (conditional) passing along this line, defining the boundaries of the state territory (land, waters, subsoil and airspace) of a particular state, that is, the spatial limit of the effect of state sovereignty.
 
@@ -152,7 +138,7 @@ As a general rule, borders are established by border treaties between neighborin
 
 Contrary to popular belief, borders are not registered with the UN or any other international body.
 
-### The Gaza Strip and the border between Israel and Egypt
+### **The Gaza Strip and the border between Israel and Egypt**
 
 According to Article II [Egyptian-Israeli Peace Treaty of 1979](https://treaties.un.org/doc/publication/unts/volume%201136/volume-1136-i-17813-english.pdf):
 
@@ -174,7 +160,7 @@ The Gaza Strip (although it had been under Egyptian occupation for some time bef
 
 The agreement specifically states that Israel has no obligations to Egypt regarding the status of the Gaza Strip arising from this agreement, other than the obligation to participate in negotiations on the possible establishment of self-governing bodies.
 
-### The West Bank and Jerusalem, the border between Israel and Jordan
+### **The West Bank and Jerusalem, the border between Israel and Jordan**
 
 According to [the Treaty of Peace between the State of Israel and the Hashemite Kingdom of Jordan, October 26, 1994](https://peacemaker.un.org/sites/default/files/document/files/2024/05/il20jo941026peacetreatyisraeljordan.pdf) the beds of the Jordan and Yarmouk (a tributary of the Jordan) rivers were established as the established border between Israel and Jordan, and it was agreed that if the river beds changed naturally, the border would follow the new bed.
 
@@ -186,13 +172,13 @@ Here again, in discussions with anti-Israeli opponents, one comes across the opi
 
 However:
 
-1) This opinion contradicts the very concept of a “state border” as a line dividing the territories of neighboring states.
-
+1) This opinion contradicts the very concept of a “state border” as a line dividing the territories of neighboring states.  
+     
 2) As noted above with respect to the current 1979 Israel-Egypt treaty and the hypothetical fence color agreement, the phrase "without prejudice to status" itself does not establish any specific status.
 
 Thus, according to the 1994 agreement between Israel and Jordan, *the east side of the Jordan River is Jordanian territory, and the west side is Israeli territory*.
 
-### Oslo Accords.
+### **Oslo Accords.**
 
 On September 28, 1995, the agreement was signed in Washington: [Israeli-Palestinian Interim Agreement on the West Bank and the Gaza Strip](https://peacemaker.un.org/sites/default/files/document/files/2024/05/il20ps950928interimagreementwestbankgazastrip28osloii29.pdf), which received the informal name "Oslo II" (Oslo II Accord).
 
@@ -212,19 +198,19 @@ Accordingly, actions by the leadership of the Palestinian National Authority tha
 
 Thus, at present, the border between Israel and Jordan still runs along the Jordan River, and the PNA operates *on Israeli territory* in accordance with the Oslo II Accords.
 
-### The concept of "annexation" in international law
+### **The concept of "annexation" in international law.**
 
 [Annexation](https://en.wikipedia.org/wiki/Annexation) in international law, this is by definition one-sided (*unilateral*) acquisition of another state's territory. That is, the acquisition of *another state's* territory *without its consent*.
 
 Since the establishment of Israel's border with Jordan and Egypt was carried out through the conclusion of bilateral treaties with these states, Israel cannot in any way “annex” territories already belonging to Israel under these treaties.
 
-### Golan Heights
+### **Golan Heights**
 
 Israel annexed the Golan Heights because it annexed them (see [Golan Heights Law](https://en.wikipedia.org/wiki/Golan_Heights_Law)) without the consent of Syria, to which they previously belonged.
 
 Only an agreement on the withdrawal of troops was signed with Syria ([Separation of Forces Agreement Between Israel and Syria; May 31, 1974](https://avalon.law.yale.edu/20th_century/pal04.asp)), but the parties continue to be in a state of war, since the agreement itself stipulated that "this agreement is not a peace agreement"
 
-#### UN Security Council Resolution 497 (1981)
+#### **UN Security Council Resolution 497 (1981)**
 
 In this regard, it is also worth mentioning [UN Security Council Resolution No. 497 of December 17, 1981](https://en.wikipedia.org/wiki/United_Nations_Security_Council_Resolution_497)
 
@@ -240,9 +226,9 @@ On the other hand, despite the fact that this resolution contains a clear legal 
 
 That is, Israel should really reverse the annexation and consider them occupied, not annexed. But at the same time, the question of formally canceling this resolution, as violating international law in favor of the aggressor, should be raised.
 
-## Positions of various authorities on the topic
+## **Positions of various authorities on the issue under consideration**
 
-### UN
+### **UN**
 
 As has already been said, the UN uses the expression "Israel, the occupying Power" and "Occupied Palestinian Territory, including East Jerusalem" in many documents.
 
@@ -254,7 +240,7 @@ Legally, this is, of course, complete absurdity, and is equivalent to the assert
 
 Unfortunately, it must be acknowledged that the Advisory Opinions of the International Court of Justice (even though they are not binding) can be erroneous.
 
-### Supreme Court of Israel
+### **Supreme Court of Israel**
 
 The Israeli Supreme Court has never considered the question of whether the boundaries drawn in Israel's treaties with Jordan and Egypt establish Israel's boundaries with Jordan and Egypt.
 
@@ -280,7 +266,7 @@ So, the court did not by chance use the expression"these rules reflect customary
 
 For some reason, the court wanted to advance the thesis that Gaza and the West Bank are occupied, and pretend that this thesis is based on international law.
 
-### Levy Commission Report
+### **Levy Commission Report**
 
 [Report on the legal status of construction in Judea and Samaria](https://web.archive.org/web/20150508072813/http://regavim.org.il/en/wp-content/uploads/2014/11/The-Levy-Commission-Report-on-the-Legal-Status-of-Building-in-Judea-and-Samaria2.pdf), also known as [Levy's Report](https://en.wikipedia.org/wiki/Levy_Report), was prepared at the request of the Prime Minister of Israel ([Benjamin Netanyahu](https://en.wikipedia.org/wiki/Benjamin_Netanyahu)) and the Minister of Justice ([Yaakov Neiman](https://en.wikipedia.org/wiki/Yaakov_Neeman)) and published in 2012 by a committee chaired by a former Israeli Supreme Court judge [Edmond Levy](https://en.wikipedia.org/wiki/Edmond_Levy_\(judge\)).
 
@@ -302,7 +288,7 @@ a) It is correct to say not that Jordan's “sovereignty over the territory had 
 
 b) At this point, it is no longer actually important whether Jordan had rights to these territories before the conclusion of the border agreement between Israel and Jordan; what is important now is that by concluding this agreement, these territories are recognized as being on the Israeli side of the state border.
 
-## Conclusions
+## **Conclusions**
 
 (1)
 
@@ -316,21 +302,8 @@ Therefore, they cannot be considered occupied in any way. And legally, “annexi
 
 The current documents defining Israel's borders with Egypt and Jordan are treaties with Egypt (1979) and Jordan (1994). This method of establishing borders (treaties with neighboring states) is accepted in international law, and therefore, from an international legal perspective, Israel does not need to make any decisions or sign any other documents to establish its borders. And, just like all other states in the World, *Israel's sovereign territory is the territory within its borders*.
 
---- 
-
-[References](/Holy-Land/borders_references/) 
-
 ---
 
-See also our blog posts:
-
-["From the Nile to the Euphrates": On the Question of Israel’s Biblical Borders](/blog/from_the_nile_to_the_euphrates/)
-
---- 
-
-Also, an early version was [published](https://www.9tv.co.il/Item/70693) 2024-04-25 on the website of 'Channel 9 Israel' (in Russian)  
-
-See also [previous (old) version (in Russian)](https://github.com/ageyev/Israel/blob/main/TerritoryOfIsrael_RU.md)
-
---- 
+Online version: [Viktor Ageyev, Borders and Territory of Israel](https://international-law.info/Holy-Land/borders_and_territory_of_israel/) // **international-law.info**   
+---
 

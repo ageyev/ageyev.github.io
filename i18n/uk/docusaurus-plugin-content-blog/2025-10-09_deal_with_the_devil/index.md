@@ -57,6 +57,6 @@ keywords: [Israel, Iran, war, international law, UN, legal analysis, jus in bell
 
 ---
 
-Див. також
+Див. також:
 
 [Цей текст і обговорення у ФБ](https://www.facebook.com/viktor.ageyev/posts/pfbid0xP5TKZwGPyYV824UgTYV4je1uzpN3zHkLJk4G9b6NYZorxoD9Eez7AbrqhyPQocjl) (російською)

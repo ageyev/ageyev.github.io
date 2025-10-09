@@ -58,7 +58,7 @@ keywords: [Israel, war, international law, legal analysis, jus in bello]
 
 ---
 
-См. тж 
+См. также:
 
 [Этот текст и обсуждение в ФБ](https://www.facebook.com/viktor.ageyev/posts/pfbid0xP5TKZwGPyYV824UgTYV4je1uzpN3zHkLJk4G9b6NYZorxoD9Eez7AbrqhyPQocjl) (на русском)
 

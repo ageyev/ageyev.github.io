@@ -55,6 +55,8 @@ keywords: [Israel, Iran, war, international law, UN, legal analysis, jus in bell
 > так то ж, зрозумій, то — потім, колись <br/>
 
 ---
+![contract](/img/Illustrations/blog/2025-10-09_deal_with_the_devil/contract_with_the_devil_ChatGPT01.png)
+---
 
 Див. також:
 

@@ -55,6 +55,8 @@ keywords: [Israel, war, international law, legal analysis, jus in bello]
 > Так ведь это ж, пойми, — потом!  <br/>
 
 ---
+![contract](/img/Illustrations/blog/2025-10-09_deal_with_the_devil/contract_with_the_devil_ChatGPT01.png)
+---
 
 См. также:
 

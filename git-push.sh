@@ -13,6 +13,7 @@ git config --local user.email "$GIT_USER_EMAIL";
 
 # git config --local -l
 
+docusaurus clear
 npm run-script build && git add ./build && git commit -a -m "run build script"
 
 ssh-add -D
@@ -23,4 +24,4 @@ git push github --all
 ssh-add "${GITLAB_KEY_PATH}"
 git push gitlab --all
 
-# docusaurus clear
+docusaurus clear

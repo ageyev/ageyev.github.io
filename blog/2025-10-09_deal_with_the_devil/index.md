@@ -1,17 +1,17 @@
 ---
 slug: deal_with_the_devil
-title: A deal with the Devil
+title: A deal with the Devil in light of the norms of the Vienna Convention on the Law of Treaties
 authors: [ageyev]
 tags: [holy-land, israel, jus-in-bello]
 draft: false
 date: 2025-10-09
-description: "A deal with the Devil in light of the norms of the Vienna Convention on the Law of Treaties"
+description: "Norms of international and religious law"
 image: "/img/Illustrations/blog/2025-10-09_deal_with_the_devil/contract_with_the_devil_ChatGPT01.png" 
 lang: en
 keywords: [Israel, war, international law, legal analysis, jus in bello]
 ---
 
-# A deal with the Devil in light of the norms of the Vienna Convention on the Law of Treaties.
+# A deal with the Devil in light of the norms of the Vienna Convention on the Law of Treaties
 
 > "Come on, my friend, get ready the pen, <br/>
 > Sign the paper to have it done!” <br/>

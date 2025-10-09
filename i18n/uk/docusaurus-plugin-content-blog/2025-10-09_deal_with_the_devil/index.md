@@ -5,7 +5,7 @@ authors: [ageyev]
 tags: [holy-land, israel, jus-in-bello]
 draft: false
 date: 2025-10-09
-description: "Угода з дияволом у світлі положень Віденської конвенції про право міжнародних договорів"
+description: "Норми міжнародного та релігійного права"
 image: "/img/Illustrations/blog/2025-10-09_deal_with_the_devil/contract_with_the_devil_ChatGPT01.png" 
 lang: uk
 keywords: [Israel, Iran, war, international law, UN, legal analysis, jus in bello]

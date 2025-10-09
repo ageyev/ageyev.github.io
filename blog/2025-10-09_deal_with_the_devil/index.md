@@ -65,4 +65,10 @@ This post on social media:
 
 [Facebook](https://www.facebook.com/viktor.ageyev/posts/pfbid0xP5TKZwGPyYV824UgTYV4je1uzpN3zHkLJk4G9b6NYZorxoD9Eez7AbrqhyPQocjl) (post and discussion in Russian) 
 
+[Twitter (X)](https://international-law.info/blog/deal_with_the_devil/) 
+
+[LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7382094149296136192/) 
+
+[Instagram](https://www.instagram.com/p/DPmIne1CD7G/) 
+
 ---

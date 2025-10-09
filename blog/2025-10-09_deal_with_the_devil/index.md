@@ -22,8 +22,6 @@ keywords: [Israel, war, international law, legal analysis, jus in bello]
 
 ([A.Galich](https://translatedpoetry.wordpress.com/tag/galich/)) 
 
----
-
 (a)
 
 An agreement on any actions by Israel in exchange for the release of hostages constitutes recognition of the legal personality (subject status) of a terrorist organization and legitimizes the taking of Israelis as hostages in the future.

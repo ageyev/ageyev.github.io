@@ -19,8 +19,7 @@ keywords: [Israel, Iran, war, international law, UN, legal analysis, jus in bell
 > і підсунув мені каламар. <br/>
 > Я спитав його: «Що це — кров?» <br/>
 > — «Чорнило», — всміхнувся він. <br/>
-> ([О.Галич](https://uk.wikipedia.org/wiki/%D0%93%D0%B0%D0%BB%D0%B8%D1%87_%D0%9E%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%90%D1%80%D0%BA%D0%B0%D0%B4%D1%96%D0%B9%D0%BE%D0%B2%D0%B8%D1%87) "[Ще раз про чорта](https://www.youtube.com/watch?v=KYpqABS0xww)")
----
+> ([О.Галич](https://uk.wikipedia.org/wiki/%D0%93%D0%B0%D0%BB%D0%B8%D1%87_%D0%9E%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%90%D1%80%D0%BA%D0%B0%D0%B4%D1%96%D0%B9%D0%BE%D0%B2%D0%B8%D1%87) "[Ще раз про чорта](https://www.youtube.com/watch?v=KYpqABS0xww)") 
 
 (a)
 

@@ -1,6 +1,6 @@
 ---
 slug: deal_with_the_devil
-title: Угода з дияволом
+title: Угода з дияволом у світлі положень Віденської конвенції про право міжнародних договорів
 authors: [ageyev]
 tags: [holy-land, israel, jus-in-bello]
 draft: false

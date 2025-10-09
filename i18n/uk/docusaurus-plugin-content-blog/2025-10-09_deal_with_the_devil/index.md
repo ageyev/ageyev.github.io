@@ -1,17 +1,17 @@
 ---
 slug: deal_with_the_devil
-title: A deal with the Devil 
+title: Угода з дияволом
 authors: [ageyev]
 tags: [holy-land, israel, jus-in-bello]
 draft: false
 date: 2025-10-09
-description: "A deal with the Devil in light of the norms of the Vienna Convention on the Law of Treaties"
+description: "Угода з дияволом у світлі положень Віденської конвенції про право міжнародних договорів"
 image: "/img/Illustrations/blog/2025-10-09_deal_with_the_devil/contract_with_the_devil_ChatGPT01.png" 
 lang: uk
 keywords: [Israel, Iran, war, international law, UN, legal analysis, jus in bello]
 ---
 
-# A deal with the Devil in light of the norms of the Vienna Convention on the Law of Treaties.
+# Угода з дияволом у світлі положень Віденської конвенції про право міжнародних договорів
 
 > — Так давай же, візьми, перо, <br/>
 > І отут підпишись — у кутку. <br/>
@@ -21,29 +21,6 @@ keywords: [Israel, Iran, war, international law, UN, legal analysis, jus in bell
 > — «Чорнило», — всміхнувся він. <br/>
 > ([О.Галич](https://uk.wikipedia.org/wiki/%D0%93%D0%B0%D0%BB%D0%B8%D1%87_%D0%9E%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%90%D1%80%D0%BA%D0%B0%D0%B4%D1%96%D0%B9%D0%BE%D0%B2%D0%B8%D1%87) "[Ще раз про чорта](https://www.youtube.com/watch?v=KYpqABS0xww)")
 ---
-
-##
-
-slug: deal_with_the_devil
-title: Угода з дияволом
-authors: [ageyev]
-tags: [holy-land, israel, jus-in-bello]
-draft: false
-date: 2025-10-09
-description: "Угода з дияволом у світлі положень Віденської конвенції про право міжнародних договорів"
-image: "/img/Illustrations/blog/2025-10-09_deal_with_the_devil/contract_with_the_devil_ChatGPT01.png"
-lang: uk
-keywords: [Israel, war, international law, legal analysis, jus in bello]
-------------------------------------------------------------------------
-
-# Угода з дияволом у світлі положень Віденської конвенції про право міжнародних договорів
-
-> — То давай, старий, бери перо <br/>
-> І отут розпишись, у кутку! <br/>
-> Тут чорт доторкнувся мізинцем до брови… <br/>
-> І посунув до мене флакон… <br/>
-> І я спитав його: — Це кров? <br/>
-> — Чорнило, — відповів він… <br/>
 
 (a)
 
@@ -57,7 +34,7 @@ keywords: [Israel, war, international law, legal analysis, jus in bello]
 
 Єдиний розумний крок зараз: після повернення заручників оголосити, що угода, укладена для звільнення заручників, є недійсною і ні до чого Ізраїль не зобов’язує, і, відповідно, після звільнення заручників продовжити бойові дії до повної капітуляції Гази.
 
-Це цілком правомірна позиція, у тому числі відповідно до норми ст. 52 [Віденської конвенції про право міжнародних договорів](https://en.wikipedia.org/wiki/Vienna_Convention_on_the_Law_of_Treaties) — як такої, що відображає загальний правовий принцип. Я писав про це докладніше в статті «[Як слід діяти далі](https://www.9tv.co.il/item/85108)» на сайті 9 каналу 2025-01-20 (див. тже [її текст і обговорення у ФБ](ъhttps://www.facebook.com/viktor.ageyev/posts/pfbid02FPyGZb3kJuQVf64JXAoTEJhwkjzFQ7xf21jMKgZo93tfmDq8N4DXLhPVXCDfe5til)).
+Це цілком правомірна позиція, зокрема відповідно до норми ст. 52 [Віденської конвенції про право міжнародних договорів](https://en.wikipedia.org/wiki/Vienna_Convention_on_the_Law_of_Treaties) — як такої, що відображає загальний правовий принцип. Я писав про це докладніше в статті «[Як слід діяти далі](https://www.9tv.co.il/item/85108)» на сайті 9 каналу 2025-01-20 (див. також [її текст та обговорення у ФБ](https://www.facebook.com/viktor.ageyev/posts/pfbid02FPyGZb3kJuQVf64JXAoTEJhwkjzFQ7xf21jMKgZo93tfmDq8N4DXLhPVXCDfe5til)).
 
 Формальна капітуляція Гази, з визнанням поразки з боку ХАМАС, — це шлях до миру, а ось отримання Нобелівської премії миру шляхом до миру не є. Як ми пам’ятаємо, у 1994 році Нобелівська премія миру вже вручалася з формулюванням «за зусилля з досягнення миру на Близькому Сході».
 

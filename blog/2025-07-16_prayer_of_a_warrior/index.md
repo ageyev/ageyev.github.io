@@ -34,4 +34,4 @@ Therefore, we must honestly state that "Haredi" rabbis holding such views cannot
 
 This post on social media:
 
-[Facebook](https://www.facebook.com/viktor.ageyev/posts/pfbid0n6R3mHpJXJSY3tQzCFE84kgcJ9Pi94gPQvDLcCHjX8xH6jLf6r6RQ55qQJKD7tdnl) (post and discussion in Russian)
+[Facebook](https://www.facebook.com/viktor.ageyev/posts/pfbid0n6R3mHpJXJSY3tQzCFE84kgcJ9Pi94gPQvDLcCHjX8xH6jLf6r6RQ55qQJKD7tdnl) (post and discussion in Russian) 

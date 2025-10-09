@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://international-law.info/sitemap.xml

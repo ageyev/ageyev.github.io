@@ -78,8 +78,9 @@ html[data-theme='dark'] {
 /*}*/
 
 svg.icon {
+    /* inherit footer link color */
+    /*fill: currentColor;*/
     fill: whitesmoke;
-    height: 1rem;
 }
 
 svg.youtube:hover {
@@ -98,19 +99,15 @@ svg.twitter:hover {
     fill: grey;
 }
 
-/* -- centered icons */
-
-.footer__link-item{
-    margin-inline: auto; /* ! this makes social icons/links to be centered */
+/* prevents left-alignment on mobile screen */
+@media (max-width: 996px) {
+    .footer__link-item { margin-inline: auto; }
 }
 
 .footer-socials .footer_icon svg {
     height: 1.4rem;
-}
-
-.footer-socials {
-    display: flex;
-    gap: 1.4rem;
+    margin-left: 0.7rem;
+    margin-right: 0.7rem;
 }
 
 /* -------- */

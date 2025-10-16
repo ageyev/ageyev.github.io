@@ -174,10 +174,9 @@ const config: Config = {
                     label: 'GitHub',
                     position: 'right',
                 },
-                // TODO: repair RSS
                 { // --- RSS
                     href: 'https://international-law.info/blog/rss.xml',
-                    label: 'RSS',
+                    label: 'Blog RSS',
                     position: 'right',
                 },
             ],

@@ -106,8 +106,7 @@ svg.twitter:hover {
 
 .footer-socials .footer_icon svg {
     height: 1.4rem;
-    margin-left: 0.7rem;
-    margin-right: 0.7rem;
+    margin-inline: 0.7rem;
 }
 
 /* -------- */

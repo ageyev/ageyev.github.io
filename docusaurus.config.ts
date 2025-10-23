@@ -4,6 +4,10 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
 
+    // https://docusaurus.io/docs/api/docusaurus-config#staticDirectories
+    // keep links to files in static directories as is
+    staticDirectories: ['static'],
+
     plugins: [
         [
             '@docusaurus/plugin-ideal-image',

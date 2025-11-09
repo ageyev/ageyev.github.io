@@ -9,7 +9,7 @@ description: "Понятие 'оккупация' в международном 
 image: /img/Illustrations/docs/holy_land/belligerent_occupation/occupation_scales_international_law.png
 ---
 
-# Оккупация
+# Оккупация 
 
 Что на самом деле значит термин “оккупация” (англ. military occupation или belligerent occupation) в международном праве вообще, и в контексте Женевских конвенций в частности.
 

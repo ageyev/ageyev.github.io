@@ -1,20 +1,8 @@
----
-title: Borders and Territory of Israel
-id: borders_and_territory_of_israel
-hide_title: true
-draft: false
-tags: [Israel]
-description: "Where, in legal terms, Israel’s borders run and by what they are established"
-image: "/img/Illustrations/docs/holy_land/territory/1947_plan_of_partition_map_crop.png"
-lang: en
-keywords: ["international law", "Israel", "borders", "UN", "Palestine", "occupation", "annexation"]
----
-
 # Borders and Territory of Israel
 
 *Where, in legal terms, Israel’s borders run and by what they are established*
 
-## General remarks on argumentation in disputes on this topic 
+## General remarks on argumentation in disputes on this topic
 
 At present, the official position expressed in UN General Assembly resolutions, in documents of the International Court of Justice, the International Criminal Court, and even the Supreme Court of Israel—and adhered to by the overwhelming majority of international lawyers—is that Israel is currently occupying certain “Palestinian territories.” These usually refer to the West Bank of the Jordan River, East Jerusalem, and the Gaza Strip.
 
@@ -52,7 +40,7 @@ The principles are as follows:
 
 (2) A boundary treaty between neighboring (contiguous) states establishes the boundary line between them. *Ratification of a boundary treaty renders superfluous the adoption of domestic laws establishing that same boundary.*
 
-(3) A situation of ["belligerent occupation"](/Holy-Land/belligerent_occupation/) can be recognized only where a state’s armed forces occupy territory ***outside*** that state’s borders.
+(3) A situation of occupation can be recognized only where a state’s armed forces occupy territory ***outside*** that state’s borders.
 
 (4) The desire—even a very strong one—and even if supported by broad segments of world public opinion—to create one’s own state on the territory of another state is not, in itself, a ground for considering that territory “occupied,” and does not change existing state borders.
 
@@ -328,18 +316,6 @@ The operative documents defining Israel’s borders with Egypt and Jordan are it
 
 ---
 
-[References](/Holy-Land/borders_references/)
+Source: 
 
----
-
-See also:
-
-(early version) Viktor Ageyev, [Where Israel’s borders run and what Israel in fact occupies](https://www.9tv.co.il/Item/70693) // Channel 9 Israel, 2024-04-25
-
-[An even earlier version (in Russian)](https://github.com/ageyev/Israel/blob/main/TerritoryOfIsrael_RU.md)
-
----
-
-See also posts on our blog:
-
-[“From the Nile to the Euphrates”: on the biblical borders of Israel](/ru/blog/from_the_nile_to_the_euphrates/)
+https://international-law.info/Holy-Land/borders_and_territory_of_israel/ 

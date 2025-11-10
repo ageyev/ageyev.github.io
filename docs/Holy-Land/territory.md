@@ -324,7 +324,7 @@ Accordingly, they cannot be regarded as “occupied.” And, legally, their anne
 
 (3)
 
-The operative documents defining Israel’s borders with Egypt and Jordan are its treaties with Egypt (1979) and Jordan (1994). This method of establishing borders—treaties with neighboring states—is the one recognized in international law and, therefore, from an international-legal standpoint Israel requires neither the adoption of any decisions nor the signing of any other documents in order to establish its borders. And, just as for all other states in the world, *the sovereign territory of Israel is the territory within its borders*.
+The legal documents defining Israel’s borders with Egypt and Jordan are its treaties with Egypt (1979) and Jordan (1994). This method of establishing borders—treaties with neighboring states—is the one recognized in international law and, therefore, from an international-legal standpoint Israel requires neither the adoption of any decisions nor the signing of any other documents in order to establish its borders. And, just as for all other states in the world, *the sovereign territory of Israel is the territory within its borders*.
 
 ---
 

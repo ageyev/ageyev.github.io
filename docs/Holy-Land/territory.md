@@ -342,4 +342,4 @@ See also:
 
 See also posts on our blog:
 
-[“From the Nile to the Euphrates”: on the biblical borders of Israel](/ru/blog/from_the_nile_to_the_euphrates/)
+[“From the Nile to the Euphrates”: on the biblical borders of Israel](/blog/from_the_nile_to_the_euphrates/)

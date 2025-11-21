@@ -37,8 +37,6 @@ The metaphysical level of causes is the question of why the Almighty (you may ca
 
 The current plans for a peaceful settlement, both in the Middle East and in the European East, are built on an explicit ignoring of the causes at the “material” level and on an implicit denial of the very existence of a metaphysical level of causes.
 
-Even though there is a real possibility of achieving a cessation of fire in the European East and a truce in the Middle East, the fact that the material-level causes of the war have not been eliminated, and that we ignore even the elementary question “who attacked whom and, above all, why”, while declaring the metaphysical level non-existent, means that we are not curing either the illness or its cause, but merely masking the symptoms.
-
 Of course, the approach “for now the main thing is a truce, and afterwards we will see” is understandable. But if we look from the viewpoint of metaphysical causes, then the war came to these peoples precisely because they did not want to see these causes without a war.
 
 Or, in other words, if one ignores both the material and the metaphysical causes, war will not simply “be able to return”; it will most likely return in a more severe form and on a larger scale.

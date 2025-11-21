@@ -2,13 +2,13 @@
 slug: metaphysics_of_war_and_victory
 title: Metaphysics of War and Victory
 authors: [ageyev]
-tags: [holy-land]
+tags: [holy-land, metaphysics]
 draft: false
 date: 2025-11-21
 description: "Levels of cause and meaning"
 image: "/img/Illustrations/blog/2025-11-21_metaphysics_of_war_and_victory/sunrise_over_Jerusalem.jpeg" 
 lang: en
-keywords: [war, international law]
+keywords: [war, international law, metaphysics]
 ---
 
 # Metaphysics of War and Victory

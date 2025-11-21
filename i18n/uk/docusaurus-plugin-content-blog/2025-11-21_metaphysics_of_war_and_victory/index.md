@@ -2,13 +2,13 @@
 slug: metaphysics_of_war_and_victory
 title: Метафізика війни і перемоги
 authors: [ageyev]
-tags: [holy-land]
+tags: [holy-land, metaphysics]
 draft: false
 date: 2025-11-21
 description: "Рівні причин та смислів"
 image: "/img/Illustrations/blog/2025-11-21_metaphysics_of_war_and_victory/sunrise_over_Jerusalem.jpeg" 
 lang: uk
-keywords: [war, international law]
+keywords: [war, international law, metaphysics]
 ---
 
 # Метафізика війни і перемоги

@@ -1,6 +1,6 @@
 ---
-slug: metaphysics_of_war_and_victory
-title: Metaphysics of War and Victory
+slug: metaphysics_of_war
+title: Metaphysics of War
 authors: [ageyev]
 tags: [holy-land, metaphysics]
 draft: false
@@ -11,7 +11,7 @@ lang: en
 keywords: [war, international law, metaphysics]
 ---
 
-# Metaphysics of War and Victory
+# Metaphysics of War
 
 What is the profound flaw in the plans for a peaceful settlement in the Middle East and in the “European East”? It is the same in both cases and consists in the desire to ignore the question of the causes of the war.
 

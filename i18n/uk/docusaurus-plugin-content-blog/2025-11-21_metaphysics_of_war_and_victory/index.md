@@ -1,6 +1,6 @@
 ---
-slug: metaphysics_of_war_and_victory
-title: Метафізика війни і перемоги
+slug: metaphysics_of_war
+title: Метафізика війни
 authors: [ageyev]
 tags: [holy-land, metaphysics]
 draft: false
@@ -11,7 +11,7 @@ lang: uk
 keywords: [war, international law, metaphysics]
 ---
 
-# Метафізика війни і перемоги
+# Метафізика війни
 
 У чому полягає глибинна хибність планів мирного врегулювання на Близькому Сході та на «Європейському Сході»? Вона в обох випадках одна й та сама і полягає у прагненні ігнорувати питання про причини війни.
 

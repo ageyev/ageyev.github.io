@@ -1,6 +1,6 @@
 ---
-slug: metaphysics_of_war_and_victory
-title: Метафизика войны и победы
+slug: metaphysics_of_war
+title: Метафизика войны
 authors: [ageyev]
 tags: [holy-land, metaphysics]
 draft: false
@@ -11,7 +11,7 @@ lang: ru
 keywords: [war, international law, metaphysics]
 ---
 
-# Метафизика войны и победы
+# Метафизика войны
 
 В чем глубинная ошибочность планов мирного урегулирования на Ближнем Востоке и на “Европейском Востоке”? Она одна и та же, и состоит в стремлении игнорировать вопрос о причинах войны.
 

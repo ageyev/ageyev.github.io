@@ -76,15 +76,11 @@ image: /img/Illustrations/docs/holy_land/the_term_palestine/travel_document_crop
 
 Плакат Фонда помощи Палестине ([Keren Hayesod](https://www.kh-uia.org.il/about-us/our-history/)) в первой половины XX века, содержит надпись на английском "помоги ему строить Палестину" ("help him build Palestine"), и та же фраза продублирована на идиш: "помоги ему строить Эрец Исраэль (землю Изараиля)": 
 
-![Keren Hayeson: Help him build Palestine](/img/Illustrations/docs/holy_land/the_term_palestine/Help_him_build_Palestine_PalestineFoundationFund.jpeg)
+![Keren Hayeson: Help him build Palestine](/img/Illustrations/docs/holy_land/the_term_palestine/Help_him_build_Palestine_PalestineFoundationFund.jpeg){ width=50% }
 
 Постер Сионисткой организации Америки, "Помоги освободить Палестину" ("Help Free Palestine"):
 
-!["Help Free Palestine", a poster by the Zionist Organization of America, 1947](/img/Illustrations/docs/holy_land/the_term_palestine/1947_Help-Free-Palestine.webp) 
-
-
-
-
+!["Help Free Palestine", a poster by the Zionist Organization of America, 1947](/img/Illustrations/docs/holy_land/the_term_palestine/1947_Help-Free-Palestine.webp){ width=50% }
 
 Арабы себя с Палестиной в то время никак не ассоциировали и “палестинцами” себя не считали, ярким показателем чего является то, что, когда Лига Наций решила выделить часть Палестины для создания арабского государства, и в 1946 году это государство было создано (Иордания), оно никак не связывало себя с понятием “Палестина” и его население себя в качестве “палестинцев” никогда не идентифицировало. 
 

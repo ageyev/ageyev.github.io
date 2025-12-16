@@ -74,7 +74,7 @@ image: /img/Illustrations/docs/holy_land/the_term_palestine/travel_document_crop
 
 Также в 1939 - 1949 в США действовал "Комитет за палестинскую государственность" ([Palestine Statehood Committee](https://archives.yale.edu/repositories/12/resources/4826)), под которой подразумевалось именно создание еврейского государства (см. также [Palestine Statehood Committee Records, 1939-1949](https://libraries.psu.edu/databases/psu02408)) 
 
-Плакат Фонда помощи Палестине ([Keren Hayesod](https://www.kh-uia.org.il/about-us/our-history/)) в первой половины XX века, содержит надпись на английском "помоги ему строить Палестину" ("help him build Palestine"), и та же фраза продублирована на идиш: "помоги ему строить Эрец Исраэль (землю Изараиля)": 
+Плакат Фонда помощи Палестине ([Keren Hayesod](https://www.kh-uia.org.il/about-us/our-history/)) в первой половины XX века, содержит надпись на английском "помоги ему строить Палестину" ("help him build Palestine"), и та же фраза продублирована на идиш: "помоги ему строить Эрец Исраэль (Землю Израиля)": 
 
 ![Keren Hayeson: Help him build Palestine](/img/Illustrations/docs/holy_land/the_term_palestine/Help_him_build_Palestine_PalestineFoundationFund_small.jpeg)
 

@@ -78,7 +78,7 @@ image: /img/Illustrations/docs/holy_land/the_term_palestine/travel_document_crop
 
 ![Keren Hayeson: Help him build Palestine](/img/Illustrations/docs/holy_land/the_term_palestine/Help_him_build_Palestine_PalestineFoundationFund_small.jpeg)
 
-Постер Сионисткой организации Америки, "Помоги освободить Палестину" ("Help Free Palestine"):
+Постер Сионисткой Организации Америки ([Zionist Organization of America](https://en.wikipedia.org/wiki/Zionist_Organization_of_America))) "Помоги освободить Палестину" ("Help Free Palestine"):
 
 !["Help Free Palestine", a poster by the Zionist Organization of America, 1947](/img/Illustrations/docs/holy_land/the_term_palestine/1947_Help-Free-Palestine_small.webp)
 

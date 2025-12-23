@@ -9,10 +9,6 @@ image: /img/Illustrations/docs/holy_land/palestinian_people/arafat_and_brezhnev_
 description: 'Справжня історія "палестинського народу" та її правовий аналіз'
 ---
 
----
-
-## title: "Палестинський народ" id: palestinian_people hide_title: true draft: false tags: [Israel] lang: uk image: /img/Illustrations/docs/holy_land/palestinian_people/arafat_and_brezhnev_afp.jpg description: 'Справжня історія "палестинського народу" та її правовий аналіз'
-
 # Палестинський народ та його право на самовизначення: історико-правовий аналіз
 
 ## Унікальність "палестинського народу" в міжнародному праві
@@ -264,7 +260,7 @@ description: 'Справжня історія "палестинського на
 
 ---
 
-Рання версія цього тексту (російською):
+Попередня версія цього тексту (російською):
 [Що таке "палестинський народ" і чи є у нього право на самовизначення](https://github.com/ageyev/Israel/blob/main/palestinians/palestinians_ru.md)
 
 ---
@@ -277,3 +273,4 @@ description: 'Справжня історія "палестинського на
 
 [X (Twitter)](https://x.com/ageyev/status/1931994687272780217)
 
+---

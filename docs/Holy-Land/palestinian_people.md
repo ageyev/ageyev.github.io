@@ -9,7 +9,7 @@ image: /img/Illustrations/docs/holy_land/palestinian_people/arafat_and_brezhnev_
 description: 'The true history of the "Palestinian people" and its legal analysis'
 ---
 
-# The Palestinian People and Their Right to Self-Determination: A Legal and Historical Analysis.
+# The "Palestinian People" and Their Right to Self-Determination: A Legal and Historical Analysis.
 
 ## The Uniqueness of the "Palestinian People" in International Law
 

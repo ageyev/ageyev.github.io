@@ -6,10 +6,10 @@ draft: false
 tags: [Israel]
 lang: uk
 description: "Поняття 'окупація' у міжнародному праві"
-image: /img/Illustrations/docs/holy_land/belligerent_occupation/occupation_scales_international_law.png
+image: /img/Illustrations/docs/holy_land/belligerent_occupation/occupation_scales_international_law.png 
 ---
 
-# Окупація
+# Окупація 
 
 Що насправді означає термін “окупація” (англ. military occupation або belligerent occupation) у міжнародному праві взагалі, і в контексті Женевських конвенцій зокрема.
 

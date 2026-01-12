@@ -32,7 +32,7 @@ const sidebars: SidebarsConfig = {
     },
     {
       type: 'category',
-      label: 'Holy Land',
+      label: 'War for the Holy Land',
       link: {
         type: 'doc',
         id: 'Holy-Land/holy_land',
@@ -43,6 +43,17 @@ const sidebars: SidebarsConfig = {
         'Holy-Land/state_of_palestine',
         'Holy-Land/belligerent_occupation',
         'Holy-Land/borders_and_territory_of_israel',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Theology and Law',
+      link: {
+        type: 'doc',
+        id: 'ECHR/echr',
+      },
+      items: [
+        // 'ECHR/our_cases',
       ],
     },
     {

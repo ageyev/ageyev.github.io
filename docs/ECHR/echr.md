@@ -3,6 +3,10 @@ title: ECHR
 id: echr
 hide_title: true
 draft: false
+tags: [ECHR]
+lang: en
+image: /img/Illustrations/docs/echr/2005.03.22_Strasbourg_SalovCase_Ageyev_Fedur.jpg
+description: Decisions of the European Court of Human Rights in cases in which I was the applicant's lawyer
 ---
 
 # European Court of Human Rights
@@ -15,7 +19,7 @@ Decisions of the European Court of Human Rights in cases in which I was the appl
 
 [Press release issued by the Court's Registrar](https://hudoc.echr.coe.int/eng-press?i=003-1436243-1499800).
 
-Judgment in [English](https://hudoc.echr.coe.int/?i=001-70096), [French](https://hudoc.echr.coe.int/?i=001-70097), and [Ukrainian](https://zakon.rada.gov.ua/laws/show/980_428)(https://zakon.rada.gov.ua/laws/show/980_428)
+Judgment in [English](https://hudoc.echr.coe.int/?i=001-70096), [French](https://hudoc.echr.coe.int/?i=001-70097), and [Ukrainian](https://zakon.rada.gov.ua/laws/show/980_428)
 Violation of Art. 5-3 Violation of Art. 6-1 Violation of Art. 10
 
 ---
@@ -44,3 +48,10 @@ Violation of Article 8 - Right to respect for private and family life (Article 8
 
 --- 
 
+Photo: 
+
+With [Andriy Fedur](https://uk.wikipedia.org/wiki/%D0%A4%D0%B5%D0%B4%D1%83%D1%80_%D0%90%D0%BD%D0%B4%D1%80%D1%96%D0%B9_%D0%90%D0%BD%D0%B0%D1%82%D0%BE%D0%BB%D1%96%D0%B9%D0%BE%D0%B2%D0%B8%D1%87) at the European Court building after the hearing in the Salov case
+
+[![](/img/Illustrations/docs/echr/2005.03.22_Strasbourg_SalovCase_Ageyev_Fedur.jpg)](/img/Illustrations/docs/echr/2005.03.22_Strasbourg_SalovCase_Ageyev_Fedur.jpg)
+
+---

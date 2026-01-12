@@ -20,7 +20,7 @@
     "description": "The label for category Software in sidebar docs"
   },
   "sidebar.docs.category.Holy Land": {
-    "message": "Свята Земля",
+    "message": "Близькосхідний конфлікт",
     "description": "The label for category Holy Land in sidebar docs"
   }
 }

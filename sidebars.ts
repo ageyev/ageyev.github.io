@@ -32,7 +32,7 @@ const sidebars: SidebarsConfig = {
     },
     {
       type: 'category',
-      label: 'War for the Holy Land',
+      label: 'Middle East conflict',
       link: {
         type: 'doc',
         id: 'Holy-Land/holy_land',

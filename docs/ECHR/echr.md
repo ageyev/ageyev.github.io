@@ -15,7 +15,7 @@ Decisions of the European Court of Human Rights in cases in which I was the appl
 
 [Press release issued by the Court's Registrar](https://hudoc.echr.coe.int/eng-press?i=003-1436243-1499800).
 
-Judgment in [English](https://hudoc.echr.coe.int/?i=001-70096), [French](https://hudoc.echr.coe.int/?i=001-70097), and [Ukrainian](https://zakon.rada.gov.ua/laws/show/980_428) (https://zakon.rada.gov.ua/laws/show/980_428)
+Judgment in [English](https://hudoc.echr.coe.int/?i=001-70096), [French](https://hudoc.echr.coe.int/?i=001-70097), and [Ukrainian](https://zakon.rada.gov.ua/laws/show/980_428)(https://zakon.rada.gov.ua/laws/show/980_428)
 Violation of Art. 5-3 Violation of Art. 6-1 Violation of Art. 10
 
 ---
@@ -30,7 +30,7 @@ Violation of Article 6 - Right to a fair trial (Article 6 - Civil proceedings Ar
 
 ## Case of Feldman v. Ukraine 
 
-Judgment in [English](https://hudoc.echr.coe.int/?i=001-98112) and in [Ukrainian](https://zakon.rada.gov.ua/laws/show/974_613)
+Judgment in [English](https://hudoc.echr.coe.int/?i=001-98112) and in [Ukrainian](https://zakon.rada.gov.ua/laws/show/974_613) 
 
 Violation of Art. 5-1 Violation of Art. 5-3 Violation of Art. 5-4 Violation of Art. 6-1.
 

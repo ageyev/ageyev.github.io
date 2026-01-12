@@ -15,7 +15,7 @@ draft: false
 
 [Пресс-релиз, выпущенный секретарем Суда](https://hudoc.echr.coe.int/eng-press?i=003-1436243-1499800).
 
-Решение на [английском](https://hudoc.echr.coe.int/?i=001-70096), [французском](https://hudoc.echr.coe.int/?i=001-70097) и [украинском](https://zakon.rada.gov.ua/laws/show/980_428) (https://zakon.rada.gov.ua/laws/show/980_428)
+Решение на [английском](https://hudoc.echr.coe.int/?i=001-70096), [французском](https://hudoc.echr.coe.int/?i=001-70097) и [украинском](https://zakon.rada.gov.ua/laws/show/980_428)
 
 Нарушение ст. 5-3 Нарушение ст. 6-1 Нарушение ст. 10 Конвенции
 

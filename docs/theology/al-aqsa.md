@@ -9,7 +9,7 @@ image: /img/Illustrations/docs/theology/glowing_temple.png
 description: 'What is the Al-Aqsa Mosque and why is it the key to peace in the Middle East?'
 ---
 
-# What Is the "Al-Aqsa Mosque" Mentioned in the Quran?
+# What Is the "Al-Aqsa Mosque" Mentioned in the Quran? 
 
 ## Al-Aqsa as the True Cause of the War
 
@@ -111,6 +111,10 @@ Thus the restored Al-Aqsa will be a holy site and a place of prayer for Jews, fo
 > "Even them will I bring to My holy mountain, and make them joyful in My house of prayer; their burnt-offerings and their sacrifices shall be acceptable upon Mine altar; for My house shall be called a house of prayer for all peoples."
 
 (Isaiah [56:7](https://mechon-mamre.org/p/pt/pt1056.htm))
+
+---
+
+![](/img/Illustrations/docs/theology/glowing_temple.png)
 
 ---
 

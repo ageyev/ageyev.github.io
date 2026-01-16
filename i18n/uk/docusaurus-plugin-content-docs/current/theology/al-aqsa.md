@@ -140,6 +140,10 @@ description: 'Що таке мечеть Аль Акса і чому це клю
 
 ---
 
+![](/img/Illustrations/docs/theology/glowing_temple.png)
+
+---
+
 Публікації та обговорення:
 
 [Обговорення у Facebook ранньої версії цієї статті](https://www.facebook.com/viktor.ageyev/posts/pfbid02vj17jBzVgYDTZp4rAhd9ekggKAGT1C7Tx4ZS4MRKZhp2aAVkwqBCRtZ42P8zv5j5l)

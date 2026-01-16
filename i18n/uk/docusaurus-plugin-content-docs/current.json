@@ -5,7 +5,7 @@
   },
   "sidebar.docs.category.UN": {
     "message": "ООН",
-    "description": "The label for category UN in sidebar docs"
+    "description": "The label for category 'UN' in sidebar 'docs'"
   },
   "sidebar.docs.category.About": {
     "message": "Про нас",
@@ -17,14 +17,14 @@
   },
   "sidebar.docs.category.Software": {
     "message": "Софт",
-    "description": "The label for category Software in sidebar docs"
+    "description": "The label for category 'Software' in sidebar 'docs'"
   },
-  "sidebar.docs.category.Holy Land": {
-    "message": "Близькосхідний конфлікт",
-    "description": "The label for category Holy Land in sidebar docs"
+  "sidebar.docs.category.Middle East conflict": {
+    "message": "Middle East conflict",
+    "description": "Близькосхідний конфлікт"
   },
-  "sidebar.docs.category.theology": {
+  "sidebar.docs.category.Theology and Law": {
     "message": "Право і теологія",
-    "description": "The label for category Holy Land in sidebar docs"
+    "description": "The label for category 'Theology and Law' in sidebar 'docs'"
   }
 }

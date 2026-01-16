@@ -22,5 +22,9 @@
   "item.label.RSS": {
     "message": "RSS",
     "description": "Navbar item with label RSS"
+  },
+  "item.label.Blog RSS": {
+    "message": "Blog RSS",
+    "description": "Navbar item with label Blog RSS"
   }
 }

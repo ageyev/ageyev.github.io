@@ -22,4 +22,7 @@ ECHR:
   label: ECHR
   permalink: '/echr'
   description: 'Європейська конвенція з прав людини та Європейський суд з прав людини'
-
+Theology:
+  label: Теологія
+  permalink: '/theology'
+  description: 'Теологія'

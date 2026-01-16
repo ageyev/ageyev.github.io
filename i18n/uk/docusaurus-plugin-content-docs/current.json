@@ -22,5 +22,9 @@
   "sidebar.docs.category.Holy Land": {
     "message": "Близькосхідний конфлікт",
     "description": "The label for category Holy Land in sidebar docs"
+  },
+  "sidebar.docs.category.theology": {
+    "message": "Право і теологія",
+    "description": "The label for category Holy Land in sidebar docs"
   }
 }

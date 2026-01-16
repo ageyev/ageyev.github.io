@@ -50,10 +50,10 @@ const sidebars: SidebarsConfig = {
       label: 'Theology and Law',
       link: {
         type: 'doc',
-        id: 'ECHR/echr',
+        id: 'theology/theology',
       },
       items: [
-        // 'ECHR/our_cases',
+        'theology/al-aqsa',
       ],
     },
     {

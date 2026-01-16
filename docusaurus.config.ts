@@ -96,7 +96,7 @@ const config: Config = {
                     showLastUpdateAuthor: true, // git username from the last commit
                     showLastUpdateTime: true, // git last commit time
                     //
-                    blogSidebarCount: 12, // Set the number of recent posts
+                    blogSidebarCount: 21, // Set the number of recent posts
                 },
 
                 theme: {

@@ -102,7 +102,9 @@ The Torah says something similar.
 
 ## Al-Aqsa as "a House of Prayer for All Peoples" and the Key to Ending the War
 
-Based on this, Muslims have no theological grounds to oppose the restoration by the Israelites (the children of Israel) of the Temple on the Temple Mount. For this would be the restoration of that very true "Al-Aqsa Mosque" of which the Quran speaks, that very Temple ("Bayt al-Maqdis") toward which Muhammad himself prayed until 625 CE.
+Based on this, Muslims have no theological grounds to oppose the restoration of the real Al-Aqsa on the Temple Mount and the demolition of temporary structures, which are not the sanctuary of Islam, but on the contrary, what conceals and tramples (albeit perhaps unintentionally) the true sanctuary of Islam - what was the first Qibla.
+
+For this would be the restoration of that very true "Al-Aqsa Mosque" of which the Quran speaks, that very Temple ("Bayt al-Maqdis") toward which Muhammad himself prayed until 625 CE.
 
 The present (temporary) Muslim structures on the Temple Mount did not exist at the time of the writing of the Quran, and their demolition, necessary for the restoration of the true Al-Aqsa and the rebuilding of this ancient Temple, is thus a return to the true holy sites of Islam.
 

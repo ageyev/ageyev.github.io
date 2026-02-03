@@ -1,5 +1,5 @@
 ---
-title: "Al-Aqsa"
+title: "Аль Акса"
 id: al-aqsa
 hide_title: true
 draft: false

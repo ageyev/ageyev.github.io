@@ -2,7 +2,7 @@
 slug: sadducees_and_pharisees
 title: "Sadducees and Pharisees"
 authors: [ageyev]
-tags: [theology, history, Israel]
+tags: [theology, history, israel]
 draft: false
 date: 2026-01-08
 description: "A history they do not teach in yeshivas"

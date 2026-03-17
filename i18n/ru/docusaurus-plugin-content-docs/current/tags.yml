@@ -1,4 +1,4 @@
-docusaurus:
+Docusaurus:
   label: 'Docusaurus'
   permalink: '/docusaurus'
   description: 'Docs related to the Docusaurus framework'
@@ -22,11 +22,15 @@ ECHR:
   label: ECHR
   permalink: '/echr'
   description: 'Европейская конвенции по правам человека и Европейский суд по правам человека'
-Theology:
+theology:
   label: Теология
   permalink: '/theology'
   description: 'Теология'
-Physics:
+physics:
   label: Физика
   permalink: '/physics'
   description: 'Физика'
+metaphysics:
+  label: Метафизика
+  permalink: /metaphysics
+  description: Метафизика

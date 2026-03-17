@@ -26,3 +26,11 @@ metaphysics:
   label: Метафізика
   permalink: /metaphysics
   description: Метафізика
+history:
+  label: Історія
+  permalink: /history
+  description: Історія
+theology:
+  label: Теологія
+  permalink: /theology
+  description: Теологія

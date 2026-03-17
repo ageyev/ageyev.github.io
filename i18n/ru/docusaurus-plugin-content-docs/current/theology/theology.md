@@ -3,7 +3,7 @@ title: Law and Theology
 id: theology
 hide_title: true
 draft: false
-tags: [Theology]
+tags: [theology]
 lang: en
 ---
 

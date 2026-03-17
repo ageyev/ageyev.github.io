@@ -3,7 +3,7 @@ title: "Al-Aqsa"
 id: al-aqsa
 hide_title: true
 draft: false
-tags: [Theology]
+tags: [theology]
 lang: en
 image: /img/Illustrations/docs/theology/glowing_temple.png
 description: 'What is the Al-Aqsa Mosque and why is it the key to peace in the Middle East?'

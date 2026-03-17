@@ -22,11 +22,15 @@ ECHR:
   label: ECHR
   permalink: '/echr'
   description: 'Європейська конвенція з прав людини та Європейський суд з прав людини'
-Theology:
+theology:
   label: Теологія
   permalink: '/theology'
   description: 'Теологія'
-Physics:
+physics:
   label: Фізика
   permalink: '/physics'
   description: 'Фізика'
+metaphysics:
+  label: Метафізика
+  permalink: /metaphysics
+  description: Метафізика

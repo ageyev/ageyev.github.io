@@ -3,7 +3,7 @@ title: "Аль Акса"
 id: al-aqsa
 hide_title: true
 draft: false
-tags: [Theology]
+tags: [theology]
 lang: uk
 image: /img/Illustrations/docs/theology/glowing_temple.png
 description: 'Що таке мечеть Аль Акса і чому це ключ до миру на Близькому Сході'

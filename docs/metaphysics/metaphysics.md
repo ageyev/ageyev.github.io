@@ -3,7 +3,7 @@ title: Metaphysics
 id: metaphysics
 hide_title: true
 draft: true
-tags: [Metaphysics]
+tags: [metaphysics]
 lang: en
 ---
 

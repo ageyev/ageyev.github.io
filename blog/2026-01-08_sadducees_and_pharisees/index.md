@@ -55,4 +55,4 @@ Thus, the rejection by modern Pharisees of the idea of restoring the Temple and 
 
 ---
 
-[Post and discussion on Facebook](https://www.facebook.com/viktor.ageyev/posts/pfbid02jR35HX1Fdvs4dNeadJvUMhKkFR5ayzyrcgggADxjAhiYTHeuSTRdig8UaeGCopbnl)(in Russian)
+[Post and discussion on Facebook](https://www.facebook.com/viktor.ageyev/posts/pfbid02jR35HX1Fdvs4dNeadJvUMhKkFR5ayzyrcgggADxjAhiYTHeuSTRdig8UaeGCopbnl) (in Russian)

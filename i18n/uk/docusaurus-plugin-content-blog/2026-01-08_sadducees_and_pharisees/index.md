@@ -55,4 +55,4 @@ keywords: [theology, history]
 
 --- 
 
-[Допис і обговорення на Facebook](https://www.facebook.com/viktor.ageyev/posts/pfbid02jR35HX1Fdvs4dNeadJvUMhKkFR5ayzyrcgggADxjAhiYTHeuSTRdig8UaeGCopbnl)(російською)
+[Допис і обговорення на Facebook](https://www.facebook.com/viktor.ageyev/posts/pfbid02jR35HX1Fdvs4dNeadJvUMhKkFR5ayzyrcgggADxjAhiYTHeuSTRdig8UaeGCopbnl) (російською)

@@ -26,3 +26,7 @@ Theology:
   label: Theology
   permalink: '/theology'
   description: 'Theology'
+Physics:
+  label: Physics
+  permalink: '/physics'
+  description: 'Physics'

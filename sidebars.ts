@@ -67,6 +67,17 @@ const sidebars: SidebarsConfig = {
         // 'ECHR/our_cases',
       ],
     },
+    // { // TODO: add category
+    //   type: 'category',
+    //   label: 'Metaphysics',
+    //   link: {
+    //     type: 'doc',
+    //     id: 'metaphysics/metaphysics',
+    //   },
+    //   items: [
+    //     'metaphysics/',
+    //   ],
+    // },
     {
       type: 'category',
       label: 'Software',

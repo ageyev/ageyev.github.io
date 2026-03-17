@@ -7,6 +7,6 @@ tags: [Theology]
 lang: en
 ---
 
-# Law and Theology 
+# Law and Theology
 
 [Al-Aqsa](/theology/al-aqsa.md) 

@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-tags: [Docusaurus]
+tags: [docusaurus]
 ---
 
 # Viktor Ageyev

@@ -19,6 +19,7 @@ I intended to write this post on Purim. But I did not.
 And now the esteemed [Rabbi Kochubievsky](https://www.facebook.com/shlomo.kochubievsky) posed me a [question](https://www.facebook.com/shlomo.kochubievsky/posts/pfbid02ujWYEK9iJPrmkQNX3CrdCvbYd8kAFxX6JiWiJ7MPewdSoGvc8qfkaVZzR8bDfizGl) about how I would explain such two delicate topics as Haman's verdict to annihilate the entire Jewish people, and the Holocaust.
 
 Perhaps Rabbi Kochubievsky himself posed the questions about Purim and the Holocaust as *two* separate difficult questions. But in my view this is precisely one question. Purim offers a way to explain the Holocaust, because if we analyze the situation in which Haman's decree came about, we can put forward a hypothesis that a certain pattern is discernible here, and extrapolate the conclusions to the subsequent and present-day situation.
+<!-- truncate -->
 
 To appreciate how intellectually and morally dangerous this topic is, one must cite one of the most influential Jewish religious authorities of the post-Holocaust period — the Lubavitcher Rebbe (Sefer HaSichot 5751 Vol.1 p.233):
 

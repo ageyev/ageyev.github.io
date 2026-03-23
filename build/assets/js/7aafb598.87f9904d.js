@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkageyev_github_io=self.webpackChunkageyev_github_io||[]).push([[3382],{4614:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/blog/page/3","page":3,"postsPerPage":5,"totalPages":4,"totalCount":16,"previousPage":"/blog/page/2","nextPage":"/blog/page/4","blogDescription":"Ubi societas, ibi ius","blogTitle":"International Law etc."}}')}}]);

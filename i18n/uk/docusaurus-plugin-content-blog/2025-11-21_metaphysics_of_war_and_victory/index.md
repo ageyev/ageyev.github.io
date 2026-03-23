@@ -45,3 +45,7 @@ keywords: [war, international law, metaphysics]
 На фото: наші бійці завершили нічний марш-кидок. Ми разом із ними зустрічаємо світанок. Над Єрусалимом сходить сонце.
 
 ![sunrise over Jerusalem](/img/Illustrations/blog/2025-11-21_metaphysics_of_war_and_victory/sunrise_over_Jerusalem.jpeg) 
+
+---
+
+[Пост на Facebook](https://www.facebook.com/viktor.ageyev/posts/pfbid0GRBiiJMR97ZcU8x5XH3fcNDWR1VeUkRfWCFXPBzhQE9FGMQRY9zL7SX7jciR2N1Nl) (російською) 

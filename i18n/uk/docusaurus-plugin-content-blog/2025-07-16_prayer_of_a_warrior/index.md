@@ -2,7 +2,7 @@
 slug: prayer-of-a-warrior
 title: Молитва воїна
 authors: [ageyev]
-tags: [holy-land, israel]
+tags: [holy-land, Israel]
 draft: false
 date: 2025-07-16
 description: "Молитва воїна, який іде в бій, перебуває на духовному рівні, принципово недосяжному в умовах єшиви"

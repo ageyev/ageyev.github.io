@@ -2,7 +2,7 @@
 slug: sadducees_and_pharisees
 title: "Садукеї і фарисеї"
 authors: [ageyev]
-tags: [theology, history, israel]
+tags: [theology, history, Israel]
 draft: false
 date: 2026-01-08
 description: "Історія, якої не вчать у єшивах"

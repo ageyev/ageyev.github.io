@@ -2,7 +2,7 @@
 slug: strike-on-iran
 title: Удар по Ирану
 authors: [ageyev]
-tags: [holy-land, israel, iran]
+tags: [holy-land, Israel, Iran]
 draft: false
 date: 2025-06-13
 description: "Международно-правовой анализ"

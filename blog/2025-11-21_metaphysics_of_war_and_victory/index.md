@@ -46,3 +46,7 @@ This is not a pessimistic scenario; on the contrary, there is a ray of hope in i
 In the photograph: our fighters have completed a night forced march. Together with them we meet the dawn. The sun is rising over Jerusalem.
 
 ![sunrise over Jerusalem](/img/Illustrations/blog/2025-11-21_metaphysics_of_war_and_victory/sunrise_over_Jerusalem.jpeg) 
+
+---
+
+[Post on Facebook](https://www.facebook.com/viktor.ageyev/posts/pfbid0GRBiiJMR97ZcU8x5XH3fcNDWR1VeUkRfWCFXPBzhQE9FGMQRY9zL7SX7jciR2N1Nl) (in Russian)

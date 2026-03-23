@@ -2,7 +2,7 @@
 slug: it-must-also-be-seen-to-be-done
 title: It must also be seen to be done
 authors: [ageyev]
-tags: [holy-land, israel, iran, jus-in-bello]
+tags: [holy-land, Israel, Iran, jus-in-bello]
 draft: false
 date: 2025-06-27
 description: "It is not enough to defeat the enemy; it must also be seen that the enemy is defeated."

@@ -2,7 +2,7 @@
 slug: surrender-or-ceasefire
 title: Капітуляція або припинення вогню
 authors: [ageyev]
-tags: [holy-land, israel, iran, jus-in-bello]
+tags: [holy-land, Israel, Iran, jus-in-bello]
 draft: false
 date: 2025-06-25
 description: "Безумовна капітуляція чи безумовне припинення вогню? Чому сучасна доктрина є хибною"

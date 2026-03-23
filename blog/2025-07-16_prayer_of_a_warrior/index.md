@@ -2,7 +2,7 @@
 slug: prayer-of-a-warrior
 title: The prayer of a warrior
 authors: [ageyev]
-tags: [holy-land, israel]
+tags: [holy-land, Israel]
 draft: false
 date: 2025-07-16
 description: "The prayer of a warrior going into battle is on a spiritual level fundamentally unattainable in yeshiva conditions"

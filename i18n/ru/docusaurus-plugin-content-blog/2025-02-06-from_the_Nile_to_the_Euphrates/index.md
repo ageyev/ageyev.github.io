@@ -2,7 +2,7 @@
 slug: from_the_nile_to_the_euphrates
 title: "От Нила до Евфрата"
 authors: [ageyev]
-tags: [ageyev, israel, holy-land]
+tags: [ageyev, Israel, holy-land]
 draft: false
 description: "От Нила до Евфрата: к вопросу о библейских границах Израиля"
 image: /img/Illustrations/blog/2025-02-06-from_the_Nile_to_the_Euphrates/Bereshit_15-18.png

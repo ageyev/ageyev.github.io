@@ -42,3 +42,7 @@ keywords: [war, international law, metaphysics]
 На фото: Наши бойцы завершили ночной марш-бросок. Мы вместе с ними встречаем рассвет. Над Иерусалимом восходит солнце.
 
 ![sunrise over Jerusalem](/img/Illustrations/blog/2025-11-21_metaphysics_of_war_and_victory/sunrise_over_Jerusalem.jpeg) 
+
+---
+
+[Пост на Фейсбук](https://www.facebook.com/viktor.ageyev/posts/pfbid0GRBiiJMR97ZcU8x5XH3fcNDWR1VeUkRfWCFXPBzhQE9FGMQRY9zL7SX7jciR2N1Nl) (на русском)

@@ -2,7 +2,7 @@
 slug: deal_with_the_devil
 title: Угода з дияволом
 authors: [ageyev]
-tags: [holy-land, israel, jus-in-bello]
+tags: [holy-land, Israel, jus-in-bello]
 draft: false
 date: 2025-10-09
 description: "Норми міжнародного та релігійного права"

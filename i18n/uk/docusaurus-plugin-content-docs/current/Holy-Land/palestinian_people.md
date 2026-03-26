@@ -1,5 +1,5 @@
 ---
-title: "Palestinian people"
+title: "Палестинський народ"
 id: palestinian_people
 hide_title: true
 draft: false

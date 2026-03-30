@@ -32,7 +32,7 @@
     "description": "The label for category 'Middle East conflict' in sidebar 'docs'"
   },
   "sidebar.docs.category.Theology and Law": {
-    "message": "Право и Теология",
+    "message": "Право и теология",
     "description": "The label for category 'Theology and Law' in sidebar 'docs'"
   }
 }

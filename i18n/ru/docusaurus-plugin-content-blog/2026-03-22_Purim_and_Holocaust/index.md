@@ -152,3 +152,6 @@ keywords: [theology, history]
 ![If I forget you, O Jerusalem](/img/Illustrations/blog/2026-03-22_Purim_and_Holocaust/im_eshkakhekh_Yerushalaim_.png)
 
 ---
+
+[Публикация и обсуждение на Фейсбук](https://www.facebook.com/viktor.ageyev/posts/pfbid02jBB2dYPVAdPzCSsHqDrLHSDzRVgaFpyx9cdisxdQARnmJRSVUjFddT8PaDnCds2Dl) (на русском) 
+

@@ -4,11 +4,20 @@
         <title>International Law etc. Blog</title>
         <link>https://international-law.info/blog/</link>
         <description>Keep up to date with upcoming blog posts by following our feed!</description>
-        <lastBuildDate>Sun, 22 Mar 2026 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Apr 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Copyright © 2026 Viktor Ageyev</copyright>
+        <item>
+            <title><![CDATA[Death penalty law]]></title>
+            <link>https://international-law.info/blog/death_penalty_law/</link>
+            <guid>https://international-law.info/blog/death_penalty_law/</guid>
+            <pubDate>Fri, 03 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Death penalty law in Israel]]></description>
+            <category>law</category>
+            <category>Israel</category>
+        </item>
         <item>
             <title><![CDATA[Purim and the Holocaust]]></title>
             <link>https://international-law.info/blog/purim_and_holocaust/</link>

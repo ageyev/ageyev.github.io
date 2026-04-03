@@ -2,12 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://international-law.info/uk/blog/</id>
     <title>International Law etc. Blog</title>
-    <updated>2026-03-22T00:00:00.000Z</updated>
+    <updated>2026-04-03T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://international-law.info/uk/blog/"/>
     <subtitle>Keep up to date with upcoming blog posts by following our feed!</subtitle>
     <icon>https://international-law.info/uk/img/favicon/favicon.ico</icon>
     <rights>Copyright © 2026 Viktor Ageyev</rights>
+    <entry>
+        <title type="html"><![CDATA[Death penalty law]]></title>
+        <id>https://international-law.info/uk/blog/death_penalty_law/</id>
+        <link href="https://international-law.info/uk/blog/death_penalty_law/"/>
+        <updated>2026-04-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Death penalty law in Israel]]></summary>
+        <author>
+            <name>Віктор Агєєв</name>
+        </author>
+        <category label="law" term="law"/>
+        <category label="Ізраїль" term="Ізраїль"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Пурим і Голокост]]></title>
         <id>https://international-law.info/uk/blog/purim_and_holocaust/</id>

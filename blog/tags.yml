@@ -34,3 +34,7 @@ theology:
   label: Theology
   permalink: /theology
   description: Theology
+law:
+  label: law
+  permalink: /law
+  description: law

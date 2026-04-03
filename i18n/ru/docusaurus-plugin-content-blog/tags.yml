@@ -19,18 +19,22 @@ holy-land:
   permalink: /holy-land
   description: Святая Земля
 jus-in-bello:
-  label: Jus in Bello
+  label: jus in bello
   permalink: /jus-in-bello
-  description: Право войны
+  description: право войны
 metaphysics:
-  label: Метафизика
+  label: метафизика
   permalink: /metaphysics
-  description: Метафизика
+  description: метафизика
 history:
-  label: История
+  label: история
   permalink: /history
-  description: История
+  description: история
 theology:
-  label: Теология
+  label: теология
   permalink: /theology
-  description: Теология
+  description: теология
+law:
+  label: право
+  permalink: /law
+  description: право

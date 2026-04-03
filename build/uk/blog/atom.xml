@@ -17,7 +17,7 @@
         <author>
             <name>Віктор Агєєв</name>
         </author>
-        <category label="law" term="law"/>
+        <category label="право" term="право"/>
         <category label="Ізраїль" term="Ізраїль"/>
     </entry>
     <entry>
@@ -129,8 +129,8 @@ Let my tongue cleave to the roof of my mouth, if I remember thee not; if I set n
         <author>
             <name>Віктор Агєєв</name>
         </author>
-        <category label="Теологія" term="Теологія"/>
-        <category label="Історія" term="Історія"/>
+        <category label="теологія" term="теологія"/>
+        <category label="історія" term="історія"/>
         <category label="Ізраїль" term="Ізраїль"/>
     </entry>
     <entry>
@@ -169,8 +169,8 @@ Let my tongue cleave to the roof of my mouth, if I remember thee not; if I set n
         <author>
             <name>Віктор Агєєв</name>
         </author>
-        <category label="Теологія" term="Теологія"/>
-        <category label="Історія" term="Історія"/>
+        <category label="теологія" term="теологія"/>
+        <category label="історія" term="історія"/>
         <category label="Ізраїль" term="Ізраїль"/>
     </entry>
     <entry>
@@ -201,7 +201,7 @@ Let my tongue cleave to the roof of my mouth, if I remember thee not; if I set n
             <name>Віктор Агєєв</name>
         </author>
         <category label="Свята Земля" term="Свята Земля"/>
-        <category label="Метафізика" term="Метафізика"/>
+        <category label="метафізика" term="метафізика"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Угода з дияволом]]></title>
@@ -253,7 +253,7 @@ Let my tongue cleave to the roof of my mouth, if I remember thee not; if I set n
         </author>
         <category label="Свята Земля" term="Свята Земля"/>
         <category label="Ізраїль" term="Ізраїль"/>
-        <category label="Jus in Bello" term="Jus in Bello"/>
+        <category label="jus in bello" term="jus in bello"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Молитва воїна]]></title>
@@ -318,7 +318,7 @@ Let my tongue cleave to the roof of my mouth, if I remember thee not; if I set n
         <category label="Свята Земля" term="Свята Земля"/>
         <category label="Ізраїль" term="Ізраїль"/>
         <category label="Іран" term="Іран"/>
-        <category label="Jus in Bello" term="Jus in Bello"/>
+        <category label="jus in bello" term="jus in bello"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Капітуляція або припинення вогню]]></title>
@@ -366,7 +366,7 @@ Let my tongue cleave to the roof of my mouth, if I remember thee not; if I set n
         <category label="Свята Земля" term="Свята Земля"/>
         <category label="Ізраїль" term="Ізраїль"/>
         <category label="Іран" term="Іран"/>
-        <category label="Jus in Bello" term="Jus in Bello"/>
+        <category label="jus in bello" term="jus in bello"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Удар по Ірану]]></title>

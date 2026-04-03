@@ -6,7 +6,6 @@ tags: [law, Israel]
 draft: false
 date: 2026-04-03
 description: "Недостатки принятого закона и как можно было сделать лучше"
-image: ""
 lang: ru
 keywords: [law, Israel]
 ---

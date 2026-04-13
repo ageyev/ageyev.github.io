@@ -116,6 +116,10 @@ Thus the restored Al-Aqsa will be a holy site and a place of prayer for Jews, fo
 
 ---
 
+Links and references:
+
+[https://en.wikipedia.org/wiki/Temple_denial](https://en.wikipedia.org/wiki/Temple_denial)
+
 ![](/img/Illustrations/docs/theology/glowing_temple.png)
 
 ---

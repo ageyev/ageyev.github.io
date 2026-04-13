@@ -142,6 +142,12 @@ description: 'Що таке мечеть Аль Акса і чому це клю
 
 ---
 
+Links and references:
+
+[https://en.wikipedia.org/wiki/Temple_denial](https://en.wikipedia.org/wiki/Temple_denial)
+
+--- 
+
 ![](/img/Illustrations/docs/theology/glowing_temple.png)
 
 ---

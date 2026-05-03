@@ -42,7 +42,11 @@ image: /img/Illustrations/docs/holy_land/state_of_palestine/Abbas_in_UN_02.jpeg
 
 > فإن المجلس الوطني يعلن، باسم الله وباسم الشعب العربي الفلسطيني قيام دولة فلسطين فوق أرضنا الفلسطينية وعاصمتها القدس الشريف.
 
-> The National Council declares, in the name of Allah and in the name of the Arab Palestinian people, the establishment of the State of Palestine on our Palestinian land, with its capital in Holy Jerusalem (Al-Quds Ash-Sharif)
+> The National Council declares, in the name of Allah and in the name of the Arab Palestinian people, the establishment of the State of Palestine on our Palestinian land, with its capital in Holy Jerusalem (Al-Quds Ash-Sharif) 
+
+:::tip Чтение арабского
+Эта страница содержит текст на арабском. Чтобы удобнее читать арабский на многоязычных страницах, вам может пригодиться моё расширение для Chrome: [[Enlarge Arabic]](/tools/enlarge_arabic).
+:::
 
 ### Территория 
 

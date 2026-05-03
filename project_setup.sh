@@ -28,3 +28,8 @@ npm install -S react-lite-youtube-embed
 # https://fontawesome.com/search?o=r&m=free&s=regular (163 icons)
 # https://fontawesome.com/search?o=r&f=brands (484 icons)
 npm install -S @fortawesome/fontawesome-svg-core @fortawesome/react-fontawesome@latest @fortawesome/free-solid-svg-icons @fortawesome/free-regular-svg-icons @fortawesome/free-brands-svg-icons
+
+# webback
+# https://docusaurus.io/docs/markdown-features/react#importing-code-snippets
+# https://webpack.js.org/loaders/raw-loader/
+npm install --save raw-loader

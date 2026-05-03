@@ -64,7 +64,11 @@ The answer to this can be found in the subsequent text (ayahs 2–7) of the same
 
 Pay attention to the phrase "and enter the place of worship (masjid) as they did the first time."
 
-In the Arabic original, "and to enter the mosque" is: وَلِيَدْخُلُوا۟ ٱلْمَسْجِدَ
+In the Arabic original, "and to enter the mosque" is: ```وَلِيَدْخُلُوا۟ ٱلْمَسْجِدَ```
+
+:::tip Reading Arabic
+This page contains Arabic text. To read Arabic more comfortably on multilingual pages, you may find my Chrome extension useful: [[Enlarge Arabic]](/tools/enlarge_arabic).
+:::
 
 Most Islamic theologians agree that ayah 5 refers to the destruction of the First Temple (the Temple of Solomon) and the loss by the Jews of their land, while ayah 7 narrates the capture by enemies of the Jewish Second Temple, just as had once happened with the First, and the second expulsion of the Jews from Jerusalem.
 

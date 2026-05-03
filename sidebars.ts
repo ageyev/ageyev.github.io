@@ -80,13 +80,25 @@ const sidebars: SidebarsConfig = {
     // },
     {
       type: 'category',
-      label: 'Software',
+      label: 'Tools & Resources',
       link: {
         type: 'doc',
-        id: 'software/software',
+        id: 'tools/tools',
       },
       items: [
-        'software/highlighter',
+        'tools/highlighter',
+        'tools/enlarge_arabic',
+        {
+          type: 'link',
+          label: 'Arabic Alphabet',
+          href: '/html/arabic_alphabet_with_forms.html',
+        },
+        {
+          type: 'link',
+          label: 'Hamzat al-Waṣl',
+          href: '/html/hamzat_al_wasl_reference.html',
+        },
+        // 'tools/enlarge_arabic'
       ],
     },
   ],

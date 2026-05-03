@@ -44,6 +44,10 @@ image: /img/Illustrations/docs/holy_land/state_of_palestine/Abbas_in_UN_02.jpeg
 
 > The National Council declares, in the name of Allah and in the name of the Arab Palestinian people, the establishment of the State of Palestine on our Palestinian land, with its capital in Holy Jerusalem (Al-Quds Ash-Sharif).
 
+:::tip Читання арабської
+Ця сторінка містить текст арабською мовою. Щоб зручніше читати арабський текст на багатомовних сторінках, вам може стати в пригоді моє розширення для Chrome: [[Enlarge Arabic]](/tools/enlarge_arabic).
+:::
+
 #### Територія
 
 У Декларації явно згадується лише столиця проголошеної «Держави Палестина» (Святий Єрусалим), проте кордони «палестинської землі», тобто території проголошеної держави, яку мала на увазі Організація визволення Палестини, не були визначені чітко.

@@ -42,6 +42,10 @@ The Declaration stated the following:
 
 > النص الأصلي بالعربية: فإن المجلس الوطني يعلن، باسم الله وباسم الشعب العربي الفلسطيني قيام دولة فلسطين فوق أرضنا الفلسطينية وعاصمتها القدس الشريف.
 
+:::tip Reading Arabic
+This page contains Arabic text. To read Arabic more comfortably on multilingual pages, you may find my Chrome extension useful: [[Enlarge Arabic]](/tools/enlarge_arabic).
+:::
+
 ### Territory
 
 In the declaration, only the capital of the proclaimed "State of Palestine" (Holy Jerusalem) was explicitly mentioned, but the exact boundaries of the "Palestinian land," i.e. the territory of the proclaimed state that the Palestine Liberation Organization had in mind, were not explicitly defined.

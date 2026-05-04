@@ -22,7 +22,7 @@ All software is open-source and available on [GitHub](https://github.com/ageyev)
 
 ## Text Tools
 
-[**Highlighter.pro**](/tools/highlighter) — Chrome extension for highlighting text on any web page. Includes a sidebar for navigation between highlights, and Markdown-formatted notes attached to each highlight.
+[**Highlighter.pro**](/tools/highlighter) — Chrome extension for highlighting text on any web page. Includes a sidebar for navigation between highlights and Markdown-formatted notes attached to each highlight.
 
 ## Arabic Language
 

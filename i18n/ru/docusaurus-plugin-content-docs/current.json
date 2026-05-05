@@ -34,5 +34,17 @@
   "sidebar.docs.category.Theology and Law": {
     "message": "Право и теология",
     "description": "The label for category 'Theology and Law' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Tools & Resources": {
+    "message": "Инструменты и ресурсы",
+    "description": "The label for category 'Tools & Resources' in sidebar 'docs'"
+  },
+  "sidebar.docs.link.Arabic Alphabet": {
+    "message": "Arabic Alphabet",
+    "description": "The label for link 'Arabic Alphabet' in sidebar 'docs', linking to '/html/arabic_alphabet_with_forms.html'"
+  },
+  "sidebar.docs.link.Hamzat al-Waṣl": {
+    "message": "Hamzat al-Waṣl",
+    "description": "The label for link 'Hamzat al-Waṣl' in sidebar 'docs', linking to '/html/hamzat_al_wasl_reference.html'"
   }
 }

@@ -3,11 +3,11 @@ title: 'Инструменты и ресурсы'
 id: tools
 hide_title: true
 draft: false
+tags: [software]
 lang: ru
 description: "Инструменты и справочные материалы: расширения для Chrome с открытым кодом, справочники по грамматике арабского языка, утилиты для разработчиков."
 image: "/img/Illustrations/docs/tools/tools_illustration.png"
 keywords: [инструменты, программное обеспечение, расширение Chrome, арабский, иврит, открытый код, справочник]
-tags: [tools]
 ---
 
 # Инструменты и ресурсы

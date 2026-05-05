@@ -2,12 +2,12 @@
 title: 'Tools & Resources'
 id: tools
 hide_title: true
+tags: [software]
 draft: false
 lang: en
 description: "Tools and reference materials I built in the course of my work: open-source Chrome extensions, Arabic grammar references, and developer utilities."
 image: "/img/Illustrations/docs/tools/tools_illustration.png"
 keywords: [tools, software, Chrome extension, Arabic, Hebrew, open source, reference]
-tags: [tools]
 ---
 
 # Tools & Resources

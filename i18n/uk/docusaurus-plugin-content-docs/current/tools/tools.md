@@ -2,12 +2,12 @@
 title: 'Інструменти та ресурси'
 id: tools
 hide_title: true
+tags: [software]
 draft: false
 lang: uk
 description: "Інструменти та довідкові матеріали: розширення для Chrome з відкритим кодом, довідники з граматики арабської мови, утиліти для розробників."
 image: "/img/Illustrations/docs/tools/tools_illustration.png"
 keywords: [інструменти, програмне забезпечення, розширення Chrome, арабська, іврит, відкритий код, довідник]
-tags: [tools]
 ---
 
 # Інструменти та ресурси

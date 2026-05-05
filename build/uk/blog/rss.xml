@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>International Law etc. Blog</title>
-        <link>https://international-law.info/uk/blog/</link>
+        <link>https://international-law.info/uk/blog</link>
         <description>Keep up to date with upcoming blog posts by following our feed!</description>
         <lastBuildDate>Fri, 03 Apr 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -11,12 +11,12 @@
         <copyright>Copyright © 2026 Viktor Ageyev</copyright>
         <item>
             <title><![CDATA[Закон про смертну кару в Ізраїлі]]></title>
-            <link>https://international-law.info/uk/blog/death_penalty_law/</link>
-            <guid>https://international-law.info/uk/blog/death_penalty_law/</guid>
+            <link>https://international-law.info/uk/blog/death_penalty_law</link>
+            <guid>https://international-law.info/uk/blog/death_penalty_law</guid>
             <pubDate>Fri, 03 Apr 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[Недоліки ухваленого закону та як можна було зробити краще]]></description>
             <content:encoded><![CDATA[<p>Щодо ухваленого Кнесетом 2026-03-30 <a href="https://fs.knesset.gov.il/25/law/25_ls2_12185958.pdf" target="_blank" rel="noopener noreferrer" class="">закону</a> про смертну кару для терористів.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="характеристика-ухваленого-закону">Характеристика ухваленого закону<a href="https://international-law.info/uk/blog/death_penalty_law/#%D1%85%D0%B0%D1%80%D0%B0%D0%BA%D1%82%D0%B5%D1%80%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0-%D1%83%D1%85%D0%B2%D0%B0%D0%BB%D0%B5%D0%BD%D0%BE%D0%B3%D0%BE-%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%D1%83" class="hash-link" aria-label="Пряме посилання на Характеристика ухваленого закону" title="Пряме посилання на Характеристика ухваленого закону" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="характеристика-ухваленого-закону">Характеристика ухваленого закону<a href="https://international-law.info/uk/blog/death_penalty_law#%D1%85%D0%B0%D1%80%D0%B0%D0%BA%D1%82%D0%B5%D1%80%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0-%D1%83%D1%85%D0%B2%D0%B0%D0%BB%D0%B5%D0%BD%D0%BE%D0%B3%D0%BE-%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%D1%83" class="hash-link" aria-label="Пряме посилання на Характеристика ухваленого закону" title="Пряме посилання на Характеристика ухваленого закону" translate="no">​</a></h2>
 <p>Зміни до кримінального законодавства Ізраїлю, зокрема до ст. 301-«алеф» Кримінального кодексу (<a href="https://he.wikisource.org/wiki/%D7%97%D7%95%D7%A7_%D7%94%D7%A2%D7%95%D7%A0%D7%A9%D7%99%D7%9F" target="_blank" rel="noopener noreferrer" class="">חוק העונשין</a>), що передбачають як покарання смертну кару або довічне ув'язнення за умисне вбивство з метою, спрямованою проти існування Держави Ізраїль, — самі по собі виправдані. Однак:</p>
 <p>(1)</p>
 <p>Як я раніше писав, у кримінальному праві загалом та в ізраїльському зокрема, закон, що встановлює або обтяжує покарання, не має зворотної дії (ст. 15 <a href="https://uk.wikipedia.org/wiki/%D0%9C%D1%96%D0%B6%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D0%B8%D0%B9_%D0%BF%D0%B0%D0%BA%D1%82_%D0%BF%D1%80%D0%BE_%D0%B3%D1%80%D0%BE%D0%BC%D0%B0%D0%B4%D1%8F%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D1%96_%D0%BF%D0%BE%D0%BB%D1%96%D1%82%D0%B8%D1%87%D0%BD%D1%96_%D0%BF%D1%80%D0%B0%D0%B2%D0%B0" target="_blank" rel="noopener noreferrer" class="">Міжнародного пакту про громадянські і політичні права</a> (<a href="https://en.wikipedia.org/wiki/International_Covenant_on_Civil_and_Political_Rights" target="_blank" rel="noopener noreferrer" class="">International Covenant on Civil and Political Rights</a>) та п. «бет» ст. 3 Кримінального кодексу Ізраїлю (<a href="https://he.wikisource.org/wiki/%D7%97%D7%95%D7%A7_%D7%94%D7%A2%D7%95%D7%A0%D7%A9%D7%99%D7%9F" target="_blank" rel="noopener noreferrer" class="">חוק העונשין</a>)).</p>
@@ -34,7 +34,7 @@
 <p>Це неправильно, див. у мене на сайті мій текст <a href="https://international-law.info/ru/Holy-Land/borders_and_territory_of_israel/" target="_blank" rel="noopener noreferrer" class="">«Кордони і територія Ізраїлю»</a> (<a href="https://international-law.info/Holy-Land/borders_and_territory_of_israel/" target="_blank" rel="noopener noreferrer" class="">Borders and Territory of Israel</a>).</p>
 <p>(5)</p>
 <p>Закон, таким чином, жодним чином не вирішує питання про те, що робити з терористами, які утримуються в ізраїльських в'язницях і брали участь у війні Гази проти Ізраїлю. А це справді складна проблема, яка потребує дуже жорстких, але зважених рішень, а не популізму.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="як-можна-було-б-зробити-краще">Як можна було б зробити краще<a href="https://international-law.info/uk/blog/death_penalty_law/#%D1%8F%D0%BA-%D0%BC%D0%BE%D0%B6%D0%BD%D0%B0-%D0%B1%D1%83%D0%BB%D0%BE-%D0%B1-%D0%B7%D1%80%D0%BE%D0%B1%D0%B8%D1%82%D0%B8-%D0%BA%D1%80%D0%B0%D1%89%D0%B5" class="hash-link" aria-label="Пряме посилання на Як можна було б зробити краще" title="Пряме посилання на Як можна було б зробити краще" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="як-можна-було-б-зробити-краще">Як можна було б зробити краще<a href="https://international-law.info/uk/blog/death_penalty_law#%D1%8F%D0%BA-%D0%BC%D0%BE%D0%B6%D0%BD%D0%B0-%D0%B1%D1%83%D0%BB%D0%BE-%D0%B1-%D0%B7%D1%80%D0%BE%D0%B1%D0%B8%D1%82%D0%B8-%D0%BA%D1%80%D0%B0%D1%89%D0%B5" class="hash-link" aria-label="Пряме посилання на Як можна було б зробити краще" title="Пряме посилання на Як можна було б зробити краще" translate="no">​</a></h2>
 <p>Звісно, у зв'язку із вищезазначеними зауваженнями виникає закономірне запитання: «А як треба було?»</p>
 <p>Ми не можемо надавати закону, що встановлює або обтяжує покарання, зворотної дії, тобто застосовувати його до діянь, вчинених до набрання ним чинності. Ніхто, хто називає себе юристом, не повинен цього робити. Однак ми можемо розглянути кілька можливих, хоча й спірних, але цікавих підходів:</p>
 <p>(1)</p>
@@ -62,11 +62,11 @@
         </item>
         <item>
             <title><![CDATA[Пурим і Голокост]]></title>
-            <link>https://international-law.info/uk/blog/purim_and_holocaust/</link>
-            <guid>https://international-law.info/uk/blog/purim_and_holocaust/</guid>
+            <link>https://international-law.info/uk/blog/purim_and_holocaust</link>
+            <guid>https://international-law.info/uk/blog/purim_and_holocaust</guid>
             <pubDate>Sun, 22 Mar 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[Якщо я забуду за тебе, о Єрусалиме ...]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="необхідна-передмова">Необхідна передмова<a href="https://international-law.info/uk/blog/purim_and_holocaust/#%D0%BD%D0%B5%D0%BE%D0%B1%D1%85%D1%96%D0%B4%D0%BD%D0%B0-%D0%BF%D0%B5%D1%80%D0%B5%D0%B4%D0%BC%D0%BE%D0%B2%D0%B0" class="hash-link" aria-label="Пряме посилання на Необхідна передмова" title="Пряме посилання на Необхідна передмова" translate="no">​</a></h2>
+            <content:encoded><![CDATA[<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="необхідна-передмова">Необхідна передмова<a href="https://international-law.info/uk/blog/purim_and_holocaust#%D0%BD%D0%B5%D0%BE%D0%B1%D1%85%D1%96%D0%B4%D0%BD%D0%B0-%D0%BF%D0%B5%D1%80%D0%B5%D0%B4%D0%BC%D0%BE%D0%B2%D0%B0" class="hash-link" aria-label="Пряме посилання на Необхідна передмова" title="Пряме посилання на Необхідна передмова" translate="no">​</a></h2>
 <p>Я збирався написати цей пост на Пурим. Але не написав.
 А зараз шановний <a href="https://www.facebook.com/shlomo.kochubievsky" target="_blank" rel="noopener noreferrer" class="">рав Кочубієвський</a> поставив мені <a href="https://www.facebook.com/shlomo.kochubievsky/posts/pfbid02uWr3cPdxqvjyhCeu5CuyG4XFvnb6xygvYSBgEyQR5KUtPhk7ZxRtmVbe7RuDcR8tl?comment_id=1256784452491575&amp;reply_comment_id=914371734851621" target="_blank" rel="noopener noreferrer" class="">запитання</a> про те, як я поясню такі дві тонкі теми як вердикт Амана про знищення всього єврейського народу та Голокост.</p>
 <p>Можливо, сам рав Кочубієвський, запитання про Пурим і Голокост, поставив як <em>два</em> окремих складних запитання. Але в моєму уявленні це якраз одне запитання. Пурим дає можливість пояснити Голокост, тому що якщо проаналізувати ситуацію, в якій стався указ Амана, то ми можемо висунути гіпотезу про те, що тут простежується певний патерн, і екстраполювати висновки на наступну й сьогоднішню ситуацію.</p>
@@ -78,7 +78,7 @@
 </blockquote>
 <p>Отже — так, я розумію, що будувати гіпотези про те, що на думку великого мудреця і праведника перебуває за межами людського розуміння, — це шлях, на якому складно уникнути помилок. Але усвідомлюючи, наскільки інтелектуально й морально небезпечна ця праця, я вважаю її необхідною, і більше того — відмову від неї значно небезпечнішою.</p>
 <p>До дуже важливої тут позиції Любавицького Ребе ми повернемося й спробуємо зрозуміти, чому вона є такою, не обмежуючись лише тим, що вона видається епістемологічно незадовільною для людини, яка вважає розуміння задумів Всевишнього першочерговим завданням для того, хто мислить виходячи з передумови про Його існування.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="пурим">Пурим<a href="https://international-law.info/uk/blog/purim_and_holocaust/#%D0%BF%D1%83%D1%80%D0%B8%D0%BC" class="hash-link" aria-label="Пряме посилання на Пурим" title="Пряме посилання на Пурим" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="пурим">Пурим<a href="https://international-law.info/uk/blog/purim_and_holocaust#%D0%BF%D1%83%D1%80%D0%B8%D0%BC" class="hash-link" aria-label="Пряме посилання на Пурим" title="Пряме посилання на Пурим" translate="no">​</a></h2>
 <p>Отже, розгляньмо ситуацію, в якій відбулися події Пуриму. Євреї в ґалуті (вигнанні), відомому як <a href="https://en.wikipedia.org/wiki/Babylonian_captivity" target="_blank" rel="noopener noreferrer" class="">Вавилонський полон</a> (Babylonian captivity). Саме про нього говорить знаменитий 137-й (за масоретською нумерацією) псалом <a href="https://en.wikipedia.org/wiki/Psalm_137" target="_blank" rel="noopener noreferrer" class="">«На ріках Вавилонських»</a> («By the rivers of Babylon»), у якому з'явилася формула:</p>
 <blockquote>
 <p>אִם־אֶשְׁכָּחֵךְ יְרוּשָׁלָ͏ִם תִּשְׁכַּח יְמִינִי
@@ -103,7 +103,7 @@ Let my tongue cleave to the roof of my mouth, if I remember thee not; if I set n
 <p>Більша ж частина євреїв, замість того щоб вирушати до зруйнованої непристосованої для життя країни, залишилася у комфортному ґалуті, де були всі можливі на ті часи блага цивілізації. Вельми красномовними є імена головних героїв Сувою Естер: це сама Естер — ім'я якої походить від вавилонської богині <a href="https://en.wikipedia.org/wiki/Inanna" target="_blank" rel="noopener noreferrer" class="">Іштар</a> (Ishtar) — та Мордехай, ім'я яке означає «живий бог <a href="https://en.wikipedia.org/wiki/Marduk" target="_blank" rel="noopener noreferrer" class="">Мардук</a> (Marduk)» — головне божество пантеону Вавилонії, а також той факт, що цар, дружиною якого була Естер, не знав, що вона єврейка, — тобто зовнішньо її належність до народу жодним чином не виявлялася (дотримання звичаїв, виконання заповідей).</p>
 <p>І ось у цей час країна, в яку євреї вже так комфортно почали вбудовуватися, несподівано стає ворожою. <a href="https://en.wikipedia.org/wiki/Haman" target="_blank" rel="noopener noreferrer" class="">Аман</a> (Haman) організовує видання указу царя <a href="https://en.wikipedia.org/wiki/Ahasuerus" target="_blank" rel="noopener noreferrer" class="">Ахашвероша</a> (Ahasuerus) про знищення єврейського народу. Але його дружина — цариця Естер згадує, що вона єврейка, і розповідає про це цареві, який до того про це навіть не знав. У підсумку єврейський народ, бувши за крок від знищення, виживає, євреї згадують що вони євреї. І вже після Ахашвероша цар Дар'явеш (Dareyavesh) (можливо, <a href="https://en.wikipedia.org/wiki/Darius_II" target="_blank" rel="noopener noreferrer" class="">Дарій II</a> (Darius II)) — син Естер (згідно з традиційним і найбільш логічним тлумаченням) дає нове розпорядження євреям повернутися й відбудувати Храм, і більшість євреїв повертаються (алія <a href="https://en.wikipedia.org/wiki/Ezra" target="_blank" rel="noopener noreferrer" class="">Ездри</a> (Ezra)) та відбудовують Храм у Єрусалимі.</p>
 <p>Що загалом відбувається: народ Ізраїлю, який намагається ухилитися від своєї місії й навіть забути своє призначення, опиняється на краю загибелі, яка підштовхує його до повернення до місії, призначеної цьому народові.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="голокост">Голокост<a href="https://international-law.info/uk/blog/purim_and_holocaust/#%D0%B3%D0%BE%D0%BB%D0%BE%D0%BA%D0%BE%D1%81%D1%82" class="hash-link" aria-label="Пряме посилання на Голокост" title="Пряме посилання на Голокост" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="голокост">Голокост<a href="https://international-law.info/uk/blog/purim_and_holocaust#%D0%B3%D0%BE%D0%BB%D0%BE%D0%BA%D0%BE%D1%81%D1%82" class="hash-link" aria-label="Пряме посилання на Голокост" title="Пряме посилання на Голокост" translate="no">​</a></h2>
 <p>У цій історії ми бачимо до болю знайомий патерн, але вже повторений із посиленою жорстокістю.</p>
 <p>На початку цієї історії голові перської імперії Кірові відповідає монарх іншої великої імперії — король <a href="https://en.wikipedia.org/wiki/George_V" target="_blank" rel="noopener noreferrer" class="">Георг V</a> (George V). 2 листопада 1917 року міністр закордонних справ Великої Британії Артур Бальфур публікує <a href="https://en.wikisource.org/wiki/Balfour_Declaration" target="_blank" rel="noopener noreferrer" class="">декларацію</a>:</p>
 <blockquote>
@@ -151,7 +151,7 @@ Let my tongue cleave to the roof of my mouth, if I remember thee not; if I set n
 <p>Те саме діє, коли лідери народу моляться за народ. Коли Моше звертався з молитвою до Всевишнього з проханням врятувати народ, він не змінив настрій Всевишнього, він змінив властивості народу, частиною й лідером якого він був.</p>
 <p>Як я вже писав у <a href="https://international-law.info/blog/metaphysics_of_war/" target="_blank" rel="noopener noreferrer" class="">«Metaphysics of War»</a> («Метафізика війни»): метафізичний рівень причин — це: навіщо Всевишній (можете назвати це «Всесвіт», «світ», «життя») допускає, щоб це відбувалося з нами (з людиною у випадку хвороби, з нацією у випадку війни), за що нам послано цю війну чи хворобу і, найголовніше: що ми маємо усвідомити й у собі змінити.</p>
 <p>Тому наша відмова від спроб зрозуміти — це знецінення спроби Всевишнього нам пояснити. А якщо ми взагалі припускаємо існування Всевишнього, то Всевишній говорить із нами <em>не лише</em> через давні священні тексти, а й узагалі через все, що відбувається у світі. Ми не маємо способу розуміти й узагалі міркувати безпомилково, але ми маємо гарантований спосіб помилятися — це відмова від спроб зрозуміти.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="повертаючись-до-передмови">Повертаючись до передмови<a href="https://international-law.info/uk/blog/purim_and_holocaust/#%D0%BF%D0%BE%D0%B2%D0%B5%D1%80%D1%82%D0%B0%D1%8E%D1%87%D0%B8%D1%81%D1%8C-%D0%B4%D0%BE-%D0%BF%D0%B5%D1%80%D0%B5%D0%B4%D0%BC%D0%BE%D0%B2%D0%B8" class="hash-link" aria-label="Пряме посилання на Повертаючись до передмови" title="Пряме посилання на Повертаючись до передмови" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="повертаючись-до-передмови">Повертаючись до передмови<a href="https://international-law.info/uk/blog/purim_and_holocaust#%D0%BF%D0%BE%D0%B2%D0%B5%D1%80%D1%82%D0%B0%D1%8E%D1%87%D0%B8%D1%81%D1%8C-%D0%B4%D0%BE-%D0%BF%D0%B5%D1%80%D0%B5%D0%B4%D0%BC%D0%BE%D0%B2%D0%B8" class="hash-link" aria-label="Пряме посилання на Повертаючись до передмови" title="Пряме посилання на Повертаючись до передмови" translate="no">​</a></h2>
 <p>Ми знову повернемося до запитання: чому великий мудрець і праведник, один із найвпливовіших єврейських релігійних лідерів, не міг дати відповідь на запитання про причини Голокосту. Лист, який ми процитували вище, було написано як відповідь на позицію частини харедимних рабинів: це було покарання за те, що недостатньо суворо дотримувалися заповідей і вчили Тору. Але в їхньому розумінні заповіді — це лише те, що стосується побутових правил: кашрут, омивання рук, заборона працювати в Шаббат, а Тора — це Талмуд.</p>
 <p>Любавицький Ребе пише:</p>
 <blockquote>
@@ -172,8 +172,8 @@ Let my tongue cleave to the roof of my mouth, if I remember thee not; if I set n
         </item>
         <item>
             <title><![CDATA[Садукеї і фарисеї]]></title>
-            <link>https://international-law.info/uk/blog/sadducees_and_pharisees/</link>
-            <guid>https://international-law.info/uk/blog/sadducees_and_pharisees/</guid>
+            <link>https://international-law.info/uk/blog/sadducees_and_pharisees</link>
+            <guid>https://international-law.info/uk/blog/sadducees_and_pharisees</guid>
             <pubDate>Thu, 08 Jan 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[Історія, якої не вчать у єшивах]]></description>
             <content:encoded><![CDATA[<p>Продовжуючи мої пости про Хануку і дискусії з равом <a href="https://www.facebook.com/michael.jedwabny" target="_blank" rel="noopener noreferrer" class="">Michael Jedwabny</a> — див. <a href="https://www.facebook.com/viktor.ageyev/posts/pfbid02rZ3yVqCs5xchvcW1rEwa9hXC5DS1jEHzScgafEQ8JR3FibtbYA4crapzaEmumeqAl" target="_blank" rel="noopener noreferrer" class="">Ханука</a>, <a href="https://www.facebook.com/viktor.ageyev/posts/pfbid02SoFrbjq4wC9XW4waqQdumZ9JgC8CWbbZgkPwPBByacRbd4mm73HbH5ZDkgosaFoEl" target="_blank" rel="noopener noreferrer" class="">Син Зірки і «три клятви»</a>, <a href="https://www.facebook.com/reel/1231350342383658" target="_blank" rel="noopener noreferrer" class="">Штурм небес і історія Хануки</a> — дискусії, в яких, як мені здається, з обох боків звучали цікаві й глибокі думки, я звернув увагу на одну історичну обставину, якої раніше не помічав:</p>
@@ -209,20 +209,20 @@ Let my tongue cleave to the roof of my mouth, if I remember thee not; if I set n
         </item>
         <item>
             <title><![CDATA[Метафізика війни]]></title>
-            <link>https://international-law.info/uk/blog/metaphysics_of_war/</link>
-            <guid>https://international-law.info/uk/blog/metaphysics_of_war/</guid>
+            <link>https://international-law.info/uk/blog/metaphysics_of_war</link>
+            <guid>https://international-law.info/uk/blog/metaphysics_of_war</guid>
             <pubDate>Fri, 21 Nov 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[Рівні причин та смислів]]></description>
             <content:encoded><![CDATA[<p>У чому полягає глибинна хибність планів мирного врегулювання на Близькому Сході та на «Європейському Сході»? Вона в обох випадках одна й та сама і полягає у прагненні ігнорувати питання про причини війни.</p>
 <p>У будь-якої війни і будь-якої хвороби, та й загалом у будь-якої кризової ситуації в нашому житті є два рівні причин: матеріальний, «фізичний», і нематеріальний, метафізичний.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="матеріальний-рівень">Матеріальний рівень<a href="https://international-law.info/uk/blog/metaphysics_of_war/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%B9-%D1%80%D1%96%D0%B2%D0%B5%D0%BD%D1%8C" class="hash-link" aria-label="Пряме посилання на Матеріальний рівень" title="Пряме посилання на Матеріальний рівень" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="матеріальний-рівень">Матеріальний рівень<a href="https://international-law.info/uk/blog/metaphysics_of_war#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%B9-%D1%80%D1%96%D0%B2%D0%B5%D0%BD%D1%8C" class="hash-link" aria-label="Пряме посилання на Матеріальний рівень" title="Пряме посилання на Матеріальний рівень" translate="no">​</a></h2>
 <p>Матеріальний рівень — це, у випадку хвороби, наприклад, питання «що спричинило алергію?», «яким вірусом заразився хворий?» тощо; у випадку війни — це «якими мотивами керувалися ті, хто розпочав війну?», «де насправді має пролягати кордон?» і т. ін.</p>
 <p>Якщо говорити про ігнорування причин цього рівня, то, звичайно, як класичний приклад слід згадати Чемберлена і Даладьє, які свого часу керувалися точно такою самою логікою, як Дональд Трамп сьогодні. Але з істотною відмінністю: те, що пропонується зараз, навіть гірше — це Мюнхен після Польщі.</p>
 <p>Напевно, немає потреби говорити, що мирний план для Близького Сходу так само ґрунтується на тому, що з’ясовувати причини війни нібито не потрібно.</p>
 <p>Ми тут не аналізуємо ці причини — це теми окремих великих розборів. Ми говоримо про те, що самі пропоновані сьогодні «мирні плани» влаштовані так, ніби питання про причини війни і, як наслідок, питання про те, хто в цій війні має рацію, а хто винен, не лише можна, а навіть потрібно винести за дужки.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="метафізичний-рівень">Метафізичний рівень<a href="https://international-law.info/uk/blog/metaphysics_of_war/#%D0%BC%D0%B5%D1%82%D0%B0%D1%84%D1%96%D0%B7%D0%B8%D1%87%D0%BD%D0%B8%D0%B9-%D1%80%D1%96%D0%B2%D0%B5%D0%BD%D1%8C" class="hash-link" aria-label="Пряме посилання на Метафізичний рівень" title="Пряме посилання на Метафізичний рівень" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="метафізичний-рівень">Метафізичний рівень<a href="https://international-law.info/uk/blog/metaphysics_of_war#%D0%BC%D0%B5%D1%82%D0%B0%D1%84%D1%96%D0%B7%D0%B8%D1%87%D0%BD%D0%B8%D0%B9-%D1%80%D1%96%D0%B2%D0%B5%D0%BD%D1%8C" class="hash-link" aria-label="Пряме посилання на Метафізичний рівень" title="Пряме посилання на Метафізичний рівень" translate="no">​</a></h2>
 <p>Метафізичний рівень причин — це питання про те, навіщо Всевишній (можете назвати це «Всесвіт», «світ», «життя») допускає, щоб це відбувалося з нами — з людиною у випадку хвороби, з нацією у випадку війни; за що нам послана ця війна чи хвороба і, найголовніше, що ми маємо усвідомити й змінити в собі.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="оцінки-та-висновки">Оцінки та висновки<a href="https://international-law.info/uk/blog/metaphysics_of_war/#%D0%BE%D1%86%D1%96%D0%BD%D0%BA%D0%B8-%D1%82%D0%B0-%D0%B2%D0%B8%D1%81%D0%BD%D0%BE%D0%B2%D0%BA%D0%B8" class="hash-link" aria-label="Пряме посилання на Оцінки та висновки" title="Пряме посилання на Оцінки та висновки" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="оцінки-та-висновки">Оцінки та висновки<a href="https://international-law.info/uk/blog/metaphysics_of_war#%D0%BE%D1%86%D1%96%D0%BD%D0%BA%D0%B8-%D1%82%D0%B0-%D0%B2%D0%B8%D1%81%D0%BD%D0%BE%D0%B2%D0%BA%D0%B8" class="hash-link" aria-label="Пряме посилання на Оцінки та висновки" title="Пряме посилання на Оцінки та висновки" translate="no">​</a></h2>
 <p>Нинішні плани мирного врегулювання як на Близькому, так і на Європейському Сході побудовані на експліцитному ігноруванні причин «матеріального» рівня та на імпліцитному запереченні самого існування метафізичного рівня причин.</p>
 <p>Звичайно, підхід «зараз головне перемир’я, а там подивимося» зрозумілий. Але якщо дивитися з точки зору метафізичних причин, то війна й прийшла до цих народів саме тому, що вони не хотіли бачити ці причини без війни.</p>
 <p>Іншими словами, якщо ігнорувати і матеріальні, і метафізичні причини, війна не просто «може повернутися», а, швидше за все, повернеться в більш серйозній формі й у більшому масштабі.</p>
@@ -236,11 +236,11 @@ Let my tongue cleave to the roof of my mouth, if I remember thee not; if I set n
         </item>
         <item>
             <title><![CDATA[Угода з дияволом]]></title>
-            <link>https://international-law.info/uk/blog/deal_with_the_devil/</link>
-            <guid>https://international-law.info/uk/blog/deal_with_the_devil/</guid>
+            <link>https://international-law.info/uk/blog/deal_with_the_devil</link>
+            <guid>https://international-law.info/uk/blog/deal_with_the_devil</guid>
             <pubDate>Thu, 09 Oct 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[Норми міжнародного та релігійного права]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="угода-з-дияволом-у-світлі-положень-віденської-конвенції-про-право-міжнародних-договорів">Угода з дияволом у світлі положень Віденської конвенції про право міжнародних договорів<a href="https://international-law.info/uk/blog/deal_with_the_devil/#%D1%83%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B7-%D0%B4%D0%B8%D1%8F%D0%B2%D0%BE%D0%BB%D0%BE%D0%BC-%D1%83-%D1%81%D0%B2%D1%96%D1%82%D0%BB%D1%96-%D0%BF%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D1%8C-%D0%B2%D1%96%D0%B4%D0%B5%D0%BD%D1%81%D1%8C%D0%BA%D0%BE%D1%97-%D0%BA%D0%BE%D0%BD%D0%B2%D0%B5%D0%BD%D1%86%D1%96%D1%97-%D0%BF%D1%80%D0%BE-%D0%BF%D1%80%D0%B0%D0%B2%D0%BE-%D0%BC%D1%96%D0%B6%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D0%B8%D1%85-%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D1%96%D0%B2" class="hash-link" aria-label="Пряме посилання на Угода з дияволом у світлі положень Віденської конвенції про право міжнародних договорів" title="Пряме посилання на Угода з дияволом у світлі положень Віденської конвенції про право міжнародних договорів" translate="no">​</a></h2>
+            <content:encoded><![CDATA[<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="угода-з-дияволом-у-світлі-положень-віденської-конвенції-про-право-міжнародних-договорів">Угода з дияволом у світлі положень Віденської конвенції про право міжнародних договорів<a href="https://international-law.info/uk/blog/deal_with_the_devil#%D1%83%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B7-%D0%B4%D0%B8%D1%8F%D0%B2%D0%BE%D0%BB%D0%BE%D0%BC-%D1%83-%D1%81%D0%B2%D1%96%D1%82%D0%BB%D1%96-%D0%BF%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D1%8C-%D0%B2%D1%96%D0%B4%D0%B5%D0%BD%D1%81%D1%8C%D0%BA%D0%BE%D1%97-%D0%BA%D0%BE%D0%BD%D0%B2%D0%B5%D0%BD%D1%86%D1%96%D1%97-%D0%BF%D1%80%D0%BE-%D0%BF%D1%80%D0%B0%D0%B2%D0%BE-%D0%BC%D1%96%D0%B6%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D0%B8%D1%85-%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D1%96%D0%B2" class="hash-link" aria-label="Пряме посилання на Угода з дияволом у світлі положень Віденської конвенції про право міжнародних договорів" title="Пряме посилання на Угода з дияволом у світлі положень Віденської конвенції про право міжнародних договорів" translate="no">​</a></h2>
 <blockquote>
 <p>— Так давай же, візьми, перо, <br>
 І отут підпишись — у кутку. <br>
@@ -285,8 +285,8 @@ Let my tongue cleave to the roof of my mouth, if I remember thee not; if I set n
         </item>
         <item>
             <title><![CDATA[Молитва воїна]]></title>
-            <link>https://international-law.info/uk/blog/prayer-of-a-warrior/</link>
-            <guid>https://international-law.info/uk/blog/prayer-of-a-warrior/</guid>
+            <link>https://international-law.info/uk/blog/prayer-of-a-warrior</link>
+            <guid>https://international-law.info/uk/blog/prayer-of-a-warrior</guid>
             <pubDate>Wed, 16 Jul 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[Молитва воїна, який іде в бій, перебуває на духовному рівні, принципово недосяжному в умовах єшиви]]></description>
             <content:encoded><![CDATA[<p>בָּרוּךְ יְהֹוָה צוּרִי הַמְלַמֵּד יָדַי לַקְרָב אֶצְבְּעוֹתַי לַמִּלְחָמָה</p>
@@ -305,8 +305,8 @@ Let my tongue cleave to the roof of my mouth, if I remember thee not; if I set n
         </item>
         <item>
             <title><![CDATA[It must also be seen to be done]]></title>
-            <link>https://international-law.info/uk/blog/it-must-also-be-seen-to-be-done/</link>
-            <guid>https://international-law.info/uk/blog/it-must-also-be-seen-to-be-done/</guid>
+            <link>https://international-law.info/uk/blog/it-must-also-be-seen-to-be-done</link>
+            <guid>https://international-law.info/uk/blog/it-must-also-be-seen-to-be-done</guid>
             <pubDate>Fri, 27 Jun 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[недостатньо перемогти ворога, необхідно, щоб було видно, що ворога переможено]]></description>
             <content:encoded><![CDATA[<p>Аятола Алі Хаменеї (Ayatollah Ali Khamenei) у своєму <a href="https://farsi.khamenei.ir/speech-content?id=60502" target="_blank" rel="noopener noreferrer" class="">зверненні</a> привітав іранський народ з перемогою над Ізраїлем та Сполученими Штатами Америки:</p>
@@ -344,8 +344,8 @@ Let my tongue cleave to the roof of my mouth, if I remember thee not; if I set n
         </item>
         <item>
             <title><![CDATA[Капітуляція або припинення вогню]]></title>
-            <link>https://international-law.info/uk/blog/surrender-or-ceasefire/</link>
-            <guid>https://international-law.info/uk/blog/surrender-or-ceasefire/</guid>
+            <link>https://international-law.info/uk/blog/surrender-or-ceasefire</link>
+            <guid>https://international-law.info/uk/blog/surrender-or-ceasefire</guid>
             <pubDate>Wed, 25 Jun 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[Безумовна капітуляція чи безумовне припинення вогню? Чому сучасна доктрина є хибною]]></description>
             <content:encoded><![CDATA[<p>Наша практика показує, що звичний спосіб дій Ізраїлю щодо ворогів: «якщо на нас нападають — ми бомбимо у відповідь, поки сили противника не будуть пошкоджені, потім ідемо на перемир’я і мирно спостерігаємо, як ворог святкує перемогу» (тут слід наголосити: у їхньому розумінні «перемога» жодним чином не визначається кількістю понесених втрат, а саме можливістю цю перемогу проголосити й відсвяткувати) — є згубним, оскільки незмінно призводить до того, що ворог, натхненний черговою «перемогою», відновлює сили, отримує посилену підтримку і знову нападає.</p>
@@ -389,8 +389,8 @@ Let my tongue cleave to the roof of my mouth, if I remember thee not; if I set n
         </item>
         <item>
             <title><![CDATA[Удар по Ірану]]></title>
-            <link>https://international-law.info/uk/blog/strike-on-iran/</link>
-            <guid>https://international-law.info/uk/blog/strike-on-iran/</guid>
+            <link>https://international-law.info/uk/blog/strike-on-iran</link>
+            <guid>https://international-law.info/uk/blog/strike-on-iran</guid>
             <pubDate>Fri, 13 Jun 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[Міжнародно-правовий аналіз]]></description>
             <content:encoded><![CDATA[<p>У <a href="https://x.com/IDF/status/1933324595471454495" target="_blank" rel="noopener noreferrer" class="">повідомленні</a> пресслужби ЦАХАЛ (Israel Defense Forces) від 13 червня 2025 року було сказано, що ізраїльська армія завдала упереджувальний (<em>preemptive</em>) удар (strike) по Ірану.</p>
@@ -406,7 +406,7 @@ Let my tongue cleave to the roof of my mouth, if I remember thee not; if I set n
 <p>«Ось, народ як левиця підіймається, і як лев підводиться; не ляже, доки не з’їсть здобичі і не нап’ється крові забитих»
 (<a href="https://mechon-mamre.org/p/pt/pt0423.htm" target="_blank" rel="noopener noreferrer" class="">Чис. 23:24</a>)</p>
 <hr>
-<h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="цей-пост-у-соціальних-мережах">Цей пост у соціальних мережах:<a href="https://international-law.info/uk/blog/strike-on-iran/#%D1%86%D0%B5%D0%B9-%D0%BF%D0%BE%D1%81%D1%82-%D1%83-%D1%81%D0%BE%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D1%85-%D0%BC%D0%B5%D1%80%D0%B5%D0%B6%D0%B0%D1%85" class="hash-link" aria-label="Пряме посилання на Цей пост у соціальних мережах:" title="Пряме посилання на Цей пост у соціальних мережах:" translate="no">​</a></h4>
+<h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="цей-пост-у-соціальних-мережах">Цей пост у соціальних мережах:<a href="https://international-law.info/uk/blog/strike-on-iran#%D1%86%D0%B5%D0%B9-%D0%BF%D0%BE%D1%81%D1%82-%D1%83-%D1%81%D0%BE%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D1%85-%D0%BC%D0%B5%D1%80%D0%B5%D0%B6%D0%B0%D1%85" class="hash-link" aria-label="Пряме посилання на Цей пост у соціальних мережах:" title="Пряме посилання на Цей пост у соціальних мережах:" translate="no">​</a></h4>
 <p><a href="https://www.facebook.com/viktor.ageyev/posts/pfbid035UdBWTQNNwu7kaymT22gKphsmD1EpLVp5sjFFftMmQxUwkc5phSju5F18PFdzgYUl" target="_blank" rel="noopener noreferrer" class="">Facebook</a> (обговорення російською та українською)</p>
 <p><a href="https://x.com/ageyev/status/1934520779325985009" target="_blank" rel="noopener noreferrer" class="">X (Twitter)</a></p>
 <p><a href="https://www.linkedin.com/posts/ageyev_strike-on-iran-international-law-etc-activity-7340286381555875840-yXNY?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAAABKOTQBA2A2b2Hx_vRrq4JgJGinG7maN4g" target="_blank" rel="noopener noreferrer" class="">LinkedIn</a></p>
@@ -417,8 +417,8 @@ Let my tongue cleave to the roof of my mouth, if I remember thee not; if I set n
         </item>
         <item>
             <title><![CDATA[День Єрусалиму]]></title>
-            <link>https://international-law.info/uk/blog/jerusalem-day-2025/</link>
-            <guid>https://international-law.info/uk/blog/jerusalem-day-2025/</guid>
+            <link>https://international-law.info/uk/blog/jerusalem-day-2025</link>
+            <guid>https://international-law.info/uk/blog/jerusalem-day-2025</guid>
             <pubDate>Mon, 26 May 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[День Єрусалиму 2025]]></description>
             <content:encoded><![CDATA[<p>У 70 році н.е. Єрусалим було зруйновано. Храм спалили. Народ Ізраїлю було вигнано зі Святого міста. У 135 році євреям було заборонено селитися в Єрусалимі.</p>
@@ -437,14 +437,14 @@ Let my tongue cleave to the roof of my mouth, if I remember thee not; if I set n
         </item>
         <item>
             <title><![CDATA[Що для Ізраїлю означає День Незалежності]]></title>
-            <link>https://international-law.info/uk/blog/israel_independence_day/</link>
-            <guid>https://international-law.info/uk/blog/israel_independence_day/</guid>
+            <link>https://international-law.info/uk/blog/israel_independence_day</link>
+            <guid>https://international-law.info/uk/blog/israel_independence_day</guid>
             <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[День Незалежності Ізраїлю: глибинні причини війни та де ключі до миру]]></description>
             <content:encoded><![CDATA[<p>День Незалежності Ізраїлю: глибинні причини війни та де ключі до миру</p>
 <link rel="preload" href="https://i.ytimg.com/vi/RrCe5eQOtdc/hqdefault.jpg" as="image"><article class="yt-lite" data-title="What Independence Day Means for Israel" style="background-image:url(https://i.ytimg.com/vi/RrCe5eQOtdc/hqdefault.jpg);--aspect-ratio:56.25%"><button type="button" class="lty-playbtn" aria-label="Watch What Independence Day Means for Israel"></button></article>
 <!-- -->
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="транскрипт">Транскрипт:<a href="https://international-law.info/uk/blog/israel_independence_day/#%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BA%D1%80%D0%B8%D0%BF%D1%82" class="hash-link" aria-label="Пряме посилання на Транскрипт:" title="Пряме посилання на Транскрипт:" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="транскрипт">Транскрипт:<a href="https://international-law.info/uk/blog/israel_independence_day#%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BA%D1%80%D0%B8%D0%BF%D1%82" class="hash-link" aria-label="Пряме посилання на Транскрипт:" title="Пряме посилання на Транскрипт:" translate="no">​</a></h3>
 <p>[00:00:05] <strong>Олена Пригова</strong>: Доброго дня, друзі! Сьогодні на календарі 30 квітня. Ми зустрічаємося з Віктором Агєєвим, який є юристом міжнародником, адвокатом з великим досвідом саме міжнародного права. Я нагадаю, що з Віктором ми зустрічалися кілька років тому й обговорювали якраз проблеми ООН і, зокрема, виключення Російської Федерації з Ради Безпеки ООН. Вікторе, добрий день.</p>
 <p>[00:00:34] <strong>Віктор Агєєв</strong>: Добрий! А в нас вечір.</p>
 <p>[00:00:37] <strong>Олена Пригова</strong>: Добрий вечір, добрий день.</p>
@@ -522,8 +522,8 @@ Let my tongue cleave to the roof of my mouth, if I remember thee not; if I set n
         </item>
         <item>
             <title><![CDATA[День Пам'яті]]></title>
-            <link>https://international-law.info/uk/blog/remembrance_day/</link>
-            <guid>https://international-law.info/uk/blog/remembrance_day/</guid>
+            <link>https://international-law.info/uk/blog/remembrance_day</link>
+            <guid>https://international-law.info/uk/blog/remembrance_day</guid>
             <pubDate>Wed, 30 Apr 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<p>Тут слова командира в одному з бойових підрозділів Армії оборони Ізраїлю 🇮🇱.
 Слова мого сина. Я думаю, це має бути опубліковано. Переклад українською — мій, нижче — оригінал івритом.</p>
@@ -586,8 +586,8 @@ Let my tongue cleave to the roof of my mouth, if I remember thee not; if I set n
         </item>
         <item>
             <title><![CDATA[На що розраховувала Газа, починаючи цю війну?]]></title>
-            <link>https://international-law.info/uk/blog/what_gaza_was_counting_on/</link>
-            <guid>https://international-law.info/uk/blog/what_gaza_was_counting_on/</guid>
+            <link>https://international-law.info/uk/blog/what_gaza_was_counting_on</link>
+            <guid>https://international-law.info/uk/blog/what_gaza_was_counting_on</guid>
             <pubDate>Fri, 18 Apr 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[Analysis of Gaza's strategic calculations in the conflict]]></description>
             <content:encoded><![CDATA[<p><img decoding="async" loading="lazy" src="https://international-law.info/uk/assets/images/2025-04-18_what_gaza_was_counting_on-FB-009579884a8212490ace69f8c6d1ad43.jpg" width="1024" height="1024" class="img_ev3q"></p>
@@ -615,8 +615,8 @@ Let my tongue cleave to the roof of my mouth, if I remember thee not; if I set n
         </item>
         <item>
             <title><![CDATA[Від Нілу до Євфрату]]></title>
-            <link>https://international-law.info/uk/blog/from_the_nile_to_the_euphrates/</link>
-            <guid>https://international-law.info/uk/blog/from_the_nile_to_the_euphrates/</guid>
+            <link>https://international-law.info/uk/blog/from_the_nile_to_the_euphrates</link>
+            <guid>https://international-law.info/uk/blog/from_the_nile_to_the_euphrates</guid>
             <pubDate>Thu, 06 Feb 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[Від Нілу до Євфрату: до питання про біблійні кордони Ізраїлю]]></description>
             <content:encoded><![CDATA[<p><img decoding="async" loading="lazy" alt="&amp;quot;From the Nile to the Euphrates&amp;quot;" src="https://international-law.info/uk/assets/images/Bereshit_15-18-dee0bc18ba20705fc925fbf69c4ce280.png" width="834" height="104" class="img_ev3q"></p>
@@ -655,7 +655,7 @@ Let my tongue cleave to the roof of my mouth, if I remember thee not; if I set n
 </blockquote>
 <p>Що приблизно відповідає нинішнім кордонам Ізраїлю: із західного боку - це Середземне море ("велике море"), зі східного - Йордан, Кінерет і Мертве (Солене) море, на півдні - пустелі Синайського або Аравійського півострова ("пустеля Сін") на півночі південна частина нинішньої Сирії.</p>
 <hr>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="посилання">Посилання:<a href="https://international-law.info/uk/blog/from_the_nile_to_the_euphrates/#%D0%BF%D0%BE%D1%81%D0%B8%D0%BB%D0%B0%D0%BD%D0%BD%D1%8F" class="hash-link" aria-label="Пряме посилання на Посилання:" title="Пряме посилання на Посилання:" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="посилання">Посилання:<a href="https://international-law.info/uk/blog/from_the_nile_to_the_euphrates#%D0%BF%D0%BE%D1%81%D0%B8%D0%BB%D0%B0%D0%BD%D0%BD%D1%8F" class="hash-link" aria-label="Пряме посилання на Посилання:" title="Пряме посилання на Посилання:" translate="no">​</a></h2>
 <p><a href="https://uk.wikipedia.org/wiki/%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B8%D0%B9_%D0%86%D0%B7%D1%80%D0%B0%D1%97%D0%BB%D1%8C" target="_blank" rel="noopener noreferrer" class="">Вікіпедія: Великий Ізраїль</a></p>
 <hr>
 <p>Обговорення в <a href="https://www.facebook.com/viktor.ageyev/posts/pfbid0GqkDefYN7YKmHdi1tzLC7Ai1vcoRvH2CqdSvhZS2yfhKfMM3SA1rf9yGWHm8yivTl" target="_blank" rel="noopener noreferrer" class="">Facebook</a></p>
@@ -664,22 +664,22 @@ Let my tongue cleave to the roof of my mouth, if I remember thee not; if I set n
 <p><a href="https://www.instagram.com/p/DFvBBNkoYaM/" target="_blank" rel="noopener noreferrer" class="">Instagram</a></p>
 <hr>
 <p>Див. також:</p>
-<p><a class="" href="https://international-law.info/uk/Holy-Land/borders_and_territory_of_israel/">Де проходять кордони Ізраїлю та що насправді Ізраїль окупує</a></p>]]></content:encoded>
+<p><a class="" href="https://international-law.info/uk/Holy-Land/borders_and_territory_of_israel">Де проходять кордони Ізраїлю та що насправді Ізраїль окупує</a></p>]]></content:encoded>
             <category>Віктор Агєєв</category>
             <category>Ізраїль</category>
             <category>Свята Земля</category>
         </item>
         <item>
             <title><![CDATA[7 жовтня]]></title>
-            <link>https://international-law.info/uk/blog/october7/</link>
-            <guid>https://international-law.info/uk/blog/october7/</guid>
+            <link>https://international-law.info/uk/blog/october7</link>
+            <guid>https://international-law.info/uk/blog/october7</guid>
             <pubDate>Mon, 07 Oct 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[IDF Soldier's Memories of October 7, 2023]]></description>
             <content:encoded><![CDATA[<p>Це текст мого старшого сина, написаний через тиждень після 7 жовтня. Його підрозділ був одним із перших, хто вступив у бій того ранку; вони відбили атаку бойовиків зі <a href="https://en.wikipedia.org/wiki/Nukhba_forces" target="_blank" rel="noopener noreferrer" class="">спецпідрозділу "Нухба"</a> на <a href="https://he.wikipedia.org/wiki/%D7%94%D7%A7%D7%A8%D7%91_%D7%91%D7%91%D7%A1%D7%99%D7%A1_%D7%90%D7%95%D7%A8%D7%99%D7%9D" target="_blank" rel="noopener noreferrer" class="">базу Урім</a> на кордоні з Газою. Він був поранений у тому бою.</p>
 <p><img decoding="async" loading="lazy" alt="Mark" src="https://international-law.info/uk/assets/images/2024-08-18.Mark_with_rifle-8894232879017c3eb3bee21d35397b8f.jpeg" width="580" height="692" class="img_ev3q"></p>
 <p>(Барух аШем, він повернувся до служби через два місяці і зараз воює в Газі)</p>
 <p><a href="https://www.instagram.com/p/CybeGarsF_p/" target="_blank" rel="noopener noreferrer" class="">Текст був написаний іврітом</a>, переклад мій.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="-truncate-">{/* truncate */}<a href="https://international-law.info/uk/blog/october7/#-truncate-" class="hash-link" aria-label="Пряме посилання на {/* truncate */}" title="Пряме посилання на {/* truncate */}" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="-truncate-">{/* truncate */}<a href="https://international-law.info/uk/blog/october7#-truncate-" class="hash-link" aria-label="Пряме посилання на {/* truncate */}" title="Пряме посилання на {/* truncate */}" translate="no">​</a></h2>
 <p>Після тижневої затримки я нарешті вирішив поділитися тим, що сталося зі мною в день, який я запам’ятаю назавжди. Моєю історією, через яку я пройшов, і завдяки великій вдачі, зараз можу написати ці слова.</p>
 <p><strong>7 жовтня</strong> — день, коли ми прокинулися від звуків сирени по всьому сектору. Ми були в бомбосховищі, і ніхто не надавав особливої уваги цим ракетам, бо "що вони можуть зробити, окрім кількох ракет ..."</p>
 <p>Ми почули постріли з боку сусідньої бази, і вже через кілька хвилин на нас було спорядження, і ми вирушили в тому напрямку. З цього моменту ми вступили у війну. Емоції, що переживаєш у цей час, невимовні. Ти перестаєш думати і відчувати, ти просто робиш те, що маєш робити. Ти прориваєшся, просуваєшся вперед і стріляєш — все це на незнайомому тобі полі бою, і все це під свист ракет над головою.</p>
@@ -694,14 +694,14 @@ Let my tongue cleave to the roof of my mouth, if I remember thee not; if I set n
         </item>
         <item>
             <title><![CDATA[Леви та зайчики]]></title>
-            <link>https://international-law.info/uk/blog/lions_and_bunnies/</link>
-            <guid>https://international-law.info/uk/blog/lions_and_bunnies/</guid>
+            <link>https://international-law.info/uk/blog/lions_and_bunnies</link>
+            <guid>https://international-law.info/uk/blog/lions_and_bunnies</guid>
             <pubDate>Tue, 10 Sep 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[Аналіз конфлікту в ізраїльському суспільстві щодо стратегії в війні з ворогами]]></description>
             <content:encoded><![CDATA[<p><img decoding="async" loading="lazy" alt="DALL·E 2024-09-10 16.06.05 - A lion and a bunny sitting at a table, each holding books and engaged in a lively scientific debate" src="https://international-law.info/uk/assets/images/2024-09-10_a_lion_and_a_bunny_sitting_at_a_table-2048d685e539e3c5a573b7789264d56d.jpg" width="526" height="526" class="img_ev3q"></p>
 <p>Я доволі багато писав про психологію лівих, у чому полягає різниця підходу правих і лівих, і, відповідно, причина конфліктів. Не тільки в Ізраїлі, але й загалом.</p>
 <p>У нинішній ситуації я виділив би два моменти:</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-стратегія-поведінки-у-конфлікті">(1) Стратегія поведінки у конфлікті<a href="https://international-law.info/uk/blog/lions_and_bunnies/#1-%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%B5%D0%B3%D1%96%D1%8F-%D0%BF%D0%BE%D0%B2%D0%B5%D0%B4%D1%96%D0%BD%D0%BA%D0%B8-%D1%83-%D0%BA%D0%BE%D0%BD%D1%84%D0%BB%D1%96%D0%BA%D1%82%D1%96" class="hash-link" aria-label="Пряме посилання на (1) Стратегія поведінки у конфлікті" title="Пряме посилання на (1) Стратегія поведінки у конфлікті" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-стратегія-поведінки-у-конфлікті">(1) Стратегія поведінки у конфлікті<a href="https://international-law.info/uk/blog/lions_and_bunnies#1-%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%B5%D0%B3%D1%96%D1%8F-%D0%BF%D0%BE%D0%B2%D0%B5%D0%B4%D1%96%D0%BD%D0%BA%D0%B8-%D1%83-%D0%BA%D0%BE%D0%BD%D1%84%D0%BB%D1%96%D0%BA%D1%82%D1%96" class="hash-link" aria-label="Пряме посилання на (1) Стратегія поведінки у конфлікті" title="Пряме посилання на (1) Стратегія поведінки у конфлікті" translate="no">​</a></h2>
 <p>Як дуже вдало <a href="https://www.facebook.com/viktor.ageyev/posts/pfbid02jn9W6ehr6YQm6QyYPBneScTRP6CWA4SMgS7rwjW4KR6UJ8yrAUQZpXmWiaz8Mb1ql" target="_blank" rel="noopener noreferrer" class="">висловилася</a> одна з моїх колег, пояснюючи, чому ізраїльські ліві їй подобаються більше:</p>
 <blockquote>
 <p>ліві — «зайчики», а от праві — ні</p>
@@ -715,12 +715,12 @@ Let my tongue cleave to the roof of my mouth, if I remember thee not; if I set n
 <p>«Зайчики» кажуть: «ці гієни злі й недобрі; якщо ми з ними конфліктуватимемо, вони нас роздеруть; треба відійти вбік і намагатися не заважати гієнам; а якщо вони захопили кількох зайченят, то треба якось задобрити гієн, щоби вони їх відпустили, і показати їм, що ми — добрі зайчики, не становимо для них загрози».</p>
 <p>«Леви» кажуть: «треба відірвати цим сусіднім гієнам голови й показати відірвані голови далеким гієнам, щоби вони нас боялися».</p>
 <p>І, звісно, «зайчики» вважають таку левову стратегію самогубною й дивляться на «левів» як на «загрозу для існування Ізраїлю».</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2-картина-світу">(2) Картина світу<a href="https://international-law.info/uk/blog/lions_and_bunnies/#2-%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%B0-%D1%81%D0%B2%D1%96%D1%82%D1%83" class="hash-link" aria-label="Пряме посилання на (2) Картина світу" title="Пряме посилання на (2) Картина світу" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2-картина-світу">(2) Картина світу<a href="https://international-law.info/uk/blog/lions_and_bunnies#2-%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%B0-%D1%81%D0%B2%D1%96%D1%82%D1%83" class="hash-link" aria-label="Пряме посилання на (2) Картина світу" title="Пряме посилання на (2) Картина світу" translate="no">​</a></h2>
 <p>Пов’язана з першою, але окрема причина: ліві, як правило, мають матеріалістичне розуміння світу.</p>
 <p>Вони вважають, що в сучасному світі релігія не може і навіть не повинна відігравати суттєвої ролі.<br>
 У їхньому розумінні релігія — це давно застарілі дивні забобони.</p>
 <p>До речі, саме з цієї причини <a href="https://en.wikipedia.org/wiki/Haredi_Judaism" target="_blank" rel="noopener noreferrer" class="">харедім</a> (ультраортодокси) опиняються в правому таборі, хоча загалом вони — ліві, і це, своєю чергою, спотворює їхню релігію. Їхня так звана «віра» замість того, щоб робити їхніх послідовників безстрашними («левами»), використовується для насадження страхів — тобто перетворює їх не просто на «зайчиків», а на «зайчиків», які постійно тремтять від страху перед навколишнім світом. І якщо звичайні нормальні ліві, хоча й схильні поступатися ворогу, але все ж здатні воювати (як наші ліві генерали, зокрема ті, що входять у правий уряд), то ці — переважно — і воювати не здатні. Але це відступ, хоча й важливий у цьому контексті.</p>
-<p>Через таке ставлення до релігії, коли ліві намагаються зрозуміти мотиви наших ворогів, <a class="" href="https://international-law.info/uk/blog/understand-the-enemy/">вони принципово не здатні їх зрозуміти</a>, і вони думають, що вороги воюють з нами тому, що ми їх «гнобимо» й «окупуємо». Ну а які ж іще можуть бути причини? Тому, якщо ми перестанемо їх гнобити, якщо відійдемо, віддамо їм території — у них не буде причин на нас нападати.</p>
+<p>Через таке ставлення до релігії, коли ліві намагаються зрозуміти мотиви наших ворогів, <a class="" href="https://international-law.info/uk/blog/understand-the-enemy">вони принципово не здатні їх зрозуміти</a>, і вони думають, що вороги воюють з нами тому, що ми їх «гнобимо» й «окупуємо». Ну а які ж іще можуть бути причини? Тому, якщо ми перестанемо їх гнобити, якщо відійдемо, віддамо їм території — у них не буде причин на нас нападати.</p>
 <p>Лівим така логіка здається розумною й раціональною, а оскільки вона ще й збігається з глибинною психологічною стратегією поведінки «зайчиків» у конфліктах, то їм узагалі дивно, як праві можуть бути настільки тупими, щоби цього не розуміти.</p>
 <hr>
 <p><a href="https://www.facebook.com/viktor.ageyev/posts/pfbid023kZNSLYpp9vNbMvw63wSWD82NLuDZKwJrynyt9FjUCZovveRbpY8ft7wosptydDNl" target="_blank" rel="noopener noreferrer" class="">Допис і обговорення у Facebook</a> (російською)</p>
@@ -729,8 +729,8 @@ Let my tongue cleave to the roof of my mouth, if I remember thee not; if I set n
         </item>
         <item>
             <title><![CDATA[Розуміти ворогів]]></title>
-            <link>https://international-law.info/uk/blog/understand-the-enemy/</link>
-            <guid>https://international-law.info/uk/blog/understand-the-enemy/</guid>
+            <link>https://international-law.info/uk/blog/understand-the-enemy</link>
+            <guid>https://international-law.info/uk/blog/understand-the-enemy</guid>
             <pubDate>Mon, 24 Jun 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[Ізраїльські ліві не можуть привести Ізраїль до миру, бо в принципі не здатні зрозуміти тих, хто веде проти нас війну]]></description>
             <content:encoded><![CDATA[<p>Ізраїльські ліві не можуть привести Ізраїль до миру, бо, у принципі, не здатні зрозуміти тих, хто веде проти нас війну.</p>

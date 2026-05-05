@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://international-law.info/blog/</id>
+    <id>https://international-law.info/blog</id>
     <title>International Law etc. Blog</title>
     <updated>2026-04-03T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://international-law.info/blog/"/>
+    <link rel="alternate" href="https://international-law.info/blog"/>
     <subtitle>Keep up to date with upcoming blog posts by following our feed!</subtitle>
     <icon>https://international-law.info/img/favicon/favicon.ico</icon>
     <rights>Copyright © 2026 Viktor Ageyev</rights>
     <entry>
         <title type="html"><![CDATA[The Death Penalty Law in Israel]]></title>
-        <id>https://international-law.info/blog/death_penalty_law/</id>
-        <link href="https://international-law.info/blog/death_penalty_law/"/>
+        <id>https://international-law.info/blog/death_penalty_law</id>
+        <link href="https://international-law.info/blog/death_penalty_law"/>
         <updated>2026-04-03T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Deficiencies of the enacted law and how it could have been done better]]></summary>
         <content type="html"><![CDATA[<p>Regarding the <a href="https://fs.knesset.gov.il/25/law/25_ls2_12185958.pdf" target="_blank" rel="noopener noreferrer" class="">law</a> on the death penalty for terrorists enacted by the Knesset on 2026-03-30.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="assessment-of-the-enacted-law">Assessment of the Enacted Law<a href="https://international-law.info/blog/death_penalty_law/#assessment-of-the-enacted-law" class="hash-link" aria-label="Direct link to Assessment of the Enacted Law" title="Direct link to Assessment of the Enacted Law" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="assessment-of-the-enacted-law">Assessment of the Enacted Law<a href="https://international-law.info/blog/death_penalty_law#assessment-of-the-enacted-law" class="hash-link" aria-label="Direct link to Assessment of the Enacted Law" title="Direct link to Assessment of the Enacted Law" translate="no">​</a></h2>
 <p>The amendments to Israeli criminal legislation, in particular to Section 301A of the Penal Law (<a href="https://he.wikisource.org/wiki/%D7%97%D7%95%D7%A7_%D7%94%D7%A2%D7%95%D7%A0%D7%A9%D7%99%D7%9F" target="_blank" rel="noopener noreferrer" class="">חוק העונשין</a>), providing for the death penalty or life imprisonment as punishment for intentional killing with a purpose directed against the existence of the State of Israel, are in themselves justified. However:</p>
 <p>(1)</p>
 <p>As I have previously written, in criminal law in general and in Israeli criminal law in particular, a law that establishes or increases a penalty has no retroactive effect (Article 15 of the <a href="https://en.wikipedia.org/wiki/International_Covenant_on_Civil_and_Political_Rights" target="_blank" rel="noopener noreferrer" class="">International Covenant on Civil and Political Rights</a> and Section 3(b) of the Israeli Penal Law (<a href="https://he.wikisource.org/wiki/%D7%97%D7%95%D7%A7_%D7%94%D7%A2%D7%95%D7%A0%D7%A9%D7%99%D7%9F" target="_blank" rel="noopener noreferrer" class="">חוק העונשין</a>)).</p>
@@ -33,7 +33,7 @@
 <p>This is incorrect; see on this site my text <a href="https://international-law.info/Holy-Land/borders_and_territory_of_israel/" target="_blank" rel="noopener noreferrer" class="">"Borders and Territory of Israel"</a>.</p>
 <p>(5)</p>
 <p>The law thus in no way addresses the question of what to do with the terrorists held in Israeli prisons who took part in Gaza's war against Israel. And this is indeed a difficult problem that calls for very tough but carefully considered decisions, not populism.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="how-it-could-have-been-done-better">How It Could Have Been Done Better<a href="https://international-law.info/blog/death_penalty_law/#how-it-could-have-been-done-better" class="hash-link" aria-label="Direct link to How It Could Have Been Done Better" title="Direct link to How It Could Have Been Done Better" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="how-it-could-have-been-done-better">How It Could Have Been Done Better<a href="https://international-law.info/blog/death_penalty_law#how-it-could-have-been-done-better" class="hash-link" aria-label="Direct link to How It Could Have Been Done Better" title="Direct link to How It Could Have Been Done Better" translate="no">​</a></h2>
 <p>Naturally, in light of the above observations, a legitimate question arises: "What should have been done instead?"</p>
 <p>We cannot give retroactive effect to a law that establishes or increases a penalty, i.e. apply it to acts committed before its entry into force. No one who calls himself a lawyer should do such a thing. However, we can consider several possible approaches which, though debatable, are of interest:</p>
 <p>(1)</p>
@@ -64,11 +64,11 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Purim and the Holocaust]]></title>
-        <id>https://international-law.info/blog/purim_and_holocaust/</id>
-        <link href="https://international-law.info/blog/purim_and_holocaust/"/>
+        <id>https://international-law.info/blog/purim_and_holocaust</id>
+        <link href="https://international-law.info/blog/purim_and_holocaust"/>
         <updated>2026-03-22T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[If I forget thee, O Jerusalem ...]]></summary>
-        <content type="html"><![CDATA[<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="a-necessary-foreword">A Necessary Foreword<a href="https://international-law.info/blog/purim_and_holocaust/#a-necessary-foreword" class="hash-link" aria-label="Direct link to A Necessary Foreword" title="Direct link to A Necessary Foreword" translate="no">​</a></h2>
+        <content type="html"><![CDATA[<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="a-necessary-foreword">A Necessary Foreword<a href="https://international-law.info/blog/purim_and_holocaust#a-necessary-foreword" class="hash-link" aria-label="Direct link to A Necessary Foreword" title="Direct link to A Necessary Foreword" translate="no">​</a></h2>
 <p>I intended to write this post on Purim. But I did not.
 And now the esteemed <a href="https://www.facebook.com/shlomo.kochubievsky" target="_blank" rel="noopener noreferrer" class="">Rabbi Kochubievsky</a> posed me a <a href="https://www.facebook.com/shlomo.kochubievsky/posts/pfbid02uWr3cPdxqvjyhCeu5CuyG4XFvnb6xygvYSBgEyQR5KUtPhk7ZxRtmVbe7RuDcR8tl?comment_id=1256784452491575&amp;reply_comment_id=914371734851621" target="_blank" rel="noopener noreferrer" class="">question</a> about how I would explain such two delicate topics as Haman's verdict to annihilate the entire Jewish people, and the Holocaust.</p>
 <p>Perhaps Rabbi Kochubievsky himself posed the questions about Purim and the Holocaust as <em>two</em> separate difficult questions. But in my view this is precisely one question. Purim offers a way to explain the Holocaust, because if we analyze the situation in which Haman's decree came about, we can put forward a hypothesis that a certain pattern is discernible here, and extrapolate the conclusions to the subsequent and present-day situation.</p>
@@ -79,7 +79,7 @@ And now the esteemed <a href="https://www.facebook.com/shlomo.kochubievsky" targ
 </blockquote>
 <p>So — yes, I understand that constructing hypotheses about what, in the opinion of a great sage and righteous man, lies beyond the limits of human comprehension, is a path on which it is difficult to avoid errors. But being aware of how intellectually and morally dangerous this undertaking is, I consider it necessary, and moreover — the refusal to undertake it far more dangerous.</p>
 <p>We will return to the Lubavitcher Rebbe's position, which is of great importance here, and will try to understand why it is as it is, not limiting ourselves merely to the fact that it appears epistemologically unsatisfying for a person who considers understanding the designs of the Almighty a paramount task for anyone who thinks from the premise of His existence.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="purim">Purim<a href="https://international-law.info/blog/purim_and_holocaust/#purim" class="hash-link" aria-label="Direct link to Purim" title="Direct link to Purim" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="purim">Purim<a href="https://international-law.info/blog/purim_and_holocaust#purim" class="hash-link" aria-label="Direct link to Purim" title="Direct link to Purim" translate="no">​</a></h2>
 <p>Let us then consider the situation in which the events of Purim occurred. The Jews were in the exile known as the <a href="https://en.wikipedia.org/wiki/Babylonian_captivity" target="_blank" rel="noopener noreferrer" class="">Babylonian captivity</a>. It is precisely this exile that the famous Psalm 137 (by the Masoretic numbering), <a href="https://en.wikipedia.org/wiki/Psalm_137" target="_blank" rel="noopener noreferrer" class="">"By the rivers of Babylon"</a>, speaks of — the psalm in which this formula appeared:</p>
 <blockquote>
 <p>אִם־אֶשְׁכָּחֵךְ יְרוּשָׁלָ͏ִם תִּשְׁכַּח יְמִינִי
@@ -98,7 +98,7 @@ Let my tongue cleave to the roof of my mouth, if I remember thee not; if I set n
 <p>The greater part of the Jews, however, instead of setting out for a ruined country unfit for habitation, remained in the comfortable exile, where all the benefits of civilization available in those times were at hand. Highly telling are the names of the main characters of the Scroll of Esther: Esther herself — whose name derives from the Babylonian goddess <a href="https://en.wikipedia.org/wiki/Inanna" target="_blank" rel="noopener noreferrer" class="">Ishtar</a> — and Mordechai, a name that means "the god <a href="https://en.wikipedia.org/wiki/Marduk" target="_blank" rel="noopener noreferrer" class="">Marduk</a> lives" — the chief deity of the Babylonian pantheon; as well as the fact that the king, whose wife Esther was, did not know she was Jewish — that is, outwardly her belonging to the people was in no way manifest (observance of customs, fulfillment of commandments).</p>
 <p>And at this very time, the country into which the Jews had already begun so comfortably to integrate suddenly becomes hostile. <a href="https://en.wikipedia.org/wiki/Haman" target="_blank" rel="noopener noreferrer" class="">Haman</a> arranges the issuance of a decree by King <a href="https://en.wikipedia.org/wiki/Ahasuerus" target="_blank" rel="noopener noreferrer" class="">Ahasuerus</a> for the annihilation of the Jewish people. But his wife — Queen Esther remembers that she is Jewish, and reveals this to the king, who until that moment had not even known it. In the end, the Jewish people, being one step from annihilation, survive; the Jews remember that they are Jews. And already after Ahasuerus, King Dareyavesh (possibly <a href="https://en.wikipedia.org/wiki/Darius_II" target="_blank" rel="noopener noreferrer" class="">Darius II</a>) — Esther's son (according to the traditional and most logical interpretation) — issues a new instruction for the Jews to return and rebuild the Temple, and the majority of the Jews return (the aliyah of <a href="https://en.wikipedia.org/wiki/Ezra" target="_blank" rel="noopener noreferrer" class="">Ezra</a>) and rebuild the Temple in Jerusalem.</p>
 <p>What happens overall: the people of Israel, attempting to evade their mission and even to forget their calling, find themselves on the brink of destruction, which pushes them back toward the mission destined for this people.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-holocaust">The Holocaust<a href="https://international-law.info/blog/purim_and_holocaust/#the-holocaust" class="hash-link" aria-label="Direct link to The Holocaust" title="Direct link to The Holocaust" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-holocaust">The Holocaust<a href="https://international-law.info/blog/purim_and_holocaust#the-holocaust" class="hash-link" aria-label="Direct link to The Holocaust" title="Direct link to The Holocaust" translate="no">​</a></h2>
 <p>In this history we see a painfully familiar pattern, but now repeated with intensified cruelty.</p>
 <p>At the beginning of this history, the head of the Persian Empire, Cyrus, is paralleled by the monarch of another great empire — King <a href="https://en.wikipedia.org/wiki/George_V" target="_blank" rel="noopener noreferrer" class="">George V</a>. On November 2, 1917, British Foreign Secretary Arthur Balfour publishes the <a href="https://en.wikisource.org/wiki/Balfour_Declaration" target="_blank" rel="noopener noreferrer" class="">Declaration</a>:</p>
 <blockquote>
@@ -141,7 +141,7 @@ They had thought that God was a kindly old man with a long gray beard, sitting u
 <p>The same applies when the leaders of a people pray for the people. When Moses turned to the Almighty with a prayer to save the people, he did not change the mood of the Almighty; he changed the properties of the people, of which he was both a part and a leader.</p>
 <p>As I have already written in <a href="https://international-law.info/blog/metaphysics_of_war/" target="_blank" rel="noopener noreferrer" class="">"Metaphysics of War"</a>: the metaphysical level of causes is this: why does the Almighty (you may call this "the Universe," "the world," "life") allow this to happen to us (to a person in the case of illness, to a nation in the case of war); what is this war or illness sent to us for; and, most importantly: what must we realize and change in ourselves.</p>
 <p>Therefore our refusal to attempt to understand is a devaluation of the Almighty's attempt to explain to us. And if we at all presuppose the existence of the Almighty, then the Almighty speaks to us <em>not only</em> through ancient sacred texts, but through everything that happens in the world. We have no way to understand and reason infallibly, but we do have a guaranteed way to err — and that is the refusal to attempt to understand.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="returning-to-the-foreword">Returning to the Foreword<a href="https://international-law.info/blog/purim_and_holocaust/#returning-to-the-foreword" class="hash-link" aria-label="Direct link to Returning to the Foreword" title="Direct link to Returning to the Foreword" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="returning-to-the-foreword">Returning to the Foreword<a href="https://international-law.info/blog/purim_and_holocaust#returning-to-the-foreword" class="hash-link" aria-label="Direct link to Returning to the Foreword" title="Direct link to Returning to the Foreword" translate="no">​</a></h2>
 <p>We return once more to the question: why could a great sage and righteous man, one of the most influential Jewish religious leaders, not give an answer to the question of the causes of the Holocaust? The letter we cited above was written as a response to the position held by a part of the Haredi rabbinate: that it was punishment for not observing the commandments strictly enough and not studying the Torah sufficiently. But in their understanding, the commandments are only what pertains to domestic rules — kashrut, the washing of hands, the prohibition on working on Shabbat — and Torah means the Talmud.</p>
 <p>The Lubavitcher Rebbe writes:</p>
 <blockquote>
@@ -164,8 +164,8 @@ They had thought that God was a kindly old man with a long gray beard, sitting u
     </entry>
     <entry>
         <title type="html"><![CDATA[Sadducees and Pharisees]]></title>
-        <id>https://international-law.info/blog/sadducees_and_pharisees/</id>
-        <link href="https://international-law.info/blog/sadducees_and_pharisees/"/>
+        <id>https://international-law.info/blog/sadducees_and_pharisees</id>
+        <link href="https://international-law.info/blog/sadducees_and_pharisees"/>
         <updated>2026-01-08T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[A history they do not teach in yeshivas]]></summary>
         <content type="html"><![CDATA[<p>As a continuation of my posts on Hanukkah and of my discussions with Rav <a href="https://www.facebook.com/michael.jedwabny" target="_blank" rel="noopener noreferrer" class="">Michael Jedwabny</a>—see <a href="https://www.facebook.com/viktor.ageyev/posts/pfbid02rZ3yVqCs5xchvcW1rEwa9hXC5DS1jEHzScgafEQ8JR3FibtbYA4crapzaEmumeqAl" target="_blank" rel="noopener noreferrer" class="">Hanukkah</a>, <a href="https://www.facebook.com/viktor.ageyev/posts/pfbid02SoFrbjq4wC9XW4waqQdumZ9JgC8CWbbZgkPwPBByacRbd4mm73HbH5ZDkgosaFoEl" target="_blank" rel="noopener noreferrer" class="">The Son of the Star and the “Three Oaths”</a>, <a href="https://www.facebook.com/reel/1231350342383658" target="_blank" rel="noopener noreferrer" class="">The Storming of Heaven and the History of Hanukkah</a>—discussions in which, it seems to me, there were interesting and profound thoughts on both sides—I noticed a historical circumstance to which I had not previously paid attention:</p>
@@ -204,20 +204,20 @@ On matters of religious doctrine, the sources point to the following features of
     </entry>
     <entry>
         <title type="html"><![CDATA[Metaphysics of War]]></title>
-        <id>https://international-law.info/blog/metaphysics_of_war/</id>
-        <link href="https://international-law.info/blog/metaphysics_of_war/"/>
+        <id>https://international-law.info/blog/metaphysics_of_war</id>
+        <link href="https://international-law.info/blog/metaphysics_of_war"/>
         <updated>2025-11-21T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Levels of cause and meaning]]></summary>
         <content type="html"><![CDATA[<p>What is the profound flaw in the plans for a peaceful settlement in the Middle East and in the “European East”? It is the same in both cases and consists in the desire to ignore the question of the causes of the war.</p>
 <p>Any war and any illness, and indeed any crisis situation in our life, has two levels of causes: a material, “physical” one and an immaterial, “metaphysical” one.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-material-level">The material level<a href="https://international-law.info/blog/metaphysics_of_war/#the-material-level" class="hash-link" aria-label="Direct link to The material level" title="Direct link to The material level" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-material-level">The material level<a href="https://international-law.info/blog/metaphysics_of_war#the-material-level" class="hash-link" aria-label="Direct link to The material level" title="Direct link to The material level" translate="no">​</a></h2>
 <p>At the material level, in the case of illness this means, for example, questions such as “what triggered the allergy?”, “which virus infected the patient?”, and so on; in the case of war, it is “what motives guided those who started the war?”, “where, in fact, should the border run?”, and the like.</p>
 <p>If we speak about ignoring causes at this level, then of course, as a classic example, we must recall Chamberlain and Daladier, who at one time were guided by exactly the same logic as Donald Trump today. But with an essential difference: what is being proposed now is even worse – it is Munich after Poland.</p>
 <p>There is probably no need to spell out that the peace plan for the Middle East likewise rests on the assumption that there is no need to clarify the causes of the war.</p>
 <p>We are not analysing these causes here; they are the subject of separate, extensive examinations. What we are talking about is that the “peace plans” being proposed today are constructed as if the question of the causes of the war and, as a consequence, the question of who in this war is right and who is guilty, not only can but even ought to be left outside the discussion.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-metaphysical-level">The metaphysical level<a href="https://international-law.info/blog/metaphysics_of_war/#the-metaphysical-level" class="hash-link" aria-label="Direct link to The metaphysical level" title="Direct link to The metaphysical level" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-metaphysical-level">The metaphysical level<a href="https://international-law.info/blog/metaphysics_of_war#the-metaphysical-level" class="hash-link" aria-label="Direct link to The metaphysical level" title="Direct link to The metaphysical level" translate="no">​</a></h2>
 <p>The metaphysical level of causes is the question of why the Almighty (you may call it the “Universe”, “the world”, “life”) allows this to happen to us – to an individual in the case of illness, to a nation in the case of war; for what this war or illness has been sent to us and, most importantly, what we must become aware of and change in ourselves.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="assessments-and-conclusions">Assessments and conclusions<a href="https://international-law.info/blog/metaphysics_of_war/#assessments-and-conclusions" class="hash-link" aria-label="Direct link to Assessments and conclusions" title="Direct link to Assessments and conclusions" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="assessments-and-conclusions">Assessments and conclusions<a href="https://international-law.info/blog/metaphysics_of_war#assessments-and-conclusions" class="hash-link" aria-label="Direct link to Assessments and conclusions" title="Direct link to Assessments and conclusions" translate="no">​</a></h2>
 <p>The current plans for a peaceful settlement, both in the Middle East and in the European East, are built on an explicit ignoring of the causes at the “material” level and on an implicit denial of the very existence of a metaphysical level of causes.</p>
 <p>Of course, the approach “for now the main thing is a truce, and afterwards we will see” is understandable. But if we look from the viewpoint of metaphysical causes, then the war came to these peoples precisely because they did not want to see these causes without a war.</p>
 <p>Or, in other words, if one ignores both the material and the metaphysical causes, war will not simply “be able to return”; it will most likely return in a more severe form and on a larger scale.</p>
@@ -234,11 +234,11 @@ On matters of religious doctrine, the sources point to the following features of
     </entry>
     <entry>
         <title type="html"><![CDATA[A deal with the Devil]]></title>
-        <id>https://international-law.info/blog/deal_with_the_devil/</id>
-        <link href="https://international-law.info/blog/deal_with_the_devil/"/>
+        <id>https://international-law.info/blog/deal_with_the_devil</id>
+        <link href="https://international-law.info/blog/deal_with_the_devil"/>
         <updated>2025-10-09T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Norms of international and religious law]]></summary>
-        <content type="html"><![CDATA[<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="a-deal-with-the-devil-in-light-of-the-norms-of-the-vienna-convention-on-the-law-of-treaties">A deal with the Devil in light of the norms of the Vienna Convention on the Law of Treaties<a href="https://international-law.info/blog/deal_with_the_devil/#a-deal-with-the-devil-in-light-of-the-norms-of-the-vienna-convention-on-the-law-of-treaties" class="hash-link" aria-label="Direct link to A deal with the Devil in light of the norms of the Vienna Convention on the Law of Treaties" title="Direct link to A deal with the Devil in light of the norms of the Vienna Convention on the Law of Treaties" translate="no">​</a></h2>
+        <content type="html"><![CDATA[<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="a-deal-with-the-devil-in-light-of-the-norms-of-the-vienna-convention-on-the-law-of-treaties">A deal with the Devil in light of the norms of the Vienna Convention on the Law of Treaties<a href="https://international-law.info/blog/deal_with_the_devil#a-deal-with-the-devil-in-light-of-the-norms-of-the-vienna-convention-on-the-law-of-treaties" class="hash-link" aria-label="Direct link to A deal with the Devil in light of the norms of the Vienna Convention on the Law of Treaties" title="Direct link to A deal with the Devil in light of the norms of the Vienna Convention on the Law of Treaties" translate="no">​</a></h2>
 <blockquote>
 <p>"Come on, my friend, get ready the pen, <br>
 Sign the paper to have it done!” <br>
@@ -286,8 +286,8 @@ The payment you can delay! <br></p>
     </entry>
     <entry>
         <title type="html"><![CDATA[The prayer of a warrior]]></title>
-        <id>https://international-law.info/blog/prayer-of-a-warrior/</id>
-        <link href="https://international-law.info/blog/prayer-of-a-warrior/"/>
+        <id>https://international-law.info/blog/prayer-of-a-warrior</id>
+        <link href="https://international-law.info/blog/prayer-of-a-warrior"/>
         <updated>2025-07-16T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[The prayer of a warrior going into battle is on a spiritual level fundamentally unattainable in yeshiva conditions]]></summary>
         <content type="html"><![CDATA[<p>בָּרוּךְ יְהֹוָה צוּרִי הַמְלַמֵּד יָדַי לַקְרָב אֶצְבְּעוֹתַי לַמִּלְחָמָה</p>
@@ -309,8 +309,8 @@ The payment you can delay! <br></p>
     </entry>
     <entry>
         <title type="html"><![CDATA[It must also be seen to be done]]></title>
-        <id>https://international-law.info/blog/it-must-also-be-seen-to-be-done/</id>
-        <link href="https://international-law.info/blog/it-must-also-be-seen-to-be-done/"/>
+        <id>https://international-law.info/blog/it-must-also-be-seen-to-be-done</id>
+        <link href="https://international-law.info/blog/it-must-also-be-seen-to-be-done"/>
         <updated>2025-06-27T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[It is not enough to defeat the enemy; it must also be seen that the enemy is defeated.]]></summary>
         <content type="html"><![CDATA[<p>Ayatollah Ali Khamenei, in his <a href="https://farsi.khamenei.ir/speech-content?id=60502" target="_blank" rel="noopener noreferrer" class="">address</a>, congratulated the Iranian people on their victory over Israel and the United States of America:</p>
@@ -351,8 +351,8 @@ The payment you can delay! <br></p>
     </entry>
     <entry>
         <title type="html"><![CDATA[Surrender or ceasefire]]></title>
-        <id>https://international-law.info/blog/surrender-or-ceasefire/</id>
-        <link href="https://international-law.info/blog/surrender-or-ceasefire/"/>
+        <id>https://international-law.info/blog/surrender-or-ceasefire</id>
+        <link href="https://international-law.info/blog/surrender-or-ceasefire"/>
         <updated>2025-06-25T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Unconditional surrender or unconditional ceasefire? Why the current legal doctrine is wrong]]></summary>
         <content type="html"><![CDATA[<p>Our practice shows that Israel’s habitual approach when facing enemies—"if we are attacked, we bomb in response until the enemy’s forces are damaged, then we agree to a ceasefire and peacefully watch the enemy celebrate victory" (here it must be emphasized: in their understanding, “victory” is in no way determined by the number of losses they suffered, but solely by the ability to proclaim and celebrate this victory)—is flawed, as it inevitably leads to the enemy, inspired by another “victory,” restoring strength, receiving increased support, and attacking again.</p>
@@ -401,8 +401,8 @@ The payment you can delay! <br></p>
     </entry>
     <entry>
         <title type="html"><![CDATA[Strike on Iran]]></title>
-        <id>https://international-law.info/blog/strike-on-iran/</id>
-        <link href="https://international-law.info/blog/strike-on-iran/"/>
+        <id>https://international-law.info/blog/strike-on-iran</id>
+        <link href="https://international-law.info/blog/strike-on-iran"/>
         <updated>2025-06-13T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[International legal analysis]]></summary>
         <content type="html"><![CDATA[<p>In a <a href="https://x.com/IDF/status/1933324595471454495" target="_blank" rel="noopener noreferrer" class="">statement</a> by the Israel Defense Forces (IDF) press office dated 13 June 2025, it was stated that the Israeli army had carried out a preemptive strike on Iran.</p>
@@ -418,7 +418,7 @@ The payment you can delay! <br></p>
 <p>"Behold a people that riseth up as a lioness, and as a lion doth he lift himself up; he shall not lie down until he eat of the prey, and drink the blood of the slain"
 (<a href="https://mechon-mamre.org/p/pt/pt0423.htm" target="_blank" rel="noopener noreferrer" class="">Numbers, 23:24</a>)</p>
 <hr>
-<h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="this-post-on-social-networks">This post on social networks:<a href="https://international-law.info/blog/strike-on-iran/#this-post-on-social-networks" class="hash-link" aria-label="Direct link to This post on social networks:" title="Direct link to This post on social networks:" translate="no">​</a></h4>
+<h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="this-post-on-social-networks">This post on social networks:<a href="https://international-law.info/blog/strike-on-iran#this-post-on-social-networks" class="hash-link" aria-label="Direct link to This post on social networks:" title="Direct link to This post on social networks:" translate="no">​</a></h4>
 <p><a href="https://x.com/ageyev/status/1934520779325985009" target="_blank" rel="noopener noreferrer" class="">X (Twitter)</a></p>
 <p><a href="https://www.linkedin.com/posts/ageyev_strike-on-iran-international-law-etc-activity-7340286381555875840-yXNY?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAAABKOTQBA2A2b2Hx_vRrq4JgJGinG7maN4g" target="_blank" rel="noopener noreferrer" class="">LinkedIn</a></p>
 <p><a href="https://www.instagram.com/p/DK9AmRqIySg/" target="_blank" rel="noopener noreferrer" class="">Instagram</a></p>
@@ -432,8 +432,8 @@ The payment you can delay! <br></p>
     </entry>
     <entry>
         <title type="html"><![CDATA[Jerusalem Day]]></title>
-        <id>https://international-law.info/blog/jerusalem-day-2025/</id>
-        <link href="https://international-law.info/blog/jerusalem-day-2025/"/>
+        <id>https://international-law.info/blog/jerusalem-day-2025</id>
+        <link href="https://international-law.info/blog/jerusalem-day-2025"/>
         <updated>2025-05-26T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Jerusalem Day 2025]]></summary>
         <content type="html"><![CDATA[<p>In 70 CE, Jerusalem was destroyed. The Temple was burned. The people of Israel were expelled from the Holy City. In 135, Jews were forbidden to settle in Jerusalem.</p>
@@ -457,15 +457,15 @@ The payment you can delay! <br></p>
     </entry>
     <entry>
         <title type="html"><![CDATA[What Independence Day Means for Israel]]></title>
-        <id>https://international-law.info/blog/israel_independence_day/</id>
-        <link href="https://international-law.info/blog/israel_independence_day/"/>
+        <id>https://international-law.info/blog/israel_independence_day</id>
+        <link href="https://international-law.info/blog/israel_independence_day"/>
         <updated>2025-05-01T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Israel's Independence Day: the root causes of the war and where the keys to peace lie]]></summary>
         <content type="html"><![CDATA[<p>Israel's Independence Day: the root causes of the war and where the keys to peace lie</p>
 <link rel="preload" href="https://i.ytimg.com/vi/RrCe5eQOtdc/hqdefault.jpg" as="image"><article class="yt-lite" data-title="What Independence Day Means for Israel" style="background-image:url(https://i.ytimg.com/vi/RrCe5eQOtdc/hqdefault.jpg);--aspect-ratio:56.25%"><button type="button" class="lty-playbtn" aria-label="Watch What Independence Day Means for Israel"></button></article>
 <p>(video in Russian, transcript in English)</p>
 <!-- -->
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="transcript">Transcript:<a href="https://international-law.info/blog/israel_independence_day/#transcript" class="hash-link" aria-label="Direct link to Transcript:" title="Direct link to Transcript:" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="transcript">Transcript:<a href="https://international-law.info/blog/israel_independence_day#transcript" class="hash-link" aria-label="Direct link to Transcript:" title="Direct link to Transcript:" translate="no">​</a></h3>
 <p>[00:00:05] <strong>Elena Prigova</strong>: Hello, friends! We have April 30th on the calendar today. We meet with Viktor Ageyev, who is an international lawyer, an attorney with extensive experience in international law. I will remind you that Viktor and I met a few years ago and discussed UN problems and, in particular, the exclusion of the Russian Federation from the UN Security Council. Viktor, good day.</p>
 <p>[00:00:34] <strong>Viktor Ageyev</strong>: Good day! And we're having an evening already.</p>
 <p>[00:00:37] <strong>Elena Prigova</strong>: Good evening, good day.</p>
@@ -546,8 +546,8 @@ The payment you can delay! <br></p>
     </entry>
     <entry>
         <title type="html"><![CDATA[Remembrance Day]]></title>
-        <id>https://international-law.info/blog/remembrance_day/</id>
-        <link href="https://international-law.info/blog/remembrance_day/"/>
+        <id>https://international-law.info/blog/remembrance_day</id>
+        <link href="https://international-law.info/blog/remembrance_day"/>
         <updated>2025-04-30T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p>These are the words of a commander in one of the combat units of the IDF 🇮🇱 on Memorial Day. The words of my son. I think this should be published. The translation into English is mine, below is the original in Hebrew.</p>
 <hr>
@@ -615,8 +615,8 @@ I will not forget.<br></p>
     </entry>
     <entry>
         <title type="html"><![CDATA[What Could Gaza/Hamas Have Counted on When Launching this War?]]></title>
-        <id>https://international-law.info/blog/what_gaza_was_counting_on/</id>
-        <link href="https://international-law.info/blog/what_gaza_was_counting_on/"/>
+        <id>https://international-law.info/blog/what_gaza_was_counting_on</id>
+        <link href="https://international-law.info/blog/what_gaza_was_counting_on"/>
         <updated>2025-04-18T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Analysis of Gaza's strategic calculations in the conflict]]></summary>
         <content type="html"><![CDATA[<p><img decoding="async" loading="lazy" src="https://international-law.info/assets/images/2025-04-18_what_gaza_was_counting_on-FB-009579884a8212490ace69f8c6d1ad43.jpg" width="1024" height="1024" class="img_ev3q"></p>
@@ -644,8 +644,8 @@ I will not forget.<br></p>
     </entry>
     <entry>
         <title type="html"><![CDATA[From the Nile to the Euphrates]]></title>
-        <id>https://international-law.info/blog/from_the_nile_to_the_euphrates/</id>
-        <link href="https://international-law.info/blog/from_the_nile_to_the_euphrates/"/>
+        <id>https://international-law.info/blog/from_the_nile_to_the_euphrates</id>
+        <link href="https://international-law.info/blog/from_the_nile_to_the_euphrates"/>
         <updated>2025-02-06T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[From the Nile to the Euphrates: On the Question of Israel’s Biblical Borders]]></summary>
         <content type="html"><![CDATA[<p><img decoding="async" loading="lazy" alt="&amp;quot;From the Nile to the Euphrates&amp;quot;" src="https://international-law.info/assets/images/Bereshit_15-18-dee0bc18ba20705fc925fbf69c4ce280.png" width="834" height="104" class="img_ev3q"></p>
@@ -670,7 +670,7 @@ I will not forget.<br></p>
 </blockquote>
 <p>Which roughly corresponds to the current borders of Israel: on the western side is the Mediterranean Sea ("the Great Sea"), on the eastern side is the Jordan, the Sea of Galilee (Chinnereth) and the Dead (Salt) Sea, on the south are the deserts of the Sinai or Arabian Peninsula ("the desert of Sin"), and on the north is the southern part of present-day Syria.</p>
 <hr>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="references">References:<a href="https://international-law.info/blog/from_the_nile_to_the_euphrates/#references" class="hash-link" aria-label="Direct link to References:" title="Direct link to References:" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="references">References:<a href="https://international-law.info/blog/from_the_nile_to_the_euphrates#references" class="hash-link" aria-label="Direct link to References:" title="Direct link to References:" translate="no">​</a></h2>
 <p><a href="https://en.wikipedia.org/wiki/Greater_Israel" target="_blank" rel="noopener noreferrer" class="">Wikipedia: Greater Israel</a></p>
 <hr>
 <p>this post in:</p>
@@ -680,7 +680,7 @@ I will not forget.<br></p>
 <p><a href="https://www.instagram.com/p/DFvBBNkoYaM/" target="_blank" rel="noopener noreferrer" class="">Instagram</a></p>
 <hr>
 <p>See also:</p>
-<p><a class="" href="https://international-law.info/Holy-Land/borders_and_territory_of_israel/">Where Are Israel's Borders and What Is Israel Actually Occupying</a></p>]]></content>
+<p><a class="" href="https://international-law.info/Holy-Land/borders_and_territory_of_israel">Where Are Israel's Borders and What Is Israel Actually Occupying</a></p>]]></content>
         <author>
             <name>Viktor Ageyev</name>
         </author>
@@ -689,15 +689,15 @@ I will not forget.<br></p>
     </entry>
     <entry>
         <title type="html"><![CDATA[October 7]]></title>
-        <id>https://international-law.info/blog/october7/</id>
-        <link href="https://international-law.info/blog/october7/"/>
+        <id>https://international-law.info/blog/october7</id>
+        <link href="https://international-law.info/blog/october7"/>
         <updated>2024-10-07T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[IDF Soldier's Memories of October 7, 2023]]></summary>
         <content type="html"><![CDATA[<p>This is the text of my eldest son, written a week after October 7th. His unit was one of the first to engage in battle that morning; they repelled an attack by terrorists from the "Nukhba" special forces on the <a href="https://he.wikipedia.org/wiki/%D7%94%D7%A7%D7%A8%D7%91_%D7%91%D7%91%D7%A1%D7%99%D7%A1_%D7%90%D7%95%D7%A8%D7%99%D7%9D" target="_blank" rel="noopener noreferrer" class="">Urim base</a> on the border with Gaza. He was wounded in that battle.</p>
 <p><img decoding="async" loading="lazy" alt="Mark" src="https://international-law.info/assets/images/2024-08-18.Mark_with_rifle-8894232879017c3eb3bee21d35397b8f.jpeg" width="580" height="692" class="img_ev3q"></p>
 <p>(Baruch HaShem, he returned to service after two months and is now fighting in Gaza)</p>
 <p>The <a href="https://www.instagram.com/p/CybeGarsF_p/" target="_blank" rel="noopener noreferrer" class="">original text</a> is in Hebrew, the translation is mine.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="-truncate-">{/* truncate */}<a href="https://international-law.info/blog/october7/#-truncate-" class="hash-link" aria-label="Direct link to {/* truncate */}" title="Direct link to {/* truncate */}" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="-truncate-">{/* truncate */}<a href="https://international-law.info/blog/october7#-truncate-" class="hash-link" aria-label="Direct link to {/* truncate */}" title="Direct link to {/* truncate */}" translate="no">​</a></h2>
 <p>After a week's delay, I have finally decided to share what happened to me on the day I will remember forever. My story that I went through, and with great luck, I am now able to write these words.</p>
 <p><strong>October 7th</strong>, a day we woke up to the announcement of a "Red Alert" throughout the entire sector. We were in the shelter, and no one paid too much attention to these missiles, because what can they really do besides a few rockets...</p>
 <p>We heard gunfire from the direction of a nearby base, and within a few minutes, our gear was on us, and we headed in that direction. From that moment, we entered the war. It's impossible to describe the feelings you go through during this. You stop thinking and feeling; you just do what you need to do. You strive, advance, and shoot—all in a combat zone unfamiliar to you, all while rockets whistle overhead.</p>
@@ -718,14 +718,14 @@ I will not forget.<br></p>
     </entry>
     <entry>
         <title type="html"><![CDATA[Lions and Bunnies]]></title>
-        <id>https://international-law.info/blog/lions_and_bunnies/</id>
-        <link href="https://international-law.info/blog/lions_and_bunnies/"/>
+        <id>https://international-law.info/blog/lions_and_bunnies</id>
+        <link href="https://international-law.info/blog/lions_and_bunnies"/>
         <updated>2024-09-10T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Analysis of the conflict in israeli society regarding war strategy]]></summary>
         <content type="html"><![CDATA[<p><img decoding="async" loading="lazy" alt="DALL·E 2024-09-10 16.06.05 - A lion and a bunny sitting at a table, each holding books and engaged in a lively scientific debate" src="https://international-law.info/assets/images/2024-09-10_a_lion_and_a_bunny_sitting_at_a_table-2048d685e539e3c5a573b7789264d56d.jpg" width="526" height="526" class="img_ev3q"></p>
 <p>I have written quite a bit about how the psychology of the left works, how the approaches of the right and the left differ, and how this causes conflict—not only in Israel, but more broadly.</p>
 <p>In today’s situation, I would highlight two main points:</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-conflict-strategy">(1) Conflict Strategy<a href="https://international-law.info/blog/lions_and_bunnies/#1-conflict-strategy" class="hash-link" aria-label="Direct link to (1) Conflict Strategy" title="Direct link to (1) Conflict Strategy" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-conflict-strategy">(1) Conflict Strategy<a href="https://international-law.info/blog/lions_and_bunnies#1-conflict-strategy" class="hash-link" aria-label="Direct link to (1) Conflict Strategy" title="Direct link to (1) Conflict Strategy" translate="no">​</a></h2>
 <p>During an emotional exchange on Facebook, one of my colleagues used <a href="https://www.facebook.com/viktor.ageyev/posts/pfbid02jn9W6ehr6YQm6QyYPBneScTRP6CWA4SMgS7rwjW4KR6UJ8yrAUQZpXmWiaz8Mb1ql" target="_blank" rel="noopener noreferrer" class="">a colorful metaphor</a> to express her view that, unlike the right, those on the left are usually kind, soft-hearted people:</p>
 <blockquote>
 <p>The left are "bunnies," but the right — are not.</p>
@@ -739,12 +739,12 @@ I will not forget.<br></p>
 <p>"Bunnies" say: “These hyenas are evil and dangerous. If we fight them, they will tear us apart. We should step aside and try not to provoke them. And if they’ve taken some of our baby bunnies, we should try to appease the hyenas so they let them go and show that we’re gentle and harmless and not a threat to them.”</p>
 <p>"Lions" say: “We should rip the heads off the nearby hyenas and show those severed heads to the faraway hyenas — so they’ll fear us.”</p>
 <p>Naturally, the "bunnies" see this lion-like strategy as suicidal and view the "lions" as a threat to Israel’s very survival.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2-worldview">(2) Worldview<a href="https://international-law.info/blog/lions_and_bunnies/#2-worldview" class="hash-link" aria-label="Direct link to (2) Worldview" title="Direct link to (2) Worldview" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2-worldview">(2) Worldview<a href="https://international-law.info/blog/lions_and_bunnies#2-worldview" class="hash-link" aria-label="Direct link to (2) Worldview" title="Direct link to (2) Worldview" translate="no">​</a></h2>
 <p>Closely related to the first point, but separate: the left generally holds a materialistic worldview.</p>
 <p>They believe that religion cannot and should not play any meaningful role in the modern world. In their eyes, religion is nothing more than an outdated and irrational superstition.</p>
 <p>Incidentally, this is why the <a href="https://en.wikipedia.org/wiki/Haredi_Judaism" target="_blank" rel="noopener noreferrer" class="">Haredim</a> (ultra-Orthodox Jews) end up in the right-wing camp, even though ideologically they are actually leftist—and this distorts their religion. Their so-called “faith,” instead of making them fearless (“lions”), is used to instill fear, turning them into not just “bunnies,” but bunnies constantly trembling with fear of the outside world.</p>
 <p>And while ordinary secular leftists, though inclined to appeasement, are still capable of fighting (like our leftist generals, some of whom serve in right-wing governments), most of these Haredim are not capable of fighting at all. But that is a side note—albeit an important one in this context.</p>
-<p>Because of this attitude toward religion, when the left tries to understand our enemies’ motivations, <a class="" href="https://international-law.info/blog/understand-the-enemy/">they are fundamentally unable to do so</a>. They believe our enemies fight us because we "oppress" and "occupy" them. And what other reason could there be? So, if we stop oppressing them and withdraw, give them land—they will no longer have a reason to attack us.</p>
+<p>Because of this attitude toward religion, when the left tries to understand our enemies’ motivations, <a class="" href="https://international-law.info/blog/understand-the-enemy">they are fundamentally unable to do so</a>. They believe our enemies fight us because we "oppress" and "occupy" them. And what other reason could there be? So, if we stop oppressing them and withdraw, give them land—they will no longer have a reason to attack us.</p>
 <p>To the left, this line of reasoning seems logical and rational. And because it aligns perfectly with the deep-rooted psychological conflict-avoidance strategy of the "bunnies," they find it incomprehensible how the right can be so stupid as not to see this.</p>
 <hr>
 <p><a href="https://www.facebook.com/viktor.ageyev/posts/pfbid023kZNSLYpp9vNbMvw63wSWD82NLuDZKwJrynyt9FjUCZovveRbpY8ft7wosptydDNl" target="_blank" rel="noopener noreferrer" class="">Post and discussion on Facebook</a> (in Russian)</p>
@@ -756,8 +756,8 @@ I will not forget.<br></p>
     </entry>
     <entry>
         <title type="html"><![CDATA[Understanding the Enemy]]></title>
-        <id>https://international-law.info/blog/understand-the-enemy/</id>
-        <link href="https://international-law.info/blog/understand-the-enemy/"/>
+        <id>https://international-law.info/blog/understand-the-enemy</id>
+        <link href="https://international-law.info/blog/understand-the-enemy"/>
         <updated>2024-06-24T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[The Israeli left cannot bring Israel to peace because, fundamentally, they are incapable of understanding those who wage war against us]]></summary>
         <content type="html"><![CDATA[<p>The Israeli left cannot bring Israel to peace because, fundamentally, they are incapable of understanding those who wage war against us.</p>

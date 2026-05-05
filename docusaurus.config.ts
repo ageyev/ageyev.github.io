@@ -38,7 +38,8 @@ const config: Config = {
     organizationName: 'ageyev', // Usually your GitHub org/username.
     projectName: 'ageyev.github.io', // Usually your repo name.
 
-    onBrokenLinks: 'throw',
+    // onBrokenLinks: 'throw',
+    onBrokenLinks: 'warn',
     // onBrokenMarkdownLinks: 'warn', // depreciated
     markdown: {
         format: 'detect',

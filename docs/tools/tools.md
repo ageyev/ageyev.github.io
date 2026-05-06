@@ -28,10 +28,10 @@ All software is open-source and available on [GitHub](https://github.com/ageyev)
 
 [**[Enlarge Arabic]**](/tools/enlarge_arabic) — Chrome extension that enlarges Arabic text on any website — even inside mixed-language pages — for better readability.
 
-[**Arabic Alphabet with Hebrew Correspondences**](/html/arabic_alphabet_with_forms.html)
+[**Arabic Alphabet with Hebrew Correspondences**](pathname:///html/arabic_alphabet_with_forms.html)
 — Letter-by-letter reference table for learners who already know Hebrew. Each Arabic letter is paired with its Hebrew cognate, with notes on shared Proto-Semitic roots, sound correspondences, and the four positional forms (initial, medial, final, isolated).
 
-[**Hamzat al-Waṣl Reference Guide**](/html/hamzat_al_wasl_reference.html)
+[**Hamzat al-Waṣl Reference Guide**](pathname:///html/hamzat_al_wasl_reference.html)
 — Structured reference for the connecting hamza in Arabic: the definite article, the ten canonical nouns, relative pronouns, and verbal patterns. With full voweling, transliteration, Hebrew cognates, and Quranic examples.
 
 ## Cryptography & Security

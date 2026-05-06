@@ -91,14 +91,13 @@ const sidebars: SidebarsConfig = {
         {
           type: 'link',
           label: 'Arabic Alphabet',
-          href: '/html/arabic_alphabet_with_forms.html',
+          href: 'pathname:///html/arabic_alphabet_with_forms.html',
         },
         {
           type: 'link',
           label: 'Hamzat al-Waṣl',
-          href: '/html/hamzat_al_wasl_reference.html',
+          href: 'pathname:///html/hamzat_al_wasl_reference.html',
         },
-        // 'tools/enlarge_arabic'
       ],
     },
   ],

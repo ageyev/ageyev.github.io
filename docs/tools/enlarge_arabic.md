@@ -41,7 +41,7 @@ Or per website (via the Chrome sidebar panel):
 
 
 - See your changes instantly with a live preview
-- Save different settings for different websites — what works for Wikipedia may not be ideal for Twitter
+- Save different settings for different websites — what works for Wikipedia may not be ideal for X (Twitter), Facebook, or your local news site.
 
 ## Works everywhere
 
@@ -53,7 +53,9 @@ Or per website (via the Chrome sidebar panel):
 
 No data collection. No analytics. No network requests. All settings are stored locally on your device and never leave your browser.
 
-**Open source.** Code is available on [GitHub](https://github.com/ageyev/enlarge-arabic).
+**Open source**. Full source code is available on [GitHub](https://github.com/ageyev/enlarge-arabic).
+
+About permissions: Chrome shows that this extension requests permission to "read and change data on websites you visit." This is required because the extension needs to find Arabic text on any page you open and adjust its size. The extension does not collect, transmit, or store data about the pages you visit — its only purpose is to make Arabic text more readable. The full source code is available on GitHub for verification.
 
 ## How to install
 

@@ -23,13 +23,20 @@ The invasion of October 7, 2023, which was called precisely "Al-Aqsa Flood," is 
 
 Surah 17 of the Quran, Al-Isra or "[The Night Journey](https://en.wikipedia.org/wiki/Al-Isra%27)"—is for the most part devoted to [Banu Israil](https://en.wikipedia.org/wiki/Banu_Israil), that is, the children of [Israel](https://en.wikipedia.org/wiki/Jacob).
 
-This surah begins with the account of how Allah transported Muhammad from the Sacred Mosque to "the farthest mosque." In Arabic, "farthest" is "al-aqsa." The first [ayah](https://en.wikipedia.org/wiki/Ayah) (verse) of this surah:
+This surah begins with the account of how Allah transported Muhammad from the Sacred Mosque to "the farthest mosque." In Arabic, "farthest" is "al-aqsa." The first [ayah](https://en.wikipedia.org/wiki/Ayah) (verse) of this surah: 
+
+> [17:1](https://quran.com/17?startingVerse=1) 
+> سُبْحَانَ الَّذِي أَسْرَىٰ بِعَبْدِهِ لَيْلًا مِّنَ الْمَسْجِدِ الْحَرَامِ إِلَى الْمَسْجِدِ الْأَقْصَى الَّذِي بَارَكْنَا حَوْلَهُ لِنُرِيَهُ مِنْ آيَاتِنَا ۚ إِنَّهُ هُوَ السَّمِيعُ الْبَصِيرُ 
 
 > [17:1](https://quran.com/17?startingVerse=1) Glory to Him who made His servant travel by night from the sacred place of worship to the furthest place of worship, whose surroundings We have blessed, to show him some of Our signs: He alone is the All Hearing, the All Seeing.
 
 (translation: [M. A. S. Abdel Haleem](https://en.wikipedia.org/wiki/Muhammad_A._S._Abdel_Haleem))
 
-Muslim tradition holds that the "farthest mosque" is the mosque in Jerusalem on the Temple Mount, and according to the text of this surah, the Night Journey was undertaken precisely to demonstrate what had happened to Banu Israil and to convey teachings addressed to Banu Israil. The phrase "*whose surroundings We have blessed*" also confirms that the reference is most likely to the Temple Mount.
+Muslim tradition holds that the "farthest mosque" is the mosque in Jerusalem on the Temple Mount, and according to the text of this surah, the Night Journey was undertaken precisely to demonstrate what had happened to Banu Israil and to convey teachings addressed to Banu Israil. The phrase "*whose surroundings We have blessed*" also confirms that the reference is most likely to the Temple Mount. 
+
+:::tip Reading Arabic
+This page contains Arabic text. To read Arabic more comfortably on multilingual pages, you may find my Chrome extension useful: [[Enlarge Arabic]](/tools/enlarge_arabic).
+:::
 
 ## The Modern Interpretation
 

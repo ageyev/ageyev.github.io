@@ -33,10 +33,10 @@
   },
   "sidebar.docs.link.Arabic Alphabet": {
     "message": "Arabic Alphabet",
-    "description": "The label for link 'Arabic Alphabet' in sidebar 'docs', linking to '/html/arabic_alphabet_with_forms.html'"
+    "description": "The label for link 'Arabic Alphabet' in sidebar 'docs', linking to 'pathname:///html/arabic_alphabet_with_forms.html'"
   },
   "sidebar.docs.link.Hamzat al-Waṣl": {
     "message": "Hamzat al-Waṣl",
-    "description": "The label for link 'Hamzat al-Waṣl' in sidebar 'docs', linking to '/html/hamzat_al_wasl_reference.html'"
+    "description": "The label for link 'Hamzat al-Waṣl' in sidebar 'docs', linking to 'pathname:///html/hamzat_al_wasl_reference.html'"
   }
 }

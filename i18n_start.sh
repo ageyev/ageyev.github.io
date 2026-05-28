@@ -32,3 +32,6 @@ cp -ur src/pages/**.mdx i18n/uk/docusaurus-plugin-content-pages
 npm run write-translations -- --locale he
 mkdir -p i18n/he/docusaurus-plugin-content-docs/current && cp -r docs/** i18n/he/docusaurus-plugin-content-docs/current
 
+# ========= run locale
+
+npm run start -- --locale ru

@@ -12,3 +12,4 @@ description: "Returning to Muslims the sacred scriptures that are the foundation
 This page contains Arabic text. To read Arabic more comfortably on multilingual pages, you may find my Chrome extension useful: [[Enlarge Arabic]](/tools/enlarge_arabic).
 :::
 
+... under development 

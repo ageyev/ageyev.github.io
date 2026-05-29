@@ -2,7 +2,7 @@
 title: "Tahrif"
 id: tahrif
 hide_title: true
-draft: false
+draft: true
 tags: [theology, Islam]
 lang: en
 description: "Returning to Muslims the sacred scriptures that are the foundation of Islam"
@@ -20,7 +20,7 @@ A necessary clarification of what this text is about and why: it is part of a pr
 
 Before we turn to the substantive questions, we must answer the predictable objections to the very legitimacy of the inquiry and of the conclusions I draw.
 
-These are objections I have already encountered, in particular in discussing the text on what exactly is meant by the "Remote Temple" in the Quran (see the text ["Al-Aqsa"](https://international-law.info/theology/al-aqsa/) on my site), and they are two: 1) Islam cannot abandon traditions that have taken shape over the centuries, and 2) "you cannot interpret the Quran from outside the tradition," in a softer variant: "you are an intelligent person, but we must believe our authoritative theologians."
+These are objections I have already encountered, in particular in discussing the text on what exactly is meant by the "Farthest Mosque/Temple" in the Quran (see the text ["Al-Aqsa"](https://international-law.info/theology/al-aqsa/) on my site), and they are two: 1) Islam cannot abandon traditions that have taken shape over the centuries, and 2) "you cannot interpret the Quran from outside the tradition," in a softer variant: "you are an intelligent person, but we must believe our authoritative theologians."
 
 ### Is renewal of the Islamic tradition possible?
 

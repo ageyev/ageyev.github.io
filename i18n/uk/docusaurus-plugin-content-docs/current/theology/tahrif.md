@@ -2,7 +2,7 @@
 title: "Тахріф"
 id: tahrif
 hide_title: true
-draft: true
+draft: false
 tags: [theology, Islam]
 lang: uk
 description: "Повернення мусульманам священних писань, які є основою ісламу"

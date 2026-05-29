@@ -2,7 +2,7 @@
 title: "Тахриф"
 id: tahrif
 hide_title: true
-draft: true
+draft: false
 tags: [theology, Islam]
 lang: ru
 description: "Returning to Muslims the sacred scriptures that are the foundation of Islam"

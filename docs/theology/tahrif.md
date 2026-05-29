@@ -521,7 +521,7 @@ And such an approach follows the early Islamic tradition. [Isra'iliyyat](https:/
 
 ---
 
-## References:
+## References
 
 [Ageyev, Viktor. Al-Aqsa. What is the "Al-Aqsa Mosque" mentioned in the Quran?](https://international-law.info/theology/al-aqsa/)
 

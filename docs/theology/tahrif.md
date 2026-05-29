@@ -6,6 +6,8 @@ draft: true
 tags: [theology, Islam]
 lang: en
 description: "Returning to Muslims the sacred scriptures that are the foundation of Islam"
+image: /img/Illustrations/docs/theology/Great_Isaiah_Scroll_Ch53.jpg
+keywords: [Tahrif, Quran]
 ---
 
 :::tip Reading Arabic

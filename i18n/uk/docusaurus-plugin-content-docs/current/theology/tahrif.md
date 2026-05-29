@@ -6,6 +6,8 @@ draft: false
 tags: [theology, Islam]
 lang: uk
 description: "Повернення мусульманам священних писань, які є основою ісламу"
+image: /img/Illustrations/docs/theology/Great_Isaiah_Scroll_Ch53.jpg
+keywords: [Tahrif, Quran]
 ---
 
 :::tip Читання арабської

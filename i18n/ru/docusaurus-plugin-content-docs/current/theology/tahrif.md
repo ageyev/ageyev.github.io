@@ -6,7 +6,7 @@ draft: false
 tags: [theology, Islam]
 lang: ru
 description: "Возвращение мусульманам священных текстов, являющихся основой ислама"
-image: /img/Illustrations/docs/theology/Great_Isaiah_Scroll_Ch53_small3.jpg
+image: /img/Illustrations/docs/theology/old_scroll_and_light_Gr_001.jpg
 keywords: [Tahrif, Quran]
 ---
 

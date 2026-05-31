@@ -299,7 +299,7 @@ A more literal (my own) translation of verse [61:6](https://quran.com/61?startin
 
 The key here is the expression مُّصَدِّقًا لِّمَا بَيْنَ يَدَيَّ مِنَ التَّوْرَاةِ — "confirming that Tawrat which is in my hands" (see the analysis of this phrase on the [Quranic Arabic Corpus](https://corpus.quran.com/treebank.jsp?chapter=61&token=15&verse=6)).
 
-"In my hands" (بَيْنَ يَدَىَّ beyna-yadeya, cf. Hebrew בְּיָדַי bə-yāḏay) — in Arabic (as, similarly, in other languages, including Hebrew) this is an idiomatic expression; that is, it is not implied that he is literally holding a scroll in his hands while speaking these words. But the expression shows quite clearly (through the use of the intelligible image "in my hands") that what is meant is the content (the text) of the Tawrat (the Torah) that Isa (Jesus) himself was using at that time.
+"In my hands" (بَيْنَ يَدَىَّ bayna-yadayya, cf. Hebrew בְּיָדַי bə-yāḏay) — in Arabic (as, similarly, in other languages, including Hebrew) this is an idiomatic expression; that is, it is not implied that he is literally holding a scroll in his hands while speaking these words. But the expression shows quite clearly (through the use of the intelligible image "in my hands") that what is meant is the content (the text) of the Tawrat (the Torah) that Isa (Jesus) himself was using at that time.
 
 Neither in Arabic nor in any other language can the idiomatic expression "that which is in my hands" denote "that which has long been lost or gone."
 
@@ -345,7 +345,7 @@ The Samaritan Pentateuch contains differences, but apart from the designation of
 
 We do not claim that, as many believe, the Masoretic Text was written letter-for-letter by the hand of Moshe. It may be that in some places the Septuagint is closer to the original variant, and in some even the Samaritan Pentateuch. But we have grounds to assert that the text of the Pentateuch that we possess is the result of a tradition that strove to preserve the Torah of Moshe.
 
-And, most importantly, we now have in our hands (بَيْنَ يَدَىَّ beyna-yadeya) that text of the Torah which, according to the Quran, Isa confirmed.
+And, most importantly, we now have in our hands (بَيْنَ يَدَىَّ bayna-yadayya) that text of the Torah which, according to the Quran, Isa confirmed.
 
 And the people of Israel did not corrupt this text; on the contrary — it is thanks to the people of Israel that this text has been preserved.
 

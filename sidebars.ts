@@ -47,17 +47,15 @@ const sidebars: SidebarsConfig = {
         'theology/tahrif',
       ],
     },
-    {
-      type: 'category',
-      label: 'Theology and Law',
-      link: {
-        type: 'doc',
-        id: 'theology/theology',
-      },
-      items: [
-      //
-      ],
-    },
+    // {
+    //   type: 'category',
+    //   label: 'Theology and Law',
+    //   link: {
+    //     type: 'doc',
+    //     id: 'theology/theology',
+    //   },
+    //   items: [],
+    // },
     {
       type: 'category',
       label: 'ECHR',

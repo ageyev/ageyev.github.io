@@ -540,3 +540,9 @@ Joseph A Islam, ['Between His Hands' Or 'Before It' (ma bayna yadayhi)](https://
 [Between the Hands or Having Authority Over (ma bayna yadayhi)](https://primaquran.com/2025/08/27/between-the-hands-or-having-authority-over-ma-bayna-yadayhi/) // Prima Quran
 
 [The Qur’an charges oral corruption of the previous revelations](https://primaquran.com/2025/10/03/the-quran-charges-oral-corruption-of-the-previous-revelations/) // Prima Quran 
+
+Gordon Nickel, Narratives of Tampering: Highlighting the Boundaries of Falsification in Qur'anic Commentary (2009) 
+
+Camilla Adang, в Muslim Writers on Judaism and the Hebrew Bible (1996) 
+
+Sayyid Ahmad Khan, Mohomedan Commentary on the Bible (Tabyin-ul-Kalam) (between 1862 and 1865)

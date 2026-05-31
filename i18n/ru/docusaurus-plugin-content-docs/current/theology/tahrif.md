@@ -537,4 +537,10 @@ keywords: [Tahrif, Quran]
 
 [Wikipedia: Tahrif](https://en.wikipedia.org/wiki/Tahrif)  
 
-[Abdul Rashied Omar. Ibn Hazm on the Doctrine of Tahrif. MA dissertation, University of Cape Town, 1992](https://open.uct.ac.za/server/api/core/bitstreams/0cd80963-75fe-4501-990d-c950928458f2/content)      
+[Abdul Rashied Omar. Ibn Hazm on the Doctrine of Tahrif. MA dissertation, University of Cape Town, 1992](https://open.uct.ac.za/server/api/core/bitstreams/0cd80963-75fe-4501-990d-c950928458f2/content) 
+
+Joseph A Islam, ['Between His Hands' Or 'Before It' (ma bayna yadayhi)](https://www.quransmessage.com/articles/between%20hands%20or%20before%20it%20FM3.htm) // quransmessage.com  
+
+[Between the Hands or Having Authority Over (ma bayna yadayhi)](https://primaquran.com/2025/08/27/between-the-hands-or-having-authority-over-ma-bayna-yadayhi/) // Prima Quran 
+
+[The Qur’an charges oral corruption of the previous revelations](https://primaquran.com/2025/10/03/the-quran-charges-oral-corruption-of-the-previous-revelations/) // Prima Quran 

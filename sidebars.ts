@@ -43,6 +43,8 @@ const sidebars: SidebarsConfig = {
         'Holy-Land/state_of_palestine',
         'Holy-Land/belligerent_occupation',
         'Holy-Land/borders_and_territory_of_israel',
+        'theology/al-aqsa',
+        'theology/tahrif',
       ],
     },
     {
@@ -53,8 +55,7 @@ const sidebars: SidebarsConfig = {
         id: 'theology/theology',
       },
       items: [
-        'theology/al-aqsa',
-        'theology/tahrif',
+      //
       ],
     },
     {

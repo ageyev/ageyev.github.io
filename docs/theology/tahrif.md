@@ -5,7 +5,7 @@ hide_title: true
 draft: false
 tags: [theology, Islam]
 lang: en
-description: "Returning to Muslims the sacred scriptures that are the foundation of Islam"
+description: "Ideological foundation for expanding the Abraham Accords"
 image: /img/Illustrations/docs/theology/old_scroll_and_light_Gr_001.jpg
 keywords: [Tahrif, Quran]
 ---
@@ -20,7 +20,9 @@ This page contains Arabic text. To read Arabic more comfortably on multilingual 
 
 A necessary clarification of what this text is about and why: it is part of a project to build the religious-normative component of an international-legal framework for a peaceful settlement of the war in the Middle East.
 
-Before we turn to the substantive questions, we must answer the predictable objections to the very legitimacy of the inquiry and of the conclusions I draw.
+The Abraham Accords are still hanging in the air because they are based solely on economics and fear of Iran. They desperately lack a theological basis that would justify normalizing relations with Israel in the eyes of the Arab street.
+
+But before we turn to the substantive questions, we must answer the predictable objections to the very legitimacy of the inquiry and of the conclusions I draw.
 
 These are objections I have already encountered, in particular in discussing the text on what exactly is meant by the "Farthest Mosque/Temple" in the Quran (see the text ["Al-Aqsa"](https://international-law.info/theology/al-aqsa/) on my site), and they are two: 1) Islam cannot abandon traditions that have taken shape over the centuries, and 2) "you cannot interpret the Quran from outside the tradition," in a softer variant: "you are an intelligent person, but we must believe our authoritative theologians."
 

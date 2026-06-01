@@ -20,7 +20,7 @@ This page contains Arabic text. To read Arabic more comfortably on multilingual 
 
 A necessary clarification of what this text is about and why: it is part of a project to build the religious-normative component of an international-legal framework for a peaceful settlement of the war in the Middle East.
 
-The Abraham Accords are still hanging in the air because they are based solely on economics and fear of Iran. They desperately lack a theological basis that would justify normalizing relations with Israel in the eyes of the Arab street.
+The Abraham Accords remain suspended because they are based primarily on economic considerations and fear of Iran. They significantly lack a theological basis that would justify normalizing relations with Israel in the eyes of Arab and Muslim societies.
 
 But before we turn to the substantive questions, we must answer the predictable objections to the very legitimacy of the inquiry and of the conclusions I draw.
 

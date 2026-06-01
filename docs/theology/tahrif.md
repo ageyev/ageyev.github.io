@@ -5,7 +5,7 @@ hide_title: true
 draft: false
 tags: [theology, Islam]
 lang: en
-description: "Ideological foundation for expanding the Abraham Accords"
+description: "Religious-Normative Foundation for the Expansion of the Abraham Accords"
 image: /img/Illustrations/docs/theology/old_scroll_and_light_Gr_001.jpg
 keywords: [Tahrif, Quran]
 ---

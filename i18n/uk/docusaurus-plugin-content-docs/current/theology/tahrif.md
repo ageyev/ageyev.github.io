@@ -5,7 +5,7 @@ hide_title: true
 draft: false
 tags: [theology, Islam]
 lang: uk
-description: "Ідеологічний фундамент для розширення Угод Авраама"
+description: "Релігійно-нормативний фундамент для розширення Угод Авраама"
 image: /img/Illustrations/docs/theology/old_scroll_and_light_Gr_001.jpg
 keywords: [Tahrif, Quran]
 ---

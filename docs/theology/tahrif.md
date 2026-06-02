@@ -410,7 +410,7 @@ In Dr. Mustafa Khattab's translation:
 
 A direct address to the People of the Book of that time: what is confirmed is precisely what is in their possession in the present (مَعَكُمْ). The very act of the appeal loses its meaning if their Scripture is a forgery.
 
-#### Direct demands that the Jews read or observe the Tawrat
+#### Verses with demands that the Jews read or observe the Tawrat
 
 ##### [3:93](https://quran.com/3?startingVerse=93):
 
@@ -431,6 +431,27 @@ This is a direct procedural recognition of the text of the Torah on hand at the 
 > Say, ˹O Prophet,˺ "O People of the Book! You have nothing to stand on unless you observe the Torah, the Gospel, and what has been revealed to you from your Lord."
 
 Naturally, this call to be guided by the Torah and by "what has been revealed to you from your Lord" (the books of the Prophets are evidently meant) presupposes that the Jews possess, in authentic form, that by which the Quran calls them to be guided.
+
+#### The Hadith on Stoning.
+
+I consider it best to conclude the exposition of the arguments with precisely this one.
+This is the account of Muhammad's handing down a sentence of stoning for adultery upon a Jew on the basis of the text of a Torah scroll brought by the Jews.
+
+In the hadith collection of Abu Dawud (Sunan Abu Dawud) — one of the six canonical Sunni hadith collections (Kutub al-Sitta), usually regarded as the third in authority (after Sahih al-Bukhari and Sahih Muslim) — there is hadith 4449 [Sunan Abi Dawud 4449](https://sunnah.com/abudawud:4449).
+
+The status of this hadith is hasan ([Ḥasan](https://en.wikipedia.org/wiki/Hadith_terminology#%E1%B8%A4asan)), i.e. of an acceptable degree of authenticity, admissible as an argument in religious-legal reasoning.
+
+This hadith relates how a community of Jews invited Muhammad (evidently already the ruler of Medina) to the beit midrash (بيت المدراس / bayt al-midrās), approaching him with the request to pass judgement on a man of their community who had committed adultery.
+
+Muhammad asks the Jews to bring the Torah. It is brought. Muhammad withdraws the cushion on which he had been sitting and places the Torah scroll upon it — a rather symbolic act on the part of a ruler, demonstrating a hierarchy of authority — saying:
+
+> آمَنْتُ بِكِ وَبِمَنْ أَنْزَلَكِ
+
+> I believed in thee and in Him Who revealed thee.
+
+What is at issue here is precisely a materially existing scroll — the one brought by the Jews and laid by Muhammad upon the cushion — the contents of which Muhammad uses to render the sentence.
+
+And let us note the principal point: here Muhammad does exactly what the Quran enjoins in [3:93](https://quran.com/3?startingVerse=93) ("Bring the Torah and read it") and [5:43](https://quran.com/5?startingVerse=43) ("they ˹already˺ have the Torah containing Allah’s judgment"): he demands the extant scroll of the Jews of his own time, sets it symbolically above himself as a token of veneration, and on its basis hands down a judicial decision — that is, he treats it as a corpus of divine law in force.
 
 ## On the text of the Quran itself
 

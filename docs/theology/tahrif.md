@@ -437,7 +437,7 @@ Naturally, this call to be guided by the Torah and by "what has been revealed to
 I consider it best to conclude the exposition of the arguments with precisely this one.
 This is the account of Muhammad's handing down a sentence of stoning for adultery upon a Jew on the basis of the text of a Torah scroll brought by the Jews.
 
-In the hadith collection of Abu Dawud (Sunan Abu Dawud) — one of the six canonical Sunni hadith collections (Kutub al-Sitta), usually regarded as the third in authority (after Sahih al-Bukhari and Sahih Muslim) — there is hadith 4449 [Sunan Abi Dawud 4449](https://sunnah.com/abudawud:4449).
+In the hadith collection of Abu Dawud (Sunan Abu Dawud) — one of the six canonical Sunni hadith collections (Kutub al-Sitta), usually regarded as the third in authority (after Sahih al-Bukhari and Sahih Muslim) — there is hadith 4449 ([Sunan Abi Dawud 4449](https://sunnah.com/abudawud:4449)).
 
 The status of this hadith is hasan ([Ḥasan](https://en.wikipedia.org/wiki/Hadith_terminology#%E1%B8%A4asan)), i.e. of an acceptable degree of authenticity, admissible as an argument in religious-legal reasoning.
 

@@ -111,3 +111,13 @@ svg.twitter:hover {
 
 /* -------- */
 
+
+/* In dark theme, invert inline SVG illustrations.
+   Plain inversion is intentional here: it maps black <-> white
+   AND blue (0,0,255) -> yellow (255,255,0), which is the desired
+   schematic-diagram look. Adding hue-rotate(180deg) would cancel
+   the blue->yellow conversion, so it is deliberately omitted. */
+[data-theme='dark'] .markdown img[src$=".svg"] {
+    /*filter: invert(1) hue-rotate(180deg);*/
+    filter: invert(1);
+}

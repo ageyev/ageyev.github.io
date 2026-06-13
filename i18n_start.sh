@@ -34,4 +34,6 @@ mkdir -p i18n/he/docusaurus-plugin-content-docs/current && cp -r docs/** i18n/he
 
 # ========= run locale
 
+npm run start -- --locale en
 npm run start -- --locale ru
+npm run start -- --locale uk

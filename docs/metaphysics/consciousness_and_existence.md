@@ -25,7 +25,7 @@ This essay independently arrives at what may be read as a variant of the [von Ne
 > – Hello, boy. What have you come for? \
 > – I want to ask you about a cat. \
 > – What about a cat? \
-> – Let's assume you had a cat … 
+> – Suppose you had a cat … 
 >
 > [Eduard Uspensky](https://en.wikipedia.org/wiki/Eduard_Uspensky), "[Uncle Fedya, His Dog, and His Cat](https://en.wikipedia.org/wiki/Uncle_Fedya,_His_Dog,_and_His_Cat)"
 
@@ -460,4 +460,4 @@ A consistent interpretation of quantum mechanics can be built on the basis of th
 
 Discussion:
 
-[Discussion of this article on Habr](https://habr.com/ru/articles/489760/comments/) and [a continuation of the discussion](https://habr.com/ru/news/536092/comments/) in the comments to the article on quantum teleportation.
+[Discussion of this article on Habr](https://habr.com/ru/articles/489760/comments/) (*in Russian*) and [a continuation of the discussion](https://habr.com/ru/news/536092/comments/) (*in Russian*) in the comments to the article on quantum teleportation. 

@@ -2,12 +2,12 @@
 title: Consciousness and Existence
 id: consciousness_and_existence
 hide_title: true
-draft: true
+draft: false
 tags: [theology, physics]
 lang: en
 ---
 
-# Consciousness and Existence
+# Consciousness and Existence: Quantum Mechanics Without Paradoxes
 
 :::info
 
@@ -21,9 +21,9 @@ This essay independently arrives at what may be read as a variant of the [von Ne
 
 ## Is the Experiment with Schrödinger's Cat a Paradox?
 
-> The professor raised his head from the desk and says:\
-> – Hello, boy. What have you come for?\
-> – I want to ask you about a cat.\
+> The professor raised his head from the desk and says: \
+> – Hello, boy. What have you come for? \
+> – I want to ask you about a cat. \
 > – What about a cat? \
 > – Let's assume you had a cat … 
 >
@@ -31,7 +31,7 @@ This essay independently arrives at what may be read as a variant of the [von Ne
 
 ### Quantum Superposition and the Role of the Observer in Quantum Physics
 
-According to quantum mechanics, if no observation is made of a particle, then its state is described as a
+According to quantum mechanics, if no observation is made of a [particle](https://en.wikipedia.org/wiki/Particle), then its state is described as a
 [quantum superposition](https://en.wikipedia.org/wiki/Quantum_superposition) (coherent superposition), i.e., a mixture of all the possible alternative states the particle can be in.
 
 For example, an atomic nucleus that is not being observed may be in a mixed state of decay, whose probability is, say, 1/4, and a state of non-decay, whose probability is 3/4. It is held that, at the moment of [measurement](https://en.wikipedia.org/wiki/Measurement_in_quantum_mechanics) of some parameter of it, the **particle chooses** from all the probable values of this parameter some specific one — or, in other words, a [collapse of the wave function](https://en.wikipedia.org/wiki/Wave_function_collapse) occurs.
@@ -439,6 +439,7 @@ From this point of view, the idea that the human being is created "in the image 
 >
 > Sherlock Holmes (A. Conan Doyle, ["The Sign of the Four"](https://en.wikisource.org/wiki/The_Sign_of_the_Four))
 
+
 A consistent interpretation of quantum mechanics can be built on the basis of the following:
 
 1. There exists only that which possesses consciousness, or that which is perceived by the consciousness of an observer.
@@ -455,10 +456,8 @@ A consistent interpretation of quantum mechanics can be built on the basis of th
 
 7. An intuitive awareness of the propositions of the preceding points lies at the basis of monotheistic religion.
 
-
 --- 
 
 Discussion:
 
 [Discussion of this article on Habr](https://habr.com/ru/articles/489760/comments/) and [a continuation of the discussion](https://habr.com/ru/news/536092/comments/) in the comments to the article on quantum teleportation.
-

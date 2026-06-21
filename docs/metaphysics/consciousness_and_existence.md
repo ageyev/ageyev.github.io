@@ -5,6 +5,7 @@ hide_title: true
 draft: false
 tags: [theology, physics]
 lang: en
+description: "The Sinai interpretation of quantum mechanics"
 ---
 
 # Consciousness and Existence: Quantum Mechanics Without Paradoxes

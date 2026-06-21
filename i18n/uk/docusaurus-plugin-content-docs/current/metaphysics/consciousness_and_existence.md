@@ -5,6 +5,7 @@ hide_title: true
 draft: false
 tags: [theology, physics]
 lang: uk
+description: Синайська інтерпретація квантової механіки
 ---
 
 # Свідомість та існування: квантова механіка без парадоксів

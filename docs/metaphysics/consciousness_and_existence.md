@@ -429,7 +429,7 @@ We can create a computer capable of performing an enormous number of computation
 
 From this point of view, the idea that the human being is created "in the image and likeness" of the Most High ([בְּצַלְמֵנוּ כִּדְמוּתֵנוּ](http://www.mechon-mamre.org/p/pt/pt0101.htm)) becomes comprehensible. This, of course, does not mean that the Most High has two hands, two legs, one head, and two ears. It means that "the human being" in this context means a bearer of consciousness; that is, by "the human being" here is meant not a biological creature that in the past descended from the ape in the course of evolution, but a subject possessing consciousness, and by the creation of the human being here is understood not the process of evolution of a biological organism, but the appearance of the "observer" in the terms of quantum physics — that is, the human being's awareness of themselves as someone existing and separate from the surrounding world, which in turn conditions the existence of the world.
 
-# Conclusions
+## Conclusions
 
 > We are to admit no more causes of natural things than such as are both true and sufficient to explain their appearances…
 >

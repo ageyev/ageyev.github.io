@@ -20,8 +20,10 @@ This is the text of my eldest son, written a week after October 7th. His unit wa
 
 The [original text](https://www.instagram.com/p/CybeGarsF_p/) is in Hebrew, the translation is mine. 
 
-{/* truncate */}
+<!-- truncate -->
+
 ---
+
 After a week's delay, I have finally decided to share what happened to me on the day I will remember forever. My story that I went through, and with great luck, I am now able to write these words.
 
 **October 7th**, a day we woke up to the announcement of a "Red Alert" throughout the entire sector. We were in the shelter, and no one paid too much attention to these missiles, because what can they really do besides a few rockets...

@@ -103,8 +103,8 @@
     "description": "The label used for the latest version suggestion link label"
   },
   "theme.common.editThisPage": {
-    "message": "Відредагувати цю сторінку",
-    "description": "The link label to edit the current page"
+    "message": "View Markdown source",
+    "description": "The link label to view the source of the current page"
   },
   "theme.common.headingLinkTitle": {
     "message": "Пряме посилання на {heading}",

@@ -1,18 +1,22 @@
 {
   "version.label": {
-    "message": "Далі",
+    "message": "Next",
     "description": "The label for version current"
   },
   "sidebar.docs.category.UN": {
-    "message": "ООН",
+    "message": "UN",
     "description": "The label for category 'UN' in sidebar 'docs'"
   },
   "sidebar.docs.category.Middle East conflict": {
-    "message": "Близькосхідний конфлікт",
+    "message": "Middle East conflict",
     "description": "The label for category 'Middle East conflict' in sidebar 'docs'"
   },
+  "sidebar.docs.category.Philosophy": {
+    "message": "Philosophy",
+    "description": "The label for category 'Philosophy' in sidebar 'docs'"
+  },
   "sidebar.docs.category.Tools & Resources": {
-    "message": "Інструменти та ресурси",
+    "message": "Tools & Resources",
     "description": "The label for category 'Tools & Resources' in sidebar 'docs'"
   },
   "sidebar.docs.link.Arabic Alphabet": {
@@ -22,9 +26,5 @@
   "sidebar.docs.link.Hamzat al-Waṣl": {
     "message": "Hamzat al-Waṣl",
     "description": "The label for link 'Hamzat al-Waṣl' in sidebar 'docs', linking to 'pathname:///html/hamzat_al_wasl_reference.html'"
-  },
-  "sidebar.docs.category.Philosophy": {
-    "message": "Philosophy",
-    "description": "The label for category 'Philosophy' in sidebar 'docs'"
   }
 }

@@ -7,33 +7,9 @@
     "message": "ООН",
     "description": "The label for category 'UN' in sidebar 'docs'"
   },
-  "sidebar.docs.category.About": {
-    "message": "О нас",
-    "description": "The label for category About in sidebar tutorialSidebar"
-  },
-  "sidebar.docs.category.ECHR": {
-    "message": "Европейский суд",
-    "description": "The label for category ECHR in sidebar docs"
-  },
-  "sidebar.docs.category.Software": {
-    "message": "Софт",
-    "description": "The label for category 'Software' in sidebar 'docs'"
-  },
-  "sidebar.docs.category.Holy Land": {
-    "message": "Ближневосточный конфликт",
-    "description": "The label for category Holy Land in sidebar docs"
-  },
-  "sidebar.docs.category.theology": {
-    "message": "Право и теология",
-    "description": "The label for category Holy Land in sidebar docs"
-  },
   "sidebar.docs.category.Middle East conflict": {
     "message": "Ближневосточный конфликт",
     "description": "The label for category 'Middle East conflict' in sidebar 'docs'"
-  },
-  "sidebar.docs.category.Theology and Law": {
-    "message": "Право и теология",
-    "description": "The label for category 'Theology and Law' in sidebar 'docs'"
   },
   "sidebar.docs.category.Tools & Resources": {
     "message": "Инструменты и ресурсы",
@@ -46,5 +22,9 @@
   "sidebar.docs.link.Hamzat al-Waṣl": {
     "message": "Hamzat al-Waṣl",
     "description": "The label for link 'Hamzat al-Waṣl' in sidebar 'docs', linking to 'pathname:///html/hamzat_al_wasl_reference.html'"
+  },
+  "sidebar.docs.category.Philosophy": {
+    "message": "Philosophy",
+    "description": "The label for category 'Philosophy' in sidebar 'docs'"
   }
 }

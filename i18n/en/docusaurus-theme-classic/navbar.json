@@ -1,6 +1,6 @@
 {
   "title": {
-    "message": "Міжнародне право etc.",
+    "message": "International Law etc.",
     "description": "The title in the navbar"
   },
   "logo.alt": {
@@ -8,11 +8,11 @@
     "description": "The alt text of navbar logo"
   },
   "item.label.Texts": {
-    "message": "Тексти",
+    "message": "Texts",
     "description": "Navbar item with label Texts"
   },
   "item.label.Blog": {
-    "message": "Блог",
+    "message": "Blog",
     "description": "Navbar item with label Blog"
   },
   "item.label.GitHub": {

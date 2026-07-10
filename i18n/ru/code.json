@@ -103,7 +103,7 @@
     "description": "The label used for the latest version suggestion link label"
   },
   "theme.common.editThisPage": {
-    "message": "Источник страницы на Markdown",
+    "message": "Источник страницы (Markdown)",
     "description": "The link label to view the source of the current page"
   },
   "theme.common.headingLinkTitle": {

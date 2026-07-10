@@ -70,6 +70,9 @@ const config: Config = {
                     // Please change this to your repo.
                     // Remove this to remove the "edit this page" links.
                     editUrl: 'https://github.com/ageyev/ageyev.github.io/tree/master/',
+                    // Localize edit URLs
+                    // https://docusaurus.io/docs/i18n/git#localize-edit-urls
+                    editLocalizedFiles: true,
                     showLastUpdateAuthor: true, // git username from the last commit
                     showLastUpdateTime: true, // git last commit time
                 },
@@ -94,6 +97,9 @@ const config: Config = {
                     // Please change this to your repo.
                     // Remove this to remove the "edit this page" links. // TODO: change links text
                     editUrl: 'https://github.com/ageyev/ageyev.github.io/tree/master/',
+                    // Localize edit URLs
+                    // https://docusaurus.io/docs/i18n/git#localize-edit-urls
+                    editLocalizedFiles: true,
                     showLastUpdateAuthor: true, // git username from the last commit
                     showLastUpdateTime: true, // git last commit time
                     //

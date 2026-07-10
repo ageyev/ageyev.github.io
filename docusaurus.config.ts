@@ -69,7 +69,7 @@ const config: Config = {
                     sidebarPath: './sidebars.ts',
                     // Please change this to your repo.
                     // Remove this to remove the "edit this page" links.
-                    editUrl: 'https://github.com/ageyev/ageyev.github.io/tree/master/',
+                    editUrl: 'https://github.com/ageyev/ageyev.github.io/blob/master/',
                     // Localize edit URLs
                     // https://docusaurus.io/docs/i18n/git#localize-edit-urls
                     editLocalizedFiles: true,
@@ -96,7 +96,7 @@ const config: Config = {
                     showReadingTime: false, // default: true,
                     // Please change this to your repo.
                     // Remove this to remove the "edit this page" links. // TODO: change links text
-                    editUrl: 'https://github.com/ageyev/ageyev.github.io/tree/master/',
+                    editUrl: 'https://github.com/ageyev/ageyev.github.io/blob/master/',
                     // Localize edit URLs
                     // https://docusaurus.io/docs/i18n/git#localize-edit-urls
                     editLocalizedFiles: true,

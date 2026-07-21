@@ -52,4 +52,6 @@ This post and the discussion on social media:
 
 [Facebook](https://www.facebook.com/viktor.ageyev/posts/pfbid02JvB4QjYxMMPvDrnU9B2DdzmR4sP7SteDbMdDFu7mnD3frNeq1dWawV1PXZU2bXJFl) (in Russian)
 
+[X](https://x.com/ageyev/status/2079673867035955512)
+
 ---

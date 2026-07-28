@@ -20,9 +20,9 @@ This essay independently arrives at what may be read as a variant of the [von Ne
 
 :::
 
-## Is the Experiment with Schrödinger's Cat a Paradox?
+## Is the Schrödinger's Cat Experiment a Paradox?
 
-> The professor raised his head from the desk and says: \
+> The professor raised his head from the desk and said: \
 > – Hello, boy. What have you come for? \
 > – I want to ask you about a cat. \
 > – What about a cat? \
@@ -41,7 +41,7 @@ Moreover, it is held that "[the behaviour of an individual particle is random](h
 
 In other words, quantum physics has established that the act of *measurement* affects the behaviour of a particle.
 
-This is demonstrated especially vividly by the [double-slit experiment](https://en.wikipedia.org/wiki/Double-slit_experiment), which shows that photons or electrons behave differently depending on whether or not they are being observed. However strange this may sound.
+This is demonstrated especially vividly by the [double-slit experiment](https://en.wikipedia.org/wiki/Double-slit_experiment), which shows that photons or electrons behave differently depending on whether or not they are being observed – however strange this may sound.
 
 ### The Double-Slit Experiment
 
@@ -223,17 +223,17 @@ In other words, consciousness is the cause of the existence of anything whatsoev
 
 Moreover, we can define consciousness as **the property of a subject to endow itself and the surrounding world with existence**.
 
-Indeed, let us imagine that in the double-slit experiment a mannequin very similar to a human is used as the "observer," or any other imitation of a human — for example, a humanoid robot capable of easily passing the [Turing test](https://en.wikipedia.org/wiki/Turing_test). Could we deceive an electron, or even a photon, in this way? Can we in any way at all force a particle to "make a choice" without the presence of a human (or rather, without the presence of an observer possessing consciousness)?
+Indeed, let us imagine that in the double-slit experiment a lifelike mannequin is used as the "observer," or any other imitation of a human — for example, a humanoid robot capable of easily passing the [Turing test](https://en.wikipedia.org/wiki/Turing_test). Could we deceive an electron, or even a photon, in this way? Can we in any way at all force a particle to "make a choice" without the presence of a human (or rather, without the presence of an observer possessing consciousness)?
 
 It seems to me that physics, despite the historically established tendency to consider the objectively existing world to be the object of its study, must abandon the concept of particles that make choices and must not use the expression "a particle makes a choice."
 
-Of course it is not the object that makes the choice, but the observer.
+Of course, it is not the object that makes the choice but the observer.
 
 From the observer's point of view, only that which is perceived by consciousness exists.
 
 The many-worlds interpretation of quantum mechanics therefore makes as much sense as the hypothesis that, when we close our eyes, the surrounding world turns into kangaroos.
 
-Note: A very witty logical refutation of the many-worlds interpretation was given in Alexander Boldachev's article [The Logic of the Many-Worlds Interpretation of Quantum Mechanics](https://web.archive.org/web/20240227122917/http://philosophystorm.org/article/aleksandr-boldachev-logika-mnogomirovoi-interpretatsii-kvantovoi-mekhaniki) (2025).
+Note: An elegant logical refutation of the many-worlds interpretation was given in Alexander Boldachev's article [The Logic of the Many-Worlds Interpretation of Quantum Mechanics](https://web.archive.org/web/20240227122917/http://philosophystorm.org/article/aleksandr-boldachev-logika-mnogomirovoi-interpretatsii-kvantovoi-mekhaniki) (2025).
 
 ### Consciousness and Intellect in Quantum Mechanics
 

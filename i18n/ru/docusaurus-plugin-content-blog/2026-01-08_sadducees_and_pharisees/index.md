@@ -51,8 +51,14 @@ keywords: [theology, history]
 
 Так что неприятие современными фарисеями идеи восстановления Храма и храмовой службы, что также подразумевает и восстановление роли их идеологических противников - сословия священников, таким образом, является не только наследием “иудаизма галута”, а уходит корнями в еще более ранние времена противостояния фарисеев и древней храмовой аристократии.
 
-![temple_service](/img/Illustrations/blog/2026-01-08_sadducees_and_pharisees/temple_service.png)
+![temple_service](/img/Illustrations/blog/2026-01-08_sadducees_and_pharisees/temple_service.png) 
 
 --- 
 
 [Пост и обсуждение на Facebook](https://www.facebook.com/viktor.ageyev/posts/pfbid02jR35HX1Fdvs4dNeadJvUMhKkFR5ayzyrcgggADxjAhiYTHeuSTRdig8UaeGCopbnl) (на русском)
+
+--- 
+
+См. также: 
+
+[Мордехай (Жоржи) Ансель, Понятия “фарисеи” и “саддукеи”. Устная и письменная Тора](https://pinchaspolonsky.org/machanaim/philosof/in_ansel.htm) (на русском)

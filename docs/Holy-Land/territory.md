@@ -58,7 +58,7 @@ The principles are as follows:
 
 Each of these principles, in our view, should be regarded as a norm of international law within the meaning of [Article 38(1) of the Statute of the International Court of Justice](https://en.wikipedia.org/wiki/Sources_of_international_law), and, as our experience of professional discussions on this topic shows, even lawyers who are staunch opponents of Israel cannot reject the correctness of any of these four principles.
 
-Applying these principles to the question of where Israel’s borders run—taking into account the operative international treaties—leads to the conclusion that both the Gaza Strip and what UN documents call “the West Bank of the Jordan River, including East Jerusalem,” are **undoubtedly** the territory of Israel, and not “occupied,” and not even any sort of [“disputed territory”](https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%BE%D1%80%D0%BD%D0%B0%D1%8F_%D1%82%D0%B5%D1%80%D1%80%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D1%8F) (["disputed territory"])([https://en.wikipedia.org/wiki/Territorial_dispute](https://en.wikipedia.org/wiki/Territorial_dispute))
+Applying these principles to the question of where Israel’s borders run—taking into account the operative international treaties—leads to the conclusion that both the Gaza Strip and what UN documents call “the West Bank of the Jordan River, including East Jerusalem,” are **undoubtedly** the territory of Israel, and not “occupied,” and not even any sort of ["disputed territory"](https://en.wikipedia.org/wiki/Territorial_dispute)
 
 Let us examine this question in more detail and answer: where, precisely, do Israel’s borders run, and what is it that Israel in fact “occupies.”
 
@@ -70,7 +70,7 @@ Since 1922, the territory of Palestine (including the territory of present-day J
 
 The text of the Mandate itself stated that all of this territory—including that on which the present-day Kingdom of Jordan is located—was initially placed under such administration *“in favour of the establishment in Palestine of a national home for the Jewish people.”*
 
-Then, on 16 September 1922, the [Trans-Jordan memorandum](https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D0%B8%D0%BE%D1%80%D0%B4%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B5%D0%BC%D0%BE%D1%80%D0%B0%D0%BD%D0%B4%D1%83%D0%BC) ([Trans-Jordan memorandum](https://en.wikipedia.org/wiki/Trans-Jordan_memorandum)) was adopted, excluding the territory of present-day Jordan from the areas designated for Jewish settlement. And on 25 May 1946, the Hashemite Kingdom of Transjordan established in that territory attained independence.
+Then, on 16 September 1922, the [Trans-Jordan memorandum](https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D0%B8%D0%BE%D1%80%D0%B4%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B5%D0%BC%D0%BE%D1%80%D0%B0%D0%BD%D0%B4%D1%83%D0%BC) ([Trans-Jordan memorandum](https://en.wikipedia.org/wiki/Trans-Jordan_memorandum)) was adopted, excluding the territory of present-day Jordan from the areas designated for Jewish settlement. And on 25 May 1946, the Hashemite Kingdom of Transjordan, established in that territory, attained independence.
 
 ### The UN Partition Plan and the so-called “1947 borders”
 

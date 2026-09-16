@@ -2,6 +2,7 @@
 ### This project specific ###
 .env
 dev-notes.md
+.junie/
 
 # Created by https://www.toptal.com/developers/gitignore/api/linux,windows,macos,jetbrains,kate,sublimetext,visualstudiocode,node
 # Edit at https://www.toptal.com/developers/gitignore?templates=linux,windows,macos,jetbrains,kate,sublimetext,visualstudiocode,node

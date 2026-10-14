@@ -90,7 +90,11 @@ According to available information, on April 2, 1989, the PLO's Central Council 
 
 (Tom Lansford, [Political Handbook of the World 2014](https://books.google.jo/books?id=iC_VBQAAQBAJ&pg=PA1628), p. 1628. CQ Press, March 2014.)
 
-No further appointments to the positions of president or foreign minister have been made since the deaths of Yasser Arafat and Faruq al-Qaddumi.
+Yasser Arafat was poisoned in 2004. On 23 November 2008, the Chairman of the PLO Central Council, Salem al-Zaanun (سليم الزعنون), announced that the PLO Central Council had elected Mahmoud Abbas President of the “State of Palestine” as of that date. The PLO Central Council also published the final document of the 21st session of the Central Council of 23–24 November 2008, which stated, inter alia:
+
+> The Central Council congratulates President Mahmoud Abbas on his election as President of the State of Palestine. The Central Council, which in 1989 elected the martyr President Yasser Arafat as President of the State of Palestine, recognized by more than one hundred states of the world, congratulates President Mahmoud Abbas on his election as President of the State of Palestine
+
+Qaddumi, who was appointed Minister of Foreign Affairs by the same Council in 1989, died on 22 August 2024; there is no information on the appointment of a successor to him by PLO bodies, whereas the title “Minister of Foreign Affairs of the State of Palestine” had already been taken over by ministers of the PNA government during his lifetime.
 
 ### Diplomatic Recognition
 
@@ -98,7 +102,7 @@ At the time of the proclamation of the "State of Palestine," the states of the A
 
 ### Status in the UN
 
-On November 29, 2012, the General Assembly adopted resolution [67/19](https://en.wikipedia.org/wiki/United_Nations_General_Assembly_resolution_67/19) "Status of Palestine in the United Nations" (see full text [Status of Palestine in the United Nations](https://www.un.org/unispal/document/auto-insert-186398/)), which, among other things, referenced:
+On November 29, 2012, the General Assembly adopted resolution [67/19](https://en.wikipedia.org/wiki/United_Nations_General_Assembly_resolution_67/19) "Status of Palestine in the United Nations" (see full-text [Status of Palestine in the United Nations](https://www.un.org/unispal/document/auto-insert-186398/)), which, among other things, referenced:
 
 (a)
 
@@ -143,7 +147,7 @@ It can also be noted that Oslo II envisaged self-governance "in accordance with 
 
 ### Territory
 
-The territory where the PNA exercises self-governance is defined by the Oslo Agreements. 
+The Oslo Agreements define the territory where the PNA exercises self-governance. 
 
 Jerusalem, once proclaimed by the "State of Palestine" as its capital, is not and has never been part of the territory in which the PNA operates. 
 
@@ -161,9 +165,9 @@ Corresponding recognitions and UN status pertain to the "State of Palestine" pro
 
 ## Palestine Liberation Organization (PLO)
 
-In the matter of distinguishing between the "State of Palestine" proclaimed in Algiers in 1988 and the PNA established under the Oslo Agreements, one should also mention the "linking element" between them - the Palestine Liberation Organization.
+In the matter of distinguishing between the "State of Palestine" proclaimed in Algiers in 1988 and the PNA established under the Oslo Agreements, one should also mention the "linking element" between them – the Palestine Liberation Organization.
 
-It was the PLO in 1988 in Algiers that proclaimed the "State of Palestine," and it was the PLO that later signed the Oslo agreements.
+It was the PLO in 1988 in Algiers that proclaimed the "State of Palestine" and it was the PLO that later signed the Oslo agreements.
 
 The PLO announced the commencement of its activities in 
 [the Palestinian National Covenant (Palestinian National Charter)](https://www.gov.il/en/pages/11-national-covenant-of-the-palestine-liberation-organization-28-may-1964)

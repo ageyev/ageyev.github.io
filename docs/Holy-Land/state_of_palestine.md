@@ -50,8 +50,6 @@ This page contains Arabic text. To read Arabic more comfortably on multilingual 
 
 In the declaration, only the capital of the proclaimed "State of Palestine" (Holy Jerusalem) was explicitly mentioned, but the exact boundaries of the "Palestinian land," i.e. the territory of the proclaimed state that the Palestine Liberation Organization had in mind, were not explicitly defined.
 
-i.e., the territory of the proclaimed state, were not specified by the Palestine Liberation Organization (PLO).
-
 The territory of the Mandate for Palestine issued by the League of Nations ([Mandate for Palestine](https://en.wikisource.org/wiki/Palestine_Mandate_(1922))), also included the area between the Jordan River and the eastern boundary of Palestine, where in 1946, the Hashemite Kingdom of Transjordan was established (now Jordan).
 
 However, the PLO, proclaiming itself the representative of the "Palestinian people," carefully avoided mentioning that Jordan also is Palestine.
@@ -98,7 +96,7 @@ Qaddumi, who was appointed Minister of Foreign Affairs by the same Council in 19
 
 ### Diplomatic Recognition
 
-At the time of the proclamation of the "State of Palestine," the states of the Arab League (except Egypt) and the Soviet Union did not recognize the State of Israel. Adn by the end of 1988, the "State of Palestine" was recognized by more than 80 states - predominantly Arab and Muslim countries, along with the Soviet Union and its satellites. By 1994, the "State of Palestine" had received diplomatic recognition from 95 states (see [Diplomatic recognitions](https://en.wikipedia.org/wiki/International_recognition_of_the_State_of_Palestine#Diplomatic_recognitions))
+At the time of the proclamation of the "State of Palestine," the states of the Arab League (except Egypt) and the Soviet Union did not recognize the State of Israel. And by the end of 1988, the "State of Palestine" was recognized by more than 80 states - predominantly Arab and Muslim countries, along with the Soviet Union and its satellites. By 1994, the "State of Palestine" had received diplomatic recognition from 95 states (see [Diplomatic recognitions](https://en.wikipedia.org/wiki/International_recognition_of_the_State_of_Palestine#Diplomatic_recognitions))
 
 ### Status in the UN
 
@@ -110,7 +108,7 @@ On November 29, 2012, the General Assembly adopted resolution [67/19](https://en
 
 (b)
 
-> "the Executive Committee of the Palestine Liberation Organization, in accordance with a decision by the Palestine National Council, is entrusted with the powers and responsibilities of the Provisional Government of the State of Palestine" ([A/43/928](https://www.un.org/unispal/document/auto-insert-181782/))
+> "the Executive Committee of the Palestine Liberation Organization, in accordance with a decision by the Palestine National Council, is entrusted with the powers and responsibilities of the Provisional Government" ([A/43/928](https://www.un.org/unispal/document/auto-insert-181782/))
 
 (c)
 

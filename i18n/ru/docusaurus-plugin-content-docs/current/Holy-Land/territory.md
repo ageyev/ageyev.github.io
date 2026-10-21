@@ -114,7 +114,7 @@ keywords: ["международное право", "Израиль", "гран�
 
 В 1949 году под эгидой ООН состоялись переговоры между Израилем и всеми государствами агрессорами, кроме Ирака, в результате которых были достигнуты соглашения о линиях прекращения огня ([1949 Armistice Agreements](https://en.wikipedia.org/wiki/1949_Armistice_Agreements)).
 
-Линия разделения войск после заключения перемирия получила название [Зелёной линии](https://ru.wikipedia.org/wiki/%D0%97%D0%B5%D0%BB%D1%91%D0%BD%D0%B0%D1%8F_%D0%BB%D0%B8%D0%BD%D0%B8%D1%8F_(%D0%98%D0%B7%D1%80%D0%B0%D0%B8%D0%BB%D1%8C))([Green Line](https://en.wikipedia.org/wiki/Green_Line_(Israel)))
+Линия разделения войск после заключения перемирия получила название [Зелёной линии](https://ru.wikipedia.org/wiki/%D0%97%D0%B5%D0%BB%D1%91%D0%BD%D0%B0%D1%8F_%D0%BB%D0%B8%D0%BD%D0%B8%D1%8F_(%D0%98%D0%B7%D1%80%D0%B0%D0%B8%D0%BB%D1%8C)) ([Green Line](https://en.wikipedia.org/wiki/Green_Line_(Israel)))
 
 Эту линию также иногда называют "границами до 1967 года" ("pre-1967 borders") или "границами 1967 года" ("1967 borders").
 

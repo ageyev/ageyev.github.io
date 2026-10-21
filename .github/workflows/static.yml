@@ -36,7 +36,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          # Serve this dir via GitHUb Pages <<<< 
+          # Serve this dir via GitHub Pages <<<<
           path: './build'
       - name: Deploy to GitHub Pages
         id: deployment

@@ -92,7 +92,7 @@ According to available information, on April 2, 1989, the PLO's Central Council 
 
 Yasser Arafat was poisoned in 2004. On 23 November 2008, the Chairman of the PLO Central Council, Salem al-Zaanun (سليم الزعنون), announced that the PLO Central Council had elected Mahmoud Abbas President of the “State of Palestine” as of that date. The PLO Central Council also published the final document of the 21st session of the Central Council of 23–24 November 2008, which stated, inter alia:
 
-> The Central Council congratulates President Mahmoud Abbas on his election as President of the State of Palestine. The Central Council, which in 1989 elected the martyr President Yasser Arafat as President of the State of Palestine, recognized by more than one hundred states of the world, congratulates President Mahmoud Abbas on his election as President of the State of Palestine
+> The Central Council congratulates President Mahmoud Abbas on his election as President of the State of Palestine. The Central Council, which in 1989 elected the martyred President Yasser Arafat as President of the State of Palestine, recognized by more than one hundred states of the world, congratulates President Mahmoud Abbas on his election as President of the State of Palestine
 
 Qaddumi, who was appointed Minister of Foreign Affairs by the same Council in 1989, died on 22 August 2024; there is no information on the appointment of a successor to him by PLO bodies, whereas the title “Minister of Foreign Affairs of the State of Palestine” had already been taken over by ministers of the PNA government during his lifetime.
 
@@ -180,15 +180,15 @@ The status of an "observer organization" at the UN General Assembly also violate
 
 ## Comparative Analysis of "State of Palestine" and "Palestinian National Authority"
 
-|                         | State of Palestine                      | PNA                        |
-|-------------------------|-----------------------------------------|----------------------------|
-| When Established        | 1988                                    | 1994                       |
-| Founding Document       | Palestinian Declaration of Independence | Oslo Agreements            |
-| Territory               | Claims all of Israel's territory        | Defined by Oslo II         |
-| Current Head            | None (since Arafat's death)             | Mahmoud Abbas              |
-| Foreign Minister        | None (since Qaddumi's death)            | Forbidden to have one      |
+|                           | State of Palestine                      | PNA                        |
+|---------------------------|-----------------------------------------|----------------------------|
+| When Established          | 1988                                    | 1994                       |
+| Founding Document         | Palestinian Declaration of Independence | Oslo Agreements            |
+| Territory                 | Claims all of Israel's territory        | Defined by Oslo II         |
+| Current Head              | (?) Mahmoud Abbas                       | Mahmoud Abbas              |
+| Foreign Minister          | None (since Qaddumi's death)            | Forbidden to have one      |
 | International Recognition | 146 states                              | None                       |
-| Status in the UN        | "observer State"                        | None                       |
+| Status in the UN          | "observer State"                        | None                       |
 
 ## How the PNA came to masquerade as the "State of Palestine" 
 

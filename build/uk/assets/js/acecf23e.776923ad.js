@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkageyev_github_io=self.webpackChunkageyev_github_io||[]).push([[1903],{1912:e=>{e.exports=JSON.parse('{"blogBasePath":"/uk/blog","blogTitle":"\u041c\u0456\u0436\u043d\u0430\u0440\u043e\u0434\u043d\u0435 \u043f\u0440\u0430\u0432\u043e etc.","authorsListPath":"/uk/blog/authors"}')}}]);
